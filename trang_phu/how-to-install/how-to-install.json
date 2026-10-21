@@ -1,0 +1,86 @@
+{
+    "seo": {
+        "title": "How to Use TranscriptX | AI Transcription Guide",
+        "meta_description": "Learn how to use TranscriptX to transcribe video and audio with AI. Upload your media, generate accurate transcripts, create subtitles and captions, summarize content, and export results in just a few simple steps."
+    },
+    "headings": {
+        "h1": "How to Use TranscriptX"
+    },
+    "hero": {
+        "title": "Turn Video and Audio into Text in Minutes",
+        "description": "TranscriptX makes AI transcription simple. Upload your media, generate accurate transcripts, create subtitles, and summarize content without installing any software."
+    },
+    "sections": {
+        "1": {
+            "tag": "p",
+            "content": [
+                "TranscriptX is an AI-powered transcription platform designed to help you convert video and audio into accurate, editable text quickly and easily.",
+                "Whether you're transcribing meetings, interviews, podcasts, lectures, webinars, or social media videos, TranscriptX provides everything you need to generate transcripts, subtitles, captions, and AI summaries in one place.",
+                "Getting started only takes a few minutes, and everything works directly from your web browser."
+            ]
+        },
+        "2": {
+            "tag": "h2",
+            "title": "Step 1: Upload Your Video or Audio",
+            "body": [
+                "Start by uploading your audio or video file or using one of TranscriptX's supported online transcription tools.",
+                "Whether you're working with a local recording or supported content from platforms such as YouTube, TikTok, Instagram, or Facebook, TranscriptX prepares your media for AI transcription automatically.",
+                "Once your media is uploaded, the transcription process begins within seconds."
+            ]
+        },
+        "3": {
+            "tag": "h2",
+            "title": "Step 2: Generate an AI Transcript",
+            "body": [
+                "TranscriptX uses advanced AI speech recognition to convert spoken content into accurate, searchable text.",
+                "The platform automatically identifies spoken words and generates a structured transcript that is easy to read and edit.",
+                "Processing time depends on the length and quality of your recording, but most transcripts are generated quickly."
+            ]
+        },
+        "4": {
+            "tag": "h2",
+            "title": "Step 3: Review and Edit the Transcript",
+            "body": [
+                "After the transcript is generated, review the content to ensure it matches your expectations.",
+                "You can edit names, punctuation, formatting, or any words that require adjustment before using the transcript elsewhere.",
+                "This review step helps you achieve the highest possible accuracy for professional, academic, or business use."
+            ]
+        },
+        "5": {
+            "tag": "h2",
+            "title": "Step 4: Create Subtitles, Captions, or AI Summaries",
+            "body": [
+                "TranscriptX goes beyond basic transcription.",
+                "You can generate subtitles and captions for videos, create concise AI summaries of long recordings, and prepare spoken content for publishing, accessibility, research, or content repurposing.",
+                "These tools help you save time while making your content easier to understand and share."
+            ]
+        },
+        "6": {
+            "tag": "h2",
+            "title": "Step 5: Copy, Download, or Reuse Your Content",
+            "body": [
+                "Once you're satisfied with the results, you can copy your transcript, download it, or continue working with it using TranscriptX's AI tools.",
+                "Transcripts can be used for documentation, meeting notes, blog articles, subtitles, social media content, research, training materials, and many other workflows.",
+                "Your transcript becomes searchable, editable, and much easier to reuse than the original recording."
+            ]
+        },
+        "7": {
+            "tag": "h2",
+            "title": "More Than AI Transcription",
+            "body": [
+                "TranscriptX combines multiple AI-powered tools into one platform.",
+                "In addition to AI Transcription, you can use Video to Text, Audio to Text, YouTube Transcript, TikTok Transcript, Instagram Transcript, Facebook Transcript, Subtitle & Caption tools, and AI Summarization without switching between different services.",
+                "This unified workflow helps creators, students, professionals, researchers, and businesses work more efficiently with spoken content."
+            ]
+        },
+        "8": {
+            "tag": "h2",
+            "title": "Works Anywhere, Anytime",
+            "body": [
+                "TranscriptX works entirely online and requires no software installation.",
+                "Simply open the platform in your browser, upload your media, and let AI handle the transcription process.",
+                "Whether you're using Windows, macOS, Linux, Android, or iOS, TranscriptX is available whenever you need fast and reliable AI transcription."
+            ]
+        }
+    }
+}

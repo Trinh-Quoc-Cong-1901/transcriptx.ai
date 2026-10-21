@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Suara ke Teks — Tukar Suara & Rakaman kepada Teks Percuma | TranscriptX",
+        "description": "Tukar suara kepada teks dalam talian secara percuma. Rakam terus dalam pelayar atau muat naik rakaman suara, dan dapatkan teks tepat dalam 100+ bahasa. Eksport TXT, DOCX, PDF. Tanpa pendaftaran.",
+        "schemaName": "Penukar Suara ke Teks TranscriptX",
+        "schemaDescription": "Alat suara ke teks dalam talian percuma yang menjadikan perkataan yang dituturkan dan rakaman suara sebagai teks bertulis dalam lebih 100 bahasa, dengan label penutur dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Rakam terus dalam pelayar atau muat naik rakaman, tanpa perlu akaun.",
+        "ogTitle": "Suara ke Teks — Tukar Suara & Rakaman kepada Teks Percuma | TranscriptX",
+        "ogDescription": "Jadikan suara anda sebagai teks. Rakam dalam pelayar atau muat naik rakaman suara dan dapatkan teks tepat dalam 100+ bahasa, percuma dan tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Suara ke Teks",
+        "subtitle": "Jadikan perkataan yang dituturkan sebagai teks bertulis. Rakam terus dalam pelayar atau muat naik rakaman suara, dan TranscriptX akan menulisnya dalam lebih 100 bahasa, dengan penutur dilabel. Berimlak untuk sesuatu nota, buat transkrip memo, atau tukar perbualan yang dirakam — kemudian eksport ke TXT, DOCX, PDF, SRT atau VTT. Tanpa akaun, tiada apa-apa untuk dipasang.",
+        "placeholder": "Rakam suara anda atau muat naik rakaman...",
+        "button": "Tukar Suara kepada Teks"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara saya tukar suara kepada teks?",
+        "answer": "Rakam suara anda terus dalam TranscriptX atau muat naik rakaman suara, dan ia akan menjadikan perkataan yang dituturkan itu sebagai teks bertulis dalam beberapa saat, dalam lebih 100 bahasa. Selepas itu anda boleh membaca, menyunting, menyalin atau mengeksport teks tersebut. Tiada pendaftaran diperlukan dan tiada apa-apa yang perlu dipasang."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Suara ke Teks?",
+            "content": [
+                "Suara ke teks menjadikan perkataan yang dituturkan sebagai perkataan bertulis. Anda bercakap — atau memainkan semula rakaman seseorang yang bercakap — dan daripada menaip, anda mendapat perkataan itu sebagai teks yang boleh anda baca, sunting dan simpan. Ia idea yang sama seperti fungsi imlak pada telefon anda, tetapi ia berfungsi pada rakaman penuh, dalam pelayar, tanpa had panjang dan tanpa akaun.",
+                "Yang membezakannya daripada bekerja dengan sesuatu fail audio ialah titik permulaannya. Suara ke teks dibina sekitar perkataan yang dituturkan sebaik ia berlaku atau sebaik anda menangkapnya: memo suara yang diimlakkan sambil berjalan, mesyuarat yang anda rakam pada telefon, idea yang anda luahkan dengan bercakap kerana bercakap lebih pantas daripada menaip. Inputnya ialah suara anda atau sesuatu rakaman suara, bukan fail media yang anda muat turun.",
+                "Nilainya ialah bercakap lebih pantas daripada menaip, tetapi teks lebih berguna daripada audio. Suara ke teks berada di antara kedua-duanya — anda mendapat kepantasan bercakap serta bentuk tulisan yang boleh dicari, disunting dan dikongsi, tanpa perlu membuat transkrip itu sendiri.",
+                "TranscriptX melakukannya secara percuma, terus dalam pelayar, sama ada anda merakam pada waktu itu juga atau memuat naik rakaman yang anda sudah ada."
+            ]
+        },
+        {
+            "h2": "Suara ke Teks Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Input",
+                    "value": "Rakam secara langsung dalam pelayar atau muat naik rakaman suara"
+                },
+                {
+                    "label": "Had panjang rakaman",
+                    "value": "Tiada"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Pengasingan penutur",
+                    "value": "Ya — setiap penutur dilabel"
+                },
+                {
+                    "label": "Cap masa",
+                    "value": "Pilihan — buka atau tutup bagi setiap transkrip"
+                },
+                {
+                    "label": "Format eksport",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan mudah alih"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Tukar Suara kepada Teks",
+            "steps": [
+                {
+                    "h3": "Rakam atau muat naik",
+                    "content": "Tekan rakam dan bercakap terus ke dalam pelayar, atau muat naik rakaman suara yang anda buat lebih awal pada telefon atau perakam anda. Tiada had berapa lama anda bercakap."
+                },
+                {
+                    "h3": "Alat ini mendengar dan menulisnya",
+                    "content": "TranscriptX mengesan bahasa yang dituturkan dengan sendirinya merentasi lebih 100 bahasa, dan menukar pertuturan itu menjadi teks bertanda baca, sambil melabel setiap penutur apabila ada lebih daripada seorang."
+                },
+                {
+                    "h3": "Baca dan sunting teks",
+                    "content": "Perkataan itu muncul sebagai teks yang boleh anda kemaskan pada waktu itu juga — buang permulaan yang tersasar, betulkan sesuatu nama, atau rapikan ayat yang meleret menjadi ayat yang jelas."
+                },
+                {
+                    "h3": "Salin atau eksport",
+                    "content": "Salin teks itu ke dalam nota, dokumen atau mesej, atau eksportkannya sebagai TXT, DOCX, PDF, SRT atau VTT untuk disimpan atau dikongsi."
+                }
+            ]
+        },
+        {
+            "h2": "Rakam Terus atau Muat Naik Rakaman",
+            "content": [
+                "Suara ke teks berfungsi dengan dua cara, dan kedua-duanya bermula dengan suara anda dan bukan dengan fail yang dimuat turun.",
+                "Rakam secara langsung apabila perkataan itu belum wujud lagi. Buka alat ini, mula merakam, dan bercakaplah — sesuatu idea yang anda mahu tercatat, nota untuk diri sendiri, draf yang anda lebih rela tuturkan daripada taip. Sebaik sahaja anda berhenti, pertuturan itu menjadi teks yang boleh anda sunting dan simpan. Inilah jalan pantas apabila anda berfikir dengan bersuara dan mahu buah fikiran itu ditangkap tanpa perlu mencapai papan kekunci.",
+                "Muat naik sesuatu rakaman apabila suara itu sudah pun ditangkap. Memo suara daripada telefon anda, nota audio daripada aplikasi pemesejan, perbualan yang anda rakam lebih awal — muat naikkannya dan TranscriptX akan membuat transkrip keseluruhannya. Apa cara sekalipun, tiada had pada panjangnya, jadi peringatan sepuluh saat dan perbincangan yang dirakam selama sejam dikendalikan dengan cara yang sama."
+            ]
+        },
+        {
+            "h2": "Buat Transkrip Rakaman Suara",
+            "content": [
+                "Sesuatu rakaman suara menyimpan segala yang diperkatakan, tetapi dalam bentuk yang tidak boleh anda cari, petik atau sunting. Membuat transkripnya menjadikan rakaman suara itu teks — rakaman suara kepada transkrip dalam satu langkah, teks yang benar-benar boleh anda gunakan.",
+                "Transkrip rakaman suara paling berguna apabila rakaman itu membawa maklumat yang anda perlukan kemudian. Temu bual yang dirakam menjadi teks yang boleh dipetik dengan setiap penutur dilabel. Mesyuarat yang dirakam menjadi rekod bertulis tentang apa yang dipersetujui. Kuliah yang dirakam menjadi nota yang boleh anda cari mengikut istilah. Sama ada anda menamakan hasilnya sebagai transkrip bagi audio rakaman suara itu atau sekadar perkataan di atas halaman, itulah yang membolehkan anda menggunakan kandungan tersebut dan bukan sekadar menyimpan audionya.",
+                "TranscriptX membuat transkrip sesuatu rakaman suara sama ada ia melibatkan seorang atau beberapa orang. Apabila ada lebih daripada satu suara, setiap penutur dilabel, jadi perbualan yang dirakam terbaca sebagai pertukaran kata dan bukan sebagai satu aliran perkataan tunggal."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Jadikan Teks",
+            "intro": [
+                "Di mana sahaja suara anda membawa sesuatu yang berbaloi disimpan, suara ke teks menjadikannya rekod yang boleh digunakan. Antara kegunaan yang paling biasa:"
+            ],
+            "items": [
+                {
+                    "h3": "Memo dan nota suara",
+                    "content": "Tangkap sesuatu idea, peringatan atau draf dengan menuturkannya, dan dapatkan teks yang boleh disunting dan bukan rakaman yang terpaksa anda mainkan semula untuk mengingati apa yang anda katakan."
+                },
+                {
+                    "h3": "Mesyuarat dan panggilan",
+                    "content": "Rakam sesuatu mesyuarat pada telefon anda dan jadikannya minit bertulis, dengan setiap orang dilabel, supaya keputusan dan tindakan susulan berada di atas halaman dan bukan dalam ingatan seseorang."
+                },
+                {
+                    "h3": "Temu bual",
+                    "content": "Buat transkrip temu bual yang dirakam menjadi teks yang boleh dipetik, dengan penutur diasingkan, supaya anda boleh mengambil kata-kata yang tepat dan bukan memparafrasa daripada ingatan."
+                },
+                {
+                    "h3": "Berimlak untuk dokumen",
+                    "content": "Tuturkan draf pertama sesuatu e-mel, laporan atau artikel dan biarkan suara ke teks menulisnya, kemudian rapikan teks itu dan bukan menaip setiap perkataan dari kosong."
+                },
+                {
+                    "h3": "Kuliah dan pembelajaran",
+                    "content": "Rakam sesuatu kelas atau sesi ulang kaji dan tukarkannya kepada teks yang boleh anda cari, tanda dan ulang kaji kemudian."
+                },
+                {
+                    "h3": "Kebolehcapaian dan penggunaan bebas tangan",
+                    "content": "Bagi sesiapa yang mendapati menaip itu lambat atau sukar, bercakap dan mendapat teks yang kemas sebagai balasan ialah cara menulis yang lebih pantas dan lebih selesa."
+                }
+            ]
+        },
+        {
+            "h2": "Suara ke Teks untuk Imlak",
+            "content": [
+                "Kebanyakan orang bercakap jauh lebih pantas daripada mereka menaip, dan itulah sebabnya imlak begitu sesuai dengan suara ke teks. Apabila draf pertama sudah ada di kepala anda, menuturkannya dan mendapatkan teks sebagai balasan lebih pantas daripada membinanya perkataan demi perkataan pada papan kekunci.",
+                "Cabaran dengan imlak ialah bahasa pertuturan lebih longgar daripada bahasa tulisan — ada permulaan yang tersasar, perkataan pengisi dan ayat yang meleret. Oleh sebab suara ke teks menyerahkan kepada anda teks yang boleh disunting dan bukan dokumen yang siap, hal itu mudah dibetulkan: dapatkan perkataan mentahnya pada kelajuan pertuturan, kemudian luangkan seminit untuk mengetatkannya. Bahagian yang sukar, iaitu bergerak daripada halaman kosong kepada draf penuh, sudah pun selesai.",
+                "Ia berfungsi untuk apa sahaja yang anda akan taip: e-mel, nota, rangka, catatan jurnal, atau bentuk kasar sesuatu artikel yang akan anda sunting selepas itu. Bagi ramai orang, menaip guna suara memang begitulah rupanya dalam amalan."
+            ]
+        },
+        {
+            "h2": "Ketepatan dan Bahasa",
+            "content": [
+                "Sejauh mana teks itu menepati apa yang anda katakan bergantung pada rakaman. Bercakap dengan jelas pada rentak yang stabil, dekat dengan mikrofon dan jauh daripada bunyi latar memberikan hasil paling bersih — dan oleh sebab banyak penggunaan suara ke teks melibatkan rakaman suara anda sendiri, hal itu selalunya dalam kawalan anda.",
+                "Ketepatan menurun apabila persekitaran bising, orang bercakap bertindih, atau pertuturan yang sangat pantas dan tidak jelas. Bahagian tersebut berbaloi disemak dengan cepat, tetapi bagi nota suara yang jelas atau perbualan yang dirakam dengan baik, teksnya kembali hampir perkataan demi perkataan.",
+                "TranscriptX mengenali pertuturan dalam lebih 100 bahasa dan mengesan sendiri bahasa yang anda tuturkan, jadi anda boleh berimlak atau membuat transkrip dalam bahasa anda sendiri — termasuk bahasa Melayu — tanpa perlu menukar apa-apa tetapan terlebih dahulu."
+            ]
+        },
+        {
+            "h2": "Suara ke Teks atau Audio ke Teks?",
+            "intro": [
+                "Kedua-duanya menjadikan pertuturan sebagai teks, tetapi ia dibentuk sekitar titik permulaan yang berbeza. Pilih mengikut dari mana perkataan anda datang."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih suara ke teks untuk perkataan yang anda tuturkan sendiri",
+                    "content": "Apabila anda mahu merakam suara anda secara langsung, berimlak untuk sesuatu draf, atau membuat transkrip memo suara atau rakaman yang anda buat sendiri, inilah alat yang dibina untuknya — termasuk merakam terus dalam pelayar."
+                },
+                {
+                    "h3": "Pilih audio ke teks untuk fail audio yang sedia ada",
+                    "content": "Apabila anda sudah pun ada fail audio — podcast, temu bual yang dimuat turun, MP3 sesuatu mesyuarat — alat [Audio ke Teks](/ms/audio-to-text) dibentuk sekitar memuat naik dan membuat transkrip fail media. Dan jika rakaman anda sebenarnya audio bagi sesuatu video, alat [Transkrip YouTube](/ms/youtube-transcript) mengendalikan sumber itu secara terus."
+                }
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana saya boleh tukar suara kepada teks secara percuma?",
+                    "a": "Rakam suara anda dalam TranscriptX atau muat naik sesuatu rakaman suara, dan ia akan menukar pertuturan itu kepada teks tanpa sebarang kos. Tiada akaun untuk dibuka, tiada apa-apa untuk dipasang dan tiada had pada panjang rakaman."
+                },
+                {
+                    "q": "Bolehkah saya merakam terus dalam alat ini?",
+                    "a": "Boleh. Anda boleh merakam secara langsung dalam pelayar dan mendapatkan teksnya apabila anda berhenti, atau muat naik rakaman yang anda buat lebih awal. Kedua-duanya berfungsi dengan cara yang sama."
+                },
+                {
+                    "q": "Bolehkah saya buat transkrip rakaman suara yang sudah saya ada?",
+                    "a": "Boleh. Muat naik rakaman itu — memo suara, nota audio, perbualan yang dirakam — dan TranscriptX akan membuat transkrip keseluruhannya menjadi teks, dengan penutur dilabel apabila ada lebih daripada seorang. Anda boleh tukar rakaman kepada teks pada apa-apa panjang dengan cara ini."
+                },
+                {
+                    "q": "Adakah suara ke teks sesuai untuk imlak?",
+                    "a": "Ya. Bercakap lebih pantas daripada menaip, jadi imlak ialah antara kegunaan yang paling popular. Anda mendapat teks yang boleh disunting sebagai balasan, dan itu memudahkan anda menuturkan draf kasar kemudian merapikannya dan bukan menaip dari kosong."
+                },
+                {
+                    "q": "Bahasa apa yang disokong?",
+                    "a": "Lebih 100. Bahasa yang dituturkan dikesan secara automatik, jadi anda boleh berimlak atau membuat transkrip dalam bahasa anda sendiri tanpa perlu memilihnya dahulu."
+                },
+                {
+                    "q": "Bolehkah ia mengasingkan penutur yang berlainan?",
+                    "a": "Boleh. Apabila sesuatu rakaman mempunyai lebih daripada satu suara, setiap penutur dilabel, jadi perbualan atau mesyuarat yang dirakam terbaca sebagai pertukaran kata yang jelas."
+                },
+                {
+                    "q": "Adakah had pada berapa lama saya boleh merakam?",
+                    "a": "Tiada. Nota suara pendek dan sesi panjang yang dirakam kedua-duanya berfungsi; rakaman yang lebih panjang cuma mengambil sedikit masa tambahan untuk diproses."
+                },
+                {
+                    "q": "Perlukah saya memasang aplikasi?",
+                    "a": "Tidak. Suara ke teks berjalan dalam pelayar pada desktop atau mudah alih, tanpa perlu aplikasi, pemalam atau akaun. Ia sepenuhnya suara ke teks online."
+                },
+                {
+                    "q": "Sejauh mana tepatnya suara ke teks?",
+                    "a": "Kebanyakannya bergantung pada rakaman itu. Pertuturan yang jelas, dekat dengan mikrofon dan jauh daripada bunyi, kembali hampir perkataan demi perkataan, manakala pertuturan yang bising atau bertindih berbaloi disemak dengan cepat sebelum anda bergantung padanya."
+                },
+                {
+                    "q": "Apakah perbezaan antara suara ke teks dan audio ke teks?",
+                    "a": "Suara ke teks dibina untuk perkataan dituturkan yang anda tangkap sendiri — merakam secara langsung atau membuat transkrip sesuatu memo suara. Audio ke teks pula dibina untuk fail audio yang sedia ada seperti podcast dan MP3. Jika anda ada fail media dan bukan rakaman suara, gunakan alat Audio ke Teks."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tukar Suara Anda kepada Teks Secara Percuma",
+        "content": [
+            "Rakam terus dalam pelayar atau muat naik sesuatu rakaman suara, dan TranscriptX akan menjadikan perkataan yang anda tuturkan sebagai teks dalam lebih 100 bahasa, dengan penutur dilabel dan cap masa sebagai pilihan.",
+            "Berimlak untuk sesuatu draf, buat transkrip sesuatu memo, atau tulis semula perbualan yang dirakam — kemudian baca, sunting, salin atau eksportkannya sebagai TXT, DOCX, PDF, SRT atau VTT. Tanpa akaun, tanpa pemasangan, tanpa kos."
+        ]
+    }
+}

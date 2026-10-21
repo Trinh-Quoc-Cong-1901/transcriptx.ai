@@ -1,0 +1,273 @@
+{
+    "seo": {
+        "title": "Kostenlose KI-Transkription für Video & Audio Online | TranscriptX",
+        "description": "Kostenlose KI-Transkription in über 100 Sprachen. Wandeln Sie Video, Audio, YouTube und TikTok mit Sprechererkennung in Text um. Export als TXT, SRT, VTT, DOCX oder PDF. Keine Anmeldung erforderlich.",
+        "schemaName": "Kostenloses KI-Transkriptionstool von TranscriptX",
+        "schemaDescription": "TranscriptX ist ein kostenloses Online-KI-Transkriptionstool, das Video- und Audiodateien in über 100 Sprachen in Text umwandelt. Mit Sprechertrennung, optionalen Zeitstempeln und Export in TXT-, SRT-, VTT-, DOCX- und PDF-Formate. Kein Konto erforderlich.",
+        "ogTitle": "Kostenlose KI-Transkription für Video & Audio Online | TranscriptX",
+        "ogDescription": "Wandeln Sie Video und Audio mit kostenloser KI-Transkription in Text um. Über 100 Sprachen, Sprechererkennung, SRT- und VTT-Export ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "KI-Transkription für Video und Audio",
+        "subtitle": "Wandeln Sie Video-, Audio- und Sprachaufnahmen in über 100 Sprachen in Text um. Mit Sprecherkennzeichnung, optionalen Zeitstempeln und Export als TXT, SRT, VTT, DOCX oder PDF. Kein Konto, keine Dateigrößenbegrenzung.",
+        "placeholder": "Datei hochladen oder Videolink einfügen...",
+        "button": "Transkript erstellen"
+    },
+    "quickAnswer": {
+        "question": "Was ist TranscriptX?",
+        "answer": "TranscriptX ist ein kostenloses KI-Transkriptionstool, das Video und Audio in über 100 Sprachen in Text umwandelt. Es erkennt und kennzeichnet einzelne Sprecher, fügt bei Bedarf Zeitstempel hinzu und exportiert Ergebnisse als TXT, DOCX, PDF, SRT oder VTT. Es ist keine Anmeldung erforderlich und es gibt keine Begrenzung der Dateigröße."
+    },
+    "sections": [
+        {
+            "h2": "Was ist KI-Transkription?",
+            "content": [
+                "KI-Transkription wandelt gesprochene Sprache aus einer Video- oder Audioaufnahme in geschriebenen Text um. Sie laden einfach die Datei hoch, und die KI schreibt automatisch auf, was gesagt wurde, anstatt dass Sie alles manuell eingeben müssen.",
+                "Der eigentliche Wert liegt darin, was der Text ermöglicht. Ein einstündiges Interview ist schwer zu durchsuchen, zu zitieren oder zusammenzufassen, solange die Worte nur in einer Audiodatei gespeichert sind. Als Transkript wird dieselbe Stunde zu Text, den Sie in Sekunden überfliegen, genaue Zitate daraus entnehmen, übersetzen, in Untertitel umwandeln oder zur Analyse an ChatGPT, Gemini oder Claude weitergeben können.",
+                "TranscriptX führt diese Umwandlung kostenlos direkt im Browser durch, ohne dass ein Konto erforderlich ist."
+            ]
+        },
+        {
+            "h2": "TranscriptX auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine — funktioniert direkt im Browser"
+                },
+                {
+                    "label": "Dateigrößenlimit",
+                    "value": "Keines"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+ — automatische Erkennung"
+                },
+                {
+                    "label": "Sprechertrennung",
+                    "value": "Ja — jeder Sprecher wird gekennzeichnet"
+                },
+                {
+                    "label": "Zeitstempel",
+                    "value": "Optional — pro Transkript ein- oder ausschaltbar"
+                },
+                {
+                    "label": "Exportformate",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Unterstützte Quellen",
+                    "value": "Videodateien, Audiodateien, Sprachaufnahmen, öffentliche YouTube-Links, öffentliche TikTok-Links"
+                }
+            ]
+        },
+        {
+            "h2": "Was können Sie transkribieren?",
+            "intro": [
+                "TranscriptX verarbeitet jede Aufnahme mit Sprache in über 100 Sprachen, ohne Begrenzung der Dateigröße."
+            ],
+            "items": [
+                {
+                    "h3": "Videodateien",
+                    "content": "Tutorials, Präsentationen, Webinare, Kurse und aufgezeichnete Gespräche werden zu lesbarem Text, den Sie durchsuchen und wiederverwenden können."
+                },
+                {
+                    "h3": "Audiodateien",
+                    "content": "Podcasts, MP3-Dateien, aufgezeichnete Gespräche und Vorträge werden in eine schriftliche Version umgewandelt, die einfacher zu archivieren und erneut zu verwenden ist."
+                },
+                {
+                    "h3": "Sprachaufnahmen",
+                    "content": "Sprachnachrichten und gesprochene Notizen werden zu bearbeitbarem Text — ideal, wenn Sprechen schneller ist als Tippen, die Idee aber schriftlich festgehalten werden soll."
+                },
+                {
+                    "h3": "Meetings",
+                    "content": "Die Sprechertrennung zeigt, wer was gesagt hat, sodass ein Meeting mit vier Personen zu einer echten Aufzeichnung von Entscheidungen und Aufgaben wird und nicht nur zu einem einzigen Textblock."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Sprecherkennzeichnung und Zeitstempel helfen Journalisten und Forschern, Zitate schnell zu finden, zur entsprechenden Stelle im Audio zurückzuspringen und diese mit der Originalquelle zu überprüfen."
+                },
+                {
+                    "h3": "Vorlesungen und Kurse",
+                    "content": "Verwandeln Sie Lektionen in schriftliche Lernmaterialien, die nach Begriffen durchsucht, überprüft und zu Notizen zusammengefasst werden können."
+                },
+                {
+                    "h3": "Podcasts",
+                    "content": "Aus einer einzigen Episode entstehen Shownotizen, ein Newsletter, ein Artikel und Inhalte für soziale Medien — alles aus einem einzigen Transkript."
+                },
+                {
+                    "h3": "YouTube- und TikTok-Videos",
+                    "content": "Fügen Sie einen öffentlichen Videolink ein und erhalten Sie den gesprochenen Inhalt als Text für Recherche, Lernen, Zitate oder die Wiederverwendung von Inhalten."
+                }
+            ]
+        },
+        {
+            "h2": "Wie funktioniert KI-Transkription?",
+            "steps": [
+                {
+                    "h3": "Datei hochladen oder Link einfügen",
+                    "content": "Laden Sie eine Video-, Audio- oder Sprachaufnahmedatei hoch oder fügen Sie einen öffentlichen YouTube- oder TikTok-Link ein. Es gibt keine Dateigrößenbegrenzung und Sie müssen kein Konto erstellen."
+                },
+                {
+                    "h3": "Die KI wandelt Sprache in Text um",
+                    "content": "TranscriptX erkennt automatisch die gesprochene Sprache in über 100 Sprachen, trennt Sprache von Hintergrundgeräuschen und erkennt einzelne Sprecher, während der Inhalt mit Satzzeichen und Absatztrennungen als Text ausgegeben wird."
+                },
+                {
+                    "h3": "Transkript überprüfen",
+                    "content": "Lesen Sie das Transkript durch und korrigieren Sie Stellen, die durch die Audioqualität schwer verständlich waren. Namen, Zahlen und technische Begriffe sollten vor der Veröffentlichung oder Verwendung als Zitat überprüft werden."
+                },
+                {
+                    "h3": "Als TXT, DOCX, PDF, SRT oder VTT exportieren",
+                    "content": "Kopieren Sie den Text direkt oder laden Sie das Format herunter, das zu Ihrem nächsten Schritt passt — aktivieren Sie Zeitstempel vor dem Export, wenn Sie diese für Untertitel oder die Überprüfung von Zitaten benötigen."
+                }
+            ]
+        },
+        {
+            "h2": "KI-Generator für Untertitel und Captions",
+            "content": [
+                "Captions und Untertitel sind Transkripte mit hinzugefügten Zeitangaben. Da TranscriptX für jede Zeile einen Zeitstempel speichert, erhalten Sie mit demselben Vorgang sowohl ein lesbares Transkript als auch eine Untertiteldatei.",
+                "Aktivieren Sie Zeitstempel und exportieren Sie als SRT oder VTT. Beide Formate können direkt auf YouTube, Vimeo, Instagram, TikTok und Standard-Webvideoplayer hochgeladen werden. So können Sie aus einer Rohaufnahme ein Video mit Untertiteln erstellen, ohne ein zusätzliches Untertitelprogramm zu benötigen.",
+                "Da der Export eine einfache Textdatei ist, können Sie vor der Veröffentlichung Namen oder Fachbegriffe korrigieren — oder die Zeilen übersetzen, um dasselbe Video für ein internationales Publikum bereitzustellen."
+            ]
+        },
+        {
+            "h2": "Transkript, Captions und Untertitel: Was ist der Unterschied?",
+            "intro": [
+                "Alle drei wandeln Sprache in Text um, sind aber für unterschiedliche Zwecke gedacht."
+            ],
+            "items": [
+                {
+                    "h3": "Ein Transkript ist eine schriftliche Aufzeichnung zum eigenständigen Lesen",
+                    "content": "Es enthält alles Gesagte als Text, den Sie unabhängig vom Video lesen, statt ihn während der Wiedergabe eingeblendet zu sehen. Verwenden Sie ein Transkript, wenn der Inhalt selbst im Mittelpunkt steht — zum Durchsuchen von Informationen, Finden genauer Zitate, Lernen oder Analysieren von Gesprächen. Exportieren Sie es als TXT, DOCX oder PDF."
+                },
+                {
+                    "h3": "Captions sind zeitlich synchronisierte Texte für Zuschauer ohne Audiozugang",
+                    "content": "Captions sind mit der Videowiedergabe synchronisiert, sodass jede Zeile genau beim gesprochenen Moment erscheint. Nutzen Sie Captions, wenn Barrierefreiheit wichtig ist oder wenn Videos automatisch stumm abgespielt werden und der Text die Botschaft vermitteln muss. Aktivieren Sie Zeitstempel und exportieren Sie SRT oder VTT."
+                },
+                {
+                    "h3": "Untertitel sind zeitlich abgestimmte Dialoge, meist übersetzt",
+                    "content": "Untertitel erscheinen ebenfalls während der Wiedergabe, dienen aber hauptsächlich der Sprachübersetzung: Sie zeigen Zuschauern, die die Sprache des Sprechers nicht verstehen, was gesagt wurde. Verwenden Sie Untertitel für internationale Zielgruppen. Exportieren Sie SRT oder VTT und übersetzen Sie die Zeilen vor der Veröffentlichung."
+                }
+            ]
+        },
+        {
+            "h2": "Exportieren Sie Ihr Transkript in fünf Formaten",
+            "content": [
+                "Jedes Transkript kann in fünf Formaten exportiert werden. Welches Format am besten geeignet ist, hängt davon ab, was Sie als Nächstes mit dem Text machen möchten.",
+                "TXT ist reiner Text ohne Formatierung — ideal zum Lesen, Durchsuchen oder Einfügen in ChatGPT, Gemini oder Claude. DOCX lässt sich in Word, Google Docs und Pages öffnen, wenn Sie das Transkript bearbeiten oder als Arbeitsdokument formatieren möchten. PDF bietet eine feste Darstellung, die für jeden gleich aussieht und sich eignet, wenn Sie ein unveränderbares Dokument teilen oder drucken möchten.",
+                "Die beiden anderen Formate enthalten Zeitinformationen. SRT ist das von fast allen Plattformen unterstützte Untertitelformat. Aktivieren Sie Zeitstempel und exportieren Sie SRT, um Videos auf YouTube, Instagram oder TikTok mit Untertiteln zu versehen. VTT erfüllt dieselbe Aufgabe für HTML5-Videos im Browser.",
+                "Wenn Sie unsicher sind, beginnen Sie mit TXT. Es lässt sich am einfachsten in andere Tools übertragen, und Sie können den Export jederzeit erneut in einem anderen Format durchführen."
+            ]
+        },
+        {
+            "h2": "Videos von jeder Plattform transkribieren",
+            "content": [
+                "Sie müssen ein Video nicht herunterladen, um es zu transkribieren. Fügen Sie einen öffentlichen Link von jeder großen Plattform ein, und TranscriptX liest den Ton direkt aus dem Video aus. Anschließend erhalten Sie den gesprochenen Inhalt als Text, den Sie durchsuchen, zitieren und wiederverwenden können."
+            ],
+            "items": [
+                {
+                    "h3": "Eine Transkription aus einem YouTube-Video erhalten",
+                    "content": "Kopieren Sie die URL eines beliebigen öffentlichen YouTube-Videos und fügen Sie sie in TranscriptX ein. Eine zweistündige Vorlesung, ein Interview oder ein Tutorial wird in über 100 Sprachen als Text ausgegeben, wobei jeder Sprecher gekennzeichnet wird. So finden Sie die gewünschte Information, ohne die gesamte Zeitleiste durchsuchen zu müssen. Forscher nutzen diese Funktion, um Quellen präzise zu zitieren, Studenten verwandeln Vorlesungen in Lernnotizen und Autoren erstellen Artikel aus Videos, die ein Thema bereits ausführlich erklärt haben. Wenn YouTube den größten Teil Ihrer Arbeit ausmacht, wurde das Tool [YouTube Transcript](/youtube-transcript) genau für diese Aufgabe entwickelt."
+                },
+                {
+                    "h3": "Eine Transkription aus einem TikTok-Video erhalten",
+                    "content": "Fügen Sie einen öffentlichen TikTok-Link ein und erhalten Sie die gesprochenen Worte als Text, bevor das Video aus Ihrem Feed verschwindet. Kurzvideos bewegen sich schnell, und der wertvollste Teil ist oft nur eine einzelne Zeile — der Einstieg, der Ihre Aufmerksamkeit geweckt hat, die Aussage in einer Produktbewertung oder der Schritt, den jemand in neun Sekunden erklärt hat. Als Text können Sie den Inhalt speichern, analysieren, warum er funktioniert hat, und Ihre eigene Version erstellen, ohne sich alles merken zu müssen. Das Tool [TikTok Transcript](/tiktok-transcript) wurde speziell für Kurzvideos entwickelt."
+                },
+                {
+                    "h3": "Ein Facebook-Video transkribieren",
+                    "content": "Facebook verbirgt seine nützlichsten Videos an schwer zugänglichen Stellen — gespeicherte Live-Übertragungen, in Gruppen versteckte Clips, aufgezeichnete Veranstaltungen, die eine Stunde dauern. Fügen Sie den Link ein, und das Tool [Facebook Transcript](/facebook-transcript) verwandelt jeden öffentlichen Beitrag, jedes Reel oder jede gespeicherte Live-Übertragung in lesbaren Text, wobei jeder Sprecher gekennzeichnet wird. So wird aus einer langen Übertragung etwas, das Sie in Minuten lesen und nach der wichtigen Stelle durchsuchen können."
+                },
+                {
+                    "h3": "Ein Instagram-Reel transkribieren",
+                    "content": "Ein Reel ist dafür gemacht, einmal angesehen und weggewischt zu werden, doch der Wert liegt oft in einer einzigen Zeile, die es zu behalten lohnt. Das Tool [Instagram Transcript](/instagram-transcript) holt die gesprochenen Worte aus jedem öffentlichen Reel oder Video als Text heraus, den Sie kopieren, studieren oder zu Ihren eigenen Inhalten umformen können — der Einstieg, der Tipp, das Skript, das den Erfolg gebracht hat."
+                }
+            ]
+        },
+        {
+            "h2": "Jede Video-, Audio- oder Sprachdatei in Text umwandeln",
+            "content": [
+                "Nicht alles, was Sie transkribieren möchten, liegt auf einer sozialen Plattform. Wenn die Quelle eine Datei auf Ihrem eigenen Gerät ist, hat TranscriptX für jede Art ein eigenes Tool — laden Sie sie hoch und erhalten Sie dasselbe saubere Transkript in über 100 Sprachen, mit gekennzeichneten Sprechern."
+            ],
+            "items": [
+                {
+                    "h3": "Eine Videodatei in Text umwandeln",
+                    "content": "Haben Sie eine MP4-Datei, eine Zoom-Aufnahme oder eine Bildschirmaufnahme anstelle eines Links zum Einfügen? Das Tool [Video to Text](/video-to-text) transkribiert jede Videodatei, die Sie hochladen, trennt Sprecher und exportiert in fünf Formate, ganz ohne Dateigrößenbegrenzung."
+                },
+                {
+                    "h3": "Eine Audiodatei in Text umwandeln",
+                    "content": "Für einen Podcast, eine MP3-Datei oder ein aufgezeichnetes Interview ohne Video wandelt das Tool [Audio to Text](/audio-to-text) die Aufnahme in ein sauberes, mit Satzzeichen versehenes Transkript um, das Sie zitieren, bearbeiten oder archivieren können."
+                },
+                {
+                    "h3": "Sprachaufnahmen in Text umwandeln",
+                    "content": "Um eine Notiz schneller zu diktieren, als Sie sie tippen könnten, oder um eine bereits auf Ihrem Telefon vorhandene Sprachnotiz zu transkribieren, nimmt das Tool [Voice to Text](/voice-to-text) direkt im Browser auf oder übernimmt eine von Ihnen hochgeladene Aufnahme."
+                }
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Ist TranscriptX wirklich kostenlos?",
+                    "a": "Ja. Die KI-Transkription von TranscriptX kann kostenlos genutzt werden. Sie müssen kein Konto erstellen und es gibt keine Begrenzung der Dateigröße."
+                },
+                {
+                    "q": "Muss ich etwas installieren?",
+                    "a": "Nein. TranscriptX läuft direkt im Browser. Es gibt keine Software zum Herunterladen und keine Registrierung erforderlich."
+                },
+                {
+                    "q": "Welche Sprachen werden unterstützt?",
+                    "a": "Über 100 Sprachen. TranscriptX erkennt die gesprochene Sprache automatisch, sodass Sie sie vor dem Hochladen nicht auswählen müssen."
+                },
+                {
+                    "q": "Welche Dateiformate kann ich exportieren?",
+                    "a": "Fünf Formate: TXT, DOCX und PDF zum Lesen und Bearbeiten sowie SRT und VTT für Untertitel und Captions. Sie können den Text auch direkt kopieren."
+                },
+                {
+                    "q": "Kann das Tool verschiedene Sprecher erkennen?",
+                    "a": "Ja. TranscriptX kennzeichnet jeden Sprecher separat, sodass Meetings, Interviews und Podcasts mit mehreren Personen zeigen, wer was gesagt hat."
+                },
+                {
+                    "q": "Kann ich ein Meeting mit mehreren Personen transkribieren?",
+                    "a": "Ja. Laden Sie die Aufnahme hoch und jeder Sprecher wird im Transkript gekennzeichnet. Dadurch wird eine lange Diskussion zu einem nutzbaren Protokoll mit Entscheidungen und Aufgaben."
+                },
+                {
+                    "q": "Kann ich Zeitstempel erhalten?",
+                    "a": "Ja, sie sind optional. Aktivieren Sie sie, wenn Sie Untertiteldateien benötigen oder zu einer bestimmten Stelle im Audio zurückspringen möchten. Lassen Sie sie deaktiviert, wenn Sie einen sauberen Lesetext bevorzugen."
+                },
+                {
+                    "q": "Wie transkribiere ich ein YouTube-Video?",
+                    "a": "Kopieren Sie die URL eines öffentlichen YouTube-Videos, fügen Sie sie in TranscriptX ein und erhalten Sie den gesprochenen Inhalt als Text zum Kopieren oder Exportieren. Wenn Sie dies häufig machen, gibt es ein spezielles YouTube Transcript Tool."
+                },
+                {
+                    "q": "Wie genau ist KI-Transkription?",
+                    "a": "Die Genauigkeit hängt hauptsächlich von der Aufnahmequalität ab. Klare Sprache, gleichmäßige Lautstärke und wenig Hintergrundgeräusche liefern die besten Ergebnisse. Gleichzeitig sprechende Personen, Echo oder laute Musik können die Genauigkeit verringern. Prüfen Sie Namen, Zahlen und Fachbegriffe vor der Veröffentlichung."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen KI-Transkription und Speech-to-Text?",
+                    "a": "Speech-to-Text ist der Erkennungsschritt, der gesprochene Wörter in geschriebene Wörter umwandelt. KI-Transkription umfasst den gesamten Prozess: Spracherkennung, Zeichensetzung, Sprechererkennung, Zeitstempel und Export einer nutzbaren Datei."
+                },
+                {
+                    "q": "Kann ich aus einem Transkript Untertitel erstellen?",
+                    "a": "Ja. Aktivieren Sie Zeitstempel und exportieren Sie SRT oder VTT. Anschließend können Sie die Datei auf YouTube, Instagram, TikTok oder Ihren Videoplayer hochladen."
+                },
+                {
+                    "q": "Kann ich das Transkript mit ChatGPT oder Claude verwenden?",
+                    "a": "Ja. Exportieren oder kopieren Sie den Text und fügen Sie ihn in einen KI-Assistenten ein, um Zusammenfassungen zu erstellen, Aufgaben zu extrahieren, Themen zu analysieren oder daraus einen Artikel zu erstellen."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Starten Sie Ihre kostenlose KI-Transkription",
+        "content": [
+            "Laden Sie ein Video, eine Audiodatei oder eine Sprachaufnahme hoch oder fügen Sie einen YouTube- oder TikTok-Link ein. TranscriptX erstellt ein Transkript in über 100 Sprachen mit Sprecherkennzeichnung und optionalen Zeitstempeln.",
+            "Exportieren Sie es als TXT, DOCX oder PDF zum Lesen und Bearbeiten oder als SRT bzw. VTT, um Ihr Video mit Untertiteln zu versehen. Kein Konto, keine Dateigrößenbegrenzung, kostenlos."
+        ]
+    }
+}

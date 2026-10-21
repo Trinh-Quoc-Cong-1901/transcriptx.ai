@@ -1,0 +1,147 @@
+{
+    "seo": {
+        "title": "Instagram Caption Downloader — Copy Any Caption Free | TranscriptX",
+        "description": "Download the caption from any Instagram post, Reel or video free. Paste a link to copy the full description, hashtags and emoji as text. No sign-up, no install.",
+        "schemaName": "TranscriptX Instagram Caption Downloader",
+        "schemaDescription": "Free tool to download the written caption and description from a public Instagram post, Reel or video. Paste a link and copy the full caption text, hashtags and emoji, with no account required.",
+        "ogTitle": "Instagram Caption Downloader — Copy Any Caption Free | TranscriptX",
+        "ogDescription": "Grab the caption from any Instagram post or Reel. Paste a link and copy the full description and hashtags as text, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "Instagram Caption Downloader",
+        "subtitle": "Grab the written caption from any public Instagram post, Reel or video. Paste the link and get the full description — text, hashtags and emoji — ready to copy, save or translate. No account, nothing to install.",
+        "placeholder": "Paste an Instagram post or Reel URL...",
+        "button": "Download Caption"
+    },
+    "quickAnswer": {
+        "question": "How do I download the caption from an Instagram post?",
+        "answer": "Paste the link to a public Instagram post, Reel or video into TranscriptX and it pulls the full written caption, including hashtags and emoji, ready to copy or save as text. It works in seconds, with no account and nothing to install."
+    },
+    "sections": [
+        {
+            "h2": "What the Instagram Caption Downloader Does",
+            "content": [
+                "This tool copies the caption out of an Instagram post and hands it to you as plain text. The caption is the description the creator wrote under the photo, Reel or video — the words, the hashtags, the emoji, the line breaks — not the spoken audio inside a clip.",
+                "That distinction is the reason this page exists on its own. Instagram gives you no button to select and copy a caption cleanly; the text is locked inside the app's interface, and trying to highlight it on a phone is fiddly and often grabs the wrong thing. The caption downloader pulls the whole description in one step, exactly as it was written.",
+                "It works on any public post — a single image, a carousel, a Reel or a video. Paste the link to download Instagram captions from a photo, or run an Instagram video caption download from a Reel, and the full description comes back as text you can actually use."
+            ]
+        },
+        {
+            "h2": "Caption or Transcript: Which Do You Need?",
+            "intro": [
+                "Both are text from Instagram, but they come from different places. Pick by which words you are after."
+            ],
+            "items": [
+                {
+                    "h3": "Download the caption for the written description",
+                    "content": "If you want the text the creator typed under the post — the description, the hashtags, the call to action — this is the tool. It copies what was written, not what was said."
+                },
+                {
+                    "h3": "Get a transcript for the spoken words",
+                    "content": "If you want what is actually said inside a Reel or video — the voiceover, the talking, the audio — that is a different job. The [Instagram Transcript](/instagram-transcript) tool transcribes the speech in the clip instead."
+                }
+            ]
+        },
+        {
+            "h2": "How to Download an Instagram Caption",
+            "steps": [
+                {
+                    "h3": "Copy the post link",
+                    "content": "Open the Instagram post, Reel or video, tap the three-dot menu and choose Copy Link, or copy the URL on desktop. The post needs to be public."
+                },
+                {
+                    "h3": "Paste it into the caption downloader",
+                    "content": "Drop the link into the box above. There is no login step and nothing to install — the tool reads the post straight from the link."
+                },
+                {
+                    "h3": "The caption is extracted",
+                    "content": "TranscriptX pulls the full written caption, keeping the hashtags, emoji and line breaks exactly as the creator posted them."
+                },
+                {
+                    "h3": "Copy or save the text",
+                    "content": "Copy the caption to paste elsewhere, or save it. From here you can translate it, edit it, or file it for reference."
+                }
+            ]
+        },
+        {
+            "h2": "What You Can Do With a Downloaded Caption",
+            "intro": [
+                "A caption is more than a nice line under a photo — for creators and marketers it is data worth keeping. Common uses:"
+            ],
+            "items": [
+                {
+                    "h3": "Study what works",
+                    "content": "Download the captions from posts that performed well — your own or a competitor's — and read them side by side to see the hooks, structure and calls to action that got engagement."
+                },
+                {
+                    "h3": "Save a caption before it changes",
+                    "content": "Posts get edited or deleted. Downloading the caption keeps your own copy of the exact wording, hashtags included, regardless of what happens to the original."
+                },
+                {
+                    "h3": "Translate a caption",
+                    "content": "Pull the description as text and translate it to understand a post in another language, or to adapt a caption for an audience that speaks a different one."
+                },
+                {
+                    "h3": "Reuse and repurpose",
+                    "content": "Move a caption into a content doc, a swipe file or a scheduling tool, so a line that worked once can be reshaped for another post or platform."
+                },
+                {
+                    "h3": "Keep the hashtag set",
+                    "content": "The hashtags at the end of a caption are half the work. Downloading the caption keeps that tag list intact, ready to study or adapt for your own posts."
+                }
+            ]
+        },
+        {
+            "h2": "Hashtags, Emoji and Formatting, Kept Intact",
+            "content": [
+                "An Instagram caption is not just a sentence — it is line breaks that space it out, emoji that carry tone, and a block of hashtags that decides who sees it. A caption downloader that flattens all of that into one messy line is not much use.",
+                "TranscriptX keeps the caption exactly as posted. When you download Instagram video caption text or a photo's description, the emoji stay where they were, the line breaks hold, and the full hashtag set comes with it. What you copy reads the same as what was on the post.",
+                "That matters most when you are reusing a caption or analysing one, because the formatting and the tags are part of what made it work — not extras to strip out."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I download captions from Instagram for free?",
+                    "a": "Paste the link to a public Instagram post, Reel or video into TranscriptX and it copies the full written caption for free — an Instagram description download in one step. There is no account to create and nothing to install."
+                },
+                {
+                    "q": "Does the caption downloader keep the hashtags and emoji?",
+                    "a": "Yes. The caption comes back exactly as it was posted — hashtags, emoji and line breaks all intact, not flattened into a single line."
+                },
+                {
+                    "q": "Can I download the caption from a Reel or a video?",
+                    "a": "Yes. It works on any public post, whether that is a single photo, a carousel, a Reel or a video. Paste the link and the description comes back as text."
+                },
+                {
+                    "q": "Is this the caption text or the spoken words in the video?",
+                    "a": "This is the written caption — the description the creator typed under the post. For the words spoken inside a video or Reel, use the Instagram Transcript tool instead."
+                },
+                {
+                    "q": "Can I download a caption from a private account?",
+                    "a": "No. The tool only works with public posts, since a private account's content is not openly accessible."
+                },
+                {
+                    "q": "Can I translate the caption after downloading it?",
+                    "a": "Yes. Once the caption is text, you can translate it into another language to read it or adapt it for a different audience."
+                },
+                {
+                    "q": "Do I need to log into Instagram?",
+                    "a": "No. Everything runs in the browser with just the public post link — no login and no app required."
+                },
+                {
+                    "q": "Can I download several captions?",
+                    "a": "Yes. There is no limit — paste one link at a time and copy each caption, as many as you need, at no cost."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download an Instagram Caption Free",
+        "content": [
+            "Paste the link to any public Instagram post, Reel or video and TranscriptX pulls the full written caption — text, hashtags and emoji — ready to copy or save.",
+            "Study it, translate it, reuse it, or keep a copy before the post changes. No account, no install, no cost."
+        ]
+    }
+}

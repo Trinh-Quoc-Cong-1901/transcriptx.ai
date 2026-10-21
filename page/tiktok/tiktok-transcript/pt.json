@@ -1,0 +1,186 @@
+{
+    "seo": {
+        "title": "Transcrever Vídeo do TikTok — TikTok em Texto Grátis | TranscriptX",
+        "description": "Transcrever vídeo do TikTok online e grátis. Cole o link do TikTok e gere o texto de qualquer vídeo em mais de 100 idiomas para ler, copiar, editar ou traduzir. Sem cadastro.",
+        "schemaName": "Ferramenta TranscriptX para Transcrever Vídeo do TikTok",
+        "schemaDescription": "Ferramenta online gratuita que gera a transcrição de um vídeo público do TikTok em mais de 100 idiomas. Cole um link e tudo o que foi falado no clipe vira texto que você pode ler, copiar, editar, traduzir ou baixar, sem precisar de conta.",
+        "ogTitle": "Transcrever Vídeo do TikTok — TikTok em Texto Grátis | TranscriptX",
+        "ogDescription": "Transforme qualquer vídeo do TikTok em texto em segundos. Cole o link e gere a transcrição em mais de 100 idiomas, grátis e sem cadastro."
+    },
+    "hero": {
+        "h1": "Transcrever Vídeo do TikTok",
+        "subtitle": "Transforme qualquer vídeo público do TikTok em texto. Cole o link e o TranscriptX escreve cada palavra falada no clipe, em mais de 100 idiomas, para você ler, copiar o gancho, editar ou traduzir. Sem conta e sem instalar nada.",
+        "placeholder": "Cole a URL de um vídeo do TikTok...",
+        "button": "Obter Transcrição"
+    },
+    "quickAnswer": {
+        "question": "Como transcrever vídeo do TikTok?",
+        "answer": "Copie o link de compartilhamento de um vídeo público do TikTok e cole no TranscriptX. Ele escuta o áudio e gera a transcrição em segundos, em mais de 100 idiomas, pronta para ler, copiar, editar ou baixar. Não precisa de conta e não há nada para instalar."
+    },
+    "sections": [
+        {
+            "h2": "O Que É a Transcrição de Vídeo do TikTok?",
+            "content": [
+                "A transcrição de vídeo do TikTok é o conteúdo falado de um TikTok escrito em forma de texto. Tudo o que o criador diz — o gancho, o passo a passo, a tirada final — vira palavras que você pode ler, pesquisar e copiar, em vez de assistir ao clipe em looping para conseguir pegar a frase.",
+                "É o vídeo curto que torna isso tão útil no TikTok. A parte boa quase sempre é uma única linha enterrada dentro de um clipe acelerado: a dica dentro de uma receita, a afirmação de um review, a frase que fez o vídeo viralizar. Transcrever vídeo do TikTok congela essa linha como texto antes do clipe sumir do seu Para Você.",
+                "Esta página existe para fazer uma coisa bem feita — tirar as palavras de dentro de um TikTok. Seja obtendo a transcrição, gerando ela ou convertendo o vídeo em texto, o resultado é o mesmo, então tudo isso vive aqui em vez de ficar dividido em ferramentas separadas."
+            ]
+        },
+        {
+            "h2": "Transcrever Vídeo do TikTok em Resumo",
+            "specs": [
+                {
+                    "label": "Preço",
+                    "value": "Grátis"
+                },
+                {
+                    "label": "Precisa de conta",
+                    "value": "Não"
+                },
+                {
+                    "label": "Instalação",
+                    "value": "Nenhuma — funciona no navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Qualquer link de vídeo público do TikTok"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, detectados automaticamente"
+                },
+                {
+                    "label": "Funciona sem legendas na tela",
+                    "value": "Sim — o texto vem do áudio"
+                },
+                {
+                    "label": "Resultado",
+                    "value": "Texto editável para copiar, traduzir ou exportar"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de celular, tablet e computador"
+                }
+            ]
+        },
+        {
+            "h2": "Como Transcrever um Vídeo do TikTok",
+            "steps": [
+                {
+                    "h3": "Copie o link do TikTok",
+                    "content": "Toque em Compartilhar no vídeo e copie o link, ou pegue a URL da barra de endereços no computador. Qualquer TikTok público funciona."
+                },
+                {
+                    "h3": "Cole no TranscriptX",
+                    "content": "Jogue o link na caixa acima. Não tem conta para criar nem arquivo para enviar — a ferramenta lê o vídeo direto do link."
+                },
+                {
+                    "h3": "A transcrição é gerada",
+                    "content": "O TranscriptX escuta o áudio, detecta sozinho o idioma e escreve as palavras com pontuação em poucos segundos. É assim que ele consegue extrair texto de vídeo do TikTok sem você digitar nada."
+                },
+                {
+                    "h3": "Use o texto",
+                    "content": "Leia, copie a parte que você quer, edite, traduza ou baixe para guardar."
+                }
+            ]
+        },
+        {
+            "h2": "Gerador de Transcrição TikTok",
+            "content": [
+                "A maioria dos TikToks não tem uma faixa de texto limpa para copiar, e as legendas automáticas na tela costumam vir erradas ou sem pontuação. Por isso o TranscriptX funciona como um gerador de transcrição TikTok: ele constrói o texto a partir do próprio áudio, em vez de depender de algo que o criador talvez nunca tenha adicionado.",
+                "Isso significa que dá para transcrever um vídeo do TikTok mesmo quando não existe nenhuma legenda na tela. O gerador dá conta de fala rápida, de ruído de fundo e de áudios em alta, e separa quem está falando quando o vídeo tem mais de uma voz — um dueto, uma stitch, um trecho de entrevista.",
+                "Como ferramenta para transcrever áudio do TikTok, ele processa qualquer idioma que escutar, então um vídeo em português volta como texto em português, e um clipe em espanhol ou indonésio volta naquele mesmo idioma."
+            ]
+        },
+        {
+            "h2": "Transformar Vídeo do TikTok em Texto",
+            "content": [
+                "Se você não pensa na palavra \"transcrição\" e só quer transformar vídeo do TikTok em texto, esta é a mesma ferramenta com um nome que combina mais. Cole o link e converter áudio do TikTok em texto acontece na hora: o que foi falado volta como texto limpo e fácil de ler.",
+                "A transcrição de vídeo do TikTok serve para muito mais do que leitura. Criadores puxam o roteiro de um viral para estudar por que ele funcionou, profissionais de marketing tiram os argumentos do clipe de um concorrente, e quem está aprendendo um idioma lê com calma um vídeo de nativo falando rápido, no próprio ritmo, depois que ele vira texto na página."
+            ]
+        },
+        {
+            "h2": "Por Que Transformar um TikTok Curto em Texto?",
+            "intro": [
+                "Um clipe dura poucos segundos, então é justo perguntar por que transcrever. Porque o valor de um TikTok costuma durar mais que a rolagem — e o texto é como você guarda isso."
+            ],
+            "items": [
+                {
+                    "h3": "Salve o gancho antes dele sumir",
+                    "content": "A linha que faz a pessoa parar de rolar é a parte mais valiosa de um TikTok. Como texto, você salva, estuda e escreve a sua própria versão, em vez de tentar lembrar de cabeça."
+                },
+                {
+                    "h3": "Estude roteiros virais",
+                    "content": "Criadores fazem engenharia reversa do que funciona lendo a redação exata dos vídeos que estouraram — o ritmo, a estrutura, a chamada para ação — o que é muito mais fácil no papel do que na reprodução."
+                },
+                {
+                    "h3": "Pegue uma dica ou receita",
+                    "content": "Um vídeo de culinária ou tutorial de nove segundos empilha os passos em altíssima velocidade. A transcrição transforma isso em instruções que você acompanha sem ficar voltando e adiantando."
+                },
+                {
+                    "h3": "Reaproveite em outras plataformas",
+                    "content": "Transforme o que foi falado num TikTok em uma legenda de post, um tuíte, um roteiro de Reel ou Short, ou um parágrafo de blog — tudo partindo do texto, sem rever o clipe."
+                },
+                {
+                    "h3": "Aprenda um idioma com fala real",
+                    "content": "O áudio de um TikTok de nativo é rápido e informal. Ler a transcrição ao lado do vídeo é um jeito prático de pegar gírias e jeitos de falar que passariam batido na velocidade normal."
+                },
+                {
+                    "h3": "Cite uma afirmação com precisão",
+                    "content": "Para um review, uma correção ou uma pesquisa, a transcrição te dá as palavras exatas do criador para citar, em vez de uma paráfrase aproximada."
+                }
+            ]
+        },
+        {
+            "h2": "Copie, Edite, Traduza ou Baixe",
+            "content": [
+                "Assim que a transcrição aparece na tela, ela já é sua para usar. Copie tudo ou só o gancho, edite o texto para tirar as repetições, ou traduza para outro idioma ali mesmo onde você está.",
+                "Prefere guardar em vez de deixar na tela? Dá para baixar a transcrição do TikTok como arquivo, ou simplesmente copiar direto da tela. E se o que você quer de verdade é um arquivo de legenda sincronizada — legendas com marcação de tempo para colar num repost, e não texto puro para leitura — o [TikTok Caption Downloader](/pt/tiktok-caption-downloader) foi feito para esse trabalho. Também mexe com vídeos mais longos? A ferramenta [YouTube Transcript](/pt/youtube-transcript) faz o mesmo no YouTube."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como transcrever um vídeo do TikTok de graça?",
+                    "a": "Cole o link de compartilhamento do TikTok no TranscriptX e ele transcreve o vídeo sem nenhum custo. Não há conta para criar, aplicativo para instalar nem limite de quantos vídeos você roda."
+                },
+                {
+                    "q": "Este é um gerador de transcrição TikTok gratuito?",
+                    "a": "Sim. O TranscriptX funciona como um gerador de transcrição TikTok gratuito — ele constrói o texto a partir do áudio, então funciona mesmo quando o vídeo não tem legendas na tela."
+                },
+                {
+                    "q": "Dá para converter um vídeo do TikTok em texto?",
+                    "a": "Sim. Converter um vídeo do TikTok em texto e obter a transcrição dele são a mesma ação aqui. Cole o link e o que foi falado volta como texto editável."
+                },
+                {
+                    "q": "Funciona se o TikTok não tiver legendas na tela?",
+                    "a": "Sim. A transcrição vem do áudio, e não de alguma faixa de texto pronta, então um vídeo sem nada escrito na tela é transcrito normalmente."
+                },
+                {
+                    "q": "Quais idiomas ele consegue transcrever?",
+                    "a": "Mais de 100. O TranscriptX detecta automaticamente o idioma falado, então o texto volta no idioma em que o TikTok foi gravado, inclusive em português."
+                },
+                {
+                    "q": "Preciso do aplicativo do TikTok ou de uma conta?",
+                    "a": "Não. Tudo roda no navegador só com o link do vídeo. Não há aplicativo para abrir nem login de nenhum tipo."
+                },
+                {
+                    "q": "Dá para transcrever TikToks longos ou uma live?",
+                    "a": "Sim para vídeos comuns de qualquer duração, depois de publicados. Uma transmissão que ainda está ao vivo não tem gravação finalizada, então espere ela terminar e o vídeo ser publicado."
+                },
+                {
+                    "q": "Posso baixar a transcrição do TikTok?",
+                    "a": "Sim. Você pode copiar o texto ou baixar a transcrição para guardar. Se o que você precisa é um arquivo de legenda sincronizada, com marcação de tempo, em vez de texto puro, use o TikTok Caption Downloader no lugar disso."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcreva Seu Vídeo do TikTok Grátis",
+        "content": [
+            "Cole o link de um TikTok público e o TranscriptX transforma o vídeo em texto em mais de 100 idiomas — obtenha a transcrição, gere ela ou converta o vídeo em texto, tudo em uma página só.",
+            "Leia, copie o gancho, edite, traduza ou baixe. Sem conta, sem instalação e sem custo."
+        ]
+    }
+}

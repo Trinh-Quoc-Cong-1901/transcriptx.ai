@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Speech to Text API for Audio & Video Files | TranscriptX",
+        "description": "Upload MP3, WAV, MP4 or any common format and get text back with speakers and timestamps. No file size limit, 100+ languages, about 1–2 minutes per hour of audio.",
+        "schemaName": "TranscriptX Speech to Text API",
+        "schemaDescription": "Speech to text API for uploaded audio and video files, with no file size limit. Returns transcripts in over 100 languages with speaker labels and timestamps, as text, SRT or VTT. About 1–2 minutes per hour of audio, around 95% accuracy on clear audio in internal tests.",
+        "ogTitle": "Speech to Text API for Audio & Video Files",
+        "ogDescription": "Upload any audio or video file and get text back. No size limit, 100+ languages, speakers and timestamps."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" },
+        { "name": "Speech to Text API", "url": "/speech-to-text-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, upload a file (cURL / Python / JavaScript), fetch the result, sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Speech to Text API for Any Audio or Video File",
+        "subtitle": "Send an audio or video file from your app and get punctuated text back, with each speaker labelled and each segment timestamped. Any length, any common format, over 100 languages.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "What does a speech to text API do?",
+        "answer": "It converts the speech in a recording into text your application can use. You upload the file; the API returns the transcript. With TranscriptX there is no file size limit, and an hour of audio comes back in about 1–2 minutes."
+    },
+    "sections": [
+        {
+            "h2": "Any File, Any Length",
+            "content": [
+                "Upload caps and per-request time limits push work back onto you: compressing, splitting, stitching results together. TranscriptX has no file size limit — a voice note and a ten-hour recording go through the same request.",
+                "Video files are accepted directly, so there is no step to extract the audio first. Files already in the cloud can be sent as a Google Drive, Dropbox, OneDrive or direct link."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Audio formats", "value": "MP3, WAV, M4A, AAC, FLAC, OGG and more" },
+                { "label": "Video formats", "value": "MP4, MOV, AVI, MKV, WEBM and more" },
+                { "label": "File size limit", "value": "None — tested with 10-hour files" },
+                { "label": "Speed", "value": "About 1–2 minutes per hour of audio" },
+                { "label": "Accuracy", "value": "Around 95% on clear audio in our internal tests" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Speaker labels and timestamps" },
+                { "label": "Output", "value": "Text, SRT, VTT" }
+            ]
+        },
+        {
+            "h2": "Not the Browser's Speech Recognition",
+            "content": [
+                "The Web Speech API built into browsers is meant for live dictation on a web page. It does not transcribe files, label speakers or produce subtitles.",
+                "A server-side API is the right fit for recorded audio and background processing. For live captions in the browser, see [Real-Time Speech to Text](/real-time-speech-to-text)."
+            ]
+        },
+        {
+            "h2": "How We Tested It",
+            "content": [
+                "On October 6, 2026, the TranscriptX team timed the live service: one hour of audio took 1–2 minutes (1 min 19 s at best), and a 10-hour file finished in about 10 minutes. Accuracy on clear audio was around 95%. Noise and crosstalk lower that, so test with your own recordings."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Can I send video files?", "a": "Yes. Common video formats are transcribed directly." },
+                { "q": "Does it identify speakers?", "a": "Yes. Each speaker is labelled." },
+                { "q": "Can I use it as a voice to text API for memos and calls?", "a": "Yes. Voice notes, calls and dictation all work the same way. For one-off files without code, try [Voice to Text](/voice-to-text)." },
+                { "q": "Do I need to set the language?", "a": "No. Over 100 languages are detected automatically." },
+                { "q": "Is my audio used to train AI?", "a": "No. Files are deleted after a few days and never used for training." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn Recordings Into Text",
+        "content": [
+            "No size limit, no conversion, speakers and timestamps included. Working with video links instead of files? See the [Transcription API](/transcription-api)."
+        ]
+    }
+}

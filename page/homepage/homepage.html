@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TranscriptX — homepage preview</title>
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  body, h1, h2, h3, p, dl, dd, figure { margin: 0; }
+
+  :root {
+    --paper: #F6F7F9;
+    --surface: #FFFFFF;
+    --ink: #171B21;
+    --ink-2: #59626D;
+    --ink-3: #889199;
+    --rule: #E2E6EB;
+    --rule-soft: #EDF0F3;
+    --accent: #A4650B;
+    --accent-soft: #FBF2E1;
+    --on-accent: #FFFFFF;
+    --pass: #2E7D5B;
+    --pass-soft: #E8F3ED;
+    --fail: #B3261E;
+    --fail-soft: #FBEAE9;
+
+    --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0F1216;
+      --surface: #161A20;
+      --ink: #E7EAEF;
+      --ink-2: #98A1AC;
+      --ink-3: #6C7480;
+      --rule: #252B33;
+      --rule-soft: #1E232A;
+      --accent: #E7A33F;
+      --accent-soft: #241C11;
+      --on-accent: #14171C;
+      --pass: #4FB086;
+      --pass-soft: #14261E;
+      --fail: #F2837B;
+      --fail-soft: #2A1614;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --paper: #0F1216;
+    --surface: #161A20;
+    --ink: #E7EAEF;
+    --ink-2: #98A1AC;
+    --ink-3: #6C7480;
+    --rule: #252B33;
+    --rule-soft: #1E232A;
+    --accent: #E7A33F;
+    --accent-soft: #241C11;
+    --on-accent: #14171C;
+    --pass: #4FB086;
+    --pass-soft: #14261E;
+    --fail: #F2837B;
+    --fail-soft: #2A1614;
+  }
+
+  :root[data-theme="light"] {
+    --paper: #F6F7F9;
+    --surface: #FFFFFF;
+    --ink: #171B21;
+    --ink-2: #59626D;
+    --ink-3: #889199;
+    --rule: #E2E6EB;
+    --rule-soft: #EDF0F3;
+    --accent: #A4650B;
+    --accent-soft: #FBF2E1;
+    --on-accent: #FFFFFF;
+    --pass: #2E7D5B;
+    --pass-soft: #E8F3ED;
+    --fail: #B3261E;
+    --fail-soft: #FBEAE9;
+  }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  button { font: inherit; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+  /* ---- review bar ---- */
+  .bar {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--rule);
+  }
+  .bar-in {
+    max-width: 78rem; margin: 0 auto; padding: 0.7rem 1.5rem;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.6rem;
+  }
+  .file {
+    font-family: var(--mono); font-size: 0.78rem;
+    letter-spacing: -0.01em; margin-right: auto;
+  }
+  .file span { color: var(--ink-3); }
+  .stat { display: flex; align-items: baseline; gap: 0.4rem; }
+  .stat-k {
+    font-family: var(--mono); font-size: 0.62rem; text-transform: uppercase;
+    letter-spacing: 0.09em; color: var(--ink-3);
+  }
+  .stat-v {
+    font-family: var(--mono); font-size: 0.82rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .chip {
+    font-family: var(--mono); font-size: 0.62rem;
+    padding: 0.12rem 0.4rem; border-radius: 3px;
+    background: var(--pass-soft); color: var(--pass);
+  }
+  .chip.warn { background: var(--accent-soft); color: var(--accent); }
+
+  /* ---- shell ---- */
+  .doc {
+    max-width: 78rem; margin: 0 auto; padding: 4rem 1.5rem 7rem;
+    display: flex; flex-direction: column; gap: 4.5rem;
+  }
+  .blk { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 2.5rem; align-items: start; }
+  .path {
+    font-family: var(--mono); font-size: 0.68rem; color: var(--ink-3);
+    letter-spacing: -0.01em; padding-top: 0.55rem;
+    border-top: 1px solid var(--rule); word-break: break-all;
+  }
+  .col { display: flex; flex-direction: column; gap: 1.1rem; min-width: 0; }
+  .prose { max-width: 40rem; }
+
+  /* ---- type ---- */
+  h1, h2, h3 { font-family: var(--sans); text-wrap: balance; }
+  h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); line-height: 1.06; letter-spacing: -0.035em; font-weight: 680; }
+  h2 { font-size: clamp(1.35rem, 2.4vw, 1.7rem); line-height: 1.18; letter-spacing: -0.024em; font-weight: 640; }
+  h3 { font-size: 0.95rem; letter-spacing: -0.012em; font-weight: 640; }
+  p { font-size: 1.02rem; }
+  .lede { font-size: 1.15rem; color: var(--ink-2); line-height: 1.55; }
+  .intro { color: var(--ink-2); font-style: italic; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 0.62rem; text-transform: uppercase;
+    letter-spacing: 0.11em; color: var(--accent);
+  }
+
+  /* ---- hero ---- */
+  .field { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.7rem; max-width: 40rem; }
+  .field-in {
+    flex: 1 1 16rem; padding: 0.8rem 1rem; border: 1px solid var(--rule);
+    border-radius: 6px; background: var(--surface); color: var(--ink-3);
+    font-family: var(--sans); font-size: 0.9rem;
+  }
+  .btn {
+    padding: 0.8rem 1.2rem; border-radius: 6px; border: none;
+    background: var(--accent); color: var(--on-accent);
+    font-family: var(--sans); font-size: 0.9rem; font-weight: 620; cursor: pointer;
+  }
+
+  /* ---- quick answer ---- */
+  .qa {
+    border-left: 2px solid var(--accent); padding: 0.1rem 0 0.1rem 1.3rem;
+    display: flex; flex-direction: column; gap: 0.5rem; max-width: 40rem;
+  }
+  .qa p { font-size: 1.06rem; }
+
+  /* ---- specs ---- */
+  .specs { display: grid; gap: 0; max-width: 42rem; border-top: 1px solid var(--rule-soft); }
+  .spec {
+    display: grid; grid-template-columns: 12rem minmax(0, 1fr); gap: 1.5rem;
+    padding: 0.62rem 0; border-bottom: 1px solid var(--rule-soft);
+  }
+  .spec dt {
+    font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase;
+    letter-spacing: 0.05em; color: var(--ink-3); padding-top: 0.15rem;
+  }
+  .spec dd { font-size: 0.98rem; }
+
+  /* ---- items ---- */
+  .items { display: flex; flex-direction: column; gap: 1.6rem; max-width: 42rem; }
+  .item { display: flex; flex-direction: column; gap: 0.3rem; }
+  .item p { font-size: 0.98rem; color: var(--ink-2); }
+
+  .steps { display: flex; flex-direction: column; gap: 1.5rem; max-width: 42rem; }
+  .step { display: grid; grid-template-columns: 1.6rem minmax(0, 1fr); gap: 1rem; }
+  .step-n {
+    font-family: var(--mono); font-size: 0.72rem; color: var(--accent);
+    padding-top: 0.28rem; font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- inline link ---- */
+  .lnk {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+  .lnk:hover { text-decoration-thickness: 2px; }
+
+  /* ---- faq ---- */
+  .faq { display: flex; flex-direction: column; gap: 0; max-width: 42rem; border-top: 1px solid var(--rule-soft); }
+  .qa-row { padding: 1.05rem 0; border-bottom: 1px solid var(--rule-soft); display: flex; flex-direction: column; gap: 0.35rem; }
+  .qa-row h3 { font-size: 0.92rem; }
+  .qa-row p { font-size: 0.94rem; color: var(--ink-2); }
+
+  /* ---- load error ---- */
+  .err {
+    max-width: 34rem; margin: 5rem auto; padding: 1.5rem;
+    background: var(--fail-soft); border: 1px solid var(--fail);
+    border-radius: 8px; display: flex; flex-direction: column; gap: 0.8rem;
+  }
+  .err h2 { color: var(--fail); font-size: 1.1rem; }
+  .err p { font-size: 0.94rem; }
+  .err code {
+    font-family: var(--mono); font-size: 0.82rem; display: block;
+    background: var(--surface); border: 1px solid var(--rule);
+    border-radius: 5px; padding: 0.7rem 0.9rem; color: var(--ink);
+    overflow-x: auto; white-space: pre;
+  }
+
+  @media (max-width: 760px) {
+    .blk { grid-template-columns: 1fr; gap: 0.9rem; }
+    .path { border-top: none; padding-top: 0; }
+    .spec { grid-template-columns: 1fr; gap: 0.15rem; }
+    .doc { gap: 3.2rem; padding-top: 2.5rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <div class="bar-in">
+    <div class="file" id="m-file">index/<span>en.json</span></div>
+    <div class="stat"><span class="stat-k">Words</span><span class="stat-v" id="m-words">—</span></div>
+    <div class="stat"><span class="stat-k">H2</span><span class="stat-v" id="m-h2">—</span></div>
+    <div class="stat"><span class="stat-k">FAQ</span><span class="stat-v" id="m-faq">—</span></div>
+    <div class="stat"><span class="stat-k">Title</span><span class="stat-v" id="m-title">—</span><span class="chip" id="c-title">—</span></div>
+    <div class="stat"><span class="stat-k">Desc</span><span class="stat-v" id="m-desc">—</span><span class="chip" id="c-desc">—</span></div>
+  </div>
+</header>
+
+<main class="doc" id="doc"></main>
+
+<script>
+/* Renders homepage/index/<lang>.json — the JSON is the single source of truth.
+   Switch locale with ?lang=vi once index/vi.json exists. */
+
+const LANG = new URLSearchParams(location.search).get("lang") || "en";
+const SRC = "index/" + LANG + ".json";
+
+const doc = document.getElementById("doc");
+
+const el = (tag, cls, txt) => {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (txt != null) n.textContent = txt;
+  return n;
+};
+
+function block(path, cls) {
+  const b = el("section", "blk" + (cls ? " " + cls : ""));
+  b.append(el("div", "path", path));
+  const c = el("div", "col");
+  b.append(c);
+  doc.append(b);
+  return c;
+}
+
+/* Content strings may carry inline links as [label](/url).
+   Built as real nodes rather than innerHTML so the copy can never inject markup. */
+const LINK = /\[([^\]]+)\]\(([^)]+)\)/g;
+
+function fillText(host, str) {
+  let last = 0, m;
+  LINK.lastIndex = 0;
+  while ((m = LINK.exec(str)) !== null) {
+    if (m.index > last) host.append(str.slice(last, m.index));
+    const a = el("a", "lnk", m[1]);
+    a.href = m[2];
+    host.append(a);
+    last = m.index + m[0].length;
+  }
+  if (last < str.length) host.append(str.slice(last));
+}
+
+function para(str, cls) {
+  const p = el("p", cls);
+  p.classList.add("prose");
+  fillText(p, str);
+  return p;
+}
+
+function paras(host, arr, cls) {
+  arr.forEach(t => host.append(para(t, cls)));
+}
+
+function renderHero(D) {
+  const c = block("hero");
+  c.append(el("h1", null, D.hero.h1));
+  c.append(el("p", "lede prose", D.hero.subtitle));
+  const f = el("div", "field");
+  f.append(el("div", "field-in", D.hero.placeholder));
+  f.append(el("button", "btn", D.hero.button));
+  c.append(f);
+}
+
+function renderQuickAnswer(D) {
+  if (!D.quickAnswer) return;
+  const c = block("quickAnswer");
+  const q = el("div", "qa");
+  q.append(el("div", "eyebrow", D.quickAnswer.question));
+  q.append(el("p", null, D.quickAnswer.answer));
+  c.append(q);
+}
+
+function renderSpecs(c, specs) {
+  const dl = el("dl", "specs");
+  specs.forEach(sp => {
+    const r = el("div", "spec");
+    r.append(el("dt", null, sp.label));
+    r.append(el("dd", null, sp.value));
+    dl.append(r);
+  });
+  c.append(dl);
+}
+
+function renderSteps(c, steps) {
+  const w = el("div", "steps");
+  steps.forEach((st, n) => {
+    const r = el("div", "step");
+    r.append(el("div", "step-n", String(n + 1).padStart(2, "0")));
+    const b = el("div", "item");
+    b.append(el("h3", null, st.h3));
+    b.append(el("p", null, st.content));
+    r.append(b);
+    w.append(r);
+  });
+  c.append(w);
+}
+
+/* Two item shapes only: {q, a} for FAQ, {h3, content} for everything else. */
+function renderItems(c, items) {
+  const first = items[0];
+  if (!first) return;
+
+  if ("q" in first) {
+    const w = el("div", "faq");
+    items.forEach(it => {
+      const r = el("div", "qa-row");
+      r.append(el("h3", null, it.q));
+      r.append(para(it.a));
+      w.append(r);
+    });
+    c.append(w);
+    return;
+  }
+
+  const w = el("div", "items");
+  items.forEach(it => {
+    const r = el("div", "item");
+    r.append(el("h3", null, it.h3));
+    r.append(para(it.content));
+    w.append(r);
+  });
+  c.append(w);
+}
+
+function renderSections(D) {
+  D.sections.forEach((s, i) => {
+    const c = block("sections[" + i + "]");
+    c.append(el("h2", null, s.h2));
+    if (s.intro) paras(c, s.intro, "intro");
+    if (s.content) paras(c, s.content);
+    if (s.specs) renderSpecs(c, s.specs);
+    if (s.steps) renderSteps(c, s.steps);
+    if (s.items) renderItems(c, s.items);
+  });
+}
+
+function renderConclusion(D) {
+  if (!D.conclusion) return;
+  const c = block("conclusion");
+  c.append(el("h2", null, D.conclusion.h2));
+  paras(c, D.conclusion.content);
+  const f = el("div", "field");
+  f.append(el("button", "btn", D.hero.button));
+  c.append(f);
+}
+
+function renderMetrics(D) {
+  const words = o =>
+    typeof o === "string" ? o.trim().split(/\s+/).length
+    : Array.isArray(o) ? o.reduce((n, v) => n + words(v), 0)
+    : o && typeof o === "object" ? Object.values(o).reduce((n, v) => n + words(v), 0)
+    : 0;
+
+  const body = {
+    hero: D.hero,
+    quickAnswer: D.quickAnswer,
+    sections: D.sections,
+    conclusion: D.conclusion
+  };
+  const set = (id, v) => (document.getElementById(id).textContent = v);
+  const faq = D.sections.find(s => Array.isArray(s.items) && s.items[0] && "q" in s.items[0]);
+
+  document.getElementById("m-file").innerHTML = "index/<span>" + LANG + ".json</span>";
+  set("m-words", words(body).toLocaleString());
+  set("m-h2", D.sections.length + (D.conclusion ? 1 : 0));
+  set("m-faq", faq ? faq.items.length : 0);
+
+  const tl = D.seo.title.length, dl = D.seo.description.length;
+  set("m-title", tl);
+  set("m-desc", dl);
+
+  const chip = (id, ok, txt) => {
+    const n = document.getElementById(id);
+    n.textContent = txt;
+    n.className = "chip" + (ok ? "" : " warn");
+  };
+  chip("c-title", tl <= 60, tl <= 60 ? "≤60" : "over");
+  chip("c-desc", dl <= 160, dl <= 160 ? "≤160" : "over");
+}
+
+function renderError(err) {
+  doc.innerHTML = "";
+  const box = el("div", "err");
+  const fileProtocol = location.protocol === "file:";
+  box.append(el("h2", null, "Could not load " + SRC));
+
+  if (fileProtocol) {
+    box.append(el("p", null,
+      "The browser blocks reading local files when the page is opened directly from disk. Serve the folder over HTTP instead — run this from the homepage directory, then open the address it prints:"));
+    box.append(el("code", null, "python3 -m http.server 8000\n\nhttp://localhost:8000/homepage.html"));
+  } else {
+    box.append(el("p", null, err.message + ". Check that the file exists and contains valid JSON."));
+  }
+  doc.append(box);
+}
+
+fetch(SRC)
+  .then(r => {
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    return r.json();
+  })
+  .then(D => {
+    document.title = D.seo.title;
+    renderHero(D);
+    renderQuickAnswer(D);
+    renderSections(D);
+    renderConclusion(D);
+    renderMetrics(D);
+  })
+  .catch(renderError);
+</script>
+</body>
+</html>

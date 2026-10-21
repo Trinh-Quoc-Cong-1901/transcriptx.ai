@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Dictée vocale — Écrivez avec votre voix, en ligne",
+        "description": "Appuyez sur Démarrer, parlez : vos mots s'affichent aussitôt en texte modifiable. Dictée vocale gratuite pour notes, e-mails et brouillons. Sans inscription.",
+        "schemaName": "TranscriptX Dictée vocale",
+        "schemaDescription": "Outil de dictée vocale en ligne qui convertit la voix en texte en temps réel. Appuyez sur Démarrer, parlez dans votre microphone et vos mots s'affichent instantanément sous forme de texte ponctué et modifiable, dans plus de 100 langues. Copiez le texte où vous voulez ou exportez-le en TXT, DOCX ou PDF. Fonctionne dans le navigateur, sans inscription pour commencer.",
+        "ogTitle": "Dictée vocale — Écrivez avec votre voix, en ligne",
+        "ogDescription": "Écrivez avec votre voix. Appuyez sur Démarrer, parlez et voyez vos mots devenir texte instantanément — gratuit, en 100+ langues, sans inscription."
+    },
+    "hero": {
+        "h1": "Dictée vocale – Écrivez avec votre voix",
+        "subtitle": "Écrivez avec votre voix. Appuyez sur Démarrer, parlez, et vos mots s'affichent instantanément à l'écran sous forme de texte ponctué et modifiable. Dictez un e-mail, une note, un message ou un premier jet plus vite que vous ne pourriez le taper, puis copiez-le n'importe où ou exportez-le en TXT, DOCX ou PDF. Gratuit pour commencer, dans plus de 100 langues, sans rien installer.",
+        "placeholder": "Appuyez sur Démarrer et commencez à parler...",
+        "button": "Commencer à parler"
+    },
+    "quickAnswer": {
+        "question": "Comment utiliser la dictée vocale ?",
+        "answer": "Ouvrez TranscriptX, appuyez sur Démarrer, autorisez l'accès au microphone, puis parlez. Avec la dictée vocale, vos mots apparaissent en texte instantanément pendant que vous parlez. Corrigez ce qui doit l'être, puis copiez le texte dans votre e-mail ou votre document, ou exportez-le. Gratuit pour commencer, sans inscription et sans rien installer."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la dictée vocale ?",
+            "content": [
+                "La dictée vocale vous permet d'écrire en parlant. Vous appuyez sur Démarrer, vous dites ce que vous voulez écrire, et les mots s'affichent à l'écran au moment où vous les prononcez — sans clavier, sans attente, sans fichier à traiter.",
+                "Ici, les mots sur la page sont les vôtres. Vous n'enregistrez pas quelqu'un d'autre pour plus tard : vous rédigez un e-mail, une note, un message ou un brouillon, avec votre voix plutôt qu'avec vos doigts.",
+                "Tout l'intérêt, c'est la vitesse. La plupart des gens parlent trois à quatre fois plus vite qu'ils ne tapent : formuler une idée à voix haute pour la mettre sur la page est bien plus rapide que de la taper mot à mot. La dictée vocale vous donne la rapidité de la parole avec le résultat de l'écrit.",
+                "TranscriptX le fait dans votre navigateur, gratuitement pour commencer. Appuyez sur Démarrer, parlez, et votre texte est prêt à l'emploi."
+            ]
+        },
+        {
+            "h2": "La dictée vocale en bref",
+            "specs": [
+                {
+                    "label": "Prix",
+                    "value": "Gratuit pour commencer — offres payantes pour un usage intensif"
+                },
+                {
+                    "label": "Compte requis",
+                    "value": "Non — l'inscription est facultative"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Aucune — fonctionne dans le navigateur"
+                },
+                {
+                    "label": "Entrée",
+                    "value": "Votre voix via le microphone — appuyez sur Démarrer et parlez"
+                },
+                {
+                    "label": "Sortie",
+                    "value": "Un texte ponctué et modifiable qui s'affiche pendant que vous parlez"
+                },
+                {
+                    "label": "Langues",
+                    "value": "100+"
+                },
+                {
+                    "label": "Export",
+                    "value": "Copie dans le presse-papiers, ou TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Appareils",
+                    "value": "Navigateurs sur ordinateur, tablette et mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Comment passer de la parole en texte en temps réel",
+            "steps": [
+                {
+                    "h3": "Appuyez sur Démarrer",
+                    "content": "Ouvrez TranscriptX et appuyez sur Démarrer. Autorisez l'accès au microphone la première fois que votre navigateur le demande."
+                },
+                {
+                    "h3": "Parlez naturellement",
+                    "content": "Dites ce que vous voulez écrire à un rythme normal. Inutile de parler lentement ou de marquer une pause entre les mots."
+                },
+                {
+                    "h3": "Voyez vos mots instantanément",
+                    "content": "Le texte s'affiche à l'écran pendant que vous parlez, avec la ponctuation ajoutée automatiquement : vous voyez votre phrase prendre forme en temps réel."
+                },
+                {
+                    "h3": "Modifiez et copiez",
+                    "content": "Appuyez sur Arrêter, corrigez ce qui doit l'être, puis copiez le texte dans votre e-mail, votre document ou votre messagerie — ou exportez-le en TXT, DOCX ou PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Voix en texte en temps réel : écrivez avec votre voix",
+            "content": [
+                "La conversion de la voix en texte en temps réel remplace le clavier par votre voix. Tout ce que vous taperiez d'habitude — une réponse, un paragraphe, une liste —, vous le dites à voix haute, et le texte s'écrit au fur et à mesure.",
+                "C'est particulièrement utile quand taper est lent ou peu pratique : sur un téléphone, sur une tablette sans clavier, quand vous avez les mains occupées, ou pour toute personne qui trouve la frappe fatigante ou douloureuse."
+            ]
+        },
+        {
+            "h2": "Saisie vocale instantanée, prête à modifier",
+            "content": [
+                "Avec la saisie vocale instantanée, rien à attendre — pas d'enregistrement d'abord et de conversion ensuite. Les mots sont à l'écran dès que vous les prononcez, avec la ponctuation ajoutée automatiquement, si bien que le résultat se lit comme un texte écrit et non comme une suite de mots.",
+                "La langue parlée est naturellement plus libre que l'écrit : attendez-vous à retoucher une phrase ici ou là. Le plus dur — passer de la page blanche à un brouillon complet — est déjà fait ; modifiez le texte directement, puis copiez-le dans n'importe quelle application ou exportez-le pour le conserver."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez écrire avec votre voix",
+            "intro": [
+                "Tout ce que vous taperiez, vous pouvez le dicter. Les usages les plus courants de la dictée vocale :"
+            ],
+            "items": [
+                {
+                    "h3": "E-mails et réponses",
+                    "content": "Dictez votre e-mail comme si vous l'expliquiez à quelqu'un, puis collez-le dans votre messagerie et envoyez-le. Les longues réponses prennent une fraction du temps."
+                },
+                {
+                    "h3": "Notes et listes de tâches",
+                    "content": "Notez une idée, un rappel ou une liste dès qu'elle vous vient, sans ouvrir de clavier."
+                },
+                {
+                    "h3": "Premiers jets",
+                    "content": "Racontez un article, un rapport ou une dissertation à voix haute pour obtenir rapidement un brouillon complet, puis peaufinez-le."
+                },
+                {
+                    "h3": "Messages et publications",
+                    "content": "Dictez un long message, une légende ou une publication pour les réseaux sociaux sur votre téléphone, sans taper chaque mot du pouce."
+                },
+                {
+                    "h3": "Pratique d'une langue",
+                    "content": "Parlez dans la langue que vous apprenez et vérifiez si les mots s'affichent comme prévu — un test rapide et honnête de votre prononciation."
+                },
+                {
+                    "h3": "Écriture mains libres et accessible",
+                    "content": "Pour les personnes à mobilité réduite, souffrant de troubles musculosquelettiques ou ayant du mal à taper, parler est une façon plus rapide et plus confortable d'écrire."
+                }
+            ]
+        },
+        {
+            "h2": "Conseils pour une meilleure dictée vocale",
+            "content": [
+                "Parlez clairement à votre rythme habituel, près du microphone. Un casque ou votre téléphone tenu près de la bouche donne de meilleurs résultats que le micro d'un ordinateur portable à l'autre bout de la pièce.",
+                "Un endroit calme aide plus que tout le reste. La musique de fond, la circulation ou d'autres voix peuvent se glisser dans le texte : dictez dans un lieu tranquille quand la précision compte.",
+                "Pensez en phrases plutôt qu'en mots isolés. Terminer une idée avant de faire une pause aide la ponctuation à tomber au bon endroit et vous laisse moins à corriger ensuite. TranscriptX prend en charge plus de 100 langues : vous pouvez dicter dans la langue dans laquelle vous écrivez."
+            ]
+        },
+        {
+            "h2": "Dictée vocale ou transcription en direct ?",
+            "intro": [
+                "Les deux transforment la parole en texte au moment où elle est prononcée. La différence : à qui appartiennent les mots que vous notez."
+            ],
+            "items": [
+                {
+                    "h3": "Choisissez la dictée vocale pour écrire avec votre voix",
+                    "content": "Quand les mots sont les vôtres — un e-mail, une note, un brouillon que vous rédigez —, c'est l'outil pour les dicter au lieu de les taper."
+                },
+                {
+                    "h3": "Choisissez la transcription en direct pour garder une trace de ce que disent les autres",
+                    "content": "Quand vous voulez un compte rendu écrit d'un cours, d'une interview ou d'une conversation, utilisez [Live Transcription](/fr/live-transcription). Si la parole est déjà enregistrée, importez-la plutôt dans l'outil [Voice to Text](/fr/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment fonctionne la dictée vocale en temps réel ?",
+                    "a": "Vous appuyez sur Démarrer et parlez dans votre microphone. TranscriptX reconnaît votre voix pendant que vous parlez et l'écrit instantanément à l'écran, en ajoutant la ponctuation au fur et à mesure."
+                },
+                {
+                    "q": "Cet outil de dictée vocale en ligne est-il gratuit ?",
+                    "a": "Oui, vous pouvez commencer gratuitement, sans inscription et sans rien installer. Créer un compte est facultatif, et des offres payantes sont disponibles si vous dictez beaucoup."
+                },
+                {
+                    "q": "La ponctuation est-elle ajoutée, et puis-je modifier le texte ?",
+                    "a": "Oui aux deux. La ponctuation est ajoutée pendant que vous parlez, pour que le texte se lise comme un écrit normal, et une fois arrêté tout est modifiable — corrigez un mot mal compris ou retouchez une phrase avant de la copier."
+                },
+                {
+                    "q": "Comment mettre le texte dans mon e-mail ou mon document ?",
+                    "a": "Copiez-le en un clic et collez-le dans n'importe quel e-mail, document ou application de messagerie, ou exportez-le en TXT, DOCX ou PDF."
+                },
+                {
+                    "q": "Dans quelles langues puis-je parler ?",
+                    "a": "Plus de 100 langues sont prises en charge : vous pouvez dicter dans la langue dans laquelle vous écrivez."
+                },
+                {
+                    "q": "Dois-je télécharger une application ?",
+                    "a": "Non. La dictée vocale fonctionne dans votre navigateur sur ordinateur, tablette ou mobile. Il suffit d'autoriser l'accès au microphone."
+                },
+                {
+                    "q": "Quelle différence entre la dictée vocale et la transcription en direct ?",
+                    "a": "La dictée vocale sert à dicter vos propres mots — écrire en parlant. La transcription en direct sert à garder une trace de ce que disent les autres, comme un cours ou une interview. Les deux fonctionnent en temps réel ; elles sont simplement conçues pour des usages différents."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Lancez la dictée vocale — votre texte en un instant",
+        "content": [
+            "Appuyez sur Démarrer, parlez, et TranscriptX transforme votre voix en texte en temps réel, dans plus de 100 langues, directement dans votre navigateur.",
+            "Dictez un e-mail, une note, un message ou un premier jet, puis modifiez-le, copiez-le ou exportez-le. Gratuit pour commencer, sans inscription, sans rien installer."
+        ]
+    }
+}

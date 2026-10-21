@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Scaricare Trascrizione YouTube — TXT, DOCX, PDF, SRT Gratis | TranscriptX",
+        "description": "Scaricare la trascrizione di YouTube gratis in TXT, DOCX, PDF o SRT. Incolla un link, ottieni la trascrizione e salva il file sul tuo dispositivo per usarlo offline. Senza registrazione.",
+        "schemaName": "TranscriptX — Strumento per Scaricare la Trascrizione di YouTube",
+        "schemaDescription": "Strumento gratuito per scaricare la trascrizione di un video YouTube pubblico come file TXT, DOCX, PDF o SRT. Incolla un link e salva la trascrizione sul tuo dispositivo, senza bisogno di un account.",
+        "ogTitle": "Scaricare Trascrizione YouTube — TXT, DOCX, PDF, SRT Gratis | TranscriptX",
+        "ogDescription": "Salva sul tuo dispositivo la trascrizione di qualsiasi video YouTube. Scaricala in TXT, DOCX, PDF o SRT, gratis e senza registrazione."
+    },
+    "hero": {
+        "h1": "Scaricare la Trascrizione di YouTube",
+        "subtitle": "Salva sul tuo dispositivo la trascrizione di qualsiasi video YouTube pubblico. Incolla un link, poi scarica il testo in TXT, DOCX, PDF o SRT per leggerlo offline, archiviarlo o inserirlo in un documento. Nessun account, nessuna installazione.",
+        "placeholder": "Incolla l'URL di un video YouTube...",
+        "button": "Ottieni e Scarica la Trascrizione"
+    },
+    "quickAnswer": {
+        "question": "Come scaricare la trascrizione di YouTube?",
+        "answer": "Incolla un link YouTube pubblico su TranscriptX e, quando la trascrizione è pronta, scegli un formato e scaricala. Puoi salvarla in TXT, DOCX, PDF o SRT sul tuo computer o sul telefono. Nessuna registrazione e niente da installare prima."
+    },
+    "sections": [
+        {
+            "h2": "Che Cosa Ti Dà una Trascrizione Scaricata",
+            "content": [
+                "Leggere una trascrizione sullo schermo va benissimo finché sei alla scrivania con una connessione. Scaricare la trascrizione di YouTube è quello a cui ricorri quando il testo deve sopravvivere alla scheda del browser — quando ti serve un file tuo, che sta sul tuo dispositivo e si apre con o senza internet.",
+                "Una trascrizione scaricata è un documento vero. Puoi metterla in una cartella di ricerca, allegarla a un'email, caricarla su un drive condiviso o stamparla. Smette di essere qualcosa che hai guardato una volta e diventa parte dei tuoi file. In altre parole, scaricare il testo di un video YouTube serve a conservare ciò che è stato detto.",
+                "TranscriptX prepara la trascrizione e ti consegna il download. Il video resta su YouTube; quello che arriva sul tuo dispositivo è solo il testo, nel formato che hai scelto."
+            ]
+        },
+        {
+            "h2": "Quale Formato Scaricare?",
+            "intro": [
+                "Il file giusto dipende interamente da quello che succederà dopo alla trascrizione. Quattro formati coprono quasi ogni caso."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — testo semplice",
+                    "content": "L'opzione più leggera e più portabile. Un file .txt si apre ovunque, non porta con sé formattazioni che intralciano ed è la cosa più pulita da incollare in un altro strumento o in un assistente AI. Scegli di scaricare la trascrizione YouTube in txt quando ti servono solo le parole — è anche il modo più diretto per scaricare i sottotitoli di YouTube in testo da leggere."
+                },
+                {
+                    "h3": "DOCX — documento modificabile",
+                    "content": "Si apre in Word, Google Docs e Pages. Scegli DOCX quando hai intenzione di rilavorare la trascrizione — titoli, evidenziazioni, commenti, revisioni tracciate — e di trattarla come un documento di lavoro invece che come testo grezzo."
+                },
+                {
+                    "h3": "PDF — documento fisso, pronto da condividere",
+                    "content": "Si vede identico su ogni dispositivo e non è pensato per essere modificato. Scegli di scaricare la trascrizione YouTube in pdf quando la stai mandando a qualcuno, la archivi come documento o la stampi, e vuoi che l'impaginazione resti esattamente com'è."
+                },
+                {
+                    "h3": "SRT — trascrizione con i tempi",
+                    "content": "Porta un riferimento temporale su ogni riga. Scegli SRT quando ti serve la trascrizione legata ai momenti del video — per creare un file di sottotitoli sincronizzati, per verificare una citazione contro l'audio o per qualsiasi strumento che si aspetta testo con i tempi."
+                }
+            ]
+        },
+        {
+            "h2": "Come Scaricare la Trascrizione di un Video YouTube",
+            "steps": [
+                {
+                    "h3": "Incolla il link YouTube",
+                    "content": "Copia l'URL del video pubblico che ti interessa e incollalo nel campo qui sopra. Non c'è nessun passaggio di registrazione e nessun file da caricare prima."
+                },
+                {
+                    "h3": "Lascia costruire la trascrizione",
+                    "content": "TranscriptX legge l'audio e scrive la trascrizione completa in oltre 100 lingue, con ogni voce identificata e la punteggiatura al posto giusto."
+                },
+                {
+                    "h3": "Scegli il formato",
+                    "content": "Scegli TXT, DOCX, PDF o SRT in base a quello che ci farai. Attiva prima i riferimenti temporali se vuoi esportare la trascrizione YouTube in SRT o averli dentro il file."
+                },
+                {
+                    "h3": "Scarica il file",
+                    "content": "Salvalo sul computer o sul telefono. Scaricare la trascrizione di un video YouTube finisce qui: adesso è un file tuo, pronto da aprire offline, condividere o archiviare."
+                }
+            ]
+        },
+        {
+            "h2": "Quando Ti Serve il File, Non Solo il Testo",
+            "intro": [
+                "Il download conta di più quando la trascrizione deve uscire dal browser ed entrare in un flusso di lavoro vero. Qualche esempio:"
+            ],
+            "items": [
+                {
+                    "h3": "Costruire un archivio di ricerca",
+                    "content": "Chi fa ricerca salva le trascrizioni di interviste, conferenze e documentari in una cartella di progetto, così le fonti restano insieme, cercabili e citabili molto dopo che i video sono stati visti."
+                },
+                {
+                    "h3": "Consegnare o archiviare un documento",
+                    "content": "Quando una trascrizione va consegnata, allegata o messa agli atti — per un corso, una nota legale o un report — la versione che viaggia è il PDF o il DOCX che hai scaricato."
+                },
+                {
+                    "h3": "Lavorare offline",
+                    "content": "Un TXT o un DOCX scaricato si apre in aereo, in treno o ovunque cada la connessione, così leggere e modificare non si ferma quando si ferma internet."
+                },
+                {
+                    "h3": "Passarla a un altro strumento",
+                    "content": "Certi software vogliono un file, non del testo incollato. Fare il download della trascrizione YouTube ti dà qualcosa da caricare — in uno strumento di traduzione, in un sistema documentale o in un editor."
+                },
+                {
+                    "h3": "Tenere una copia personale",
+                    "content": "I video vengono rimossi, resi privati o modificati. Salvare la trascrizione di YouTube è il modo di avere la tua copia di quello che è stato detto, qualunque cosa succeda all'originale."
+                }
+            ]
+        },
+        {
+            "h2": "Scaricare Trascrizioni in Oltre 100 Lingue",
+            "content": [
+                "Il download non è limitato all'inglese. TranscriptX trascrive il parlato in oltre 100 lingue e rileva la lingua da solo, quindi il file che salvi esce nella lingua in cui si parla nel video. Un video in italiano ti restituisce una trascrizione in italiano, con accenti e punteggiatura corretti; lo stesso vale per l'inglese, lo spagnolo o il giapponese.",
+                "Ogni formato porta la trascrizione completa, con le voci tenute separate, così un'intervista o una tavola rotonda scaricata si legge come un documento chiaro su chi ha detto cosa invece che come un blocco unico — qualunque dei quattro formati tu scelga. E scaricare la trascrizione di YouTube gratis vale allo stesso modo per tutte le lingue."
+            ]
+        },
+        {
+            "h2": "Quando uno Strumento Diverso Funziona Meglio",
+            "content": [
+                "Scaricare un file con la trascrizione è una possibilità fra tante, e ogni strumento TranscriptX è costruito attorno a un bisogno preciso. Se il tuo obiettivo è un po' diverso, uno di questi ti calza meglio.",
+                "Per leggere e copiare la trascrizione senza salvare nessun file, lo strumento [YouTube Transcript](/it/youtube-transcript) tiene tutto sullo schermo. Se invece quello che ti serve davvero è scaricare i sottotitoli di YouTube come file di sottotitoli sincronizzati per un programma di montaggio, e non un documento da leggere, il [YouTube Subtitle Downloader](/it/youtube-subtitle-downloader) esporta SRT e VTT proprio per questo. E se il testo integrale è più di quello che vuoi, il [YouTube Video Summarizer](/it/youtube-video-summarizer) riduce il video ai suoi punti chiave."
+            ]
+        },
+        {
+            "h2": "Domande Frequenti",
+            "items": [
+                {
+                    "q": "Come faccio a scaricare la trascrizione di un video YouTube?",
+                    "a": "Incolla il link del video su TranscriptX, aspetta che la trascrizione sia pronta, scegli TXT, DOCX, PDF o SRT e scaricala. Il file si salva direttamente sul tuo dispositivo e non serve nessun account."
+                },
+                {
+                    "q": "Scaricare la trascrizione di YouTube è gratis?",
+                    "a": "Sì. Sia ottenere la trascrizione sia scaricarla sono gratis, senza account da creare e senza limiti sulla durata del video."
+                },
+                {
+                    "q": "Quali formati posso scaricare?",
+                    "a": "Quattro: TXT per il testo semplice, DOCX per un documento modificabile, PDF per un documento fisso e SRT per la trascrizione con i riferimenti temporali."
+                },
+                {
+                    "q": "Posso scaricare la trascrizione con i riferimenti temporali?",
+                    "a": "Sì. Attiva i tempi prima di esportare la trascrizione YouTube, poi scarica l'SRT per conservarli, oppure includili dentro un file TXT o DOCX."
+                },
+                {
+                    "q": "Dove viene salvato il file?",
+                    "a": "Dove il tuo browser salva i download — la cartella download del computer o la memoria del telefono. Da lì puoi spostarlo, aprirlo offline o condividerlo."
+                },
+                {
+                    "q": "Posso scaricare la trascrizione di video lunghi?",
+                    "a": "Sì. Non c'è nessun limite di durata. La trascrizione completa di un video di più ore si scarica come un unico file, qualunque formato tu scelga."
+                },
+                {
+                    "q": "Devo installare qualcosa per scaricare?",
+                    "a": "No. Funziona tutto nel browser. Non c'è nessun software, estensione o app da installare prima di scaricare la trascrizione YouTube in txt o in qualsiasi altro formato."
+                },
+                {
+                    "q": "Quale formato è il migliore se devo modificarla dopo?",
+                    "a": "DOCX. Si apre in Word, Google Docs e Pages e mantiene la formattazione, quindi è il più facile da riscrivere. Scegli TXT se ti servono solo le parole grezze, o PDF per una versione che non deve cambiare."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Scarica la Tua Trascrizione YouTube Gratis",
+        "content": [
+            "Incolla il link di un video YouTube pubblico, lascia che TranscriptX costruisca la trascrizione in oltre 100 lingue e scaricala in TXT, DOCX, PDF o SRT.",
+            "La trascrizione diventa un file tuo — pronto da leggere offline, archiviare, stampare o condividere. Nessun account, nessuna installazione, nessun costo."
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "seo": {
+        "title": "Instagram Transcript API — Reels & Videos to Text | TranscriptX",
+        "description": "Send a public Instagram Reel or video link and get the spoken text back. Reels rarely have captions, so the audio is transcribed. 100+ languages, SRT/VTT.",
+        "schemaName": "TranscriptX Instagram Transcript API",
+        "schemaDescription": "API that returns the transcript of public Instagram Reels, video posts, IGTV and saved Live videos from their links, by transcribing the audio. Over 100 languages, timestamps and speaker labels. No Instagram login or Meta app review needed. Exports text, SRT and VTT.",
+        "ogTitle": "Instagram Transcript API — Reels & Videos to Text",
+        "ogDescription": "Send a public Reel link, get the transcript back — no captions needed."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" },
+        { "name": "Instagram Transcript API", "url": "/instagram-transcript-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, request with an Instagram Reel URL (cURL / Python / JavaScript), sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Instagram Transcript API for Reels and Videos",
+        "subtitle": "Turn Reels and Instagram videos into text from your own code. Send a public link and get back what is said, transcribed from the audio — because most Reels have no captions to read.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "Is there an official way to get Instagram Reel transcripts?",
+        "answer": "No. Instagram's APIs are for managing your own business or creator account and do not return the spoken text of other Reels. TranscriptX does it from a public link, in over 100 languages, with timestamps."
+    },
+    "sections": [
+        {
+            "h2": "Why Reels Need an Audio Transcript",
+            "content": [
+                "Instagram has no caption track to download. Captions on Reels are usually burned into the video as styled on-screen text, and the post caption underneath rarely matches what is said.",
+                "So the only reliable source is the audio. TranscriptX separates the voice from music and trending sounds, then transcribes what is actually spoken."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Works with", "value": "Reels, video posts, IGTV, saved Live" },
+                { "label": "Without captions", "value": "Supported — the normal case on Instagram" },
+                { "label": "Instagram login or Meta app review", "value": "Not needed" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Timestamps and speaker labels" },
+                { "label": "Output", "value": "Text, SRT, VTT" },
+                { "label": "Not supported", "value": "Private accounts and follower-only content" }
+            ]
+        },
+        {
+            "h2": "What Developers Build",
+            "items": [
+                { "h3": "Creator analytics", "content": "See which products and sponsors creators actually mention." },
+                { "h3": "Brand monitoring", "content": "Find spoken mentions that never appear in tags or hashtags." },
+                { "h3": "Content research", "content": "Study the scripts of top Reels in a niche." },
+                { "h3": "Repurposing", "content": "Turn Reels into posts, newsletters and subtitles for other platforms." }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Do I need an Instagram API key?", "a": "No. Just the public link and a TranscriptX API key." },
+                { "q": "What content can I transcribe?", "a": "Public Reels, video posts, IGTV and saved Live videos." },
+                { "q": "Can I get subtitles for a Reel?", "a": "Yes, as SRT or VTT." },
+                { "q": "Is there a version without code?", "a": "Yes — the free [Instagram Transcript](/instagram-transcript) tool." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn Reels Into Text",
+        "content": [
+            "Any public Reel or video, no captions needed. Also tracking Facebook or TikTok? See the [Facebook Transcript API](/facebook-transcript-api) and [TikTok Transcript API](/tiktok-transcript-api)."
+        ]
+    }
+}

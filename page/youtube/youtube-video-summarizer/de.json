@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "title": "YouTube Video zusammenfassen — kostenlos mit KI | TranscriptX",
+        "description": "YouTube Video kostenlos mit KI zusammenfassen. Link einfügen und in Sekunden eine Zusammenfassung mit den Kernpunkten bekommen, in über 100 Sprachen. Ohne Anmeldung, ohne Installation.",
+        "schemaName": "TranscriptX YouTube Zusammenfassung Tool",
+        "schemaDescription": "Kostenloses KI-Tool, das öffentliche YouTube-Videos zu den wichtigsten Kernpunkten und einem kurzen Überblick verdichtet, in über 100 Sprachen. Link einfügen und die Kernaussagen in Sekunden lesen — ganz ohne Konto.",
+        "ogTitle": "YouTube Video zusammenfassen — kostenlos mit KI | TranscriptX",
+        "ogDescription": "Hol dir die Kernpunkte jedes YouTube-Videos in Sekunden. Link einfügen und das Video von KI zusammenfassen lassen — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "YouTube Video zusammenfassen",
+        "subtitle": "Verstehe, worum es in einem YouTube-Video geht, ohne es ganz anzusehen. Füge einen Link ein, und die KI liest alles Gesagte und reicht dir die Kernideen als kurze, überfliegbare Zusammenfassung zurück — in über 100 Sprachen. Kein Konto, keine Installation.",
+        "placeholder": "YouTube-Video-URL einfügen...",
+        "button": "Video zusammenfassen"
+    },
+    "quickAnswer": {
+        "question": "Wie kann ich ein YouTube Video zusammenfassen?",
+        "answer": "Füge einen öffentlichen YouTube-Link in TranscriptX ein: Das Tool liest das komplette Video und schreibt in Sekunden eine kurze Zusammenfassung der wichtigsten Punkte. Den Überblick gibt es in über 100 Sprachen, du erfasst ein langes Video also, ohne es von vorne bis hinten anzusehen. Ein Konto brauchst du dafür nicht."
+    },
+    "sections": [
+        {
+            "h2": "Was dir eine Video-Zusammenfassung gibt",
+            "content": [
+                "Eine Zusammenfassung ist nicht das ganze Video im Kleinformat — sie ist das Wenige, worauf es wirklich ankam, herausgezogen und klar aufgeschrieben. Statt vierzig Minuten Anlauf, Abschweifungen und Wiederholungen bekommst du die Handvoll Gedanken, um die es in dem Video tatsächlich ging.",
+                "Die KI liest alles Gesagte, unterscheidet die tragenden Stellen von der Füllmasse und gibt dir das Fazit, die Hauptargumente und die brauchbaren Einzelheiten zurück — in der Zeit, die du für ein paar kurze Absätze brauchst. Genau so entsteht eine YouTube Video Zusammenfassung, die nichts Wesentliches verliert.",
+                "Das ist eine andere Aufgabe als ein Transkript. Ein Transkript reicht dir jedes einzelne Wort; eine Zusammenfassung entscheidet, welche Wörter deine Zeit wert waren. Als YouTube Zusammenfassung Tool ist TranscriptX darauf gebaut, ein Video auf das Wesentliche zusammenzufassen — greif dazu, wenn du die Kernaussage willst und nicht den vollen Text."
+            ]
+        },
+        {
+            "h2": "Warum zusammenfassen statt alles ansehen",
+            "content": [
+                "Die meisten langen Videos hätten kurz sein können. Ein Test von zwanzig Minuten ist oft zwei Minuten Urteil, verpackt in achtzehn Minuten Vorlauf. Ein einstündiger Vortrag dreht sich meist um drei oder vier Punkte. Alles anzusehen, um diese Punkte zu finden, ist der langsame Weg.",
+                "Wenn du ein YouTube Video zusammenfassen lässt, entscheidest du in unter einer Minute, ob es deine volle Aufmerksamkeit verdient. Manchmal war die Kernaussage schon alles, was du brauchtest, und du ziehst weiter. Manchmal zeigt sie dir genau, welchen Abschnitt du dir richtig ansehen solltest. So oder so hast du eine Minute statt einer Stunde gebraucht, um das herauszufinden.",
+                "Dieser Tausch ist der ganze Wert: Du behältst die Information und gibst die Zeit zurück."
+            ]
+        },
+        {
+            "h2": "So kannst du ein YouTube Video mit KI zusammenfassen",
+            "steps": [
+                {
+                    "h3": "Den Link zum Video einfügen",
+                    "content": "Kopiere die URL des öffentlichen YouTube-Videos und füge sie oben in das Feld ein. Keine Anmeldung, nichts zu installieren."
+                },
+                {
+                    "h3": "Die KI liest das komplette Video",
+                    "content": "TranscriptX verarbeitet alles Gesagte von Anfang bis Ende — nicht nur die Beschreibung oder die ersten Minuten — damit die Zusammenfassung wirklich das ganze Video abbildet."
+                },
+                {
+                    "h3": "Die Zusammenfassung lesen",
+                    "content": "In Sekunden bekommst du einen kurzen Überblick und die Kernpunkte, klar formuliert in über 100 Sprachen. Du überfliegst sie in der Zeit, die eine einzige Szene gekostet hätte."
+                },
+                {
+                    "h3": "Bei Bedarf tiefer gehen",
+                    "content": "Zeigt die Zusammenfassung, dass sich das Video lohnt, springst du zurück zu den entscheidenden Stellen — oder holst dir das vollständige Transkript, wenn du jedes Wort brauchst."
+                }
+            ]
+        },
+        {
+            "h2": "Was in einer guten Zusammenfassung steht",
+            "intro": [
+                "Eine brauchbare Zusammenfassung ist mehr als ein vager Satz. TranscriptX zieht genau die Teile heraus, mit denen du das Video wirklich nutzen kannst:"
+            ],
+            "items": [
+                {
+                    "h3": "Die zentrale Kernaussage",
+                    "content": "Das eine Fazit oder die eine Antwort, um die das Video gebaut ist — gleich vorneweg gestellt, damit du sie sofort hast."
+                },
+                {
+                    "h3": "Die Kernpunkte",
+                    "content": "Die Handvoll Gedanken, Argumente oder Schritte, die den Inhalt tragen, der Reihe nach aufgelistet zum Überfliegen."
+                },
+                {
+                    "h3": "Die konkreten Einzelheiten",
+                    "content": "Die Zahlen, Namen, Werkzeuge oder Empfehlungen, die man sich merken sollte — das Konkrete, nicht nur das allgemeine Thema."
+                },
+                {
+                    "h3": "Der Aufbau des Videos",
+                    "content": "Ein Gefühl dafür, wie das Video von einem Gedanken zum nächsten läuft, damit du weißt, welchen Abschnitt du dir noch einmal ansiehst, wenn du die volle Fassung willst."
+                }
+            ]
+        },
+        {
+            "h2": "Für wen sich Zusammenfassungen lohnen",
+            "intro": [
+                "Wer mehr Videos ansieht, als er Zeit hat, gewinnt mit einer Zusammenfassung. Ein paar der häufigsten Fälle:"
+            ],
+            "items": [
+                {
+                    "h3": "Studierende und Lernende",
+                    "content": "Vor einer Vorlesung oder einem Tutorial in einer Minute klären, ob es das Gesuchte abdeckt, statt eine Stunde zu investieren — und die Kernpunkte direkt in die Lernnotizen übernehmen."
+                },
+                {
+                    "h3": "Berufstätige, die dranbleiben",
+                    "content": "Den Gehalt eines Konferenzvortrags, einer Bilanzkonferenz oder eines Branchen-Interviews zwischen zwei Meetings mitnehmen, ohne die volle Laufzeit einzuplanen."
+                },
+                {
+                    "h3": "Recherchierende beim Sichten von Quellen",
+                    "content": "Einen ganzen Stapel Videos schnell zusammenfassen, um herauszufinden, welche wenigen es wert sind, ganz angesehen und sauber zitiert zu werden."
+                },
+                {
+                    "h3": "Creator und Marketer",
+                    "content": "Die Kernbotschaft aus einem langen Video ziehen und daraus einen Beitrag, ein Skript oder eine Reihe von Argumenten formen."
+                }
+            ]
+        },
+        {
+            "h2": "Videos in über 100 Sprachen zusammenfassen",
+            "content": [
+                "Das Tool arbeitet in über 100 Sprachen und erkennt die gesprochene Sprache von selbst — ein deutschsprachiges Video kommt als deutsche Zusammenfassung zurück, österreichischer und Schweizer Einschlag eingeschlossen, und ein japanisches ebenso als Text, den du lesen kannst. Ein YouTube Video online zusammenfassen zu lassen hängt damit nicht davon ab, welche Sprache im Clip gesprochen wird.",
+                "Eine YouTube Zusammenfassung per KI überbrückt so auch Sprachgrenzen: Ein Video in der einen Sprache lässt sich über einen klaren Überblick trotzdem verstehen, und eine lange Aufnahme in einer Sprache, die du gerade erst lernst, wird zu etwas, das du in einem einzigen Absatz erfasst."
+            ]
+        },
+        {
+            "h2": "Wenn du mehr brauchst als die Zusammenfassung",
+            "content": [
+                "Eine Zusammenfassung ist der schnellste Einstieg in ein Video, aber manchmal brauchst du die Einzelheiten, die dahinterliegen. Für jeden dieser Fälle hat TranscriptX ein eigenes Tool, damit du so tief gehen kannst, wie die Aufgabe es verlangt.",
+                "Wenn die Zusammenfassung zeigt, dass sich die volle Lektüre lohnt, gibt dir das Tool [YouTube Transcript](/de/youtube-transcript) jedes einzelne Wort, und [YouTube Transkript herunterladen](/de/download-youtube-transcript) sichert genau diesen Text als Datei zum Behalten."
+            ]
+        },
+        {
+            "h2": "Häufige Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich ein YouTube Video kostenlos zusammenfassen?",
+                    "a": "Füge den YouTube-Link in TranscriptX ein, und das Video wird ohne Kosten zusammengefasst. Es ist komplett kostenlos, ohne Anmeldung, ohne Installation und ohne Begrenzung der Videolänge."
+                },
+                {
+                    "q": "Liest das Tool das ganze Video oder nur die Beschreibung?",
+                    "a": "Das ganze Video. TranscriptX verarbeitet alles Gesagte von Anfang bis Ende, die Zusammenfassung bildet also den kompletten Inhalt ab und nicht nur den Titel oder die ersten Minuten."
+                },
+                {
+                    "q": "Wie lang ist die Zusammenfassung?",
+                    "a": "Kurz genug, um sie in deutlich unter einer Minute zu lesen — ein knapper Überblick plus die Kernpunkte statt einer ganzen Textseite. Das Ziel ist, dir Zeit zu sparen, nicht dir mehr zu lesen zu geben."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen einer Zusammenfassung und einem Transkript?",
+                    "a": "Ein Transkript ist jedes gesprochene Wort, vollständig ausgeschrieben. Eine Zusammenfassung sind nur die Hauptpunkte, verdichtet. Nimm das Tool für die Zusammenfassung, wenn du die Kernaussage willst, und das Transkript-Tool, wenn du den vollständigen Text brauchst."
+                },
+                {
+                    "q": "In welchen Sprachen funktioniert es?",
+                    "a": "In über 100. TranscriptX erkennt die gesprochene Sprache automatisch und schreibt die Zusammenfassung so, dass du sie lesen kannst — egal, in welcher Sprache das Video ist."
+                },
+                {
+                    "q": "Kann ich ein langes Video oder einen Podcast zusammenfassen?",
+                    "a": "Ja. Du kannst YouTube Videos jeder Länge zusammenfassen, und gerade bei langen Videos und Podcasts hilft es am meisten — auch eine mehrstündige Aufnahme kommt als kurze Reihe von Kernpunkten zurück."
+                },
+                {
+                    "q": "Brauche ich ein Konto oder eine Software?",
+                    "a": "Nein. Der Summarizer läuft im Browser, ohne Konto und ohne Installation. Link einfügen und die Zusammenfassung lesen."
+                },
+                {
+                    "q": "Bekomme ich das vollständige Transkript, wenn die Zusammenfassung nicht reicht?",
+                    "a": "Ja. Wenn du jedes Wort brauchst statt nur der Höhepunkte, holst du dir mit dem YouTube Transkript Tool den kompletten Text desselben Videos."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Video kostenlos zusammenfassen",
+        "content": [
+            "Füge einen öffentlichen YouTube-Link ein, und TranscriptX liest das komplette Video und reicht dir die Kernpunkte als kurze Zusammenfassung — in über 100 Sprachen, in Sekunden.",
+            "Nimm die Kernaussage mit, entscheide, was sich in voller Länge lohnt, und behalte die Information, ohne die Zeit dafür auszugeben. So einfach lässt sich YouTube zusammenfassen — kein Konto, keine Installation, keine Kosten."
+        ]
+    }
+}

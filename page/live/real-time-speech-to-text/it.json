@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Dettatura vocale — Scrivi con la voce, gratis online",
+        "description": "Premi Avvia, parla e le tue parole compaiono subito come testo modificabile. Dettatura vocale gratuita per appunti, email e bozze. Senza iscrizione.",
+        "schemaName": "TranscriptX Dettatura vocale",
+        "schemaDescription": "Strumento online di dettatura vocale da voce a testo in tempo reale. Premi Avvia, parla al microfono e le tue parole compaiono subito come testo punteggiato e modificabile, in oltre 100 lingue. Copia il testo dove vuoi o esportalo in TXT, DOCX o PDF. Funziona nel browser e per iniziare non serve iscriversi.",
+        "ogTitle": "Dettatura vocale — Scrivi con la voce, gratis online",
+        "ogDescription": "Scrivi con la voce. Premi Avvia, parla e le tue parole diventano testo all'istante: dettatura vocale gratis per iniziare, in 100+ lingue, senza iscrizione."
+    },
+    "hero": {
+        "h1": "Dettatura vocale – Scrivi con la tua voce",
+        "subtitle": "Scrivi con la voce. Premi Avvia, parla e le tue parole compaiono subito sullo schermo come testo punteggiato e modificabile. Detta un'email, un appunto, un messaggio o una prima bozza più in fretta di quanto potresti digitarli, poi copia il testo dove vuoi o esportalo in TXT, DOCX o PDF. Gratis per iniziare, in oltre 100 lingue, senza installare nulla.",
+        "placeholder": "Premi Avvia e inizia a parlare...",
+        "button": "Inizia a parlare"
+    },
+    "quickAnswer": {
+        "question": "Come si usa la dettatura vocale?",
+        "answer": "Apri TranscriptX, premi Avvia, consenti l'accesso al microfono e parla. Le tue parole compaiono come testo all'istante mentre parli. Correggi ciò che serve, poi copia il testo nella tua email o nel documento, oppure esportalo. È gratis per iniziare, senza iscrizione e senza nulla da installare."
+    },
+    "sections": [
+        {
+            "h2": "Che cos'è la dettatura vocale?",
+            "content": [
+                "La dettatura vocale ti permette di scrivere parlando. Premi Avvia, dici ciò che vuoi scrivere e le parole compaiono sullo schermo mentre le pronunci: niente tastiera, niente attese, nessun file da elaborare.",
+                "Si tratta di dettare: le parole sulla pagina sono le tue. Non stai registrando qualcun altro per dopo; stai componendo un'email, un appunto, un messaggio o una bozza usando la voce al posto delle dita.",
+                "Il vantaggio è la velocità. La maggior parte delle persone parla da tre a quattro volte più velocemente di quanto scriva, quindi dire un pensiero ad alta voce e vederlo sulla pagina è molto più rapido che digitarlo parola per parola. Passare da voce a testo in tempo reale unisce la velocità del parlato al risultato della scrittura.",
+                "TranscriptX lo fa nel browser, gratis per iniziare. Premi Avvia, parla e il tuo testo è pronto all'uso."
+            ]
+        },
+        {
+            "h2": "La dettatura vocale in breve",
+            "specs": [
+                {
+                    "label": "Prezzo",
+                    "value": "Gratis per iniziare — piani a pagamento per un uso più intenso"
+                },
+                {
+                    "label": "Account richiesto",
+                    "value": "No — l'iscrizione è facoltativa"
+                },
+                {
+                    "label": "Installazione",
+                    "value": "Nessuna — funziona nel browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "La tua voce tramite il microfono — premi Avvia e parla"
+                },
+                {
+                    "label": "Output",
+                    "value": "Testo punteggiato e modificabile che compare mentre parli"
+                },
+                {
+                    "label": "Lingue",
+                    "value": "100+"
+                },
+                {
+                    "label": "Esportazione",
+                    "value": "Copia negli appunti, oppure TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Dispositivi",
+                    "value": "Browser desktop, tablet e mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Come passare da voce a testo in tempo reale",
+            "steps": [
+                {
+                    "h3": "Premi Avvia",
+                    "content": "Apri TranscriptX e premi Avvia. Consenti l'accesso al microfono la prima volta che il browser lo chiede."
+                },
+                {
+                    "h3": "Parla in modo naturale",
+                    "content": "Di' ciò che vuoi scrivere a un ritmo normale. Non serve parlare lentamente né fare pause tra una parola e l'altra."
+                },
+                {
+                    "h3": "Vedi subito le tue parole",
+                    "content": "Il testo compare sullo schermo mentre parli, con la punteggiatura aggiunta automaticamente, così vedi la frase prendere forma in tempo reale."
+                },
+                {
+                    "h3": "Modifica e copia",
+                    "content": "Premi Stop, sistema ciò che serve, poi copia il testo nella tua email, nel documento o in chat, oppure esportalo in TXT, DOCX o PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Scrivere con la voce: la tastiera diventa superflua",
+            "content": [
+                "Scrivere con la voce sostituisce la tastiera. Tutto ciò che di solito digiteresti — una risposta, un paragrafo, un elenco — lo dici ad alta voce, e la digitazione vocale lo mette per iscritto man mano.",
+                "È particolarmente utile quando digitare è lento o scomodo: sul telefono, su un tablet senza tastiera, quando hai le mani occupate o per chi trova la scrittura a tastiera faticosa o dolorosa."
+            ]
+        },
+        {
+            "h2": "Dettatura vocale online, pronta da modificare",
+            "content": [
+                "Con la dettatura vocale online non c'è nulla da aspettare: niente registrazione da convertire in seguito. Le parole sono sullo schermo nel momento in cui le pronunci, con la punteggiatura aggiunta automaticamente, così il risultato si legge come un testo scritto e non come un flusso di parole.",
+                "Il parlato è per natura più libero della scrittura, quindi metti in conto di sistemare qualche frase qua e là. La parte difficile — passare da una pagina bianca a una bozza completa — è già fatta: modifica il testo direttamente, poi copialo in qualsiasi app o esportalo per conservarlo."
+            ]
+        },
+        {
+            "h2": "Cosa puoi scrivere con la voce",
+            "intro": [
+                "Tutto ciò che scriveresti a tastiera puoi dettarlo. Gli usi più comuni della dettatura vocale:"
+            ],
+            "items": [
+                {
+                    "h3": "Email e risposte",
+                    "content": "Detta la tua email come la spiegheresti a qualcuno, poi incollala nella casella di posta e inviala. Le risposte lunghe richiedono una frazione del tempo."
+                },
+                {
+                    "h3": "Appunti e liste di cose da fare",
+                    "content": "Fissa un'idea, un promemoria o una lista nel momento in cui ti viene in mente, senza aprire la tastiera."
+                },
+                {
+                    "h3": "Prime bozze",
+                    "content": "Racconta a voce un articolo, una relazione o un saggio per ottenere in fretta una bozza completa, poi rifiniscila fino alla versione finale."
+                },
+                {
+                    "h3": "Messaggi e post",
+                    "content": "Detta un messaggio lungo, una didascalia o un post per i social dal telefono, senza digitare ogni parola con i pollici."
+                },
+                {
+                    "h3": "Pratica delle lingue",
+                    "content": "Parla nella lingua che stai imparando e verifica se le parole escono come volevi: un controllo rapido e sincero sulla tua pronuncia."
+                },
+                {
+                    "h3": "Scrittura a mani libere e accessibile",
+                    "content": "Per chi ha una mobilità ridotta, soffre di tendiniti o ha difficoltà a digitare, parlare è un modo più rapido e comodo per scrivere."
+                }
+            ]
+        },
+        {
+            "h2": "Consigli per una dettatura migliore",
+            "content": [
+                "Parla chiaramente al tuo ritmo normale, vicino al microfono. Un auricolare con microfono o il telefono tenuto vicino alla bocca danno risultati più puliti del microfono di un portatile dall'altra parte della stanza.",
+                "Un ambiente silenzioso aiuta più di ogni altra cosa. Musica di sottofondo, traffico o altre voci possono finire nel testo, quindi detta in un posto tranquillo quando la precisione conta.",
+                "Pensa per frasi, non per singole parole. Completare un pensiero prima di fare una pausa aiuta la punteggiatura a cadere al posto giusto e ti lascia meno da sistemare dopo. TranscriptX supporta oltre 100 lingue, così puoi dettare nella lingua in cui scrivi."
+            ]
+        },
+        {
+            "h2": "Dettatura vocale o resoconto di ciò che dicono gli altri?",
+            "intro": [
+                "Entrambi trasformano il parlato in testo mentre viene pronunciato. La differenza è di chi sono le parole che metti per iscritto."
+            ],
+            "items": [
+                {
+                    "h3": "Scegli la dettatura vocale per scrivere con la tua voce",
+                    "content": "Quando le parole sono tue — un'email, un appunto, una bozza che stai componendo — questo è lo strumento per dettarle invece di digitarle."
+                },
+                {
+                    "h3": "Scegli lo strumento live per registrare ciò che dicono gli altri",
+                    "content": "Quando ti serve un resoconto scritto di una lezione, un'intervista o una conversazione, usa [Live Transcription](/it/live-transcription). Se il parlato è già registrato, caricalo invece nello strumento [Voice to Text](/it/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Domande frequenti",
+            "items": [
+                {
+                    "q": "Come funziona la dettatura vocale?",
+                    "a": "Premi Avvia e parla al microfono. TranscriptX riconosce la tua voce mentre parli e la scrive all'istante sullo schermo, aggiungendo la punteggiatura man mano."
+                },
+                {
+                    "q": "Questo strumento di digitazione vocale è gratis?",
+                    "a": "Sì, puoi iniziare gratis, senza iscrizione e senza nulla da installare. Creare un account è facoltativo e, se detti molto, sono disponibili piani a pagamento."
+                },
+                {
+                    "q": "Aggiunge la punteggiatura? Posso modificare il testo?",
+                    "a": "Sì, entrambe le cose. La punteggiatura viene aggiunta mentre parli, così il testo si legge come una normale scrittura, e una volta fermato tutto è modificabile: correggi una parola capita male o sistema una frase prima di copiarla."
+                },
+                {
+                    "q": "Come porto il testo nella mia email o in un documento?",
+                    "a": "Copialo con un clic e incollalo in qualsiasi email, documento o app di chat, oppure esportalo in TXT, DOCX o PDF."
+                },
+                {
+                    "q": "In quali lingue posso parlare?",
+                    "a": "Sono supportate oltre 100 lingue, così puoi dettare nella lingua in cui scrivi."
+                },
+                {
+                    "q": "Devo scaricare un'app?",
+                    "a": "No. La dettatura vocale funziona nel browser su computer, tablet o smartphone. Devi solo consentire l'accesso al microfono."
+                },
+                {
+                    "q": "Qual è la differenza tra dettatura vocale e Live Transcription?",
+                    "a": "La dettatura vocale serve a scrivere le tue parole parlando. Live Transcription serve a registrare ciò che dicono gli altri, come una lezione o un'intervista. Entrambe funzionano in tempo reale, ma sono pensate per compiti diversi."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Inizia a parlare — Dettatura vocale con testo immediato",
+        "content": [
+            "Premi Avvia, parla e TranscriptX trasforma la tua voce in testo in tempo reale, in oltre 100 lingue, direttamente nel browser.",
+            "Detta un'email, un appunto, un messaggio o una prima bozza, poi modificalo, copialo o esportalo. Gratis per iniziare, senza iscrizione, senza nulla da installare."
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "seo": {
+        "title": "TikTok Transcript API — Get Video Text From a Link | TranscriptX",
+        "description": "Send a public TikTok link and get the spoken text back, even without captions. No TikTok developer approval. 100+ languages, timestamps, SRT/VTT.",
+        "schemaName": "TranscriptX TikTok Transcript API",
+        "schemaDescription": "API that returns the transcript of any public TikTok video from its link by transcribing the audio, in over 100 languages, with timestamps and speaker labels. No TikTok account or developer approval needed. Exports text, SRT and VTT.",
+        "ogTitle": "TikTok Transcript API — Get Video Text From a Link",
+        "ogDescription": "Send a TikTok link, get the transcript back — with or without captions."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" },
+        { "name": "TikTok Transcript API", "url": "/tiktok-transcript-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, request with a TikTok URL (cURL / Python / JavaScript), sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "TikTok Transcript API – Straight From the Audio",
+        "subtitle": "Turn TikToks into text from your own code. Send a public link and get back what is actually said — transcribed from the audio, so it works whether or not the creator added captions.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "Does TikTok have a transcript API?",
+        "answer": "No. TikTok's developer APIs need approval for specific use cases and do not return the transcript of any public video. TranscriptX does it from a link: send the URL, get the spoken text with timestamps, in over 100 languages."
+    },
+    "sections": [
+        {
+            "h2": "Why the Audio, Not the Captions",
+            "content": [
+                "Many creators never add captions, auto-captions are not always on, and on-screen text rarely matches what is said. Reading captions leaves gaps.",
+                "TranscriptX listens to the video itself. Speech is separated from music and trending sounds, and each voice in a duet or stitch is labelled."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Input", "value": "Any public TikTok video URL" },
+                { "label": "Without captions", "value": "Supported" },
+                { "label": "TikTok developer approval", "value": "Not needed" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Timestamps and speaker labels" },
+                { "label": "Output", "value": "Text, SRT, VTT" },
+                { "label": "Not supported", "value": "Private videos and accounts" }
+            ]
+        },
+        {
+            "h2": "What Developers Build",
+            "items": [
+                { "h3": "Social listening", "content": "Track what creators say about a brand or category, not just their hashtags." },
+                { "h3": "Hook and trend research", "content": "Collect the scripts of viral videos and compare how they open." },
+                { "h3": "Influencer vetting", "content": "Review what a creator says before a partnership." },
+                { "h3": "AI pipelines", "content": "Feed transcripts to an LLM, or let an agent fetch them via MCP." }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Do I need a TikTok account?", "a": "No. Just the public video link and a TranscriptX API key." },
+                { "q": "Which languages work?", "a": "Over 100, detected automatically — a mixed feed needs no per-request settings." },
+                { "q": "Can I get subtitles?", "a": "Yes, as SRT or VTT." },
+                { "q": "Is there a version without code?", "a": "Yes — the free [TikTok Transcript](/tiktok-transcript) tool." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn TikToks Into Data",
+        "content": [
+            "Any public TikTok, captioned or not. Tracking other platforms too? See the [Instagram Transcript API](/instagram-transcript-api) or the [Transcription API](/transcription-api)."
+        ]
+    }
+}

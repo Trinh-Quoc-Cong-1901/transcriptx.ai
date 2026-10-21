@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Voz a Texto — Convierte Voz y Grabaciones a Texto Gratis | TranscriptX",
+        "description": "Convierte voz a texto online gratis. Graba directamente en el navegador o sube una grabación de voz y obtén texto preciso en más de 100 idiomas. Exporta a TXT, DOCX, PDF. Sin registro.",
+        "schemaName": "TranscriptX — Convertidor de Voz a Texto",
+        "schemaDescription": "Herramienta online gratuita de voz a texto que convierte las palabras habladas y las grabaciones de voz en texto escrito en más de 100 idiomas, con los hablantes identificados y exportación a TXT, DOCX, PDF, SRT y VTT. Graba directamente en el navegador o sube una grabación, sin necesidad de cuenta.",
+        "ogTitle": "Voz a Texto — Convierte Voz y Grabaciones a Texto Gratis | TranscriptX",
+        "ogDescription": "Convierte tu voz en texto. Graba en el navegador o sube una grabación de voz y obtén texto preciso en más de 100 idiomas, gratis y sin registro."
+    },
+    "hero": {
+        "h1": "Voz a Texto",
+        "subtitle": "Convierte las palabras habladas en texto escrito. Graba directamente en el navegador o sube una grabación de voz, y TranscriptX la escribe en más de 100 idiomas, con cada hablante identificado. Dicta una nota, transcribe un memo o pasa una conversación grabada a texto — y luego expórtalo a TXT, DOCX, PDF, SRT o VTT. Sin cuenta y sin instalar nada.",
+        "placeholder": "Graba tu voz o sube una grabación...",
+        "button": "Convertir Voz a Texto"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo convierto voz a texto?",
+        "answer": "Graba tu voz directamente en TranscriptX o sube una grabación de voz, y convertirá las palabras habladas en texto escrito en segundos, en más de 100 idiomas. Después puedes leer, editar, copiar o exportar el texto. No hace falta registrarse y no tienes que instalar nada."
+    },
+    "sections": [
+        {
+            "h2": "¿Qué Es Voz a Texto?",
+            "content": [
+                "Voz a texto convierte las palabras habladas en palabras escritas. Hablas — o reproduces una grabación de alguien hablando — y, en lugar de teclear, recuperas las palabras como texto que puedes leer, editar y guardar. Es la misma idea que el dictado de tu móvil, pero funciona con grabaciones enteras, en el navegador, sin límite de duración y sin cuenta.",
+                "Donde se diferencia de trabajar con un archivo de audio es en el punto de partida. Voz a texto está pensado alrededor de la palabra hablada tal y como ocurre o tal y como la capturaste: una nota de voz dictada mientras paseas, una reunión que grabaste con el móvil, una idea que razonaste en voz alta porque hablar era más rápido que escribir. La entrada es tu voz o una grabación de voz, no un archivo multimedia que hayas descargado.",
+                "El valor está en que hablar es más rápido que teclear, pero el texto es más útil que el audio. Voz a texto se sitúa entre ambos — obtienes la velocidad de hablar y la forma buscable, editable y compartible de la escritura, sin tener que transcribir tú mismo.",
+                "TranscriptX hace esto gratis, directamente en el navegador, tanto si grabas en el momento como si subes una grabación que ya tienes."
+            ]
+        },
+        {
+            "h2": "Voz a Texto de un Vistazo",
+            "specs": [
+                {
+                    "label": "Precio",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Cuenta necesaria",
+                    "value": "No"
+                },
+                {
+                    "label": "Instalación",
+                    "value": "Ninguna — funciona en el navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Graba en directo en el navegador o sube una grabación de voz"
+                },
+                {
+                    "label": "Límite de duración de la grabación",
+                    "value": "Ninguno"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Más de 100, detectados automáticamente"
+                },
+                {
+                    "label": "Separación de hablantes",
+                    "value": "Sí — cada hablante queda identificado"
+                },
+                {
+                    "label": "Marcas de tiempo",
+                    "value": "Opcionales — se activan o desactivan en cada transcripción"
+                },
+                {
+                    "label": "Formatos de exportación",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de escritorio, tablet y móvil"
+                }
+            ]
+        },
+        {
+            "h2": "Cómo Convertir Voz a Texto",
+            "steps": [
+                {
+                    "h3": "Graba o sube",
+                    "content": "Pulsa grabar y habla directamente en el navegador, o sube una grabación de voz que hicieras antes con el móvil o con una grabadora. No hay límite en el tiempo que puedes hablar."
+                },
+                {
+                    "h3": "La herramienta escucha y lo escribe",
+                    "content": "TranscriptX detecta por sí solo el idioma hablado entre más de 100 idiomas, y convierte el habla en texto con puntuación, identificando a cada hablante cuando hay más de uno."
+                },
+                {
+                    "h3": "Lee y edita el texto",
+                    "content": "Las palabras aparecen como texto que puedes pulir sobre la marcha — recorta un arranque en falso, corrige un nombre o convierte una frase que divaga en una frase clara."
+                },
+                {
+                    "h3": "Copia o exporta",
+                    "content": "Copia el texto en una nota, un documento o un mensaje, o expórtalo como TXT, DOCX, PDF, SRT o VTT para guardarlo o compartirlo."
+                }
+            ]
+        },
+        {
+            "h2": "Graba en Directo o Sube una Grabación de Voz",
+            "content": [
+                "Voz a texto funciona de dos maneras, y ambas parten de tu voz y no de un archivo descargado.",
+                "Graba en directo cuando las palabras todavía no existen. Abre la herramienta, empieza a grabar y habla — una idea que quieres dejar por escrito, una nota para ti mismo, un borrador que prefieres decir antes que teclear. En cuanto paras, ese habla es texto que puedes editar y guardar. Es la vía rápida cuando piensas en voz alta y quieres capturar la idea sin acercarte al teclado; pasar de voz a texto online es cuestión de segundos.",
+                "Sube una grabación cuando la voz ya está capturada. Una nota de voz de tu móvil, un audio de una app de mensajería, una conversación que grabaste antes — súbela y TranscriptX la transcribe entera. En cualquiera de los dos casos no hay tope de duración, así que un recordatorio de diez segundos y una conversación grabada de una hora se tratan igual."
+            ]
+        },
+        {
+            "h2": "Transcribir una Grabación de Voz",
+            "content": [
+                "Una grabación de voz contiene todo lo que se dijo, pero en una forma que no puedes buscar, citar ni editar. Transcribirla convierte esa grabación de voz a texto — de la grabación a la transcripción en un solo paso, con un texto con el que sí puedes trabajar.",
+                "La transcripción de grabaciones de voz resulta más útil cuando la grabación lleva información que vas a necesitar después. Una entrevista grabada se convierte en texto citable con cada hablante identificado. Una reunión grabada se convierte en un registro escrito de lo acordado. Una clase grabada se convierte en apuntes en los que puedes buscar por término. Tanto si llamas al resultado la transcripción del audio de esa grabación de voz como si lo llamas simplemente las palabras sobre el papel, es lo que te permite usar el contenido en lugar de solo almacenar el audio.",
+                "TranscriptX puede transcribir una grabación de voz tanto si habla una persona como si hablan varias. Cuando hay más de una voz, cada hablante queda identificado, así que una conversación grabada se lee como un ida y vuelta y no como un único bloque de palabras; transcribir una nota de voz a texto funciona exactamente igual."
+            ]
+        },
+        {
+            "h2": "Qué Puedes Convertir en Texto",
+            "intro": [
+                "Allí donde tu voz lleve algo que merezca la pena guardar, voz a texto lo convierte en un registro utilizable. Los usos más habituales:"
+            ],
+            "items": [
+                {
+                    "h3": "Notas de voz y apuntes",
+                    "content": "Captura una idea, un recordatorio o un borrador diciéndolo en voz alta, y obtén texto editable en lugar de una grabación que tienes que reproducir para recordar qué dijiste."
+                },
+                {
+                    "h3": "Reuniones y llamadas",
+                    "content": "Graba una reunión con el móvil y conviértela en un acta escrita, con cada persona identificada, para que las decisiones y las tareas queden sobre el papel y no en la memoria de alguien."
+                },
+                {
+                    "h3": "Entrevistas",
+                    "content": "Transcribe una entrevista grabada a un texto citable, con los hablantes separados, para que puedas extraer la redacción exacta en lugar de parafrasear de memoria."
+                },
+                {
+                    "h3": "Dictar documentos",
+                    "content": "Di en voz alta un primer borrador de un correo, un informe o un artículo y deja que voz a texto lo escriba, y luego pule el texto en vez de teclear cada palabra desde cero."
+                },
+                {
+                    "h3": "Clases y estudio",
+                    "content": "Graba una clase o una sesión de estudio y conviértela en un texto en el que puedas buscar, subrayar y repasar más adelante."
+                },
+                {
+                    "h3": "Accesibilidad y uso manos libres",
+                    "content": "Para quien encuentra lento o difícil teclear, hablar y recibir un texto limpio de vuelta es una forma más rápida y cómoda de escribir."
+                }
+            ]
+        },
+        {
+            "h2": "Voz a Texto para Dictado",
+            "content": [
+                "La mayoría de la gente habla mucho más rápido de lo que teclea, y por eso el dictado encaja tan bien con voz a texto. Cuando ya tienes un primer borrador en la cabeza, decirlo en voz alta y recibir el texto es más rápido que construirlo palabra por palabra en el teclado.",
+                "El truco del dictado por voz está en que la lengua hablada es más suelta que la escrita — hay arranques en falso, muletillas y frases que se van por las ramas. Como voz a texto te entrega un texto editable y no un documento acabado, eso es fácil de arreglar: escribir hablando te deja las palabras en bruto a la velocidad del habla, y después dedicas un minuto a ajustarlas. La parte difícil, pasar de la página en blanco a un borrador completo, ya está hecha.",
+                "Sirve para cualquier cosa que de otro modo teclearías: correos, apuntes, esquemas, entradas de diario o la forma aproximada de un artículo que editarás después."
+            ]
+        },
+        {
+            "h2": "Precisión e Idiomas",
+            "content": [
+                "Lo mucho que el texto se parezca a lo que dijiste depende de la grabación. Hablar con claridad a un ritmo estable, cerca del micrófono y lejos del ruido de fondo, da el resultado más limpio — y como buena parte del uso de voz a texto consiste en grabar tu propia voz, eso suele estar en tu mano.",
+                "La precisión baja con entornos ruidosos, con gente hablando encima de otra o con un habla muy rápida y entre dientes. Esos pasajes merecen una revisión rápida, pero con una nota de voz clara o una conversación bien grabada el texto vuelve casi palabra por palabra.",
+                "TranscriptX reconoce el habla en más de 100 idiomas y detecta automáticamente cuál estás hablando, así que puedes dictar o convertir tu voz a texto en tu propio idioma sin cambiar antes ningún ajuste."
+            ]
+        },
+        {
+            "h2": "¿Voz a Texto o Audio a Texto?",
+            "intro": [
+                "Las dos convierten el habla en texto, pero están pensadas alrededor de puntos de partida distintos. Elige según de dónde vengan tus palabras."
+            ],
+            "items": [
+                {
+                    "h3": "Elige voz a texto para tus propias palabras habladas",
+                    "content": "Cuando quieres grabar tu voz en directo, dictar un borrador o transcribir una nota de voz o una grabación hecha por ti, este es el convertidor de voz a texto pensado para ello — incluida la opción de grabar directamente en el navegador."
+                },
+                {
+                    "h3": "Elige audio a texto para archivos de audio que ya existen",
+                    "content": "Cuando ya tienes un archivo de audio — un podcast, una entrevista descargada, un MP3 de una reunión — la herramienta [Audio a Texto](/es/audio-to-text) está pensada para subir y transcribir archivos multimedia. Y si tu grabación es en realidad el audio de un vídeo, la herramienta [Transcripción de YouTube](/es/youtube-transcript) se encarga de ese origen directamente."
+                }
+            ]
+        },
+        {
+            "h2": "Preguntas Frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo convierto voz a texto gratis?",
+                    "a": "Graba tu voz en TranscriptX o sube una grabación de voz, y pasará el habla a texto sin coste alguno. No hay cuenta que crear, nada que instalar y ningún límite en la duración de la grabación."
+                },
+                {
+                    "q": "¿Puedo grabar directamente en la herramienta?",
+                    "a": "Sí. Puedes grabar en directo en el navegador y obtener el texto al parar, o subir una grabación que hicieras antes. Las dos vías funcionan igual."
+                },
+                {
+                    "q": "¿Puedo transcribir una grabación de voz que ya tengo?",
+                    "a": "Sí. Sube la grabación — una nota de voz, un audio suelto, una conversación grabada — y TranscriptX la transcribe entera a texto, con los hablantes identificados cuando hay más de uno. Así puedes transcribir una grabación de cualquier duración."
+                },
+                {
+                    "q": "¿Va bien voz a texto para dictado?",
+                    "a": "Sí. Hablar es más rápido que teclear, así que el dictado es uno de los usos más populares. Recibes un texto editable, lo que hace fácil decir un borrador en bruto y luego pulirlo en lugar de teclear desde cero."
+                },
+                {
+                    "q": "¿Qué idiomas admite?",
+                    "a": "Más de 100. El idioma hablado se detecta automáticamente, así que puedes dictar o transcribir en tu propio idioma sin seleccionarlo antes."
+                },
+                {
+                    "q": "¿Distingue entre distintos hablantes?",
+                    "a": "Sí. Cuando una grabación tiene más de una voz, cada hablante queda identificado, así que una conversación o una reunión grabada se lee como un ida y vuelta claro."
+                },
+                {
+                    "q": "¿Hay límite en el tiempo que puedo grabar?",
+                    "a": "No. Funcionan igual una nota de voz corta y una sesión grabada larga; una grabación más larga simplemente tarda un poco más en procesarse."
+                },
+                {
+                    "q": "¿Necesito instalar una aplicación?",
+                    "a": "No. Voz a texto funciona en el navegador, tanto en escritorio como en móvil, sin aplicación, complemento ni cuenta."
+                },
+                {
+                    "q": "¿Qué precisión tiene voz a texto?",
+                    "a": "Depende sobre todo de la grabación. Un habla clara, cerca del micrófono y lejos del ruido, vuelve casi palabra por palabra, mientras que el habla ruidosa o superpuesta merece una revisión rápida antes de que dependas de ella."
+                },
+                {
+                    "q": "¿Cuál es la diferencia entre voz a texto y audio a texto?",
+                    "a": "Voz a texto está hecho para las palabras habladas que capturas tú mismo — grabando en directo o transcribiendo una nota de voz. Audio a texto está hecho para archivos de audio que ya existen, como podcasts y MP3. Si tienes un archivo multimedia y no una grabación de voz, usa la herramienta Audio a Texto."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Convierte tu Voz a Texto Gratis",
+        "content": [
+            "Graba directamente en el navegador o sube una grabación de voz, y TranscriptX convertirá tus palabras habladas en texto en más de 100 idiomas, con los hablantes identificados y marcas de tiempo opcionales.",
+            "Dicta un borrador, transcribe un memo o pasa a texto una conversación grabada — y luego léelo, edítalo, cópialo o expórtalo como TXT, DOCX, PDF, SRT o VTT. Sin cuenta, sin instalación y sin coste."
+        ]
+    }
+}

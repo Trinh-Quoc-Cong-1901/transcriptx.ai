@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Scaricare Sottotitoli YouTube — Download SRT e VTT Gratis | TranscriptX",
+        "description": "Scaricare i sottotitoli da qualsiasi video YouTube gratis. Incolla un link e salva le didascalie in SRT o VTT con i codici temporali, in oltre 100 lingue. Senza registrazione e senza installare nulla.",
+        "schemaName": "TranscriptX — Downloader di Sottotitoli YouTube",
+        "schemaDescription": "Strumento gratuito per scaricare il file dei sottotitoli di un video YouTube pubblico in formato SRT o VTT, con i codici temporali su ogni riga e in oltre 100 lingue. Incolla un link e salva il file, senza bisogno di un account.",
+        "ogTitle": "Scaricare Sottotitoli YouTube — Download SRT e VTT Gratis | TranscriptX",
+        "ogDescription": "Fai il download dei sottotitoli YouTube in SRT o VTT, con i tempi già sincronizzati. Incolla un link e salva il file in oltre 100 lingue, gratis e senza registrazione."
+    },
+    "hero": {
+        "h1": "Scaricare Sottotitoli YouTube",
+        "subtitle": "Scarica i sottotitoli di qualsiasi video YouTube pubblico come file sincronizzato. Incolla un link e salva un SRT o un VTT, in oltre 100 lingue, pronto da caricare in un programma di montaggio o da pubblicare su un'altra piattaforma. Nessun account, nessuna installazione.",
+        "placeholder": "Incolla l'URL di un video YouTube...",
+        "button": "Scarica i Sottotitoli"
+    },
+    "quickAnswer": {
+        "question": "Come scaricare i sottotitoli da un video YouTube?",
+        "answer": "Incolla un link YouTube pubblico su TranscriptX e ottieni un file di sottotitoli sincronizzato da scaricare in SRT o VTT. Le didascalie arrivano in oltre 100 lingue, con un codice temporale su ogni riga, pronte per il montaggio o per una nuova pubblicazione. Non serve nessun account."
+    },
+    "sections": [
+        {
+            "h2": "Che Cos'è Davvero un File di Sottotitoli",
+            "content": [
+                "Un file di sottotitoli non contiene solo le parole dette nel video: contiene le parole più il momento esatto in cui ogni riga compare e scompare. Aprine uno e vedrai blocchi di testo abbinati a codici temporali come 00:01:12 → 00:01:15. Quei tempi sono tutto il punto: sono ciò che dice al lettore video quando mostrare ogni didascalia.",
+                "È questo che separa un file di sottotitoli da una semplice trascrizione. Una trascrizione è testo che leggi per conto suo; un file di sottotitoli è testo costruito per scorrere insieme al video, sincronizzato fotogramma per fotogramma con il parlato.",
+                "TranscriptX genera quel file sincronizzato partendo dall'audio di un video YouTube e te lo fa scaricare. Funziona da strumento per estrarre i sottotitoli YouTube e ti consegna un file pronto da trascinare dentro un editor o un lettore video — non un muro di testo a cui dovresti assegnare i tempi a mano, e niente da copiare riga per riga."
+            ]
+        },
+        {
+            "h2": "SRT o VTT: Quale Formato di Sottotitoli Scaricare",
+            "intro": [
+                "TranscriptX esporta entrambi i formati standard per le didascalie. Quale dei due scaricare dipende da dove andranno a finire i sottotitoli."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — il file di sottotitoli universale",
+                    "content": "SubRip (.srt) è il formato che accetta praticamente tutto: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve e la maggior parte dei lettori. Scegli di scaricare i sottotitoli YouTube in SRT quando devi caricare le didascalie su una piattaforma o aprirle in un programma di montaggio — è la scelta sicura di partenza."
+                },
+                {
+                    "h3": "VTT — le didascalie pensate per il web",
+                    "content": "WebVTT (.vtt) è il formato nato per i video HTML5 che girano nel browser e supporta funzioni in più come il posizionamento e lo stile del testo. Scarica il VTT quando le didascalie servono a un sito o a un'applicazione web, invece che a una piattaforma social o a un editor."
+                }
+            ]
+        },
+        {
+            "h2": "Come Scaricare i Sottotitoli da YouTube",
+            "steps": [
+                {
+                    "h3": "Incolla il link del video",
+                    "content": "Copia l'URL del video YouTube pubblico e incollalo nel campo qui sopra. Tutto succede online, nel browser: non c'è nessun account da creare e niente da caricare."
+                },
+                {
+                    "h3": "TranscriptX costruisce le didascalie sincronizzate",
+                    "content": "Legge l'audio, rileva la lingua e scrive ogni riga con il suo tempo di inizio e di fine — la sincronizzazione di cui un file di sottotitoli ha bisogno per non andare fuori tempo."
+                },
+                {
+                    "h3": "Scegli SRT o VTT",
+                    "content": "Prendi l'SRT per un programma di montaggio o una piattaforma social, il VTT per il video sul web. Entrambi portano le stesse didascalie con gli stessi tempi."
+                },
+                {
+                    "h3": "Scarica il file dei sottotitoli",
+                    "content": "Salvalo sul tuo dispositivo, pronto da aprire nel tuo editor, da caricare insieme a un video ripubblicato o da tradurre prima di andare online."
+                }
+            ]
+        },
+        {
+            "h2": "Cosa Puoi Fare con un File di Sottotitoli Scaricato",
+            "intro": [
+                "Un file di sottotitoli è un materiale di lavoro, non solo un riferimento. È fatto per essere caricato, modificato e riutilizzato:"
+            ],
+            "items": [
+                {
+                    "h3": "Aggiungere le didascalie al tuo montaggio",
+                    "content": "Chi monta video carica l'SRT in Premiere, Final Cut o Resolve per sottotitolare la propria versione, adatta i tempi al taglio scelto e dà al testo lo stile che si sposa con il video."
+                },
+                {
+                    "h3": "Ripubblicare un video con i sottotitoli",
+                    "content": "Se stai ripubblicando un video sul tuo canale, il download dei sottotitoli YouTube ti dà il file da caricare insieme al filmato: gli spettatori vedono le didascalie e tu non riscrivi una sola parola."
+                },
+                {
+                    "h3": "Tradurre per un pubblico internazionale",
+                    "content": "Siccome un file di sottotitoli è testo semplice e modificabile con i tempi tenuti a parte, chi traduce può riscrivere le righe in un'altra lingua mentre i codici temporali restano intatti — la via più rapida per sottotitolare un video per un nuovo mercato."
+                },
+                {
+                    "h3": "Correggere o ripulire le didascalie",
+                    "content": "Apri il file in un qualsiasi editor di testo per sistemare un nome, spezzare una riga troppo lunga o spostare di poco un tempo, prima che i sottotitoli vadano online."
+                },
+                {
+                    "h3": "Rispettare i requisiti di accessibilità",
+                    "content": "Le didascalie spesso sono obbligatorie, non facoltative. Scaricare i sottotitoli di un video YouTube in SRT o VTT ti dà proprio il file da allegare per rendere il video accessibile agli spettatori sordi e ipoudenti."
+                }
+            ]
+        },
+        {
+            "h2": "Scaricare Sottotitoli in Oltre 100 Lingue",
+            "content": [
+                "TranscriptX rileva da solo la lingua parlata e costruisce le didascalie in quella lingua, fra oltre 100 disponibili — così il file che scarichi corrisponde a quello che viene detto davvero nel video. Scaricare i sottotitoli da un video YouTube in italiano ti restituisce sottotitoli in italiano, con accenti, apostrofi e nomi propri al posto giusto.",
+                "Da lì il file è tuo da tradurre. Siccome i tempi vivono separati dalle parole, puoi sostituire il testo con un'altra lingua e le didascalie continuano a cadere sui fotogrammi giusti — ed è esattamente così che un solo video finisce sottotitolato per più pubblici partendo da un unico download."
+            ]
+        },
+        {
+            "h2": "Sottotitoli, Trascrizione o Riassunto?",
+            "content": [
+                "Un file di sottotitoli è il download giusto quando ti servono didascalie sincronizzate che scorrono sopra un video. Quando dallo stesso video ti serve qualcos'altro, c'è uno strumento TranscriptX costruito apposta.",
+                "Per del testo semplice da leggere per conto suo — senza codici temporali, senza niente agganciato alla riproduzione — lo strumento che fa per te è [YouTube Transcript](/it/youtube-transcript), mentre [Scaricare Trascrizione YouTube](/it/download-youtube-transcript) salva quel testo come documento TXT, DOCX o PDF. Se invece ti basta sapere di cosa parla un video, senza sottotitolarne ogni riga, il [YouTube Video Summarizer](/it/youtube-video-summarizer) te ne dà i punti chiave in poche frasi."
+            ]
+        },
+        {
+            "h2": "Domande Frequenti",
+            "items": [
+                {
+                    "q": "Come faccio a scaricare le didascalie di un video YouTube?",
+                    "a": "Incolla il link del video su TranscriptX, lascia che costruisca le didascalie sincronizzate, scegli SRT o VTT e scarica il file. È tutto quello che serve per fare il download dei sottotitoli YouTube — o per salvare il file dei sottotitoli in uno dei due formati — senza nessun account."
+                },
+                {
+                    "q": "Scaricare i sottotitoli da YouTube è gratis?",
+                    "a": "Sì. Creare e scaricare i file dei sottotitoli è gratis: funziona online nel browser, senza account da creare e senza limiti sulla durata del video."
+                },
+                {
+                    "q": "Che differenza c'è tra SRT e VTT?",
+                    "a": "Sono entrambi file di didascalie sincronizzate. L'SRT è il formato universale che piattaforme e programmi di montaggio accettano; il VTT è pensato per il video HTML5 sul web e supporta posizionamento e stile in più. Scarica l'SRT, a meno che tu non stia lavorando proprio su video web."
+                },
+                {
+                    "q": "I sottotitoli hanno i codici temporali?",
+                    "a": "Sì. Ogni riga di un file SRT o VTT porta un tempo di inizio e uno di fine — è quella sincronizzazione a tenere le didascalie allineate quando il file scorre sopra il video."
+                },
+                {
+                    "q": "Che differenza c'è tra i sottotitoli e una trascrizione?",
+                    "a": "Una trascrizione è testo semplice che leggi per conto suo. I sottotitoli sono testo sincronizzato, fatto per comparire sopra il video. Se vuoi parole da leggere e non didascalie da mostrare, usa invece lo strumento per la trascrizione."
+                },
+                {
+                    "q": "Posso scaricare i sottotitoli in un'altra lingua?",
+                    "a": "Le didascalie vengono costruite nella lingua parlata nel video. Siccome il file è testo modificabile con i tempi tenuti a parte, puoi tradurre le righe in un'altra lingua lasciando i codici temporali dove sono."
+                },
+                {
+                    "q": "Posso modificare il file dei sottotitoli dopo averlo scaricato?",
+                    "a": "Sì. Un file SRT o VTT si apre in qualsiasi editor di testo, quindi puoi correggere una parola, spezzare una riga o aggiustare un tempo prima che le didascalie vadano online."
+                },
+                {
+                    "q": "Il file funzionerà nel mio programma di montaggio?",
+                    "a": "Sì. L'SRT si carica in Premiere, Final Cut, DaVinci Resolve e nella maggior parte degli altri editor e lettori: è proprio per questo che resta la scelta predefinita per il lavoro di montaggio."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Scarica i Sottotitoli YouTube Gratis",
+        "content": [
+            "Incolla il link di un video YouTube pubblico e TranscriptX costruisce un file di didascalie sincronizzate che puoi scaricare in SRT o VTT, in oltre 100 lingue.",
+            "Caricalo nel tuo editor, pubblicalo insieme a un video ripubblicato o traducilo per un nuovo pubblico. Nessun account, nessuna installazione, nessun costo."
+        ]
+    }
+}

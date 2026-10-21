@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Nhập văn bản bằng giọng nói — Nói là thành chữ ngay",
+        "description": "Bấm Bắt đầu, nói và lời bạn hiện ngay thành chữ. Nhập văn bản bằng giọng nói để soạn ghi chú, email, bản nháp. Miễn phí để bắt đầu, không cần đăng ký.",
+        "schemaName": "TranscriptX Nhập văn bản bằng giọng nói",
+        "schemaDescription": "Công cụ nhập văn bản bằng giọng nói trực tuyến theo thời gian thực. Bấm Bắt đầu, nói vào micro và lời bạn hiện ra ngay thành văn bản có dấu câu, chỉnh sửa được, bằng hơn 100 ngôn ngữ. Sao chép văn bản đi bất cứ đâu hoặc xuất sang TXT, DOCX, PDF. Chạy trên trình duyệt, không cần đăng ký để bắt đầu.",
+        "ogTitle": "Nhập văn bản bằng giọng nói — Nói là thành chữ ngay",
+        "ogDescription": "Gõ chữ bằng giọng nói. Bấm Bắt đầu, nói và xem lời mình hiện thành văn bản tức thì — miễn phí để bắt đầu, hơn 100 ngôn ngữ, không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Nhập văn bản bằng giọng nói – Nói là ra chữ, không cần gõ phím",
+        "subtitle": "Viết bằng giọng nói của bạn. Bấm Bắt đầu, nói, và lời bạn hiện ngay trên màn hình thành văn bản có dấu câu, chỉnh sửa được. Soạn email, ghi chú, tin nhắn hay bản nháp đầu tiên nhanh hơn gõ phím, rồi sao chép đi bất cứ đâu hoặc xuất sang TXT, DOCX, PDF. Miễn phí để bắt đầu, hỗ trợ hơn 100 ngôn ngữ, không cần cài đặt gì.",
+        "placeholder": "Bấm Bắt đầu và bắt đầu nói...",
+        "button": "Bắt đầu nói"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để nhập văn bản bằng giọng nói?",
+        "answer": "Mở TranscriptX, bấm Bắt đầu, cho phép truy cập micro rồi nói. Lời bạn hiện ngay thành chữ trong lúc bạn nói. Sửa chỗ nào cần sửa, sau đó sao chép văn bản vào email, tài liệu hoặc xuất ra tệp. Miễn phí để bắt đầu, không cần đăng ký và không phải cài đặt gì."
+    },
+    "sections": [
+        {
+            "h2": "Nhập văn bản bằng giọng nói là gì?",
+            "content": [
+                "Nhập văn bản bằng giọng nói cho phép bạn viết bằng cách nói. Bạn bấm Bắt đầu, nói điều mình muốn viết, và chữ hiện lên màn hình ngay khi bạn nói — không bàn phím, không chờ đợi, không có tệp nào phải xử lý.",
+                "Đây là cách tự mình đọc để máy viết: chữ trên trang là lời của chính bạn. Bạn không ghi âm người khác để nghe lại sau; bạn đang soạn email, ghi chú, tin nhắn hay bản nháp, dùng giọng nói thay cho ngón tay.",
+                "Lợi thế lớn nhất là tốc độ. Phần lớn mọi người nói nhanh hơn gõ phím ba đến bốn lần, nên nói ra một ý rồi để nó hiện thành chữ nhanh hơn nhiều so với gõ từng từ. Bạn có tốc độ của lời nói và kết quả của việc gõ phím.",
+                "TranscriptX làm việc này ngay trên trình duyệt, miễn phí để bắt đầu. Bấm Bắt đầu, nói, và văn bản của bạn đã sẵn sàng để dùng."
+            ]
+        },
+        {
+            "h2": "Tổng quan về công cụ nhập văn bản bằng giọng nói",
+            "specs": [
+                {
+                    "label": "Giá",
+                    "value": "Miễn phí để bắt đầu — có gói trả phí khi dùng nhiều"
+                },
+                {
+                    "label": "Cần tài khoản",
+                    "value": "Không — đăng ký là tùy chọn"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không cần — chạy trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Giọng nói của bạn qua micro — bấm Bắt đầu và nói"
+                },
+                {
+                    "label": "Đầu ra",
+                    "value": "Văn bản có dấu câu, chỉnh sửa được, hiện ra khi bạn nói"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "100+"
+                },
+                {
+                    "label": "Xuất",
+                    "value": "Sao chép vào bộ nhớ tạm, hoặc TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách gõ văn bản bằng giọng nói",
+            "steps": [
+                {
+                    "h3": "Bấm Bắt đầu",
+                    "content": "Mở TranscriptX và bấm Bắt đầu. Cho phép truy cập micro ở lần đầu trình duyệt hỏi."
+                },
+                {
+                    "h3": "Nói tự nhiên",
+                    "content": "Nói điều bạn muốn viết với tốc độ bình thường. Không cần nói chậm hay ngắt quãng giữa các từ."
+                },
+                {
+                    "h3": "Thấy chữ hiện ra ngay",
+                    "content": "Văn bản xuất hiện trên màn hình khi bạn nói, dấu câu được thêm tự động, nên bạn thấy câu văn thành hình theo thời gian thực."
+                },
+                {
+                    "h3": "Sửa và sao chép",
+                    "content": "Bấm Dừng, sửa những chỗ cần thiết, rồi sao chép văn bản vào email, tài liệu hay khung chat — hoặc xuất sang TXT, DOCX, PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển giọng nói thành văn bản trực tuyến: gõ chữ bằng giọng nói",
+            "content": [
+                "Chuyển giọng nói thành văn bản trực tuyến giúp bạn thay bàn phím bằng giọng nói. Những gì bạn thường gõ — một câu trả lời, một đoạn văn, một danh sách — bạn chỉ cần nói ra, và công cụ voice typing tiếng Việt này viết lại ngay khi bạn nói.",
+                "Cách này đặc biệt hữu ích khi gõ phím chậm hoặc bất tiện: trên điện thoại, trên máy tính bảng không có bàn phím, khi tay đang bận, hoặc với những ai thấy gõ phím mệt mỏi hay đau tay."
+            ]
+        },
+        {
+            "h2": "Nói thành chữ tức thì, sửa được ngay",
+            "content": [
+                "Nói thành chữ tức thì nghĩa là không phải chờ gì cả — không ghi âm trước rồi mới chuyển đổi sau. Chữ có trên màn hình ngay lúc bạn nói, dấu câu được thêm tự động, nên kết quả đọc như văn viết chứ không phải một chuỗi từ rời rạc.",
+                "Văn nói vốn thoải mái hơn văn viết, nên bạn sẽ cần chỉnh lại vài câu đây đó. Phần khó nhất — đi từ trang trắng đến một bản nháp hoàn chỉnh — đã xong; hãy sửa trực tiếp trên văn bản, rồi sao chép sang ứng dụng bất kỳ hoặc xuất ra tệp để lưu."
+            ]
+        },
+        {
+            "h2": "Bạn có thể viết gì bằng giọng nói",
+            "intro": [
+                "Thứ gì bạn gõ được thì cũng có thể nói ra. Những cách dùng nhập văn bản bằng giọng nói phổ biến nhất:"
+            ],
+            "items": [
+                {
+                    "h3": "Email và thư trả lời",
+                    "content": "Nói nội dung email như khi bạn giải thích cho ai đó, rồi dán vào hộp thư và gửi. Những thư trả lời dài chỉ mất một phần nhỏ thời gian."
+                },
+                {
+                    "h3": "Ghi chú và danh sách việc cần làm",
+                    "content": "Ghi lại ý tưởng, lời nhắc hay danh sách ngay khi nó vừa nảy ra, không cần mở bàn phím."
+                },
+                {
+                    "h3": "Bản nháp đầu tiên",
+                    "content": "Nói ra bài viết, báo cáo hay bài luận để nhanh chóng có một bản nháp thô hoàn chỉnh, rồi chỉnh sửa thành bản cuối."
+                },
+                {
+                    "h3": "Tin nhắn và bài đăng",
+                    "content": "Đọc một tin nhắn dài, một chú thích hay một bài đăng mạng xã hội trên điện thoại mà không phải gõ từng chữ bằng ngón cái."
+                },
+                {
+                    "h3": "Luyện ngoại ngữ",
+                    "content": "Nói bằng ngôn ngữ bạn đang học và xem chữ hiện ra có đúng ý không — một cách kiểm tra phát âm nhanh và thẳng thắn."
+                },
+                {
+                    "h3": "Viết rảnh tay, hỗ trợ tiếp cận",
+                    "content": "Với người hạn chế vận động, bị đau do thao tác lặp lại hoặc khó gõ phím, nói là cách viết nhanh hơn và thoải mái hơn."
+                }
+            ]
+        },
+        {
+            "h2": "Mẹo nhập văn bản bằng giọng nói chính xác hơn",
+            "content": [
+                "Nói rõ ràng với tốc độ bình thường, ở gần micro. Tai nghe có micro hoặc điện thoại cầm gần miệng cho kết quả sạch hơn micro laptop đặt xa.",
+                "Không gian yên tĩnh giúp ích hơn mọi thứ khác. Nhạc nền, tiếng xe cộ hay giọng người khác có thể lẫn vào văn bản, nên hãy nói ở nơi yên tĩnh khi cần độ chính xác.",
+                "Hãy nghĩ theo từng câu thay vì từng từ. Nói trọn một ý rồi mới ngừng giúp dấu câu đặt đúng chỗ và bạn ít phải sửa hơn. TranscriptX hỗ trợ hơn 100 ngôn ngữ, nên bạn có thể nói bằng bất kỳ ngôn ngữ nào mình viết."
+            ]
+        },
+        {
+            "h2": "Nhập văn bản bằng giọng nói hay phiên âm trực tiếp?",
+            "intro": [
+                "Cả hai đều chuyển lời nói thành chữ ngay khi đang nói. Khác biệt nằm ở chỗ bạn đang ghi lại lời của ai."
+            ],
+            "items": [
+                {
+                    "h3": "Chọn nhập văn bản bằng giọng nói để tự viết",
+                    "content": "Khi đó là lời của chính bạn — một email, một ghi chú, một bản nháp bạn đang soạn — đây là công cụ để nói thay cho gõ."
+                },
+                {
+                    "h3": "Chọn phiên âm trực tiếp để ghi lại lời người khác",
+                    "content": "Khi bạn cần bản ghi bằng chữ của một bài giảng, buổi phỏng vấn hay cuộc trò chuyện, hãy dùng [Live Transcription](/vi/live-transcription). Nếu lời nói đã được ghi âm sẵn, hãy tải tệp lên công cụ [Voice to Text](/vi/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Nhập văn bản bằng giọng nói hoạt động thế nào?",
+                    "a": "Bạn bấm Bắt đầu và nói vào micro. TranscriptX nhận diện giọng nói trong lúc bạn nói và viết ngay lên màn hình, tự thêm dấu câu."
+                },
+                {
+                    "q": "Công cụ voice typing tiếng Việt này có miễn phí không?",
+                    "a": "Có, bạn có thể bắt đầu miễn phí, không cần đăng ký và không phải cài đặt. Tạo tài khoản là tùy chọn, và có gói trả phí nếu bạn dùng nhiều."
+                },
+                {
+                    "q": "Có tự thêm dấu câu không, và tôi có sửa được văn bản không?",
+                    "a": "Có cả hai. Dấu câu được thêm khi bạn nói nên văn bản đọc như văn viết bình thường, và sau khi dừng mọi thứ đều sửa được — chữa một từ nghe nhầm hay chỉnh lại câu trước khi sao chép."
+                },
+                {
+                    "q": "Làm sao đưa văn bản vào email hoặc tài liệu?",
+                    "a": "Sao chép bằng một cú nhấp rồi dán vào email, tài liệu hay ứng dụng chat bất kỳ, hoặc xuất sang TXT, DOCX, PDF."
+                },
+                {
+                    "q": "Tôi có thể nói bằng những ngôn ngữ nào?",
+                    "a": "Hỗ trợ hơn 100 ngôn ngữ, bao gồm tiếng Việt, nên bạn có thể nói bằng chính ngôn ngữ mình viết."
+                },
+                {
+                    "q": "Tôi có cần tải ứng dụng không?",
+                    "a": "Không. Công cụ nhập văn bản bằng giọng nói chạy trên trình duyệt của máy tính, máy tính bảng hoặc điện thoại. Bạn chỉ cần cho phép truy cập micro."
+                },
+                {
+                    "q": "Nhập văn bản bằng giọng nói khác gì phiên âm trực tiếp?",
+                    "a": "Nhập văn bản bằng giọng nói dùng để tự đọc lời của chính bạn — viết bằng cách nói. Phiên âm trực tiếp dùng để ghi lại lời người khác, như một bài giảng hay buổi phỏng vấn. Cả hai đều chạy theo thời gian thực, nhưng được thiết kế cho những việc khác nhau."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bắt đầu nhập văn bản bằng giọng nói — có chữ ngay",
+        "content": [
+            "Bấm Bắt đầu, nói, và TranscriptX biến giọng nói của bạn thành văn bản theo thời gian thực, bằng hơn 100 ngôn ngữ, ngay trên trình duyệt.",
+            "Soạn email, ghi chú, tin nhắn hay bản nháp đầu tiên, rồi chỉnh sửa, sao chép hoặc xuất ra tệp. Miễn phí để bắt đầu, không cần đăng ký, không phải cài đặt."
+        ]
+    }
+}

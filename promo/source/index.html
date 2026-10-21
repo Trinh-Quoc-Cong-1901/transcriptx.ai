@@ -1,0 +1,291 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Speak Live Promo</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#06060b;color:#fff;font-family:-apple-system,"SF Pro Display","Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.abs{position:absolute}
+#bg{position:absolute;inset:0;overflow:hidden}
+.blob{position:absolute;width:1200px;height:1200px;margin:-600px 0 0 -600px;border-radius:50%}
+#grid{position:absolute;left:-50%;width:200%;height:900px;top:600px;transform-origin:50% 0;transform:perspective(700px) rotateX(64deg);
+  background-image:linear-gradient(rgba(170,155,255,.18) 1px,transparent 1px),linear-gradient(90deg,rgba(170,155,255,.18) 1px,transparent 1px);background-size:90px 90px;
+  -webkit-mask-image:linear-gradient(to bottom,transparent,#000 25%,#000 55%,transparent)}
+.dot{position:absolute;width:3px;height:3px;border-radius:50%;background:#cfc6ff}
+#vig{position:absolute;inset:0;background:radial-gradient(ellipse at center,transparent 55%,rgba(0,0,0,.55));pointer-events:none;z-index:50}
+#flash{position:absolute;inset:0;background:#fff;opacity:0;z-index:60;mix-blend-mode:screen}
+.scene{position:absolute;inset:0;display:none;transform-origin:50% 50%}
+.cam{position:absolute;left:0;top:0;transform-origin:0 0}
+.card{border-radius:16px;overflow:hidden;box-shadow:0 0 0 1px rgba(255,255,255,.12),0 50px 140px rgba(0,0,0,.7),0 0 160px rgba(150,130,255,.28)}
+.card>img{display:block;width:100%;height:100%}
+.orb{position:absolute;border-radius:50%;
+  background:radial-gradient(circle at 32% 28%,#dcd4ff 0,transparent 58%),radial-gradient(circle at 72% 68%,#ffbf9e 0,transparent 55%),radial-gradient(circle at 28% 78%,#b7e8cd 0,transparent 55%),#e6e1f2;
+  box-shadow:0 0 90px rgba(180,165,255,.55),0 0 200px rgba(255,170,140,.25)}
+.ring{position:absolute;border-radius:50%;border:2px solid rgba(200,188,255,.7)}
+.bar{position:absolute;width:8px;border-radius:4px;background:linear-gradient(#c9bdff,#ffb995)}
+.gl{display:inline-block;background-image:linear-gradient(90deg,#b9a8ff 0%,#ffb38c 50%,#93e2c0 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.logo{position:absolute;width:148px;height:40px;background:url(1.png) -62px -70px/2000px auto no-repeat;filter:invert(1) contrast(1.8);mix-blend-mode:screen;transform-origin:50% 50%}
+#cursor{position:absolute;left:0;top:0;width:46px;height:46px;z-index:40;display:none;filter:drop-shadow(0 6px 12px rgba(0,0,0,.45))}
+.ripple{position:absolute;border-radius:50%;border:4px solid #9b87ff;opacity:0}
+#cap{position:absolute;left:80px;bottom:72px;z-index:45;display:flex;align-items:center;gap:20px;padding:18px 30px 18px 18px;border-radius:999px;
+  background:rgba(12,12,20,.78);box-shadow:0 0 0 1px rgba(255,255,255,.12),0 20px 50px rgba(0,0,0,.45);font-size:30px;font-weight:600;letter-spacing:-.01em;opacity:0}
+#capn{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-size:20px;font-weight:700;color:#0b0b12;background:linear-gradient(135deg,#b9a8ff,#ffb38c,#93e2c0)}
+#live{position:absolute;left:80px;top:64px;z-index:45;display:flex;align-items:center;gap:14px;padding:14px 24px;border-radius:999px;background:rgba(12,12,20,.8);
+  box-shadow:0 0 0 1px rgba(255,255,255,.12);font-size:22px;font-weight:700;letter-spacing:.14em;opacity:0}
+#livedot{width:14px;height:14px;border-radius:50%;background:#ff4d5e;box-shadow:0 0 14px #ff4d5e}
+.mb{width:5px;border-radius:3px;background:#c9bdff;display:inline-block}
+.callout{position:absolute;z-index:30;padding:14px 24px;border-radius:14px;background:rgba(12,12,20,.88);font-size:28px;font-weight:600;white-space:nowrap;
+  box-shadow:0 0 0 1px rgba(255,255,255,.14),0 18px 40px rgba(0,0,0,.35);opacity:0}
+.callout b{background:linear-gradient(90deg,#b9a8ff,#ffb38c);-webkit-background-clip:text;color:transparent;margin-right:10px}
+.hl{position:absolute;border-radius:12px;border:3px solid #9b87ff;box-shadow:0 0 30px rgba(155,135,255,.8),inset 0 0 20px rgba(155,135,255,.25);opacity:0}
+.w{display:inline-block;white-space:pre}
+.chip{display:flex;align-items:center;gap:14px;padding:18px 28px;border-radius:999px;background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(255,255,255,.14);font-size:26px;font-weight:600;opacity:0}
+.chip svg{width:28px;height:28px;stroke:#c9bdff;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+</style></head>
+<body>
+<div id="bg">
+  <div class="blob" id="b1" style="background:radial-gradient(circle,rgba(125,100,255,.42),transparent 62%)"></div>
+  <div class="blob" id="b2" style="background:radial-gradient(circle,rgba(255,150,110,.28),transparent 62%)"></div>
+  <div class="blob" id="b3" style="background:radial-gradient(circle,rgba(110,220,170,.22),transparent 62%)"></div>
+  <div id="grid"></div>
+  <div id="dots"></div>
+</div>
+
+<!-- S1 intro -->
+<div class="scene" id="s1">
+  <div id="rings1"></div>
+  <div id="bars1"></div>
+  <div class="orb" id="orb1" style="left:960px;top:300px;width:180px;height:180px"></div>
+  <svg id="mic1" class="abs" style="left:930px;top:270px;width:60px;height:60px;stroke:#1d1c24;fill:none;stroke-width:2;stroke-linecap:round" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5"/></svg>
+  <div id="intro1" class="abs" style="left:0;width:1920px;top:500px;text-align:center;font-size:30px;font-weight:600;letter-spacing:.6em;color:rgba(255,255,255,.75)">INTRODUCING</div>
+  <div id="title1" class="abs" style="left:0;width:1920px;top:550px;text-align:center;font-size:190px;font-weight:800;letter-spacing:-.035em;line-height:1.1"></div>
+  <div id="from1" class="abs" style="left:0;width:1920px;top:800px;height:70px">
+    <span class="abs" style="left:700px;top:16px;font-size:30px;color:rgba(255,255,255,.6);font-weight:500">a new feature from</span>
+    <div class="logo" style="left:1030px;top:12px;transform:scale(1.9)"></div>
+  </div>
+</div>
+
+<!-- S2 home -> Speak live -->
+<div class="scene" id="s2">
+  <div class="cam" id="cam2" style="width:1600px;height:873px">
+    <div class="card" style="width:1600px;height:873px"><img src="1.png"></div>
+    <div class="hl" id="hl2" style="left:16px;top:140px;width:252px;height:46px"></div>
+    <div class="ripple" id="rp2"></div>
+  </div>
+  <div id="dim2" class="abs" style="inset:0;background:#06060b;opacity:0"></div>
+  <div id="pop2" class="abs" style="left:0;top:0;width:512px;height:122px;transform-origin:0 0;opacity:0">
+    <div class="card" style="width:512px;height:122px;border-radius:20px;box-shadow:0 0 0 1px rgba(255,255,255,.2),0 40px 100px rgba(0,0,0,.6),0 0 120px rgba(160,140,255,.6)"><img src="2.png"></div>
+    <div class="abs" style="left:330px;top:38px;padding:8px 18px;border-radius:999px;font-size:22px;font-weight:800;letter-spacing:.12em;color:#0b0b12;background:linear-gradient(90deg,#b9a8ff,#ffb38c,#93e2c0)">NEW</div>
+  </div>
+</div>
+
+<!-- S3 language + Start -->
+<div class="scene" id="s3">
+  <div class="cam" id="cam3" style="width:1500px;height:943px">
+    <div class="card" style="width:1500px;height:930px"><img src="3.png" style="height:943px"></div>
+    <div class="hl" id="hl3" style="left:668px;top:502px;width:162px;height:43px;border-radius:22px"></div>
+    <div class="ripple" id="rp3a"></div><div class="ripple" id="rp3b"></div>
+    <div id="rings3"></div>
+    <div class="orb" id="orb3" style="left:686px;top:360px;width:125px;height:125px;opacity:0"></div>
+  </div>
+  <div class="callout" id="co3a"><b>01</b>Choose your language</div>
+  <div class="callout" id="co3b"><b>02</b>Press Start</div>
+</div>
+
+<!-- S4 live transcript -->
+<div class="scene" id="s4">
+  <div class="cam" id="cam4" style="width:1500px;height:951px">
+    <div class="card" style="width:1500px;height:934px"><img src="4.png" style="height:951px"></div>
+    <div class="abs" style="left:300px;top:128px;width:920px;height:40px;background:#faf9f5"></div>
+    <div class="hl" id="hl4a" style="left:305px;top:102px;width:92px;height:26px;border-radius:8px"></div>
+    <div id="tx4" class="abs" style="left:315px;top:131px;width:820px;color:#2b2a27;font-size:21px;line-height:31px;letter-spacing:-.005em">
+      <div id="t1"></div>
+      <div id="spk2" style="margin-top:22px;font-size:15px;font-weight:500;line-height:20px;opacity:0"><span id="spk2l" style="position:relative;display:inline-block;padding:3px 6px;margin:-3px -6px;border-radius:8px">Speaker 2</span></div>
+      <div id="t2" style="margin-top:8px"></div>
+    </div>
+  </div>
+</div>
+
+<!-- S5 end card -->
+<div class="scene" id="s5">
+  <div id="rings5"></div>
+  <div class="orb" id="orb5" style="left:960px;top:250px;width:130px;height:130px"></div>
+  <svg id="mic5" class="abs" style="left:938px;top:228px;width:44px;height:44px;stroke:#1d1c24;fill:none;stroke-width:2;stroke-linecap:round" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5"/></svg>
+  <div id="title5" class="abs" style="left:0;width:1920px;top:360px;text-align:center;font-size:150px;font-weight:800;letter-spacing:-.035em;line-height:1.1"><span class="gl">Speak Live</span></div>
+  <div id="tag5" class="abs" style="left:0;width:1920px;top:552px;text-align:center;font-size:40px;font-weight:500;color:rgba(255,255,255,.72)">Transcribe speech in real time.</div>
+  <div id="chips5" class="abs" style="left:0;width:1920px;top:650px;display:flex;justify-content:center;gap:22px">
+    <div class="chip"><svg viewBox="0 0 24 24"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></svg>Real-time</div>
+    <div class="chip"><svg viewBox="0 0 24 24"><circle cx="9" cy="7" r="4"/><path d="M3 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2M16 3.1a4 4 0 0 1 0 7.8M21 21v-2a4 4 0 0 0-3-3.9"/></svg>Speaker labels</div>
+    <div class="chip"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20"/></svg>Multi-language</div>
+    <div class="chip" id="chipShare"><svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg>One-click share</div>
+  </div>
+  <div id="cta5" class="abs" style="left:660px;top:800px;width:600px;height:100px;border-radius:999px;overflow:hidden;border:2px solid transparent;
+     background:linear-gradient(#11111b,#11111b) padding-box,linear-gradient(90deg,#b9a8ff,#ffb38c,#93e2c0) border-box;box-shadow:0 0 60px rgba(170,150,255,.45);
+     display:flex;align-items:center;justify-content:center;gap:16px;font-size:36px;font-weight:700">
+    <span>Try it free</span><span style="opacity:.5">→</span><span class="gl">transcriptx.ai</span>
+    <div id="shine5" class="abs" style="top:-20px;left:0;width:120px;height:140px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.35),transparent);transform:skewX(-20deg)"></div>
+  </div>
+  <div id="logo5wrap" class="abs" style="left:886px;top:952px"><div class="logo" style="left:0;top:0;transform:scale(1.15);opacity:.85"></div></div>
+</div>
+
+<div id="live"><div id="livedot"></div>LIVE<span id="mbars" style="display:inline-flex;align-items:center;gap:4px;height:24px;margin-left:6px"></span></div>
+<div id="cap"><div id="capn">01</div><span id="capt"></span></div>
+<svg id="cursor" viewBox="0 0 24 24"><path d="M4 2.5v17.2l4.6-4.3 2.9 6.6 3-1.3-2.9-6.5h6.4z" fill="#111" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></svg>
+<div id="flash"></div>
+<div id="vig"></div>
+
+<script>
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const E={lin:x=>x,out:x=>1-Math.pow(1-x,3),in:x=>x*x*x,inout:x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2,
+  back:x=>{const c=1.6;return 1+(c+1)*Math.pow(x-1,3)+c*Math.pow(x-1,2)},expo:x=>x>=1?1:1-Math.pow(2,-10*x)};
+const p=(t,a,b,e='out')=>E[e](clamp((t-a)/(b-a)));
+const lerp=(a,b,x)=>a+(b-a)*x;
+function kf(t,k){if(t<=k[0][0])return k[0][1];for(let i=1;i<k.length;i++){const[t1,v1,e='inout']=k[i],[t0,v0]=k[i-1];if(t<=t1)return lerp(v0,v1,E[e]((t-t0)/(t1-t0)))}return k[k.length-1][1]}
+const $=id=>document.getElementById(id);
+const vis=(el,on)=>{el.style.display=on?'block':'none';return on};
+function cam(el,fx,fy,s){el.style.transform=`translate(${960-fx*s}px,${540-fy*s}px) scale(${s})`;return(x,y)=>[960+(x-fx)*s,540+(y-fy)*s]}
+let rs=11;const rnd=()=>((rs=rs*16807%2147483647)/2147483647);
+
+// ---- build dynamic elements
+const dots=[];for(let i=0;i<60;i++){const d=document.createElement('div');d.className='dot';$('dots').appendChild(d);dots.push({el:d,x:rnd()*1920,y:rnd()*1080,v:10+rnd()*40,a:.2+rnd()*.6})}
+const mkRings=(id,n)=>{const a=[];for(let i=0;i<n;i++){const r=document.createElement('div');r.className='ring';$(id).appendChild(r);a.push(r)}return a};
+const rings1=mkRings('rings1',4),rings3=mkRings('rings3',3),rings5=mkRings('rings5',3);
+const bars1=[];for(let i=0;i<48;i++){const b=document.createElement('div');b.className='bar';$('bars1').appendChild(b);bars1.push(b)}
+const mbars=[];for(let i=0;i<5;i++){const b=document.createElement('span');b.className='mb';$('mbars').appendChild(b);mbars.push(b)}
+// per-letter gradient title
+const title1=$('title1');const letters=[];
+[...'Speak Live'].forEach(ch=>{const s=document.createElement('span');s.className='gl';s.textContent=ch===' '?' ':ch;title1.appendChild(s);letters.push(s)});
+function fixGrad(){const w=letters.reduce((a,s)=>a+s.offsetWidth,0),x0=letters[0].offsetLeft;letters.forEach(s=>{s.style.backgroundSize=`${w}px 100%`;s.style.backgroundPosition=`${-(s.offsetLeft-x0)}px 0`})}
+// transcript words
+const T1='Welcome to TranscriptX Speak Live. Everything I say appears on the screen instantly, word by word, in real time.';
+const T2='Wow, that is fast. And it even knows who is speaking!';
+const mkWords=(id,txt)=>txt.split(' ').map((w,i,a)=>{const s=document.createElement('span');s.className='w';s.textContent=w+(i<a.length-1?' ':'');$(id).appendChild(s);return s});
+const w1=mkWords('t1',T1),w2=mkWords('t2',T2);
+const caps=[[6.0,9.9,'01','Open Speak live'],[11.0,14.4,'02','Pick a language & press Start'],[15.9,21.9,'03','Talk — watch it transcribe live']];
+
+function ringSet(rings,cx,cy,r0,t,speed,amp,alpha){rings.forEach((r,k)=>{const ph=(t*speed+k/rings.length)%1,R=r0*(1+ph*amp);
+  Object.assign(r.style,{left:cx-R+'px',top:cy-R+'px',width:2*R+'px',height:2*R+'px',opacity:(1-ph)*alpha})})}
+function ripple(el,cx,cy,t0,t,R=60,dur=.6){const q=clamp((t-t0)/dur),r=R*E.out(q);
+  Object.assign(el.style,{left:cx-r+'px',top:cy-r+'px',width:2*r+'px',height:2*r+'px',opacity:q>0&&q<1?(1-q):0})}
+function cursorAt(x,y,press,op=1){const c=$('cursor');c.style.display='block';c.style.opacity=op;c.style.transform=`translate(${x-8}px,${y-4}px) scale(${press})`}
+
+function seek(t){
+  // background
+  $('b1').style.left=960+520*Math.sin(t*.22)+'px';$('b1').style.top=380+160*Math.cos(t*.27)+'px';
+  $('b2').style.left=1300+420*Math.cos(t*.18)+'px';$('b2').style.top=700+160*Math.sin(t*.31)+'px';
+  $('b3').style.left=500+380*Math.sin(t*.25+2)+'px';$('b3').style.top=760+140*Math.cos(t*.2)+'px';
+  $('grid').style.backgroundPosition=`0 ${t*70}px`;
+  dots.forEach(d=>{d.el.style.transform=`translate(${d.x+Math.sin(t*.5+d.y)*20}px,${((d.y-t*d.v)%1080+1080)%1080}px)`;d.el.style.opacity=d.a*(.6+.4*Math.sin(t*2+d.x))});
+  const bump=(c,w)=>Math.exp(-Math.pow((t-c)/w,2));
+  $('flash').style.opacity=.55*bump(5.02,.09)+.5*bump(22.52,.09);
+  $('cursor').style.display='none';
+
+  // ---------- S1 intro (0 - 5.3)
+  if(vis($('s1'),t<5.35)){
+    const s1=$('s1'),ex=p(t,4.75,5.3,'in');
+    s1.style.transform=`scale(${1+ex*.8})`;s1.style.filter=`blur(${ex*18}px)`;s1.style.opacity=1-ex;
+    const os=p(t,.15,.95,'back'),pulse=1+.05*Math.sin(t*7)*Math.sin(t*2.3);
+    $('orb1').style.transform=`translate(-50%,-50%) scale(${os*pulse}) rotate(${t*40}deg)`;
+    $('mic1').style.opacity=p(t,.5,.9);
+    ringSet(rings1,960,300,90,t,.6,2.4,.55*p(t,.4,1));
+    const g=p(t,.5,1.3);
+    bars1.forEach((b,i)=>{const side=i<24?-1:1,k=i%24,x=960+side*(140+k*22);
+      const h=6+90*Math.abs(Math.sin(t*6.5+k*.8)*Math.sin(t*2.9+k*.37))*g*Math.exp(-k*.07);
+      Object.assign(b.style,{left:x-4+'px',top:300-h/2+'px',height:h+'px',opacity:g*(1-k/26)})});
+    const it=p(t,.7,1.3);$('intro1').style.opacity=it;$('intro1').style.letterSpacing=lerp(1.1,.6,it)+'em';
+    letters.forEach((s,i)=>{const q=p(t,1.05+i*.06,1.65+i*.06,'out');s.style.opacity=q;s.style.transform=`translateY(${(1-q)*70}px)`;s.style.filter=`blur(${(1-q)*14}px)`});
+    const f=p(t,2.5,3.2);$('from1').style.opacity=f;$('from1').style.transform=`translateY(${(1-f)*24}px)`;
+  }
+
+  // ---------- S2 home page -> Speak live (5.0 - 10.6)
+  if(vis($('s2'),t>=4.95&&t<10.65)){
+    const s2=$('s2'),en=p(t,5.0,5.95),ex=p(t,10.0,10.6,'in');
+    s2.style.opacity=Math.min(en*1.4,1-ex);
+    s2.style.transform=`perspective(1600px) translate(${-ex*800}px,${(1-en)*140}px) rotateX(${(1-en)*30}deg) rotateY(${ex*-14}deg) scale(${.8+.2*en})`;
+    s2.style.filter=`blur(${Math.max((1-en)*12,ex*26)}px)`;
+    const fx=kf(t,[[5,800],[6.5,800],[7.7,175]]),fy=kf(t,[[5,436],[6.5,436],[7.7,175]]),
+          s=kf(t,[[5,.9],[6.5,1],[7.7,2.3],[10.6,2.45,'lin']]);
+    const S=cam($('cam2'),fx,fy,s);
+    const hl=p(t,8.35,8.6);$('hl2').style.opacity=hl*(.75+.25*Math.sin(t*8));
+    ripple($('rp2'),56,163,8.38,t,70);
+    // cursor
+    if(t>7.25&&t<10.0){const tg=S(110,166),m=p(t,7.35,8.2,'inout');
+      cursorAt(lerp(1500,tg[0],m),lerp(900,tg[1],m),t>8.3&&t<8.45?.82:1,p(t,7.25,7.45)*(1-p(t,8.7,9.0)))}
+    // lift-off popup of the Speak live item
+    const lf=p(t,8.65,9.45,'out'),src=S(5.6,132);
+    const dx=lerp(src[0],960-512*1.35/2+60,lf),dy=lerp(src[1],560-122*1.35/2,lf),sc=lerp(273*s/512,1.35,lf);
+    $('pop2').style.opacity=t>8.65?1:0;
+    $('pop2').style.transform=`translate(${dx}px,${dy}px) scale(${sc}) perspective(800px) rotateX(${Math.sin(lf*Math.PI)*12}deg)`;
+    $('dim2').style.opacity=.6*lf;
+  }
+
+  // ---------- S3 language + Start (10.2 - 15.5)
+  let startXY=[960,540];
+  if(vis($('s3'),t>=10.2&&t<15.5)){
+    const s3=$('s3'),en=p(t,10.2,10.8);
+    s3.style.opacity=en;s3.style.transform=`perspective(1600px) translateX(${(1-en)*800}px) rotateY(${(1-en)*14}deg)`;
+    s3.style.filter=`blur(${(1-en)*26}px)`;
+    const fx=748.5,fy=kf(t,[[10.2,471],[11.1,475],[12.3,470],[14.4,440],[15.4,430,'in']]),
+          s=kf(t,[[10.2,1],[10.9,1],[11.6,1.75],[14.4,1.9,'lin'],[15.4,2.6,'in']]);
+    const S=cam($('cam3'),fx,fy,s);
+    startXY=S(748.5,422.3);
+    $('hl3').style.opacity=p(t,11.75,11.95)*(1-p(t,12.4,12.7))*(.75+.25*Math.sin(t*8));
+    ripple($('rp3a'),748.5,523.5,11.78,t,90);ripple($('rp3b'),748.5,422.3,12.78,t,120,.7);
+    // Start button turns into the live orb
+    const ob=p(t,12.8,13.2);$('orb3').style.opacity=ob;
+    $('orb3').style.transform=`scale(${(1+.08*Math.sin(t*9)*Math.sin(t*3.3))*(.9+.1*ob)*kf(t,[[14.2,1],[15.0,24,'in']])}) rotate(${t*60}deg)`;
+    ringSet(rings3,748.5,422.3,62,t,.9,1.8,.7*ob*(1-p(t,14.2,14.6)));
+    // callouts track the camera
+    const pa=S(671,523.5),pb=S(811,422.3);
+    const ca=$('co3a'),cb=$('co3b'),qa=p(t,11.3,11.7,'back'),qb=p(t,12.1,12.5,'back'),fo=1-p(t,13.6,14.0);
+    ca.style.opacity=Math.min(qa,fo);ca.style.transform=`translate(${pa[0]-ca.offsetWidth-40-(1-qa)*40}px,${pa[1]-ca.offsetHeight/2}px)`;
+    cb.style.opacity=Math.min(qb,fo);cb.style.transform=`translate(${pb[0]+50+(1-qb)*40}px,${pb[1]-cb.offsetHeight/2}px)`;
+    if(t>11.0&&t<13.6){const P=S(748.5,528),B=S(748.5,428);
+      const m1=p(t,11.1,11.7,'inout'),m2=p(t,12.1,12.7,'inout');
+      let x=lerp(1500,P[0]+30,m1),y=lerp(950,P[1],m1);x=lerp(x,B[0]+20,m2);y=lerp(y,B[1],m2);
+      const pr=(t>11.7&&t<11.85)||(t>12.7&&t<12.85)?.82:1;
+      cursorAt(x,y,pr,p(t,11.0,11.2)*(1-p(t,13.0,13.4)))}
+  }
+
+  // ---------- S4 live transcript (14.5 - 22.6)
+  if(vis($('s4'),t>=14.85&&t<22.6)){
+    const s4=$('s4'),r=2300*p(t,14.85,15.5,'in');
+    s4.style.clipPath=t<15.5?`circle(${r}px at ${startXY[0]}px ${startXY[1]}px)`:'none';
+    const ex=p(t,22.0,22.55,'in');
+    s4.style.transform=`scale(${1+ex*.7})`;s4.style.filter=`blur(${ex*20}px)`;s4.style.opacity=1-ex;
+    const fx=kf(t,[[14.5,750],[15.6,750],[17.0,640]]),fy=kf(t,[[14.5,476],[15.6,476],[17.0,345]]),
+          s=kf(t,[[14.5,1.0],[15.6,1.0],[17.0,1.6],[22.5,1.72,'lin']]);
+    cam($('cam4'),fx,fy,s);
+    const wIn=(arr,t0,dt)=>arr.forEach((w,i)=>{const q=p(t,t0+i*dt,t0+i*dt+.22);w.style.opacity=q;w.style.filter=`blur(${(1-q)*6}px)`;w.style.transform=`translateY(${(1-q)*6}px)`});
+    wIn(w1,15.7,.15);
+    $('spk2').style.opacity=p(t,19.0,19.3);wIn(w2,19.25,.15);
+    const hb=p(t,19.4,19.7)*(1-p(t,21.2,21.6));
+    $('hl4a').style.opacity=hb*(.75+.25*Math.sin(t*8));
+    $('spk2l').style.boxShadow=`0 0 0 ${3*hb}px #9b87ff, 0 0 ${30*hb}px rgba(155,135,255,.8)`;
+  }
+  const lv=p(t,15.6,16.0)*(1-p(t,21.8,22.1));$('live').style.opacity=lv;
+  $('livedot').style.opacity=.5+.5*Math.abs(Math.sin(t*4));
+  mbars.forEach((b,i)=>b.style.height=6+16*Math.abs(Math.sin(t*9+i*1.3))+'px');
+
+  // ---------- S5 end card (22.45 - 30)
+  if(vis($('s5'),t>=22.45)){
+    const s5=$('s5'),en=p(t,22.45,23.0),out=p(t,29.3,30,'inout');
+    s5.style.opacity=en*(1-out);s5.style.transform=`scale(${1.25-.25*E.out(en)})`;
+    const os=p(t,22.55,23.3,'back');
+    $('orb5').style.transform=`translate(-50%,-50%) scale(${os*(1+.05*Math.sin(t*7)*Math.sin(t*2.3))}) rotate(${t*40}deg)`;
+    $('mic5').style.opacity=os;ringSet(rings5,960,250,65,t,.6,2.2,.5*os);
+    const ti=p(t,22.8,23.5);$('title5').style.opacity=ti;$('title5').style.transform=`translateY(${(1-ti)*50}px)`;$('title5').style.filter=`blur(${(1-ti)*12}px)`;
+    const tg=p(t,23.2,23.8);$('tag5').style.opacity=tg;$('tag5').style.transform=`translateY(${(1-tg)*30}px)`;
+    [...$('chips5').children].forEach((c,i)=>{const q=p(t,23.5+i*.18,23.95+i*.18,'back');c.style.opacity=clamp(q);c.style.transform=`translateY(${(1-q)*40}px)`});
+    const sh=p(t,23.0,23.4)*(1-p(t,24.6,25));$('chipShare').style.boxShadow=`inset 0 0 0 ${1+sh}px rgba(${lerp(255,185,sh)},${lerp(255,168,sh)},255,${.14+.8*sh}),0 0 ${40*sh}px rgba(155,135,255,.6)`;
+    const ct=p(t,24.5,25.1,'back');$('cta5').style.opacity=clamp(ct);$('cta5').style.transform=`scale(${.7+.3*ct})`;
+    const sw=((t-25.4)%2.2)/0.9;$('shine5').style.transform=`translateX(${-150+sw*800}px) skewX(-20deg)`;
+    $('logo5wrap').style.opacity=p(t,25.2,25.8);
+  }
+
+  // captions
+  const c=caps.find(c=>t>=c[0]-.01&&t<=c[1]);
+  if(c){$('capn').textContent=c[2];$('capt').textContent=c[3];const q=p(t,c[0],c[0]+.4,'back')*(1-p(t,c[1]-.3,c[1]));$('cap').style.opacity=clamp(q);$('cap').style.transform=`translateY(${(1-clamp(q))*30}px)`}
+  else $('cap').style.opacity=0;
+}
+window.addEventListener('load',()=>{fixGrad();seek(0)});
+</script>
+</body></html>

@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "title": "TikTok Caption Downloader — Download Subtitles Free | TranscriptX",
+        "description": "Download captions and subtitles from any TikTok video free. Paste a link and save the subtitles as a timed file in 100+ languages. No sign-up, no install.",
+        "schemaName": "TranscriptX TikTok Caption Downloader",
+        "schemaDescription": "Free tool to download the captions and subtitles from a public TikTok video as a timed file in over 100 languages. Paste a link and save the subtitles for reposting, translating or accessibility, with no account required.",
+        "ogTitle": "TikTok Caption Downloader — Download Subtitles Free | TranscriptX",
+        "ogDescription": "Download the captions from any TikTok as a timed subtitle file. Paste a link, save the subtitles in 100+ languages, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "TikTok Caption Downloader",
+        "subtitle": "Download the captions and subtitles from any public TikTok video. Paste a link and save the spoken words as a timed subtitle file, in over 100 languages, ready to add back onto a repost or translate. No account, nothing to install.",
+        "placeholder": "Paste a TikTok video URL...",
+        "button": "Download Captions"
+    },
+    "quickAnswer": {
+        "question": "How do I download captions from a TikTok video?",
+        "answer": "Paste a public TikTok link into TranscriptX and it builds the captions from the video's audio, ready to download as a timed subtitle file. The captions come in over 100 languages, with each line timed to the video. No account is required."
+    },
+    "sections": [
+        {
+            "h2": "What the TikTok Caption Downloader Does",
+            "content": [
+                "This tool pulls the TikTok video captions out of a clip and gives them to you as a downloadable file — a TikTok subtitles download in one step. Not a paragraph of text to read, but a subtitle file where every line carries the exact moment it should appear on screen.",
+                "That timing is the reason this page exists separately from a transcript. A transcript is text you read on its own; captions are text built to run over video, synced line by line to the speech. If your plan is to repost a clip with subtitles, translate the on-screen text, or meet an accessibility requirement, you need the timed caption file, not a block of reading text.",
+                "TranscriptX builds those captions from the audio of the TikTok, so you get a clean, timed file even when the original had no subtitles turned on."
+            ]
+        },
+        {
+            "h2": "Captions or Transcript: Which Do You Need?",
+            "intro": [
+                "Both turn a TikTok's speech into text, but they are made for different jobs. Pick by what happens next."
+            ],
+            "items": [
+                {
+                    "h3": "Download captions when the text runs over video",
+                    "content": "If the words need to display on a clip — subtitles on a repost, translated captions for another audience, accessibility text — you want the timed file this tool produces. The timing is what keeps each line in sync with the audio."
+                },
+                {
+                    "h3": "Get a transcript when you just want the words",
+                    "content": "If you only need to read, copy or study the spoken content — the hook, a quote, a script — plain text is simpler. For that, the [TikTok Transcript](/tiktok-transcript) tool gives you the words with no timecodes to strip out."
+                }
+            ]
+        },
+        {
+            "h2": "How to Download TikTok Captions",
+            "steps": [
+                {
+                    "h3": "Copy the TikTok link",
+                    "content": "Tap Share on the video and copy the link, or grab the URL on desktop. The video needs to be public."
+                },
+                {
+                    "h3": "Paste it into the caption downloader",
+                    "content": "Drop the link into the box above. There is no upload and no account step — the tool reads the audio straight from the video."
+                },
+                {
+                    "h3": "TranscriptX builds the timed captions",
+                    "content": "It transcribes the speech and splits it into caption lines, each with a start and end time so it stays in sync when it plays back over the clip."
+                },
+                {
+                    "h3": "Download the subtitle file",
+                    "content": "Save the captions to your device, ready to load into an editor, add onto a repost, or translate before publishing."
+                }
+            ]
+        },
+        {
+            "h2": "What You Can Do With Downloaded TikTok Subtitles",
+            "intro": [
+                "A caption file is a working asset, not just a copy of the words. It is built to be loaded, edited and reused:"
+            ],
+            "items": [
+                {
+                    "h3": "Repost a clip with subtitles",
+                    "content": "Add the captions back onto a video you are re-uploading — to your own TikTok, or cross-posted as a Reel or a Short — so viewers get subtitles without you retyping a word."
+                },
+                {
+                    "h3": "Translate for another audience",
+                    "content": "Because the file is editable text with the timing kept separate, a translator can rewrite the lines into another language while every caption still lands on the right moment."
+                },
+                {
+                    "h3": "Caption videos with the sound off",
+                    "content": "Most TikToks are watched on mute at first, which is why captions on TikTok carry the message in those opening seconds. A downloaded file lets you add them cleanly rather than relying on shaky auto-captions."
+                },
+                {
+                    "h3": "Meet accessibility needs",
+                    "content": "Captions make a video usable for deaf and hard-of-hearing viewers. A downloaded subtitle file is the asset you attach to make that happen."
+                },
+                {
+                    "h3": "Fix or restyle the captions",
+                    "content": "Open the file to correct a word, split a long line, or adjust the timing before the captions go live on your post."
+                }
+            ]
+        },
+        {
+            "h2": "Download TikTok Captions in Over 100 Languages",
+            "content": [
+                "TranscriptX detects the language spoken in the TikTok on its own and builds the captions in that language, across more than 100 of them — so the file you download matches what is actually said in the clip.",
+                "From there the captions are yours to translate. Since the timing lives separately from the words, you can swap the text for another language and the subtitles still hit the right frames, which is how a single clip ends up captioned for several audiences from one download."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I download the captions from a TikTok video?",
+                    "a": "Paste the TikTok share link into TranscriptX, let it build the timed captions from the audio, and download the subtitle file. It saves straight to your device with no account required."
+                },
+                {
+                    "q": "Is the TikTok caption downloader free?",
+                    "a": "Yes. Building and downloading TikTok captions is free, with no account to create and no limit on how many videos you run."
+                },
+                {
+                    "q": "What is the difference between TikTok captions and a transcript?",
+                    "a": "Captions are timed text made to display over the video, saved as a subtitle file. A transcript, by contrast, is just the words with no timing attached. Use this tool for subtitles you can repost or translate; use the TikTok Transcript tool when you only want to read the words."
+                },
+                {
+                    "q": "Do the subtitles include timing?",
+                    "a": "Yes. Every caption line carries a start and end time, which is what keeps the subtitles in sync when they play back over the clip."
+                },
+                {
+                    "q": "Can I download captions if the TikTok has none on screen?",
+                    "a": "Yes. TranscriptX builds the captions from the audio, so it produces a subtitle file even for a video that never had captions turned on."
+                },
+                {
+                    "q": "Can I download the subtitles in another language?",
+                    "a": "The captions come out in whatever language the TikTok was spoken in. From there you can translate them yourself — the words stay editable while the timecodes stay fixed, so the subtitles keep landing on the right frames in the new language."
+                },
+                {
+                    "q": "Can I use the file when I repost the video?",
+                    "a": "Yes. That is the main use — add the downloaded captions back onto a re-uploaded clip, or onto a cross-posted Reel or Short, so it publishes with subtitles."
+                },
+                {
+                    "q": "Can I edit the caption file after downloading?",
+                    "a": "Yes. The subtitle file is editable text, so you can fix a word, split a line or nudge the timing before the captions go live."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download TikTok Captions Free",
+        "content": [
+            "Paste a public TikTok link and TranscriptX builds a timed subtitle file you can download, in over 100 languages, straight from the video's audio.",
+            "Add the captions onto a repost, translate them for a new audience, or attach them for accessibility. No account, no install, no cost."
+        ]
+    }
+}

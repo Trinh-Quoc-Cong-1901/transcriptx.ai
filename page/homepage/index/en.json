@@ -1,0 +1,273 @@
+{
+    "seo": {
+        "title": "Free AI Transcription for Video & Audio Online | TranscriptX",
+        "description": "Free AI transcription in 100+ languages. Turn video, audio, YouTube and TikTok into text with speaker labels. Export TXT, SRT, VTT, DOCX or PDF. No sign-up.",
+        "schemaName": "TranscriptX Free AI Transcription Tool",
+        "schemaDescription": "TranscriptX is a free online AI transcription tool that converts video and audio into text in over 100 languages, with speaker separation, optional timestamps, and export to TXT, SRT, VTT, DOCX and PDF. No account required.",
+        "ogTitle": "Free AI Transcription for Video & Audio Online | TranscriptX",
+        "ogDescription": "Turn video and audio into text with free AI transcription. 100+ languages, speaker labels, SRT and VTT export, no sign-up."
+    },
+    "hero": {
+        "h1": "AI Transcription for Video and Audio",
+        "subtitle": "Convert video, audio and voice recordings into text in over 100 languages. Speaker labels, optional timestamps, and export to TXT, SRT, VTT, DOCX or PDF. No account, no file size limit.",
+        "placeholder": "Upload a file or paste a video link...",
+        "button": "Generate Transcript"
+    },
+    "quickAnswer": {
+        "question": "What is TranscriptX?",
+        "answer": "TranscriptX is a free AI transcription tool that converts video and audio into text in over 100 languages. It labels each speaker, adds timestamps if you want them, and exports to TXT, DOCX, PDF, SRT or VTT. No account is required and there is no limit on file size."
+    },
+    "sections": [
+        {
+            "h2": "What Is AI Transcription?",
+            "content": [
+                "AI transcription converts spoken language from a video or audio recording into written text. You upload the file, and the AI writes out what was said instead of you typing it by hand.",
+                "The value is in what the text unlocks. A one-hour interview is hard to search, quote or summarize while the words stay inside an audio file. As a transcript, that same hour becomes text you can scan in seconds, pull exact quotes from, translate, turn into subtitles, or hand to ChatGPT, Gemini or Claude for analysis.",
+                "TranscriptX runs that conversion free, in the browser, with no account required."
+            ]
+        },
+        {
+            "h2": "TranscriptX at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No"
+                },
+                {
+                    "label": "Installation",
+                    "value": "None — runs in the browser"
+                },
+                {
+                    "label": "File size limit",
+                    "value": "None"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker separation",
+                    "value": "Yes — each speaker is labelled"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Optional — on or off per transcript"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Accepted sources",
+                    "value": "Video files, audio files, voice recordings, public YouTube links, public TikTok links"
+                }
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe",
+            "intro": [
+                "TranscriptX handles any recording with speech in it, in over 100 languages, with no limit on file size."
+            ],
+            "items": [
+                {
+                    "h3": "Video files",
+                    "content": "Tutorials, presentations, webinars, courses and recorded calls become readable text you can search and repurpose."
+                },
+                {
+                    "h3": "Audio files",
+                    "content": "Podcasts, MP3s, recorded conversations and lectures convert into a written version that is easier to archive and reuse."
+                },
+                {
+                    "h3": "Voice recordings",
+                    "content": "Voice memos and spoken notes become editable text — useful when talking is faster than typing but the idea still needs to be written down."
+                },
+                {
+                    "h3": "Meetings",
+                    "content": "Speaker separation labels who said what, so a four-person meeting reads as a real record of decisions and action items rather than one block of text."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Speaker labels and timestamps let journalists and researchers find a quote, jump back to that moment in the audio, and verify it against the source."
+                },
+                {
+                    "h3": "Lectures and courses",
+                    "content": "Turn lessons into written study material you can search by term, review and condense into notes."
+                },
+                {
+                    "h3": "Podcasts",
+                    "content": "One episode becomes show notes, a newsletter, an article and social copy — all from a single transcript."
+                },
+                {
+                    "h3": "YouTube and TikTok videos",
+                    "content": "Paste a public video link and get the spoken content as text for research, learning, quoting or repurposing."
+                }
+            ]
+        },
+        {
+            "h2": "How AI Transcription Works",
+            "steps": [
+                {
+                    "h3": "Upload a file or paste a link",
+                    "content": "Drop in a video, audio file or voice recording, or paste a public YouTube or TikTok link. There is no file size limit and no account to create."
+                },
+                {
+                    "h3": "The AI converts speech to text",
+                    "content": "TranscriptX detects the spoken language automatically across 100+ languages, separates speech from background noise, and identifies each speaker as it writes the words out with punctuation and sentence breaks."
+                },
+                {
+                    "h3": "Review the transcript",
+                    "content": "Read it through and fix anything the audio made hard to catch. Names, numbers and technical terms are the ones worth checking before you publish or quote from it."
+                },
+                {
+                    "h3": "Export as TXT, DOCX, PDF, SRT or VTT",
+                    "content": "Copy the text straight out, or download the format that fits your next step — and turn timestamps on before exporting if you need them for captions or quote-checking."
+                }
+            ]
+        },
+        {
+            "h2": "AI Caption and Subtitle Generator",
+            "content": [
+                "Captions and subtitles are transcripts with timing attached. Because TranscriptX records a timestamp for every line, the same run that gives you a readable transcript also gives you a caption file.",
+                "Turn timestamps on and export SRT or VTT. Both formats upload directly to YouTube, Vimeo, Instagram, TikTok and standard web video players, so you can go from a raw recording to captioned video without a separate subtitle tool.",
+                "Because the export is a plain text file, you can open it and fix a name or a technical term before publishing — or translate the lines to publish the same video for an international audience."
+            ]
+        },
+        {
+            "h2": "Transcript, Captions and Subtitles: What Is the Difference?",
+            "intro": [
+                "All three turn speech into text, but they are built for different jobs."
+            ],
+            "items": [
+                {
+                    "h3": "A transcript is the written record you read on its own",
+                    "content": "It is everything that was said, written out as text you read separately from the video rather than alongside it. Choose a transcript when the words themselves are the point — when you want to search for an idea, pull an exact quote, study the material or analyze what was discussed. Export it as TXT, DOCX or PDF."
+                },
+                {
+                    "h3": "Captions are timed text for viewers who cannot hear the audio",
+                    "content": "Captions are synced to playback so each line appears as it is spoken. Choose captions when accessibility matters, or when your video autoplays on mute and the words have to carry it. Turn timestamps on and export SRT or VTT."
+                },
+                {
+                    "h3": "Subtitles are timed dialogue, usually translated",
+                    "content": "Subtitles also appear during playback, but their usual job is language: showing what the speaker said to viewers who do not speak it. Choose subtitles when your audience is international. Export SRT or VTT, then translate the lines before publishing."
+                }
+            ]
+        },
+        {
+            "h2": "Export Your Transcript in Five Formats",
+            "content": [
+                "Every transcript exports in five formats, and the right one depends on what you plan to do with the text next.",
+                "TXT is plain text with no formatting — the cleanest thing to read, to search, or to paste into ChatGPT, Gemini or Claude. DOCX opens in Word, Google Docs and Pages when you need to rewrite the transcript or format it as a working document. PDF gives you a fixed record that looks the same for everyone who opens it, which is what you want when you are distributing or printing something that should not be edited.",
+                "The other two carry timing. SRT is the subtitle format nearly every platform accepts, so turn timestamps on and export SRT to caption a video on YouTube, Instagram or TikTok. VTT does the same job for HTML5 video playing in a browser.",
+                "If you are not sure, start with TXT. It is the easiest to move into another tool, and you can always run the export again in a different format."
+            ]
+        },
+        {
+            "h2": "Transcribe Video From Any Platform",
+            "content": [
+                "You do not need to download a video to transcribe it. Paste a public link from any major platform and TranscriptX reads the audio from the video itself, then returns the spoken content as text you can search, quote and reuse."
+            ],
+            "items": [
+                {
+                    "h3": "Get a transcript from a YouTube video",
+                    "content": "Copy the URL of any public YouTube video and paste it into TranscriptX. A two-hour lecture, interview or tutorial comes back as text in over 100 languages, with each speaker labelled, so you can find the one idea you came for instead of scrubbing through the timeline looking for it. Researchers use this to quote a source accurately, students to turn a lecture into study notes, and writers to build an article out of a video that already explained the topic well. If YouTube is most of your work, the [YouTube Transcript](/youtube-transcript) tool is built around this exact job."
+                },
+                {
+                    "h3": "Get a transcript from a TikTok video",
+                    "content": "Paste a public TikTok link and the spoken words come back as text before the video scrolls out of your feed. Short-form video moves fast, and the useful part is usually a single line — the hook that made you stop, the claim in a product review, the step someone explained in nine seconds. Having it as text means you can save it, study why it worked, and write your own version rather than trying to remember it. The [TikTok Transcript](/tiktok-transcript) tool handles short-form video specifically."
+                },
+                {
+                    "h3": "Transcribe a Facebook video",
+                    "content": "Facebook hides its most useful videos in hard-to-reach places — saved Live broadcasts, clips buried inside groups, recorded events that run for an hour. Paste the link and the [Facebook Transcript](/facebook-transcript) tool turns any public post, Reel or saved Live into readable text, with each speaker labelled, so a long broadcast becomes something you can read in minutes and search for the part that mattered."
+                },
+                {
+                    "h3": "Transcribe an Instagram Reel",
+                    "content": "A Reel is made to be watched once and swiped past, yet the value is often a single line worth keeping. The [Instagram Transcript](/instagram-transcript) tool pulls the spoken words out of any public Reel or video as text you can copy, study or reshape into your own content — the hook, the tip, the script that made it land."
+                }
+            ]
+        },
+        {
+            "h2": "Convert Any Video, Audio or Voice File to Text",
+            "content": [
+                "Not everything you need transcribed lives on a social platform. When the source is a file on your own device, TranscriptX has a dedicated tool for each kind — upload it and get the same clean transcript, in over 100 languages, with speakers labelled."
+            ],
+            "items": [
+                {
+                    "h3": "Convert a video file to text",
+                    "content": "Have an MP4, a Zoom recording or a screen capture rather than a link to paste? The [Video to Text](/video-to-text) tool transcribes any video file you upload, separating speakers and exporting to five formats, with no file size limit to work around."
+                },
+                {
+                    "h3": "Turn an audio file into text",
+                    "content": "For a podcast, an MP3 or a recorded interview with no video attached, the [Audio to Text](/audio-to-text) tool converts the recording into a clean, punctuated transcript you can quote, edit or archive."
+                },
+                {
+                    "h3": "Convert voice recordings to text",
+                    "content": "To dictate a note faster than you could type it, or to transcribe a voice memo already on your phone, the [Voice to Text](/voice-to-text) tool records straight in the browser or takes a recording you upload."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is TranscriptX really free?",
+                    "a": "Yes. AI transcription on TranscriptX is free to use, with no account to create and no limit on file size."
+                },
+                {
+                    "q": "Do I need to install anything?",
+                    "a": "No. TranscriptX runs in the browser. There is no software to download and no account to register."
+                },
+                {
+                    "q": "What languages does it support?",
+                    "a": "Over 100 languages. TranscriptX detects the spoken language automatically, so you do not need to select it before uploading."
+                },
+                {
+                    "q": "What file formats can I export?",
+                    "a": "Five: TXT, DOCX and PDF for reading and editing, plus SRT and VTT for captions and subtitles. You can also copy the text directly."
+                },
+                {
+                    "q": "Can it tell speakers apart?",
+                    "a": "Yes. TranscriptX labels each speaker separately, so meetings, interviews and multi-person podcasts come back showing who said what."
+                },
+                {
+                    "q": "Can I transcribe a meeting with several people?",
+                    "a": "Yes. Upload the recording and each speaker is labelled in the transcript, which is what turns a long discussion into a usable record of decisions and action items."
+                },
+                {
+                    "q": "Can I get timestamps?",
+                    "a": "Yes, and they are optional. Turn them on when you need caption files or want to jump back to a moment in the audio; leave them off for clean reading text."
+                },
+                {
+                    "q": "How do I transcribe a YouTube video?",
+                    "a": "Copy the URL of a public YouTube video, paste it into TranscriptX, and the spoken content comes back as text you can copy or export. There is a dedicated YouTube Transcript tool if you do this often."
+                },
+                {
+                    "q": "How accurate is AI transcription?",
+                    "a": "Accuracy depends mostly on the recording. Clear speech, steady volume and low background noise produce the best results, while overlapping speakers, echo or loud music reduce it. Review names, numbers and technical terms before you publish."
+                },
+                {
+                    "q": "What is the difference between AI transcription and speech to text?",
+                    "a": "Speech to text is the recognition step that turns spoken words into written ones. AI transcription is the full workflow around it: recognizing the speech, punctuating it, labelling speakers, adding timestamps and exporting a file you can use."
+                },
+                {
+                    "q": "Can I create subtitles from a transcript?",
+                    "a": "Yes. Turn on timestamps and export SRT or VTT, then upload that file to YouTube, Instagram, TikTok or your video player."
+                },
+                {
+                    "q": "Can I use the transcript with ChatGPT or Claude?",
+                    "a": "Yes. Export or copy the text and paste it into any AI assistant to summarize, extract action items, analyze themes or turn it into an article."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Start Your Free AI Transcription",
+        "content": [
+            "Upload a video, audio file or voice recording, or paste a YouTube or TikTok link. TranscriptX returns a transcript in over 100 languages, with speaker labels and optional timestamps.",
+            "Export it as TXT, DOCX or PDF to read and edit, or as SRT or VTT to caption your video. No account, no file size limit, no cost."
+        ]
+    }
+}

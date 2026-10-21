@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Transcription MCP & YouTube Transcript MCP for ChatGPT and Claude | TranscriptX",
+        "description": "Add the TranscriptX transcription MCP to ChatGPT as a custom MCP server or to Claude as a custom connector. Paste a YouTube link or attach a file and get the transcript in the chat.",
+        "schemaName": "TranscriptX Transcription MCP",
+        "schemaDescription": "Transcription MCP connector for ChatGPT and Claude. Turns links and audio or video files into text that the AI assistant can summarize, translate or answer questions about.",
+        "ogTitle": "Transcription MCP for ChatGPT and Claude — TranscriptX",
+        "ogDescription": "Add TranscriptX once. Paste a link or attach a file, and your AI assistant gets the transcript."
+    },
+    "hero": {
+        "h1": "Transcription MCP – Transcribe Right Inside ChatGPT and Claude",
+        "subtitle": "Add TranscriptX once. Then paste a YouTube or podcast link, or attach a file — your AI assistant gets the transcript to summarize, translate or ask about.",
+        "badges": ["Free every day", "No account needed to try", "Never reads your other messages"]
+    },
+    "preview": {
+        "label": "Preview",
+        "content": "The official TranscriptX app is under review by ChatGPT and Claude. Until it is listed, add it yourself with the link below."
+    },
+    "mcpUrl": "https://test.transcriptx.ai/mcp",
+    "setup": [
+        {
+            "h2": "Add to ChatGPT as a Custom MCP Server",
+            "platform": "chatgpt.com · ChatGPT app",
+            "button": { "text": "Add to ChatGPT", "url": "https://chatgpt.com/plugins" },
+            "steps": [
+                "Click the button — ChatGPT opens on Plugins and the link is copied.",
+                "Click + › Add custom MCP server, paste the link, tick “I understand”, then Create.",
+                "Sign in with Google, or try it without an account."
+            ],
+            "note": "Don't see “Add custom MCP server”? Turn on Settings › Security › Developer mode."
+        },
+        {
+            "h2": "Add to Claude as a Custom Connector",
+            "platform": "claude.ai · Claude Desktop",
+            "button": { "text": "Add to Claude", "url": "https://claude.ai/settings/connectors" },
+            "steps": [
+                "Click the button — Claude opens Settings › Connectors and the link is copied.",
+                "Click Add custom connector and paste the link.",
+                "Click Connect, then sign in with Google, or try it without an account."
+            ]
+        }
+    ],
+    "tryIt": {
+        "h2": "Try It",
+        "prompt": "Transcribe this video: https://youtu.be/jNQXAC9IVRw"
+    },
+    "sections": [
+        {
+            "h2": "What It Can Transcribe",
+            "list": [
+                "YouTube links — use it as a YouTube transcript MCP in ChatGPT or Claude.",
+                "Links from TikTok, Instagram, X, podcasts and direct media URLs.",
+                "Shared Google Drive, Dropbox and OneDrive links.",
+                "Audio and video files — attached in ChatGPT, or uploaded from your device in Claude."
+            ],
+            "note": "The result card shows the start of the transcript with Copy, Export (TXT, SRT, VTT) and a link to the full transcript."
+        },
+        {
+            "h2": "Tools",
+            "items": [
+                { "h3": "transcribe", "content": "Transcribe a link." },
+                { "h3": "transcribe_file / upload_file", "content": "Transcribe an audio or video file — attached in the chat (ChatGPT) or sent through an upload box (Claude)." },
+                { "h3": "get_transcript", "content": "Read a finished transcript, in parts for long recordings. Read-only." }
+            ]
+        },
+        {
+            "h2": "Limits",
+            "content": [
+                "Free daily allowance for guests and free accounts; [TranscriptX Pro](/pricing) lifts most limits. Nothing is purchased inside the chat. Very long media may exceed your plan, and private or removed links cannot be transcribed."
+            ]
+        },
+        {
+            "h2": "Privacy",
+            "content": [
+                "TranscriptX only receives the link or file you ask it to transcribe. Uploaded files are deleted within 12 hours. Disconnect anytime from ChatGPT or Claude settings. [Privacy Policy](/privacy-policy/)"
+            ]
+        },
+        {
+            "h2": "Guides",
+            "links": [
+                { "text": "Transcribe audio in ChatGPT", "url": "/chatgpt-transcribe-audio" },
+                { "text": "Transcribe audio in Claude", "url": "/claude-transcribe-audio" },
+                { "text": "Summarize YouTube videos in ChatGPT", "url": "/chatgpt-youtube-summary" }
+            ]
+        },
+        {
+            "h2": "FAQ",
+            "items": [
+                {
+                    "q": "What is a transcription MCP?",
+                    "a": "A connector that lets ChatGPT or Claude turn speech into text, so you can transcribe links and files right in the chat."
+                },
+                {
+                    "q": "Does it work as a YouTube transcript MCP?",
+                    "a": "Yes. Paste any public YouTube link and ask ChatGPT or Claude to transcribe it."
+                },
+                {
+                    "q": "Is it free?",
+                    "a": "Yes, there is a free daily allowance, and you can try it without an account."
+                },
+                {
+                    "q": "Does TranscriptX read my chats?",
+                    "a": "No. It only receives the link or file you ask it to transcribe."
+                }
+            ]
+        }
+    ],
+    "help": {
+        "h2": "Need Help?",
+        "content": "Email [contact.transcriptx@gmail.com](mailto:contact.transcriptx@gmail.com)."
+    }
+}

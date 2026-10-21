@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Canlı Transkripsiyon — Ücretsiz Başlayın, Online Deşifre",
+        "description": "Başlat'a basın; dersleri, röportajları ve sohbetleri canlı transkripsiyonla anında yazıya dökün. Ücretsiz başlayın, kayıt gerekmez. TXT, DOCX, PDF.",
+        "schemaName": "TranscriptX Canlı Transkripsiyon",
+        "schemaDescription": "Mikrofonunuzdan kayıt yapıp konuşmaları gerçek zamanlı olarak yazıya döken online canlı transkripsiyon aracı; 100'den fazla dil desteği sunar. Dersleri, röportajları ve sohbetleri gerçekleştiği anda kaydetmek için Başlat'a basın, ardından metni kopyalayın ya da TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Tarayıcıda çalışır, başlamak için kayıt gerekmez.",
+        "ogTitle": "Canlı Transkripsiyon — Ücretsiz Başlayın, Online Deşifre",
+        "ogDescription": "Başlat'a basın, konuşmalar gerçek zamanlı olarak metne dönüşsün. Dersleri, röportajları ve sohbetleri canlı deşifre edin — ücretsiz başlayın, kayıt gerekmez."
+    },
+    "hero": {
+        "h1": "Canlı Transkripsiyon – Konuşmaları Anında Yazıya Dökün",
+        "subtitle": "Başlat'a basın; TranscriptX mikrofonunuz üzerinden dinler ve söylenenleri gerçek zamanlı olarak metne dönüştürür. Bir dersi, röportajı ya da sohbeti gerçekleştiği anda yazıya dökün, ardından Durdur'a basıp tam metni saklayın — kopyalayın ya da TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Ücretsiz başlayın, 100'den fazla dilde, hiçbir şey kurmadan.",
+        "placeholder": "Canlı transkripsiyona başlamak için Başlat'a basın...",
+        "button": "Canlı Transkripsiyonu Başlat"
+    },
+    "quickAnswer": {
+        "question": "Canlı transkripsiyon nasıl yapılır?",
+        "answer": "TranscriptX'i açın, Başlat'a basın ve mikrofon erişimine izin verin. Mikrofonun yakınında söylenen her şey gerçek zamanlı olarak yazıya dökülür ve konuşulduğu anda ekranda belirir. İşiniz bittiğinde Durdur'a basarak metnin tamamını okuyun, düzenleyin, kopyalayın veya dışa aktarın. Ücretsiz başlayabilirsiniz; kayıt gerekmez, kurulum gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "Canlı Transkripsiyon Nedir?",
+            "content": [
+                "Canlı transkripsiyon, konuşmayı daha konuşma sürerken metne dönüştürür. Bir dersi ya da röportajı kaydedip sonradan deşifre etmek yerine Başlat'a basarsınız, insanlar konuştukça kelimeler ekranda belirir ve oturum bittiğinde metin zaten yazılmış olur.",
+                "Amaç, başkalarının söylediklerini o anda kayıt altına almaktır. Konuyu anlatan bir hoca, sorularınızı yanıtlayan bir kaynak, bir planı tartışan bir ekip — canlı transkripsiyon hepsini takip eder ve yazıya döker; böylece not yetiştirmeye çalışmak yerine sohbete odaklanabilirsiniz.",
+                "Onu bir dosyayı deşifre etmekten ayıran da budur. Yüklenecek bir kayıt ya da sonunda beklenecek bir işlem süresi yoktur: konuşmayı canlı olarak yazıya dökersiniz ve kayıt gerçek zamanlı olarak oluşur.",
+                "TranscriptX bunu doğrudan tarayıcıda yapar ve ücretsiz başlayabilirsiniz. Başlat'a basın, dinlemesine izin verin ve işiniz bitince metni saklayın."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Canlı Transkripsiyon",
+            "specs": [
+                {
+                    "label": "Fiyat",
+                    "value": "Ücretsiz başlayın — yoğun kullanım için ücretli planlar"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır — kayıt olmak isteğe bağlı"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Giriş",
+                    "value": "Mikrofonunuz, canlı olarak — başlamak için Başlat'a basın"
+                },
+                {
+                    "label": "Çıktı",
+                    "value": "İnsanlar konuştukça gerçek zamanlı beliren metin"
+                },
+                {
+                    "label": "Oturum süresi",
+                    "value": "Bütün bir ders veya röportaj boyunca kullanın"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+"
+                },
+                {
+                    "label": "Dışa aktarma biçimleri",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                }
+            ]
+        },
+        {
+            "h2": "Gerçek Zamanlı Deşifre Nasıl Yapılır?",
+            "steps": [
+                {
+                    "h3": "Başlat'a basın",
+                    "content": "TranscriptX'i açın ve Başlat'a basın. Tarayıcınız bir kez mikrofon izni ister — izin verin, canlı transkripsiyon hemen başlasın."
+                },
+                {
+                    "h3": "Dinlemesine izin verin",
+                    "content": "Cihazınızı konuşanı net duyabileceği bir yere koyun — derste sıranın üstüne, röportajda sizinle konuğunuzun arasına ya da masanın ortasına."
+                },
+                {
+                    "h3": "Metnin oluşmasını izleyin",
+                    "content": "Kelimeler söylendiği anda ekranda belirir ve noktalama işaretleri de eklenir; böylece konuşmayı takip edebilir ya da az önce söylenen bir şeye tekrar göz atabilirsiniz."
+                },
+                {
+                    "h3": "Durdur'a basın ve saklayın",
+                    "content": "Oturum bittiğinde Durdur'a basın. Metnin tamamı okumaya, düzenlemeye, kopyalamaya veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarmaya hazırdır."
+                }
+            ]
+        },
+        {
+            "h2": "Gerçek Zamanlı Transkripsiyon, Doğrudan Tarayıcınızda",
+            "content": [
+                "Gerçek zamanlı transkripsiyon, birinin konuşmasıyla kelimelerin yazılması arasında hiçbir gecikme olmaması demektir. Metin sohbetle aynı hızda ilerler, bu yüzden ekranınızdaki metin her an günceldir.",
+                "Bu, aracı kullanma şeklinizi değiştirir. Derste, hocanın bir dakika önce verdiği tanıma geri dönüp bakabilirsiniz. Röportajda, bir alıntının söylendiği anda ekrana düştüğünü görür ve sonrası için işaretlersiniz. Hızlı bir tartışmada, kimseden tekrar etmesini istemeden bir rakamı veya ismi kontrol edebilirsiniz."
+            ]
+        },
+        {
+            "h2": "Canlı Sesi Metne Dönüştürme: Doğrudan Mikrofonunuzdan",
+            "content": [
+                "Canlı sesi metne dönüştürme, mikrofonunuzun duyabildiği her şeyle çalışır. Başlat'a basın; TranscriptX anlık konuşmayı yazıya dökme işini kesintisiz sürdürür — tek bir konuşmacı ya da birkaç kişi, sessiz bir ofis ya da bir konferans salonu fark etmez.",
+                "Sesi zaten kaydettiyseniz, mikrofona tekrar dinletmenize gerek yok. Dosyayı [Audio to Text](/tr/audio-to-text) ya da [Voice to Text](/tr/voice-to-text) aracına yükleyin, doğrudan yazıya dökülsün."
+            ]
+        },
+        {
+            "h2": "Neleri Canlı Olarak Yazıya Dökebilirsiniz?",
+            "intro": [
+                "Canlı transkripsiyon, birinin konuştuğu ve bunun yazılı bir kaydına ihtiyaç duyduğunuz anlar için tasarlandı. En yaygın kullanım alanları:"
+            ],
+            "items": [
+                {
+                    "h3": "Dersi canlı yazıya dökme",
+                    "content": "Siz dinlerken notları transkripsiyon tutsun. Ders bittiğinde her açıklama, örnek ve tanım, içinde arama yapıp çalışabileceğiniz bir metin olarak elinizde olur."
+                },
+                {
+                    "h3": "Röportajlar",
+                    "content": "Not almak yerine konuğunuzla göz temasını koruyun. Yanıtlar canlı olarak deşifre edilir; birebir alıntılar söylendiği anda sayfadadır."
+                },
+                {
+                    "h3": "Sohbetler ve tartışmalar",
+                    "content": "Bir beyin fırtınasını, planlama toplantısını ya da önemli bir sohbeti gerçekleştiği anda kayıt altına alın; neyin kararlaştırıldığı için kimse hafızasına güvenmek zorunda kalmasın."
+                },
+                {
+                    "h3": "Konuşmalar, seminerler ve etkinlikler",
+                    "content": "Bir konuşmacıyı dinleyicilerin arasından canlı olarak yazıya dökün ve etkinlikten yalnızca slaytlarla değil, konuşmanın tam yazılı kaydıyla ayrılın."
+                },
+                {
+                    "h3": "Yüz yüze toplantılar",
+                    "content": "Masaya bir dizüstü bilgisayar ya da telefon koyun, Başlat'a basın; tartışma ilerledikçe yazıya geçirilsin — toplantı bittiğinde tutanağa dönüştürülmeye hazır olsun."
+                },
+                {
+                    "h3": "İyi duyamadığınız konuşmaları takip etmek",
+                    "content": "İşitme engelli ya da az duyan kişiler veya ikinci bir dilde dinleyenler için kelimeleri gerçek zamanlı okumak, bir sohbeti ya da dersi takip etmeyi çok daha kolaylaştırır."
+                }
+            ]
+        },
+        {
+            "h2": "Doğru Bir Canlı Transkripsiyon İçin İpuçları",
+            "content": [
+                "Canlı transkripsiyonun kalitesi, mikrofonun duyduklarına bağlıdır. Cihaz konuşan kişiye ne kadar yakınsa metin o kadar temiz olur — derste ön sıralara oturun; röportajda telefonu ya da dizüstü bilgisayarı sizinle konuğunuzun arasına yerleştirin.",
+                "Arka plan gürültüsü ve aynı anda konuşan kişiler, doğruluğu düşüren başlıca etkenlerdir. Daha sessiz bir ortam ve aynı anda tek bir ses belirgin bir fark yaratır; gürültülü bir bölüm olduysa Durdur'a bastıktan sonra metindeki bir iki kelimeyi düzeltebilirsiniz.",
+                "TranscriptX 100'den fazla dili destekler; böylece not alırken kafanızda çeviri yapmak yerine, gerçekten konuşulan dilde canlı olarak yazıya dökebilirsiniz."
+            ]
+        },
+        {
+            "h2": "Online Canlı Deşifre, Ücretsiz Başlayın",
+            "content": [
+                "Canlı deşifreye online olarak hemen başlayabilirsiniz — kayıt gerekmez, kurulum gerekmez. Ücretsiz plan hemen yazıya dökmeye başlamanızı sağlar; hesap oluşturmak isteğe bağlıdır ve daha fazla kullanıma ihtiyacınız olursa ücretli planlar mevcuttur. Tarayıcınız mikrofonu kullanabildiği sürece Windows, Mac, Chromebook, Android ve iPhone'da aynı şekilde çalışır."
+            ]
+        },
+        {
+            "h2": "Canlı Transkripsiyon mu, Real-Time Speech to Text mi?",
+            "intro": [
+                "İkisi de konuşmayı söylendiği anda metne dönüştürür, ancak farklı işler için tasarlanmıştır. Sayfada kimin sözlerini görmek istediğinize göre seçin."
+            ],
+            "items": [
+                {
+                    "h3": "Başkalarının söylediklerini kaydetmek için canlı transkripsiyonu seçin",
+                    "content": "Bir dersin, röportajın, sohbetin ya da konuşmanın yazılı kaydını istediğinizde — sizin yazdığınız değil, dinlediğiniz bir konuşma söz konusuysa — canlı transkripsiyon tam bu iş için tasarlandı."
+                },
+                {
+                    "h3": "Kendi sesinizle yazmak için Real-Time Speech to Text'i seçin",
+                    "content": "Kendi e-postanızı, notunuzu ya da taslağınızı klavyeyle yazmak yerine söyleyerek yazdırmak istediğinizde [Real-Time Speech to Text](/tr/real-time-speech-to-text) aracını kullanın. Konuşma zaten kaydedildiyse, [Voice to Text](/tr/voice-to-text) ve [Audio to Text](/tr/audio-to-text) araçları dosyayı doğrudan yazıya döker."
+                }
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Canlı transkripsiyon nedir?",
+                    "a": "Canlı transkripsiyon, konuşmayı söylendiği sırada gerçek zamanlı olarak metne dönüştürür. Başlat'a basarsınız, mikrofon dinler ve insanlar konuştukça kelimeler ekranda belirir; böylece oturum biter bitmez metin hazırdır."
+                },
+                {
+                    "q": "Canlı transkripsiyonu nasıl başlatırım?",
+                    "a": "TranscriptX'i açın, Başlat'a basın ve tarayıcınız sorduğunda mikrofon erişimine izin verin. Deşifre hemen başlar. İşiniz bitince Durdur'a basın."
+                },
+                {
+                    "q": "Canlı transkripsiyon ücretsiz mi?",
+                    "a": "Evet, ücretsiz başlayabilirsiniz. Canlı transkripsiyon masaüstü, tablet veya mobil tarayıcıda hiçbir şey kurmadan çalışır ve kayıt olmadan kullanabilirsiniz. Çok fazla deşifre yapıyorsanız ücretli planlar daha fazla kullanım sunar."
+                },
+                {
+                    "q": "Durdur'a bastıktan sonra metni indirebilir miyim?",
+                    "a": "Evet. Durdurduktan sonra metni okuyup düzenleyebilir, kopyalayabilir veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarabilirsiniz."
+                },
+                {
+                    "q": "Gerçek zamanlı transkripsiyon ne kadar doğru?",
+                    "a": "Bu büyük ölçüde mikrofonun duyduklarına bağlıdır. Cihaza yakın ve net konuşmalar neredeyse kelimesi kelimesine aktarılır; gürültülü ortamlarda veya insanlar aynı anda konuştuğunda, durdurduktan sonra hızlıca gözden geçirmekte fayda var."
+                },
+                {
+                    "q": "Hangi dillerde canlı deşifre yapabilirim?",
+                    "a": "100'den fazla dil desteklenir; böylece konuşulan dilde canlı olarak yazıya dökebilirsiniz."
+                },
+                {
+                    "q": "Elimde zaten bir kayıt varsa ne olacak?",
+                    "a": "Kaydı mikrofona tekrar dinletmenize gerek yok. Voice to Text ya da Audio to Text aracına yükleyin, dosya doğrudan yazıya dökülsün."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Canlı Transkripsiyona Ücretsiz Başlayın",
+        "content": [
+            "Başlat'a basın; TranscriptX söylenenleri gerçek zamanlı olarak yazıya döksün — bir ders, röportaj, sohbet ya da konuşma — 100'den fazla dilde, doğrudan tarayıcınızda.",
+            "Durdur'a basın; metnin tamamı okumaya, düzenlemeye, kopyalamaya veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarmaya hazır olsun. Ücretsiz başlayın, kayıt gerekmez, kurulum gerekmez."
+        ]
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Chuyển video Facebook thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "description": "Chuyển video Facebook thành văn bản online miễn phí. Dán link bài đăng video, Reel hay buổi livestream đã lưu để tạo transcript với hơn 100 ngôn ngữ. Đọc, sao chép, chỉnh sửa.",
+        "schemaName": "Công cụ chuyển video Facebook thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp tạo transcript cho mọi video Facebook công khai — bài đăng video, Reels, video Watch và các buổi Facebook Live đã lưu — với hơn 100 ngôn ngữ. Bạn chỉ cần dán link video, toàn bộ lời nói sẽ thành văn bản để đọc, sao chép, chỉnh sửa, dịch hoặc xuất file, không cần tạo tài khoản.",
+        "ogTitle": "Chuyển video Facebook thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "ogDescription": "Biến mọi video Facebook thành văn bản. Dán link và nhận bản transcript với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển video Facebook thành văn bản",
+        "subtitle": "Biến mọi video Facebook công khai thành văn bản. Dán link một bài đăng video, một Reel hay một buổi Facebook Live đã lưu, TranscriptX sẽ tạo transcript video Facebook đầy đủ với hơn 100 ngôn ngữ, gán nhãn từng người nói. Bạn có thể đọc, sao chép, chỉnh sửa hoặc dịch. Không cần tài khoản, không phải cài đặt gì.",
+        "placeholder": "Dán link video Facebook...",
+        "button": "Lấy bản transcript"
+    },
+    "quickAnswer": {
+        "question": "Cách lấy transcript video Facebook như thế nào?",
+        "answer": "Bạn sao chép link của một video Facebook công khai rồi dán vào TranscriptX. Công cụ sẽ lấy phần âm thanh và tạo bản transcript đầy đủ chỉ trong vài giây, hỗ trợ hơn 100 ngôn ngữ, sẵn sàng để bạn đọc, sao chép, chỉnh sửa hoặc xuất file. Không cần đăng ký và cũng không phải cài đặt phần mềm nào."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển video Facebook thành văn bản là gì?",
+            "content": [
+                "Chuyển video Facebook thành văn bản là viết ra toàn bộ lời nói trong một video Facebook. Mọi câu được nói trong clip — người dẫn livestream đang trả lời câu hỏi, người sáng tạo đang thuyết minh một Reel, diễn giả trong một sự kiện đã ghi hình — đều trở thành chữ để bạn đọc, tìm kiếm và sao chép, thay vì phải tua tới tua lui trên thanh thời gian.",
+                "Facebook là một nơi rất khó lấy thông tin ra. Video nằm rải rác trên bảng tin, trong các group, trên fanpage và trong những buổi livestream cũ có thể dài cả tiếng, còn nền tảng thì không cho bạn cách nào gọn gàng để đọc lại những gì đã nói. Bóc băng video Facebook giải quyết đúng chuyện đó: nó biến một video bị chôn vùi và không thể tìm kiếm thành văn bản mà bạn thực sự làm việc được.",
+                "Trang này chỉ làm một việc và làm cho tốt — lấy văn bản từ video Facebook. Dù bạn gọi đó là lấy bản transcript, tạo transcript video Facebook bằng AI hay chuyển video thành chữ, kết quả vẫn như nhau, nên tất cả gom về một công cụ duy nhất thay vì chia nhỏ ra nhiều trang trùng lặp.",
+                "TranscriptX làm việc này miễn phí, chạy ngay trên trình duyệt và không cần tài khoản."
+            ]
+        },
+        {
+            "h2": "Chuyển video Facebook thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Link của bất kỳ video Facebook công khai nào"
+                },
+                {
+                    "label": "Hỗ trợ",
+                    "value": "Bài đăng video, Reels, video Watch, Facebook Live đã lưu"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "100+, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — gán nhãn riêng cho từng người"
+                },
+                {
+                    "label": "Chạy được khi video không có phụ đề",
+                    "value": "Có — văn bản được dựng từ âm thanh"
+                },
+                {
+                    "label": "Định dạng xuất file",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển video Facebook thành văn bản",
+            "steps": [
+                {
+                    "h3": "Sao chép link video Facebook",
+                    "content": "Mở video trên Facebook, bấm vào menu ba chấm hoặc vào dòng thời gian đăng rồi sao chép link — hoặc chép thẳng URL trên thanh địa chỉ nếu bạn dùng máy tính. Video cần ở chế độ công khai."
+                },
+                {
+                    "h3": "Dán vào TranscriptX",
+                    "content": "Bỏ link vào ô phía trên. Không có tài khoản nào phải tạo và cũng không phải tải gì lên; công cụ đọc video trực tiếp từ link."
+                },
+                {
+                    "h3": "Bản transcript được tạo ra",
+                    "content": "TranscriptX nghe phần âm thanh, tự nhận diện ngôn ngữ đang được nói trong hơn 100 ngôn ngữ, tách lời của từng người và viết ra thành câu có dấu câu đầy đủ."
+                },
+                {
+                    "h3": "Dùng phần văn bản",
+                    "content": "Bạn đọc ngay trên màn hình, sao chép toàn bộ hoặc chỉ một câu trích, chỉnh sửa, dịch sang ngôn ngữ khác, hoặc tải bản transcript về máy để lưu lại."
+                }
+            ]
+        },
+        {
+            "h2": "Công cụ tạo transcript Facebook bằng AI, chạy được cả khi video không có phụ đề",
+            "content": [
+                "Phần lớn video Facebook không có sẵn một luồng phụ đề đáng tin cậy để lấy ra, còn phụ đề tự động thỉnh thoảng xuất hiện thì thường thiếu hoặc sai. Vì vậy TranscriptX hoạt động như một công cụ tạo transcript Facebook bằng AI: nó dựng văn bản từ chính phần âm thanh, thay vì phụ thuộc vào phụ đề mà người đăng có thể chưa bao giờ thêm vào. Nếu bạn cần tạo phụ đề từ video Facebook thì bản transcript này cũng chính là nguyên liệu để làm ra file phụ đề.",
+                "Nghĩa là bạn vẫn chuyển giọng nói video Facebook thành text được ngay cả khi trên màn hình không có chữ nào để chép — và vẫn bóc được một video vốn chỉ tồn tại dưới dạng livestream. Công cụ chuyển video Facebook thành text này xử lý tốt cả khi chỉ có một người thuyết minh, một cuộc phỏng vấn hai người, hay cả một căn phòng nhiều giọng nói trong buổi livestream đã ghi lại, tách lời và gán nhãn từng người ngay khi chạy. Vì mọi thứ đi ra từ âm thanh, kết quả thường sạch hơn phụ đề tự động của chính Facebook, nhất là với giọng vùng miền và từ chuyên ngành.",
+                "Việc này chạy giống hệt nhau ở mọi ngôn ngữ mà công cụ nghe được — một buổi livestream tiếng Việt hay một Reel tiếng Thái đều trả về văn bản đúng ngôn ngữ đó, được nhận diện tự động."
+            ]
+        },
+        {
+            "h2": "Chuyển video Facebook sang text",
+            "content": [
+                "Nếu bạn không quen với chữ transcript và chỉ đơn giản muốn chuyển video Facebook sang text, thì đây vẫn là công cụ đó với cái tên hợp tai bạn hơn. Dán link vào, và mọi lời nói trong video quay về dưới dạng chữ sạch sẽ, dễ đọc.",
+                "Lấy văn bản từ video Facebook có ích hơn nhiều so với việc chỉ đọc một lần. Một buổi livestream đã lưu trở thành tài liệu để bạn tìm đúng câu trả lời mình cần, một cuộc họp cộng đồng dài dòng trở thành biên bản gửi được cho người vắng mặt, còn video của một người sáng tạo trở thành nguồn để bạn trích dẫn hoặc viết lại thành nội dung mới — tất cả làm trên chữ chứ không phải trên thanh thời gian."
+            ]
+        },
+        {
+            "h2": "Bạn có thể bóc băng những gì trên Facebook",
+            "intro": [
+                "Facebook chứa nhiều loại video hơn hầu hết các nền tảng khác, và bản transcript giúp được với tất cả. Dưới đây là những loại người dùng chuyển nhiều nhất:"
+            ],
+            "items": [
+                {
+                    "h3": "Facebook Live đã lưu",
+                    "content": "Livestream thường là những video dài nhất và dày thông tin nhất trên Facebook — webinar, buổi hỏi đáp, buổi giảng, lớp học online, họp cộng đồng, phiên bán hàng. Chuyển Facebook Live thành văn bản biến một tiếng phát sóng thành thứ bạn đọc xong trong vài phút và tìm ngay được đoạn mình quan tâm."
+                },
+                {
+                    "h3": "Bài đăng video",
+                    "content": "Một video cập nhật nói trực tiếp trước máy quay, một thông báo hay một clip giải thích đăng lên bảng tin sẽ thành chữ trích dẫn được và tìm kiếm được, thay vì một clip bạn phải mở lại mỗi lần muốn tra."
+                },
+                {
+                    "h3": "Reels",
+                    "content": "Reels trên Facebook ngắn và trôi rất nhanh, phần đáng giá thường chỉ nằm ở một câu. Lấy text từ reel Facebook giữ lại đúng câu đó trước khi nó trôi khỏi bảng tin."
+                },
+                {
+                    "h3": "Video trong group và fanpage",
+                    "content": "Nội dung học tập, hướng dẫn và các buổi thảo luận đăng trong group hoặc trên fanpage trở thành ghi chú và tài liệu tham khảo mà bạn giữ được bên ngoài nền tảng."
+                },
+                {
+                    "h3": "Sự kiện và phỏng vấn đã ghi hình",
+                    "content": "Các buổi tọa đàm, bài nói và phỏng vấn phát hoặc đăng trên Facebook trở thành bản transcript có gán nhãn từng người nói, nên bạn lấy được câu trích chính xác và ghi đúng người phát biểu."
+                }
+            ]
+        },
+        {
+            "h2": "Sao chép, chỉnh sửa, dịch hoặc tải bản transcript về",
+            "content": [
+                "Khi bản transcript đã hiện trên màn hình, nó là của bạn để dùng theo đúng nhu cầu tiếp theo. Bạn sao chép toàn bộ hoặc chỉ một câu trích, sửa lại một cái tên hay cắt bớt từ thừa, hoặc dịch sang ngôn ngữ khác mà không cần rời khỏi trang.",
+                "Khi muốn lưu lại thay vì chỉ đọc trên màn hình, bạn xuất ra TXT, DOCX, PDF, SRT hoặc VTT — văn bản thuần để đọc và dán, file DOCX để mở bằng Word và làm biên bản, file PDF cố định để chia sẻ, còn nếu bạn cần tạo phụ đề từ video Facebook thì chọn SRT hoặc VTT vì hai định dạng này đã có sẵn dấu thời gian.",
+                "Bạn làm việc với cả các nền tảng khác? Công cụ [YouTube Transcript](/vi/youtube-transcript) và [TikTok Transcript](/vi/tiktok-transcript) làm đúng việc này cho hai nền tảng đó, còn nếu nguồn của bạn là một file âm thanh chứ không phải video, thì công cụ [Chuyển âm thanh thành văn bản](/vi/audio-to-text) được làm ra cho đúng trường hợp đó."
+            ]
+        },
+        {
+            "h2": "Độ chính xác và ngôn ngữ",
+            "content": [
+                "Bản transcript bám sát video đến đâu phụ thuộc chủ yếu vào chất lượng âm thanh. Một người nói rõ ràng trong buổi livestream thu tốt hoặc một Reel có kịch bản sẵn sẽ cho kết quả gần như đúng từng chữ, còn phòng ồn, nhiều người nói chồng lên nhau, hay một buổi phát sóng quay bằng điện thoại tín hiệu yếu thì sẽ cần bạn dò lại nhiều hơn.",
+                "Những chỗ đáng kiểm tra vẫn là các chỗ quen thuộc — tên riêng, con số, và các thuật ngữ kỹ thuật hay chuyên ngành — mà sửa lại theo video chỉ mất vài giây, so với việc bạn tự ngồi gõ lại toàn bộ.",
+                "TranscriptX nhận dạng lời nói ở hơn 100 ngôn ngữ và tự phát hiện mình đang nghe ngôn ngữ nào, nên một video Facebook nói tiếng Việt sẽ quay về thành văn bản tiếng Việt có dấu đầy đủ, kể cả với giọng Bắc, Trung hay Nam, và tương tự với tiếng Anh, tiếng Trung hay tiếng Thái, luôn giữ các người nói tách bạch từ đầu đến cuối."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao chuyển video Facebook thành text miễn phí?",
+                    "a": "Bạn sao chép link của một video Facebook công khai, dán vào TranscriptX là công cụ sẽ bóc băng video đó mà không tính phí. Không có tài khoản nào phải tạo, không phần mềm nào phải cài và không giới hạn độ dài video."
+                },
+                {
+                    "q": "Đây có phải công cụ chuyển video Facebook thành text miễn phí không?",
+                    "a": "Đúng vậy. TranscriptX là công cụ chuyển video Facebook thành text miễn phí — nó dựng văn bản từ âm thanh bằng AI, nên vẫn chạy được cả khi video không có phụ đề nào."
+                },
+                {
+                    "q": "Tôi có lấy được transcript từ một buổi Facebook Live không?",
+                    "a": "Có, sau khi buổi livestream đã kết thúc và bản ghi được lưu lại ở chế độ công khai. Bạn dán link của bản ghi đó, công cụ sẽ chuyển Facebook Live thành văn bản cho cả buổi, có gán nhãn từng người nói."
+                },
+                {
+                    "q": "Tôi có chuyển video Facebook sang text được không?",
+                    "a": "Được. Chuyển video Facebook sang text và lấy bản transcript ở đây là cùng một thao tác — bạn dán link, còn lời nói trong video quay về thành chữ chỉnh sửa được ngay."
+                },
+                {
+                    "q": "Video không có phụ đề thì có chạy được không?",
+                    "a": "Có. Bản transcript được dựng từ âm thanh chứ không lấy từ luồng phụ đề, nên việc chuyển giọng nói video Facebook thành text vẫn diễn ra bình thường dù trên màn hình không hiện chữ nào."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ, trong đó có tiếng Việt. Ngôn ngữ được nói sẽ tự động nhận diện, nên bản transcript quay về đúng ngôn ngữ mà video Facebook được ghi."
+                },
+                {
+                    "q": "Tôi có cần tài khoản Facebook hay ứng dụng Facebook không?",
+                    "a": "Không. Mọi thứ chạy trên trình duyệt và chỉ cần link công khai của video — không cần ứng dụng Facebook và không phải đăng nhập bất cứ đâu."
+                },
+                {
+                    "q": "Công cụ có phân biệt được nhiều người nói không?",
+                    "a": "Có. Từng người nói được gán nhãn riêng, nên một buổi livestream đã lưu, một cuộc phỏng vấn hay một buổi thảo luận nhóm đọc lên như một cuộc đối thoại rõ ràng chứ không phải một khối chữ liền mạch."
+                },
+                {
+                    "q": "Tôi có tải hoặc xuất bản transcript ra file được không?",
+                    "a": "Được. Bạn sao chép phần chữ hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT — văn bản thuần, tài liệu chỉnh sửa được bằng Word, file cố định để chia sẻ, hoặc file có dấu thời gian nếu bạn muốn tạo phụ đề từ video Facebook."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển video Facebook thành văn bản miễn phí",
+        "content": [
+            "Dán link của bất kỳ video Facebook công khai nào — một bài đăng, một Reel hay một buổi Facebook Live đã lưu — và TranscriptX sẽ tạo bản transcript đầy đủ với hơn 100 ngôn ngữ, gán nhãn từng người nói.",
+            "Bạn đọc nó, sao chép phần mình cần, chỉnh sửa, dịch, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

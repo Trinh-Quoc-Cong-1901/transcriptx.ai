@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Descargar subtítulos de YouTube — SRT y VTT gratis | TranscriptX",
+        "description": "Descarga los subtítulos de cualquier video de YouTube gratis. Pega un enlace y guarda las captions en SRT o VTT con marcas de tiempo, en más de 100 idiomas. Sin registro y sin instalar nada.",
+        "schemaName": "TranscriptX — Descargar subtítulos de YouTube",
+        "schemaDescription": "Herramienta gratuita para descargar el archivo de subtítulos de videos públicos de YouTube en formato SRT o VTT con marcas de tiempo, en más de 100 idiomas. Pega un enlace y guarda el archivo sin necesidad de cuenta.",
+        "ogTitle": "Descargar subtítulos de YouTube — SRT y VTT gratis | TranscriptX",
+        "ogDescription": "Descarga los subtítulos de YouTube en SRT o VTT con su sincronización. Pega un enlace y guarda el archivo en más de 100 idiomas, gratis y sin registro."
+    },
+    "hero": {
+        "h1": "Descargar subtítulos de YouTube",
+        "subtitle": "Descarga los subtítulos de cualquier video público de YouTube como un archivo sincronizado. Pega un enlace y guarda SRT o VTT, en más de 100 idiomas, listo para cargarlo en un editor de video o subirlo a otra plataforma. Sin cuenta y sin instalar nada.",
+        "placeholder": "Pega la URL de un video de YouTube...",
+        "button": "Descargar subtítulos"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo descargar subtítulos de un video de YouTube?",
+        "answer": "Pega un enlace público de YouTube en TranscriptX y obtendrás un archivo de subtítulos sincronizado que puedes descargar en SRT o VTT. Las captions salen en más de 100 idiomas, con una marca de tiempo en cada línea, listas para editar o volver a subir. No hace falta ninguna cuenta."
+    },
+    "sections": [
+        {
+            "h2": "Qué es en realidad un archivo de subtítulos — el resultado de extraer subtítulos de YouTube",
+            "content": [
+                "Un archivo de subtítulos no son solo las palabras de un video: son las palabras más el momento exacto en que cada línea aparece y desaparece. Ábrelo y verás bloques de texto emparejados con códigos de tiempo como 00:01:12 a 00:01:15. Esa sincronización es justo el motivo de que exista el archivo: le dice al reproductor cuándo mostrar cada caption.",
+                "Esto es lo que separa un archivo de subtítulos de una transcripción sin más. Una transcripción es texto que lees por su cuenta; un archivo de subtítulos es texto construido para correr junto al video, sincronizado fotograma a fotograma con el habla.",
+                "TranscriptX genera ese archivo sincronizado a partir del audio de un video de YouTube y te lo deja descargar. Funcionando como herramienta para extraer subtítulos de YouTube, te entrega captions que puedes soltar directamente en un editor o en un reproductor — y no un muro de texto que tendrías que sincronizar a mano, ni nada que copiar línea por línea. Ahí termina el proceso de descargar el archivo de subtítulos de YouTube."
+            ]
+        },
+        {
+            "h2": "SRT o VTT: qué formato de subtítulos descargar",
+            "intro": [
+                "TranscriptX exporta los dos formatos estándar de captions. Cuál descargas depende de a dónde van a ir los subtítulos."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — el archivo de subtítulos universal",
+                    "content": "SubRip (.srt) es el formato que acepta prácticamente todo: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve y la mayoría de reproductores. Elige descargar los subtítulos de YouTube en SRT cuando vayas a subir captions a una plataforma o a cargarlas en un editor de video: es la opción segura por defecto."
+                },
+                {
+                    "h3": "VTT — captions para la web",
+                    "content": "WebVTT (.vtt) es el formato pensado para el video HTML5 que se reproduce en un navegador, y admite extras como posicionamiento y estilos. Descarga VTT cuando las captions sean para un sitio web o una aplicación web en lugar de para una plataforma social o un editor."
+                }
+            ]
+        },
+        {
+            "h2": "Cómo descargar subtítulos de un video de YouTube",
+            "steps": [
+                {
+                    "h3": "Pega el enlace del video",
+                    "content": "Copia la URL del video público de YouTube y pégala en el campo de arriba. No hay cuenta que crear ni nada que subir antes."
+                },
+                {
+                    "h3": "TranscriptX crea las captions sincronizadas",
+                    "content": "Lee el audio, detecta el idioma y escribe cada línea con su hora de inicio y de fin: la sincronización que un archivo de subtítulos necesita para no desajustarse."
+                },
+                {
+                    "h3": "Elige SRT o VTT",
+                    "content": "Escoge SRT para un editor de video o una plataforma social, o VTT para video web. Los dos llevan las mismas captions con la misma sincronización."
+                },
+                {
+                    "h3": "Descarga el archivo de subtítulos",
+                    "content": "Guárdalo en tu dispositivo, listo para cargarlo en tu editor, subirlo junto a un video reposteado o traducirlo antes de publicar."
+                }
+            ]
+        },
+        {
+            "h2": "Qué puedes hacer con un archivo de subtítulos descargado",
+            "intro": [
+                "Un archivo de subtítulos es material de trabajo, no una simple referencia. Está hecho para cargarse, editarse y reutilizarse:"
+            ],
+            "items": [
+                {
+                    "h3": "Poner captions en tu propio montaje",
+                    "content": "Los editores de video cargan el SRT en Premiere, Final Cut o Resolve para subtitular un montaje, ajustan la sincronización a su edición y le dan estilo al texto para que pegue con el video."
+                },
+                {
+                    "h3": "Volver a subir un video con captions",
+                    "content": "Si estás republicando un video en tu propio canal, subir el archivo de subtítulos junto a él da captions a quien te ve sin que tengas que reescribir ni una palabra."
+                },
+                {
+                    "h3": "Traducir para una audiencia internacional",
+                    "content": "Como un archivo de subtítulos es texto plano y editable con su sincronización aparte, quien traduce puede reescribir las líneas a otro idioma mientras los códigos de tiempo se quedan intactos: la vía más rápida para subtitular un video de cara a un mercado nuevo."
+                },
+                {
+                    "h3": "Corregir o limpiar las captions",
+                    "content": "Abre el archivo en cualquier editor de texto para arreglar un nombre, partir una línea demasiado larga o mover un código de tiempo antes de que las captions salgan a la luz."
+                },
+                {
+                    "h3": "Cumplir requisitos de accesibilidad",
+                    "content": "Las captions suelen ser obligatorias, no opcionales. Bajar los subtítulos de YouTube en SRT o VTT te da justo el archivo que hay que adjuntar para que un video sea accesible a personas sordas o con problemas de audición."
+                }
+            ]
+        },
+        {
+            "h2": "Descargar subtítulos en más de 100 idiomas",
+            "content": [
+                "TranscriptX detecta el idioma hablado de forma automática y crea las captions en ese idioma, entre más de 100 disponibles, así que el archivo de subtítulos que descargas coincide con lo que de verdad se dice en el video. Un video en español vuelve con subtítulos en español, con sus acentos y su puntuación; uno en inglés o en portugués, igual.",
+                "A partir de ahí el archivo es tuyo para traducirlo. Como la sincronización vive separada de las palabras, puedes sustituir el texto por otro idioma y las captions siguen cayendo en los fotogramas correctos, que es exactamente cómo un solo video acaba subtitulado para varias audiencias a partir de una única descarga. Y descargar subtítulos de YouTube online es gratis en cualquiera de esos idiomas."
+            ]
+        },
+        {
+            "h2": "¿Subtítulos, transcripción o resumen?",
+            "content": [
+                "Un archivo de subtítulos es la descarga correcta cuando necesitas captions sincronizadas para que corran sobre un video. Cuando lo que necesitas del mismo video es otra cosa, hay una herramienta de TranscriptX pensada para ello.",
+                "Si quieres texto plano que se lee por su cuenta — sin códigos de tiempo, sin nada sincronizado con la reproducción — la herramienta [YouTube Transcript](/es/youtube-transcript) es la que buscas, y la herramienta [Descargar transcripción de YouTube](/es/download-youtube-transcript) guarda ese texto como documento TXT, DOCX o PDF. Si solo necesitas saber de qué trata un video en lugar de subtitular cada línea, el [YouTube Video Summarizer](/es/youtube-video-summarizer) te da las ideas clave en unas pocas frases."
+            ]
+        },
+        {
+            "h2": "Preguntas frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo descargo las captions de un video de YouTube?",
+                    "a": "Pega el enlace del video en TranscriptX, deja que cree las captions sincronizadas, elige SRT o VTT y descarga el archivo. Eso es todo lo que hace falta para descargar subtítulos de YouTube — o para bajar el archivo de subtítulos en cualquiera de los dos formatos — sin ninguna cuenta."
+                },
+                {
+                    "q": "¿Es gratis el descargador de subtítulos de YouTube?",
+                    "a": "Sí. Crear y descargar archivos de subtítulos es gratis, sin cuenta que crear y sin límite en la duración del video."
+                },
+                {
+                    "q": "¿Cuál es la diferencia entre SRT y VTT?",
+                    "a": "Los dos son archivos de captions sincronizadas. SRT es el formato universal que aceptan las plataformas y los editores de video; VTT está hecho para video web HTML5 y admite posicionamiento y estilos adicionales. Descarga SRT salvo que necesites específicamente video web."
+                },
+                {
+                    "q": "¿Los subtítulos incluyen marcas de tiempo?",
+                    "a": "Sí. Cada línea de un archivo SRT o VTT lleva una hora de inicio y una de fin: esa sincronización es lo que mantiene las captions en su sitio cuando el archivo se reproduce sobre un video."
+                },
+                {
+                    "q": "¿Qué diferencia hay entre los subtítulos y una transcripción?",
+                    "a": "Una transcripción es texto plano que lees por su cuenta. Los subtítulos son texto sincronizado hecho para mostrarse sobre el video. Si lo que quieres son palabras para leer y no captions para mostrar, usa la herramienta de transcripción en su lugar."
+                },
+                {
+                    "q": "¿Puedo descargar los subtítulos en otro idioma?",
+                    "a": "Las captions se crean en el idioma que se habla en el video. Como el archivo es texto editable con la sincronización guardada aparte, puedes traducir las líneas a otro idioma mientras los códigos de tiempo se quedan en su sitio."
+                },
+                {
+                    "q": "¿Puedo editar el archivo de subtítulos después de descargarlo?",
+                    "a": "Sí. Un archivo SRT o VTT se abre en cualquier editor de texto, así que puedes corregir una palabra, partir una línea o ajustar un código de tiempo antes de que las captions salgan a la luz."
+                },
+                {
+                    "q": "¿Funcionará el archivo en mi editor de video?",
+                    "a": "Sí. El SRT se carga en Premiere, Final Cut, DaVinci Resolve y en la mayoría de editores y reproductores, y por eso es la opción por defecto para trabajos de edición."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Descargar subtítulos de YouTube gratis",
+        "content": [
+            "Pega un enlace público de YouTube y TranscriptX crea un archivo de captions sincronizadas que puedes descargar en SRT o VTT, en más de 100 idiomas.",
+            "Cárgalo en un editor, súbelo con un video reposteado o tradúcelo para una audiencia nueva. Sin cuenta, sin instalación y sin coste."
+        ]
+    }
+}

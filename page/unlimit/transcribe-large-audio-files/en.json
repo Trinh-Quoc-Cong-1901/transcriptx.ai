@@ -1,0 +1,221 @@
+{
+    "seo": {
+        "title": "Transcribe Large Audio Files — Long Audio & Video to Text Free",
+        "description": "Transcribe large audio files and long videos in one go. No file size limit, no splitting. A 10-hour audio file in about 10 minutes, 5 free hours a day, 100+ languages.",
+        "schemaName": "TranscriptX Large File Transcription",
+        "schemaDescription": "Online tool to transcribe large audio and video files with no file size limit. Upload multi-hour recordings or paste a Google Drive, Dropbox or YouTube link, and get a punctuated transcript with speaker labels and timestamps in over 100 languages. An hour of audio takes 1–2 minutes and a 10-hour audio file about 10 minutes, with around 95% accuracy in internal tests. Up to 5 hours free per day with no account; no daily cap on paid plans. Export to TXT, DOCX, PDF, SRT or VTT.",
+        "ogTitle": "Transcribe Large Audio Files — Long Audio & Video to Text Free",
+        "ogDescription": "Hours-long recordings, gigabyte-sized files, one upload. A 10-hour audio file transcribed in about 10 minutes, in 100+ languages."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Transcribe Large Audio Files – Hours-Long Recordings, No Size Limit",
+        "subtitle": "Got a recording other tools refuse? Upload a two-hour podcast, a full-day workshop or a gigabyte-sized video and TranscriptX transcribes it in one go — no file size limit, no splitting into parts. An hour of audio takes 1–2 minutes; our 10-hour test file took about 10 minutes. Get punctuated text with speaker labels and timestamps in over 100 languages, then export to TXT, DOCX, PDF, SRT or VTT. Up to 5 hours free every day, no account needed.",
+        "placeholder": "Upload a large audio or video file...",
+        "button": "Transcribe File"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe a large audio file?",
+        "answer": "Upload the file to TranscriptX as it is, or paste a Google Drive, Dropbox or YouTube link. There is no file size limit, so you do not need to split or compress it. Recordings up to 5 hours are free each day with no account; longer files, such as a 10-hour recording, are transcribed in one piece on a paid plan. The full recording comes back as text with speaker labels and optional timestamps, ready to export as TXT, DOCX, PDF, SRT or VTT."
+    },
+    "sections": [
+        {
+            "h2": "Why Large Files Fail on Other Tools",
+            "content": [
+                "Long recordings are exactly the ones you least want to transcribe by hand, and exactly the ones most tools turn away. Common limits include a 25 MB upload cap, a maximum of 30 or 60 minutes per file, or a free tier that stops after the first few minutes of the recording.",
+                "The usual workaround is to cut the file into pieces, transcribe each one, then stitch the text back together — losing speaker labels and timestamps at every join. It turns a one-step job into an afternoon.",
+                "TranscriptX has no file size limit. A large audio file goes in whole and comes back as one continuous transcript — whether it is 20 minutes or 10 hours."
+            ]
+        },
+        {
+            "h2": "Large File Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "File size limit",
+                    "value": "None"
+                },
+                {
+                    "label": "Recording length",
+                    "value": "Up to 5 hours a day free; no cap on paid plans (tested with 10-hour files)"
+                },
+                {
+                    "label": "Speed",
+                    "value": "1–2 minutes per hour of audio; 10 hours in about 10 minutes"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% in our internal tests on clear audio"
+                },
+                {
+                    "label": "Splitting needed",
+                    "value": "No — one file, one transcript"
+                },
+                {
+                    "label": "Audio formats",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG and more"
+                },
+                {
+                    "label": "Video formats",
+                    "value": "MP4, MOV, AVI, MKV, WEBM and more"
+                },
+                {
+                    "label": "Links",
+                    "value": "Google Drive, Dropbox, OneDrive, YouTube, podcast and direct media URLs"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speakers and timestamps",
+                    "value": "Each speaker labelled; timestamps optional"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Price",
+                    "value": "5 free hours a day, no account needed; paid plans for longer files"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe a Long Audio File",
+            "steps": [
+                {
+                    "h3": "Upload the file or paste a link",
+                    "content": "Drop in the recording as it is — no need to compress, trim or convert it. If the file is already in Google Drive, Dropbox or OneDrive, paste a share link instead of uploading."
+                },
+                {
+                    "h3": "Wait a few minutes",
+                    "content": "TranscriptX processes the whole recording at once. Speed depends on the recording's length, not its size or format: an hour of audio takes 1–2 minutes depending on how busy the service is, and a 10-hour file about 10 minutes. You can play our built-in mini-game while you wait."
+                },
+                {
+                    "h3": "Review the full transcript",
+                    "content": "The complete recording comes back as punctuated text with each speaker labelled. Turn on timestamps to jump straight to any moment in a long file."
+                },
+                {
+                    "h3": "Export it",
+                    "content": "Save the transcript as TXT, DOCX or PDF to read and edit, or as SRT or VTT to caption a long video. Your file is kept for a few days, so you can come back and export it again."
+                }
+            ]
+        },
+        {
+            "h2": "Our 10-Hour File Test",
+            "content": [
+                "To check that \"no size limit\" holds up in practice, on October 6, 2026 Tori Trinh uploaded a single 10-hour audio file to the live site at transcriptx.ai, without splitting or compressing it.",
+                "The full transcript came back in about 10 minutes. It ran from the first minute to the last with no cut-off, speaker labels stayed consistent across the whole recording, and timestamps stayed aligned with the audio right to the end.",
+                "On shorter files the pattern is the same: an hour of audio took 1 minute 19 seconds in our fastest runs and around two minutes at peak times. On clear recordings, our internal tests measure around 95% word accuracy. You can check it yourself with a recording you know well."
+            ]
+        },
+        {
+            "h2": "Long Audio Transcription: 2, 5, 10 Hours in One Go",
+            "content": [
+                "Long audio transcription is where the time savings are biggest. Typing up a two-hour recording by hand takes most people a full working day; TranscriptX turns the same file into text in around two to four minutes.",
+                "Need to transcribe 2 hour audio — a podcast, a panel discussion, a court hearing, a research interview? Upload it whole. Recordings up to 5 hours fit inside the free daily allowance. Full-day conferences and 10-hour recordings go through in one piece on a paid plan: there is no point at which the transcript cuts off.",
+                "To transcribe long audio files in MP3, WAV, M4A or FLAC, you can convert long audio to text without converting the file first, and every speaker stays labelled from the first minute to the last."
+            ]
+        },
+        {
+            "h2": "Transcribe Long Videos and Large Video Files",
+            "content": [
+                "Video files grow large fast: an hour of HD footage can easily run to several gigabytes. TranscriptX accepts large video files in MP4, MOV, AVI, MKV, WEBM and other common formats, so you can transcribe large video files straight from your camera, screen recorder or Zoom without shrinking them.",
+                "For long video transcription of something already online, paste the link instead. A long YouTube lecture, a livestream replay or a webinar recording is transcribed directly, with nothing to download. As a long video to text converter, TranscriptX also exports SRT and VTT, so a long video gets complete, timed subtitles in one pass."
+            ]
+        },
+        {
+            "h2": "Working With a Long Transcript",
+            "intro": [
+                "A two-hour transcript is a lot of text. These features make it usable instead of overwhelming:"
+            ],
+            "items": [
+                {
+                    "h3": "Timestamps",
+                    "content": "Turn timestamps on to see exactly when each passage was said, so you can find and replay the one moment you need without scrubbing through hours of audio."
+                },
+                {
+                    "h3": "Speaker labels",
+                    "content": "Each speaker is labelled, so a long interview or meeting reads as a conversation rather than one unbroken block."
+                },
+                {
+                    "h3": "Search and copy",
+                    "content": "Search the text for a name, a figure or a phrase and copy just the passage you need into your notes or article."
+                },
+                {
+                    "h3": "Export that fits the job",
+                    "content": "DOCX or PDF for reading and sharing, TXT for editing anywhere, SRT or VTT for captions on long videos."
+                }
+            ]
+        },
+        {
+            "h2": "Tips for Transcribing Very Large Files",
+            "content": [
+                "If a file is already stored in Google Drive, Dropbox or OneDrive, paste a share link rather than downloading and re-uploading it. It is faster and avoids a long upload on a slow connection.",
+                "For uploads from your device, use a stable connection and keep the browser tab open until the upload finishes. Once the file is in, processing does not depend on your connection.",
+                "Sign in before uploading several large files in a row. It keeps them in your history and avoids the anti-spam limits we may apply to heavy anonymous use from one IP address.",
+                "If you only need the words from a very large video, an audio-only export of the same recording is much smaller and uploads faster — the transcript is identical. Clear audio matters more than file size: a good microphone and little background noise give the most accurate long transcripts."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is there a maximum file size or length?",
+                    "a": "There is no file size limit. On the free plan you can transcribe up to 5 hours of audio or video per day; paid plans have no length cap, and we have tested single 10-hour recordings."
+                },
+                {
+                    "q": "How long does a 2-hour audio file take to transcribe?",
+                    "a": "Around two to four minutes. In our tests a one-hour recording took between 1 minute 19 seconds and about two minutes, depending on how busy the service was, and a 10-hour file took about 10 minutes. By hand, a two-hour file would take most people eight hours or more. See [How Long Does It Take to Transcribe 1 Hour of Audio?](/blog/how-long-to-transcribe-1-hour-of-audio) for a full breakdown, or [How to Transcribe Audio Faster](/blog/how-to-transcribe-audio-faster) for our speed tests."
+                },
+                {
+                    "q": "Can I transcribe a 10-hour recording?",
+                    "a": "Yes, in one piece and without splitting it. Because the free allowance is 5 hours per day, a 10-hour file needs a paid plan. Our 10-hour test file was transcribed in about 10 minutes."
+                },
+                {
+                    "q": "Do I need to split a long recording into parts?",
+                    "a": "No. Upload the whole recording and you get one continuous transcript, with speaker labels and timestamps that run from start to finish."
+                },
+                {
+                    "q": "How accurate are transcripts of long recordings?",
+                    "a": "Around 95% word accuracy on clear audio in our internal tests, and accuracy does not drop because a file is long. Timestamps stay aligned to the audio from start to finish. Noise and overlapping speakers lower accuracy, so check names and numbers before publishing."
+                },
+                {
+                    "q": "Can I transcribe a large video file without converting it?",
+                    "a": "Yes. MP4, MOV, AVI, MKV, WEBM and other common video formats are accepted directly, so there is no need to extract the audio or compress the video first."
+                },
+                {
+                    "q": "Can I paste a Google Drive or Dropbox link instead of uploading?",
+                    "a": "Yes. Paste a share link from Google Drive, Dropbox or OneDrive, or a YouTube, podcast or direct media URL, and TranscriptX fetches the file itself."
+                },
+                {
+                    "q": "Will the transcript show who is speaking?",
+                    "a": "Yes. Each speaker is labelled throughout the transcript, which matters most in long interviews, panels and meetings."
+                },
+                {
+                    "q": "Is it free to transcribe a large file?",
+                    "a": "Yes, up to 5 hours of transcription per day, with no account and no card. The allowance resets at the start of each new day (Pacific Time). If you go over, you will see an upgrade prompt, but transcripts you have already made stay available as normal."
+                },
+                {
+                    "q": "How long are my files stored?",
+                    "a": "Uploaded files and transcripts are kept for a few days so you can return to them, then deleted automatically. We do not use your recordings or transcripts to train AI models."
+                },
+                {
+                    "q": "A large file did not process — who can I contact?",
+                    "a": "Email contact.transcriptx@gmail.com with the file's length and format, and we will look into it."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Upload the Whole Recording — Get the Whole Transcript",
+        "content": [
+            "No file size limit, no splitting. Upload a large audio or video file or paste a link, and TranscriptX returns one complete transcript in over 100 languages, with speaker labels and timestamps — even for a 10-hour recording.",
+            "5 free hours every day, with no account needed. Transcribing a lot of files rather than one long one? See [Unlimited Transcription](/unlimited-transcription)."
+        ]
+    }
+}

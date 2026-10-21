@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Live-Transkription — Echtzeit-Transkription online, gratis",
+        "description": "Mit einem Klick auf Start Vorlesungen, Interviews und Gespräche live transkribieren. Live-Transkription online – gratis starten, ohne Anmeldung.",
+        "schemaName": "TranscriptX Live-Transkription",
+        "schemaDescription": "Online-Tool für Live-Transkription, das über Ihr Mikrofon aufnimmt und Gesprochenes in Echtzeit transkribiert – in über 100 Sprachen. Tippen Sie auf Start, um Vorlesungen, Interviews und Gespräche direkt mitzuschreiben, und kopieren oder exportieren Sie das Transkript anschließend als TXT, DOCX, PDF, SRT oder VTT. Läuft im Browser, für den Start ist keine Anmeldung nötig.",
+        "ogTitle": "Live-Transkription — Echtzeit-Transkription online, gratis",
+        "ogDescription": "Auf Start tippen und zusehen, wie Gesprochenes in Echtzeit zum Transkript wird. Vorlesungen, Interviews und Gespräche live transkribieren – ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "Live-Transkription – Gesprochenes in Echtzeit transkribieren",
+        "subtitle": "Tippen Sie auf Start: TranscriptX hört über Ihr Mikrofon mit und verwandelt das Gesagte in Echtzeit in Text. Transkribieren Sie eine Vorlesung, ein Interview oder ein Gespräch, während es stattfindet – dann auf Stopp tippen und das vollständige Transkript behalten: kopieren oder als TXT, DOCX, PDF, SRT oder VTT exportieren. Kostenlos starten, in über 100 Sprachen, ohne Installation.",
+        "placeholder": "Auf Start tippen, um live zu transkribieren...",
+        "button": "Live-Transkription starten"
+    },
+    "quickAnswer": {
+        "question": "Wie funktioniert die Live-Transkription?",
+        "answer": "Öffnen Sie TranscriptX, tippen Sie auf Start und erlauben Sie den Mikrofonzugriff. Alles, was in der Nähe des Mikrofons gesagt wird, wird in Echtzeit transkribiert und erscheint sofort auf dem Bildschirm. Tippen Sie auf Stopp, wenn Sie fertig sind, um das vollständige Transkript zu lesen, zu bearbeiten, zu kopieren oder zu exportieren. Kostenlos starten, ohne Anmeldung und ohne Installation."
+    },
+    "sections": [
+        {
+            "h2": "Was ist Live-Transkription?",
+            "content": [
+                "Live-Transkription verwandelt Sprache in Text, während noch gesprochen wird. Statt eine Vorlesung oder ein Interview aufzunehmen und später abzutippen, tippen Sie auf Start, die Worte erscheinen auf dem Bildschirm, während die anderen reden – und wenn die Sitzung endet, ist das Transkript bereits fertig.",
+                "Es geht darum, festzuhalten, was andere sagen – genau in dem Moment. Eine Professorin, die ein Thema erklärt, ein Gesprächspartner, der Ihre Fragen beantwortet, ein Team, das einen Plan bespricht: Die Live-Transkription schreibt alles mit, sodass Sie sich auf das Gespräch konzentrieren können, statt hektisch Notizen zu machen.",
+                "Genau das unterscheidet sie vom Transkribieren einer Datei. Es gibt keine Aufnahme zum Hochladen und keine Wartezeit für die Verarbeitung: Sie transkribieren live, und das Protokoll entsteht in Echtzeit.",
+                "TranscriptX erledigt das direkt im Browser – kostenlos starten. Auf Start tippen, zuhören lassen und das Transkript am Ende behalten."
+            ]
+        },
+        {
+            "h2": "Live-Transkription auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos starten – Bezahlpläne für intensivere Nutzung"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein – Anmeldung ist optional"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine – läuft im Browser"
+                },
+                {
+                    "label": "Eingabe",
+                    "value": "Ihr Mikrofon, live – auf Start tippen und loslegen"
+                },
+                {
+                    "label": "Ausgabe",
+                    "value": "Text, der in Echtzeit erscheint, während gesprochen wird"
+                },
+                {
+                    "label": "Sitzungsdauer",
+                    "value": "Eine ganze Vorlesung oder ein ganzes Interview lang"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+"
+                },
+                {
+                    "label": "Exportformate",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Geräte",
+                    "value": "Browser auf Desktop, Tablet und Smartphone"
+                }
+            ]
+        },
+        {
+            "h2": "So können Sie live transkribieren",
+            "steps": [
+                {
+                    "h3": "Auf Start tippen",
+                    "content": "Öffnen Sie TranscriptX und tippen Sie auf Start. Ihr Browser fragt einmalig nach dem Mikrofonzugriff – erlauben Sie ihn, und die Live-Transkription beginnt sofort."
+                },
+                {
+                    "h3": "Zuhören lassen",
+                    "content": "Platzieren Sie Ihr Gerät so, dass es die sprechende Person gut hört – in der Vorlesung auf dem Tisch, im Interview zwischen Ihnen und Ihrem Gegenüber oder mitten auf dem Besprechungstisch."
+                },
+                {
+                    "h3": "Das Transkript wachsen sehen",
+                    "content": "Die Worte erscheinen auf dem Bildschirm, während sie gesprochen werden, inklusive Satzzeichen – so können Sie mitlesen oder kurz nachsehen, was gerade gesagt wurde."
+                },
+                {
+                    "h3": "Auf Stopp tippen und behalten",
+                    "content": "Wenn die Sitzung vorbei ist, tippen Sie auf Stopp. Das vollständige Transkript steht zum Lesen, Bearbeiten, Kopieren oder zum Export als TXT, DOCX, PDF, SRT oder VTT bereit."
+                }
+            ]
+        },
+        {
+            "h2": "Echtzeit-Transkription direkt im Browser",
+            "content": [
+                "Echtzeit-Transkription bedeutet: keine Verzögerung zwischen dem gesprochenen und dem geschriebenen Wort. Der Text hält mit dem Gespräch Schritt, sodass das Transkript auf Ihrem Bildschirm immer auf dem neuesten Stand ist.",
+                "Das verändert, wie Sie damit arbeiten. In der Vorlesung können Sie eine Definition nachlesen, die vor einer Minute fiel. Im Interview sehen Sie ein Zitat auf der Seite, sobald es ausgesprochen ist, und können es für später markieren. In einer schnellen Diskussion prüfen Sie eine Zahl oder einen Namen, ohne jemanden um Wiederholung bitten zu müssen."
+            ]
+        },
+        {
+            "h2": "Audio live in Text umwandeln – direkt vom Mikrofon",
+            "content": [
+                "Die Transkription in Echtzeit funktioniert mit allem, was Ihr Mikrofon hört. Tippen Sie auf Start, und TranscriptX wandelt Audio live und fortlaufend in Text um – eine Person oder mehrere, im ruhigen Büro oder im Hörsaal.",
+                "Wenn Sie das Audio bereits aufgenommen haben, müssen Sie es nicht noch einmal ins Mikrofon abspielen. Laden Sie die Datei stattdessen im Tool [Audio to Text](/de/audio-to-text) oder [Voice to Text](/de/voice-to-text) hoch – sie wird direkt transkribiert."
+            ]
+        },
+        {
+            "h2": "Was Sie live transkribieren können",
+            "intro": [
+                "Live-Transkription ist für Momente gemacht, in denen jemand spricht und Sie ein schriftliches Protokoll brauchen. Die häufigsten Einsatzbereiche:"
+            ],
+            "items": [
+                {
+                    "h3": "Vorlesungen und Unterricht",
+                    "content": "Lassen Sie das Transkript mitschreiben, während Sie zuhören. Danach haben Sie jede Erklärung, jedes Beispiel und jede Definition als durchsuchbaren Text zum Lernen."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Halten Sie Blickkontakt mit Ihrem Gegenüber, statt mitzuschreiben. Die Antworten werden live transkribiert, sodass wörtliche Zitate auf der Seite stehen, sobald sie gesagt sind."
+                },
+                {
+                    "h3": "Gespräche und Diskussionen",
+                    "content": "Halten Sie ein Brainstorming, eine Planungsrunde oder ein wichtiges Gespräch fest, während es stattfindet – dann muss sich niemand auf sein Gedächtnis verlassen, was vereinbart wurde."
+                },
+                {
+                    "h3": "Vorträge, Seminare und Events",
+                    "content": "Transkribieren Sie einen Vortrag live aus dem Publikum und gehen Sie mit einem vollständigen schriftlichen Protokoll nach Hause – nicht nur mit den Folien."
+                },
+                {
+                    "h3": "Besprechungen vor Ort",
+                    "content": "Laptop oder Smartphone auf den Tisch, auf Start tippen – die Diskussion wird laufend mitgeschrieben und ist nach dem Meeting bereit für das Protokoll."
+                },
+                {
+                    "h3": "Gesprochenes verfolgen, das schwer zu hören ist",
+                    "content": "Für gehörlose oder schwerhörige Menschen und alle, die in einer Fremdsprache zuhören, macht das Mitlesen in Echtzeit es viel leichter, einem Gespräch oder einer Vorlesung zu folgen."
+                }
+            ]
+        },
+        {
+            "h2": "Tipps für eine genaue Live-Transkription",
+            "content": [
+                "Eine Live-Transkription ist nur so gut wie das, was das Mikrofon hört. Je näher das Gerät an der sprechenden Person ist, desto sauberer der Text – setzen Sie sich in der Vorlesung nach vorne, und legen Sie im Interview Smartphone oder Laptop zwischen sich und Ihren Gast.",
+                "Hintergrundgeräusche und Menschen, die durcheinanderreden, beeinträchtigen die Genauigkeit am stärksten. Ein ruhigerer Ort und eine Stimme zur Zeit machen einen spürbaren Unterschied – und war eine Passage zu laut, korrigieren Sie nach dem Stopp einfach ein, zwei Wörter im Transkript.",
+                "TranscriptX unterstützt über 100 Sprachen. So können Sie in der Sprache live transkribieren, die tatsächlich gesprochen wird, statt beim Mitschreiben im Kopf zu übersetzen."
+            ]
+        },
+        {
+            "h2": "Live-Transkription online und kostenlos",
+            "content": [
+                "Mit der Live-Transkription online legen Sie sofort los – ohne Anmeldung und ohne Installation. Mit dem kostenlosen Plan können Sie direkt transkribieren; ein Konto ist optional, und für mehr Nutzung gibt es Bezahlpläne. Die Live-Transkription kostenlos zu starten funktioniert auf Windows, Mac, Chromebook, Android und iPhone gleich – solange Ihr Browser auf das Mikrofon zugreifen kann."
+            ]
+        },
+        {
+            "h2": "Mitschreiben, was andere sagen – oder selbst mit der Stimme schreiben?",
+            "intro": [
+                "Beide verwandeln Gesprochenes in Text, während gesprochen wird – aber sie sind für unterschiedliche Aufgaben gemacht. Entscheidend ist, wessen Worte auf der Seite landen sollen."
+            ],
+            "items": [
+                {
+                    "h3": "Live-Transkription, um festzuhalten, was andere sagen",
+                    "content": "Wenn Sie ein schriftliches Protokoll einer Vorlesung, eines Interviews, eines Gesprächs oder eines Vortrags brauchen – also Sprache, der Sie zuhören, nicht Text, den Sie selbst formulieren –, ist die Live-Transkription das richtige Werkzeug."
+                },
+                {
+                    "h3": "Sprache zu Text in Echtzeit, um mit der Stimme zu schreiben",
+                    "content": "Wenn Sie Ihre eigene E-Mail, Notiz oder einen Entwurf lieber sprechen als tippen möchten, nutzen Sie [Real-Time Speech to Text](/de/real-time-speech-to-text). Und wenn die Aufnahme schon existiert, transkribieren die Tools [Voice to Text](/de/voice-to-text) und [Audio to Text](/de/audio-to-text) die Datei direkt."
+                }
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Was ist Live-Transkription?",
+                    "a": "Live-Transkription wandelt Sprache in Echtzeit in Text um, während gesprochen wird. Sie tippen auf Start, das Mikrofon hört zu, und die Worte erscheinen auf dem Bildschirm, während die Leute reden – das Transkript ist fertig, sobald die Sitzung endet."
+                },
+                {
+                    "q": "Wie starte ich eine Live-Transkription?",
+                    "a": "Öffnen Sie TranscriptX, tippen Sie auf Start und erlauben Sie den Mikrofonzugriff, wenn Ihr Browser danach fragt. Die Transkription beginnt sofort. Tippen Sie auf Stopp, wenn Sie fertig sind."
+                },
+                {
+                    "q": "Ist die Live-Transkription kostenlos?",
+                    "a": "Ja, Sie können kostenlos starten. Die Live-Transkription läuft im Browser auf Desktop, Tablet oder Smartphone, ganz ohne Installation, und Sie können sie ohne Anmeldung nutzen. Wenn Sie viel transkribieren, bieten Bezahlpläne mehr Nutzung."
+                },
+                {
+                    "q": "Kann ich das Transkript nach dem Stopp herunterladen?",
+                    "a": "Ja. Nach dem Stopp können Sie das Transkript lesen und bearbeiten, kopieren oder als TXT, DOCX, PDF, SRT oder VTT exportieren."
+                },
+                {
+                    "q": "Wie genau ist die Echtzeit-Transkription?",
+                    "a": "Das hängt vor allem davon ab, was das Mikrofon hört. Deutliche Sprache nah am Gerät wird nahezu Wort für Wort erfasst; bei lauten Räumen oder wenn mehrere gleichzeitig sprechen, lohnt sich nach dem Stopp ein kurzer Blick über den Text."
+                },
+                {
+                    "q": "In welchen Sprachen kann ich live transkribieren?",
+                    "a": "Über 100 Sprachen werden unterstützt – Sie können also in der Sprache live transkribieren, die gerade gesprochen wird."
+                },
+                {
+                    "q": "Was, wenn ich bereits eine Aufnahme habe?",
+                    "a": "Sie müssen sie nicht ins Mikrofon abspielen. Laden Sie sie im Tool Voice to Text oder Audio to Text hoch, und die Datei wird direkt transkribiert."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Jetzt Live-Transkription kostenlos starten",
+        "content": [
+            "Tippen Sie auf Start, und TranscriptX transkribiert in Echtzeit, was gesagt wird – eine Vorlesung, ein Interview, ein Gespräch oder einen Vortrag – in über 100 Sprachen, direkt im Browser.",
+            "Tippen Sie auf Stopp, und das vollständige Transkript ist bereit zum Lesen, Bearbeiten, Kopieren oder zum Export als TXT, DOCX, PDF, SRT oder VTT. Kostenlos starten, ohne Anmeldung, ohne Installation."
+        ]
+    }
+}

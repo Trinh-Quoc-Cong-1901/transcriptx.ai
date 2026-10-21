@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Transcripción en tiempo real — Gratis y online, sin registro",
+        "description": "Pulsa Iniciar y transcribe clases, entrevistas y conversaciones con la transcripción en tiempo real online. Gratis para empezar. Exporta a TXT, DOCX o PDF.",
+        "schemaName": "TranscriptX Transcripción en tiempo real",
+        "schemaDescription": "Herramienta online de transcripción en tiempo real que graba desde tu micrófono y transcribe la voz al instante en más de 100 idiomas. Pulsa Iniciar para capturar clases, entrevistas y conversaciones mientras suceden y luego copia o exporta la transcripción a TXT, DOCX, PDF, SRT o VTT. Funciona en el navegador y no necesitas registrarte para empezar.",
+        "ogTitle": "Transcripción en tiempo real — Gratis y online, sin registro",
+        "ogDescription": "Pulsa Iniciar y mira cómo la voz se convierte en una transcripción en tiempo real. Transcribe clases, entrevistas y charlas en vivo, gratis y sin registro."
+    },
+    "hero": {
+        "h1": "Transcripción en tiempo real – Transcripción en vivo de todo lo que se dice",
+        "subtitle": "Pulsa Iniciar y TranscriptX escucha a través de tu micrófono y convierte en texto, en tiempo real, todo lo que se dice. Transcribe una clase, una entrevista o una conversación mientras ocurre; después pulsa Detener y conserva la transcripción completa: cópiala o expórtala a TXT, DOCX, PDF, SRT o VTT. Gratis para empezar, en más de 100 idiomas y sin instalar nada.",
+        "placeholder": "Pulsa Iniciar para empezar a transcribir en vivo...",
+        "button": "Iniciar transcripción en vivo"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo hago una transcripción en tiempo real?",
+        "answer": "Abre TranscriptX, pulsa Iniciar y permite el acceso al micrófono. Todo lo que se diga cerca del micrófono se transcribe en tiempo real y aparece en pantalla a medida que se habla. Cuando termines, pulsa Detener para leer, editar, copiar o exportar la transcripción completa. Es gratis para empezar, sin registro y sin instalar nada."
+    },
+    "sections": [
+        {
+            "h2": "¿Qué es la transcripción en tiempo real?",
+            "content": [
+                "La transcripción en tiempo real convierte la voz en texto mientras alguien todavía está hablando. En lugar de grabar una clase o una entrevista y transcribirla después, pulsas Iniciar, las palabras aparecen en pantalla según hablan los demás y, cuando termina la sesión, la transcripción ya está escrita.",
+                "Se trata de captar lo que dicen otras personas, en el momento. Un profesor explicando un tema, una fuente respondiendo a tus preguntas, un equipo repasando un plan: la transcripción en vivo lo sigue todo y lo deja por escrito, para que puedas centrarte en la conversación en lugar de apuntar a toda prisa.",
+                "Eso es lo que la diferencia de transcribir un archivo. No hay grabación que subir ni que esperar a que se procese al final: transcribes en vivo y el registro se va construyendo al instante.",
+                "TranscriptX lo hace directamente en el navegador, gratis para empezar. Pulsa Iniciar, deja que escuche y quédate con la transcripción al terminar."
+            ]
+        },
+        {
+            "h2": "La transcripción en tiempo real, de un vistazo",
+            "specs": [
+                {
+                    "label": "Precio",
+                    "value": "Gratis para empezar — planes de pago para un uso intensivo"
+                },
+                {
+                    "label": "Cuenta necesaria",
+                    "value": "No — el registro es opcional"
+                },
+                {
+                    "label": "Instalación",
+                    "value": "Ninguna — funciona en el navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Tu micrófono, en directo — pulsa Iniciar para empezar"
+                },
+                {
+                    "label": "Resultado",
+                    "value": "Texto que aparece en tiempo real mientras la gente habla"
+                },
+                {
+                    "label": "Duración de la sesión",
+                    "value": "Úsala durante toda una clase o entrevista"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "100+"
+                },
+                {
+                    "label": "Formatos de exportación",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de ordenador, tableta y móvil"
+                }
+            ]
+        },
+        {
+            "h2": "Cómo transcribir en tiempo real",
+            "steps": [
+                {
+                    "h3": "Pulsa Iniciar",
+                    "content": "Abre TranscriptX y pulsa Iniciar. El navegador te pedirá acceso al micrófono una sola vez: permítelo y la transcripción en vivo comenzará al momento."
+                },
+                {
+                    "h3": "Deja que escuche",
+                    "content": "Coloca el dispositivo donde oiga bien a quien habla: sobre el pupitre en una clase, entre tú y la persona a la que entrevistas o en el centro de la mesa."
+                },
+                {
+                    "h3": "Mira cómo crece la transcripción",
+                    "content": "Las palabras aparecen en pantalla a medida que se pronuncian, con puntuación añadida sobre la marcha, para que puedas seguir el hilo o repasar algo que se acaba de decir."
+                },
+                {
+                    "h3": "Pulsa Detener y guárdala",
+                    "content": "Cuando acabe la sesión, pulsa Detener. La transcripción completa estará lista para leer, editar, copiar o exportar como TXT, DOCX, PDF, SRT o VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Transcripción en vivo, directamente en tu navegador",
+            "content": [
+                "Una transcripción en vivo no deja ningún desfase entre lo que alguien dice y lo que queda escrito. El texto avanza al ritmo de la conversación, así que la transcripción que ves en pantalla siempre está al día.",
+                "Eso cambia la forma de usarla. En una clase puedes volver a una definición que el profesor dio hace un minuto. En una entrevista ves cómo una cita queda en la página justo cuando se pronuncia y puedes marcarla para después. En un debate rápido puedes comprobar una cifra o un nombre sin pedir a nadie que lo repita."
+            ]
+        },
+        {
+            "h2": "Transcribir audio a texto en tiempo real desde tu micrófono",
+            "content": [
+                "La herramienta trabaja con todo lo que capta tu micrófono. Pulsa Iniciar y TranscriptX te permite transcribir audio a texto en tiempo real de forma continua: una persona o varias, en una oficina tranquila o en un aula magna.",
+                "Si ya tienes el audio grabado, no hace falta reproducirlo delante del micrófono. Sube el archivo a la herramienta [Audio to Text](/es/audio-to-text) o a [Voice to Text](/es/voice-to-text) y se transcribirá directamente."
+            ]
+        },
+        {
+            "h2": "Qué puedes transcribir en vivo",
+            "intro": [
+                "La transcripción en tiempo real está pensada para esos momentos en los que alguien habla y necesitas un registro escrito. Los usos más habituales:"
+            ],
+            "items": [
+                {
+                    "h3": "Clases y lecciones",
+                    "content": "Deja que la transcripción tome los apuntes mientras escuchas. Al terminar tendrás cada explicación, ejemplo y definición en un texto en el que podrás buscar y estudiar."
+                },
+                {
+                    "h3": "Entrevistas",
+                    "content": "Mantén el contacto visual con tu entrevistado en lugar de escribir. Sus respuestas se transcriben en vivo, así que las citas exactas quedan en la página en cuanto se pronuncian."
+                },
+                {
+                    "h3": "Conversaciones y debates",
+                    "content": "Registra una lluvia de ideas, una reunión de planificación o una conversación importante mientras sucede, para que nadie tenga que fiarse de la memoria sobre lo acordado."
+                },
+                {
+                    "h3": "Charlas, seminarios y eventos",
+                    "content": "Transcribe en vivo a un ponente desde el público y llévate un registro escrito completo de la charla, no solo las diapositivas."
+                },
+                {
+                    "h3": "Reuniones presenciales",
+                    "content": "Pon un portátil o un móvil sobre la mesa, pulsa Iniciar y la conversación se irá redactando sobre la marcha, lista para convertirla en acta al acabar la reunión."
+                },
+                {
+                    "h3": "Seguir lo que cuesta oír",
+                    "content": "Para personas sordas o con dificultades auditivas, o para quien escucha en un segundo idioma, leer las palabras en tiempo real hace mucho más fácil seguir una conversación o una clase."
+                }
+            ]
+        },
+        {
+            "h2": "Consejos para una transcripción en tiempo real precisa",
+            "content": [
+                "La transcripción en tiempo real es tan buena como lo que oye el micrófono. Cuanto más cerca esté el dispositivo de quien habla, más limpio será el texto: en una clase, siéntate en las primeras filas; en una entrevista, coloca el móvil o el portátil entre tú y tu invitado.",
+                "El ruido de fondo y las voces que se solapan son lo que más reduce la precisión. Un lugar más tranquilo y que hable una persona cada vez marcan una diferencia notable; y si algún fragmento quedó ruidoso, puedes corregir una o dos palabras en la transcripción después de pulsar Detener.",
+                "TranscriptX admite más de 100 idiomas, así que puedes transcribir en vivo en el idioma que realmente se habla, en lugar de traducir mentalmente mientras tomas notas."
+            ]
+        },
+        {
+            "h2": "Transcripción en vivo gratis y online",
+            "content": [
+                "Puedes empezar tu transcripción en directo online al instante: sin registro y sin instalar nada. El plan gratuito te permite transcribir de inmediato; crear una cuenta es opcional y hay planes de pago si necesitas más uso. Funciona igual en Windows, Mac, Chromebook, Android y iPhone, siempre que tu navegador pueda usar el micrófono."
+            ]
+        },
+        {
+            "h2": "¿Registrar lo que dicen otros o escribir con tu voz?",
+            "intro": [
+                "Las dos convierten la voz en texto mientras se habla, pero están hechas para tareas distintas. Elige según de quién sean las palabras que quieres en la página."
+            ],
+            "items": [
+                {
+                    "h3": "Elige la transcripción en tiempo real para registrar lo que dicen otros",
+                    "content": "Cuando quieres un registro escrito de una clase, una entrevista, una conversación o una charla —palabras que escuchas, no que compones—, la transcripción en tiempo real está hecha para eso."
+                },
+                {
+                    "h3": "Elige voz a texto en tiempo real para escribir con tu voz",
+                    "content": "Si lo que quieres es dictar tu propio correo, nota o borrador en lugar de teclearlo, usa [Real-Time Speech to Text](/es/real-time-speech-to-text). Y si la voz ya está grabada, las herramientas [Voice to Text](/es/voice-to-text) y [Audio to Text](/es/audio-to-text) transcriben el archivo directamente."
+                }
+            ]
+        },
+        {
+            "h2": "Preguntas frecuentes",
+            "items": [
+                {
+                    "q": "¿Qué es la transcripción en tiempo real?",
+                    "a": "La transcripción en tiempo real convierte la voz en texto mientras se habla. Pulsas Iniciar, el micrófono escucha y las palabras aparecen en pantalla a medida que la gente habla, de modo que la transcripción está lista en cuanto termina la sesión."
+                },
+                {
+                    "q": "¿Cómo inicio una transcripción en vivo?",
+                    "a": "Abre TranscriptX, pulsa Iniciar y permite el acceso al micrófono cuando el navegador lo pida. La transcripción empieza de inmediato. Pulsa Detener cuando hayas terminado."
+                },
+                {
+                    "q": "¿La transcripción en vivo es gratis?",
+                    "a": "Sí, puedes empezar gratis. La transcripción en vivo funciona en el navegador de tu ordenador, tableta o móvil sin instalar nada, y puedes usarla sin registrarte. Si transcribes mucho, los planes de pago ofrecen más uso."
+                },
+                {
+                    "q": "¿Puedo descargar la transcripción después de pulsar Detener?",
+                    "a": "Sí. Una vez que te detienes, puedes leer y editar la transcripción, copiarla o exportarla como TXT, DOCX, PDF, SRT o VTT."
+                },
+                {
+                    "q": "¿Qué precisión tiene la transcripción en tiempo real?",
+                    "a": "Depende sobre todo de lo que oiga el micrófono. Una voz clara y cerca del dispositivo se transcribe prácticamente palabra por palabra; en salas ruidosas o cuando varias personas hablan a la vez, conviene repasar el texto al terminar."
+                },
+                {
+                    "q": "¿En qué idiomas puedo transcribir en vivo?",
+                    "a": "Se admiten más de 100 idiomas, así que puedes transcribir en vivo en el idioma que se esté hablando."
+                },
+                {
+                    "q": "¿Y si ya tengo una grabación?",
+                    "a": "No hace falta reproducirla delante del micrófono. Súbela a la herramienta Voice to Text o Audio to Text y el archivo se transcribirá directamente."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Empieza gratis tu transcripción en tiempo real",
+        "content": [
+            "Pulsa Iniciar y TranscriptX transcribe en tiempo real lo que se dice —una clase, una entrevista, una conversación o una charla— en más de 100 idiomas, directamente en tu navegador.",
+            "Pulsa Detener y la transcripción completa estará lista para leer, editar, copiar o exportar como TXT, DOCX, PDF, SRT o VTT. Gratis para empezar, sin registro y sin instalar nada."
+        ]
+    }
+}

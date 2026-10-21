@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Phiên âm trực tiếp — Ghi lời nói thành văn bản tức thì",
+        "description": "Bấm Bắt đầu để phiên âm trực tiếp bài giảng, phỏng vấn, cuộc trò chuyện theo thời gian thực. Miễn phí để bắt đầu, không cần đăng ký. Xuất TXT, DOCX, PDF.",
+        "schemaName": "TranscriptX Phiên âm trực tiếp",
+        "schemaDescription": "Công cụ phiên âm trực tiếp trực tuyến, thu âm từ micro và chuyển lời nói thành văn bản theo thời gian thực bằng hơn 100 ngôn ngữ. Bấm Bắt đầu để ghi lại bài giảng, buổi phỏng vấn và cuộc trò chuyện ngay khi đang diễn ra, sau đó sao chép hoặc xuất bản phiên âm sang TXT, DOCX, PDF, SRT hoặc VTT. Chạy ngay trên trình duyệt, không cần đăng ký để bắt đầu.",
+        "ogTitle": "Phiên âm trực tiếp — Ghi lời nói thành văn bản tức thì",
+        "ogDescription": "Bấm Bắt đầu và xem lời nói hiện thành bản phiên âm theo thời gian thực. Phiên âm trực tiếp bài giảng, phỏng vấn, cuộc trò chuyện — miễn phí, không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Phiên âm trực tiếp – Chuyển lời nói thành văn bản theo thời gian thực",
+        "subtitle": "Bấm Bắt đầu, TranscriptX sẽ nghe qua micro và chuyển những gì đang được nói thành văn bản theo thời gian thực. Phiên âm một bài giảng, một buổi phỏng vấn hay một cuộc trò chuyện ngay khi nó diễn ra, rồi bấm Dừng để giữ lại toàn bộ bản phiên âm — sao chép hoặc xuất sang TXT, DOCX, PDF, SRT, VTT. Miễn phí để bắt đầu, hỗ trợ hơn 100 ngôn ngữ, không cần cài đặt gì.",
+        "placeholder": "Bấm Bắt đầu để phiên âm trực tiếp...",
+        "button": "Bắt đầu phiên âm trực tiếp"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để phiên âm trực tiếp?",
+        "answer": "Mở TranscriptX, bấm Bắt đầu và cho phép truy cập micro. Mọi lời nói gần micro sẽ được phiên âm trực tiếp và hiện lên màn hình ngay khi đang nói. Khi xong, bấm Dừng để đọc, chỉnh sửa, sao chép hoặc xuất toàn bộ bản phiên âm. Miễn phí để bắt đầu, không cần đăng ký và không phải cài đặt gì."
+    },
+    "sections": [
+        {
+            "h2": "Phiên âm trực tiếp là gì?",
+            "content": [
+                "Phiên âm trực tiếp là chuyển lời nói thành văn bản ngay trong lúc người ta đang nói. Thay vì ghi âm bài giảng hay buổi phỏng vấn rồi về ngồi gõ lại, bạn chỉ cần bấm Bắt đầu: chữ hiện lên màn hình theo từng câu nói, và khi buổi làm việc kết thúc thì bản phiên âm cũng đã xong.",
+                "Mục đích là ghi lại lời người khác ngay tại thời điểm đó. Một giảng viên đang giảng bài, một nhân vật đang trả lời phỏng vấn, một nhóm đang bàn kế hoạch — phiên âm trực tiếp theo sát và ghi lại tất cả, để bạn tập trung vào câu chuyện thay vì cuống cuồng ghi chép.",
+                "Đó cũng là điểm khác với việc phiên âm một tệp ghi âm. Không có tệp nào phải tải lên, không phải chờ xử lý ở cuối: bạn phiên âm ngay lúc đang nghe, và văn bản được hình thành theo thời gian thực.",
+                "TranscriptX làm việc này ngay trên trình duyệt, miễn phí để bắt đầu. Bấm Bắt đầu, để công cụ lắng nghe, rồi giữ lại bản phiên âm khi xong."
+            ]
+        },
+        {
+            "h2": "Tổng quan về công cụ phiên âm trực tiếp",
+            "specs": [
+                {
+                    "label": "Giá",
+                    "value": "Miễn phí để bắt đầu — có gói trả phí khi dùng nhiều"
+                },
+                {
+                    "label": "Cần tài khoản",
+                    "value": "Không — đăng ký là tùy chọn"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không cần — chạy trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Micro của bạn, thu trực tiếp — bấm Bắt đầu là chạy"
+                },
+                {
+                    "label": "Đầu ra",
+                    "value": "Văn bản hiện ra theo thời gian thực khi mọi người nói"
+                },
+                {
+                    "label": "Thời lượng",
+                    "value": "Dùng được cho cả một buổi học hay buổi phỏng vấn"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "100+"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách phiên âm trực tiếp",
+            "steps": [
+                {
+                    "h3": "Bấm Bắt đầu",
+                    "content": "Mở TranscriptX và bấm Bắt đầu. Trình duyệt sẽ hỏi quyền dùng micro một lần — cho phép là quá trình phiên âm trực tiếp bắt đầu ngay."
+                },
+                {
+                    "h3": "Để công cụ lắng nghe",
+                    "content": "Đặt thiết bị ở chỗ nghe rõ người nói — trên bàn trong giờ học, giữa bạn và người được phỏng vấn, hoặc ở giữa bàn họp."
+                },
+                {
+                    "h3": "Xem bản phiên âm hình thành",
+                    "content": "Chữ hiện lên màn hình ngay khi được nói ra, có tự thêm dấu câu, nên bạn có thể đọc theo hoặc liếc lại câu vừa nghe."
+                },
+                {
+                    "h3": "Bấm Dừng và lưu lại",
+                    "content": "Khi buổi làm việc kết thúc, bấm Dừng. Toàn bộ bản phiên âm đã sẵn sàng để đọc, chỉnh sửa, sao chép hoặc xuất sang TXT, DOCX, PDF, SRT, VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển giọng nói thành văn bản thời gian thực ngay trên trình duyệt",
+            "content": [
+                "Phiên âm thời gian thực nghĩa là gần như không có độ trễ giữa lúc ai đó nói và lúc chữ được viết ra. Văn bản bắt kịp nhịp cuộc trò chuyện, nên bản phiên âm trên màn hình luôn cập nhật đến từng giây.",
+                "Điều đó thay đổi cách bạn sử dụng. Trong giờ học, bạn có thể xem lại định nghĩa giảng viên vừa nói một phút trước. Trong buổi phỏng vấn, bạn thấy câu trích dẫn hiện ra đúng lúc nó được nói và đánh dấu để dùng sau. Trong một cuộc thảo luận nhanh, bạn kiểm tra lại con số hay cái tên mà không phải nhờ ai nhắc lại."
+            ]
+        },
+        {
+            "h2": "Chuyển âm thanh trực tiếp thành văn bản từ micro",
+            "content": [
+                "Công cụ phiên âm từ bất cứ âm thanh nào micro của bạn nghe được. Bấm Bắt đầu và TranscriptX liên tục chuyển âm thanh trực tiếp thành văn bản — một người nói hay nhiều người, trong văn phòng yên tĩnh hay giảng đường đông người.",
+                "Nếu bạn đã có sẵn bản ghi âm, không cần phát lại vào micro. Hãy tải tệp lên công cụ [Audio to Text](/vi/audio-to-text) hoặc [Voice to Text](/vi/voice-to-text) để chuyển thẳng tệp thành văn bản."
+            ]
+        },
+        {
+            "h2": "Bạn có thể phiên âm trực tiếp những gì",
+            "intro": [
+                "Phiên âm trực tiếp được làm cho những lúc có người đang nói và bạn cần một bản ghi bằng chữ. Các trường hợp phổ biến nhất:"
+            ],
+            "items": [
+                {
+                    "h3": "Ghi chép bài giảng thời gian thực",
+                    "content": "Để bản phiên âm ghi chép thay bạn trong lúc bạn nghe giảng. Sau buổi học, bạn có đủ mọi lời giải thích, ví dụ và định nghĩa dưới dạng văn bản để tìm kiếm và ôn tập."
+                },
+                {
+                    "h3": "Phỏng vấn",
+                    "content": "Giữ giao tiếp bằng mắt với người được phỏng vấn thay vì cắm cúi ghi. Câu trả lời của họ được phiên âm trực tiếp, nên trích dẫn chính xác có ngay trên trang lúc họ vừa nói."
+                },
+                {
+                    "h3": "Trò chuyện và thảo luận",
+                    "content": "Ghi lại một buổi brainstorm, một buổi lên kế hoạch hay một cuộc trò chuyện quan trọng ngay khi nó diễn ra, để không ai phải dựa vào trí nhớ về những gì đã thống nhất."
+                },
+                {
+                    "h3": "Buổi nói chuyện, hội thảo, sự kiện",
+                    "content": "Phiên âm trực tiếp diễn giả ngay từ hàng ghế khán giả và ra về với bản ghi đầy đủ của cả buổi, chứ không chỉ có mấy tấm slide."
+                },
+                {
+                    "h3": "Cuộc họp trực tiếp",
+                    "content": "Đặt laptop hoặc điện thoại lên bàn, bấm Bắt đầu, nội dung thảo luận được ghi lại liên tục — họp xong là có thể soạn biên bản ngay."
+                },
+                {
+                    "h3": "Theo dõi lời nói khó nghe rõ",
+                    "content": "Với người khiếm thính, nghe kém hoặc đang nghe bằng ngoại ngữ, việc đọc chữ theo thời gian thực giúp theo kịp cuộc trò chuyện hay bài giảng dễ hơn rất nhiều."
+                }
+            ]
+        },
+        {
+            "h2": "Mẹo để phiên âm trực tiếp chính xác hơn",
+            "content": [
+                "Chất lượng phiên âm trực tiếp phụ thuộc vào những gì micro nghe được. Thiết bị càng gần người nói, văn bản càng sạch — trong giờ học hãy ngồi gần phía trên; khi phỏng vấn, đặt điện thoại hoặc laptop giữa bạn và khách mời.",
+                "Tiếng ồn xung quanh và nhiều người nói chồng lên nhau là hai nguyên nhân chính làm giảm độ chính xác. Một chỗ yên tĩnh hơn và từng người nói lần lượt sẽ tạo khác biệt rõ rệt; nếu đoạn nào bị ồn, bạn có thể sửa vài từ trong bản phiên âm sau khi bấm Dừng.",
+                "TranscriptX hỗ trợ hơn 100 ngôn ngữ, nên bạn có thể live transcribe tiếng Việt hay bất kỳ ngôn ngữ nào đang được nói, thay vì vừa nghe vừa dịch trong đầu để ghi chép."
+            ]
+        },
+        {
+            "h2": "Phiên âm trực tiếp miễn phí, ngay trên trình duyệt",
+            "content": [
+                "Bạn có thể phiên âm trực tiếp trực tuyến ngay lập tức — không cần đăng ký, không phải cài đặt. Gói miễn phí cho phép bắt đầu phiên âm ngay; tạo tài khoản là tùy chọn, và có gói trả phí nếu bạn cần dùng nhiều hơn. Công cụ hoạt động như nhau trên Windows, Mac, Chromebook, Android và iPhone, miễn là trình duyệt dùng được micro."
+            ]
+        },
+        {
+            "h2": "Phiên âm trực tiếp hay nhập văn bản bằng giọng nói?",
+            "intro": [
+                "Cả hai đều chuyển lời nói thành chữ ngay khi đang nói, nhưng phục vụ những việc khác nhau. Hãy chọn dựa trên việc bạn muốn ghi lại lời của ai."
+            ],
+            "items": [
+                {
+                    "h3": "Chọn phiên âm trực tiếp để ghi lại lời người khác",
+                    "content": "Khi bạn cần bản ghi bằng chữ của một bài giảng, buổi phỏng vấn, cuộc trò chuyện hay buổi nói chuyện — lời bạn đang nghe, không phải lời bạn đang soạn — phiên âm trực tiếp là công cụ dành cho việc đó."
+                },
+                {
+                    "h3": "Chọn nhập văn bản bằng giọng nói để tự viết",
+                    "content": "Khi bạn muốn đọc email, ghi chú hay bản nháp của chính mình thay vì gõ phím, hãy dùng [Real-Time Speech to Text](/vi/real-time-speech-to-text). Còn nếu lời nói đã được ghi âm sẵn, công cụ [Voice to Text](/vi/voice-to-text) và [Audio to Text](/vi/audio-to-text) sẽ chuyển thẳng tệp thành văn bản."
+                }
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Phiên âm trực tiếp là gì?",
+                    "a": "Phiên âm trực tiếp là chuyển lời nói thành văn bản theo thời gian thực, ngay trong lúc đang nói. Bạn bấm Bắt đầu, micro lắng nghe, chữ hiện lên màn hình khi mọi người nói, nên bản phiên âm sẵn sàng ngay khi buổi làm việc kết thúc."
+                },
+                {
+                    "q": "Làm sao để bắt đầu phiên âm trực tiếp?",
+                    "a": "Mở TranscriptX, bấm Bắt đầu và cho phép truy cập micro khi trình duyệt hỏi. Quá trình phiên âm bắt đầu ngay. Bấm Dừng khi bạn xong."
+                },
+                {
+                    "q": "Phiên âm trực tiếp có miễn phí không?",
+                    "a": "Có, bạn có thể bắt đầu miễn phí. Công cụ chạy trên trình duyệt của máy tính, máy tính bảng hoặc điện thoại, không cần cài đặt và dùng được mà không cần đăng ký. Nếu bạn phiên âm nhiều, các gói trả phí cho phép dùng nhiều hơn."
+                },
+                {
+                    "q": "Tôi có tải bản phiên âm về được sau khi bấm Dừng không?",
+                    "a": "Có. Sau khi dừng, bạn có thể đọc và chỉnh sửa bản phiên âm, sao chép, hoặc xuất sang TXT, DOCX, PDF, SRT hoặc VTT."
+                },
+                {
+                    "q": "Phiên âm thời gian thực chính xác đến mức nào?",
+                    "a": "Chủ yếu phụ thuộc vào những gì micro nghe được. Giọng nói rõ ràng, ở gần thiết bị sẽ ra gần như từng chữ; phòng ồn hoặc nhiều người nói chồng lên nhau thì nên xem lại nhanh sau khi dừng."
+                },
+                {
+                    "q": "Tôi có thể phiên âm trực tiếp những ngôn ngữ nào?",
+                    "a": "Hỗ trợ hơn 100 ngôn ngữ, bao gồm tiếng Việt, nên bạn có thể phiên âm trực tiếp đúng ngôn ngữ đang được nói."
+                },
+                {
+                    "q": "Nếu tôi đã có sẵn bản ghi âm thì sao?",
+                    "a": "Không cần phát lại vào micro. Hãy tải tệp lên công cụ Voice to Text hoặc Audio to Text để chuyển thẳng tệp thành văn bản."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bắt đầu phiên âm trực tiếp miễn phí",
+        "content": [
+            "Bấm Bắt đầu và TranscriptX sẽ phiên âm trực tiếp những gì đang được nói — một bài giảng, một buổi phỏng vấn, một cuộc trò chuyện hay một buổi nói chuyện — bằng hơn 100 ngôn ngữ, ngay trên trình duyệt.",
+            "Bấm Dừng là toàn bộ bản phiên âm đã sẵn sàng để đọc, chỉnh sửa, sao chép hoặc xuất sang TXT, DOCX, PDF, SRT, VTT. Miễn phí để bắt đầu, không cần đăng ký, không phải cài đặt."
+        ]
+    }
+}

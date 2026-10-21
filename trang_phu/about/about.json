@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "About TranscriptX | AI Transcription for Video & Audio",
+    "meta_description": "Learn about TranscriptX, an AI-powered transcription platform that helps you convert video and audio into accurate text. Generate transcripts, subtitles, summaries, and captions for YouTube, TikTok, Instagram, Facebook, and more."
+  },
+  "headings": {
+    "h1": "About TranscriptX"
+  },
+  "hero": {
+    "title": "AI Transcription, Built for Everyone.",
+    "description": "TranscriptX helps individuals, creators, students, professionals, and businesses turn spoken content into accurate, searchable, and reusable text with AI."
+  },
+  "sections": {
+    "1": {
+      "tag": "p",
+      "content": [
+        "TranscriptX is an AI-powered transcription platform that transforms video and audio into accurate, editable text within seconds. Whether you're working with meetings, interviews, podcasts, lectures, webinars, or social media videos, TranscriptX makes it easy to capture every spoken word.",
+        "More than a simple transcription tool, TranscriptX provides a complete workflow for creating transcripts, subtitles, captions, summaries, and translated content from a wide range of media sources.",
+        "Our goal is to make speech as searchable and reusable as written content, helping people save time, improve productivity, and unlock more value from every video and audio file."
+      ]
+    },
+    "2": {
+      "tag": "h2",
+      "title": "Why We Built TranscriptX",
+      "body": [
+        "Video and audio have become the primary way people create and consume information, yet spoken content is often difficult to search, organize, or reuse.",
+        "TranscriptX was built to solve this problem by using advanced AI speech recognition to generate highly accurate transcripts that can be edited, translated, summarized, and shared in just a few clicks.",
+        "We believe transcription should be fast, reliable, and accessible to everyone—not just professionals with expensive software."
+      ]
+    },
+    "3": {
+      "tag": "h2",
+      "title": "Everything You Need for AI Transcription",
+      "body": [
+        "TranscriptX is designed as a complete AI transcription platform rather than a single-purpose converter.",
+        "Our tools help users transcribe videos, convert audio to text, generate transcripts from YouTube, TikTok, Instagram, and Facebook videos, create subtitles and captions, and summarize long conversations with AI.",
+        "By bringing these workflows together in one place, TranscriptX makes it easier to process spoken content from start to finish."
+      ]
+    },
+    "4": {
+      "tag": "h2",
+      "title": "Built for Accuracy and Productivity",
+      "body": [
+        "Transcript quality matters. TranscriptX uses modern AI speech recognition technology to deliver accurate results across different speakers, accents, and recording scenarios.",
+        "Every transcript is fully editable, allowing you to review, refine, translate, summarize, or export your content before sharing it.",
+        "Instead of spending hours typing manually, you can focus on understanding and using your content."
+      ]
+    },
+    "5": {
+      "tag": "h2",
+      "title": "Who Uses TranscriptX",
+      "body": [
+        "TranscriptX is built for anyone who works with spoken content.",
+        "Content creators generate transcripts for YouTube videos and social media content. Students convert lectures into searchable study notes. Journalists and researchers transcribe interviews. Businesses document meetings and webinars. Podcasters, marketers, educators, and video editors all use TranscriptX to make their workflows faster and more efficient.",
+        "Whether you create content, study, work, or communicate with a team, TranscriptX helps you turn conversations into useful information."
+      ]
+    },
+    "6": {
+      "tag": "h2",
+      "title": "Simple, Fast, and Accessible",
+      "body": [
+        "TranscriptX works entirely online, so you can start transcribing without installing software or dealing with complicated setups.",
+        "Simply upload your video or audio file—or use one of our supported platform tools—to generate transcripts in seconds.",
+        "The platform is designed to work smoothly across desktop, tablet, and mobile devices, making AI transcription available wherever you work."
+      ]
+    },
+    "7": {
+      "tag": "h2",
+      "title": "More Than Just Transcripts",
+      "body": [
+        "TranscriptX goes beyond converting speech into text.",
+        "You can generate subtitles and captions, summarize long recordings with AI, translate transcripts into other languages, and prepare content for documentation, publishing, accessibility, or content repurposing.",
+        "Our mission is to help users get more value from every recording instead of simply producing a transcript."
+      ]
+    },
+    "8": {
+      "tag": "h2",
+      "title": "Our Vision",
+      "body": [
+        "We believe spoken knowledge should be as easy to search, edit, share, and understand as written documents.",
+        "TranscriptX is continuously improving its AI transcription technology while expanding support for more languages, content types, and productivity workflows.",
+        "Our vision is to build one of the most trusted AI transcription platforms, helping millions of people transform video and audio into knowledge they can easily access and reuse."
+      ]
+    },
+    "9": {
+      "tag": "h2",
+      "title": "Contact",
+      "body": [
+        "We welcome feedback, feature suggestions, partnership opportunities, and bug reports from our users.",
+        "Your ideas help us improve TranscriptX and build better AI transcription tools for everyone.",
+        "Email: contact.freemd.io@gmail.com"
+      ]
+    }
+  }
+}

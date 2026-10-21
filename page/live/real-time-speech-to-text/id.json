@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Speech to Text Bahasa Indonesia — Ketik Pakai Suara",
+        "description": "Tekan Mulai, bicara, dan kata-kata Anda langsung jadi teks yang bisa diedit. Speech to text bahasa Indonesia untuk catatan, email, draf. Tanpa perlu daftar.",
+        "schemaName": "TranscriptX Speech to Text Bahasa Indonesia",
+        "schemaDescription": "Alat speech to text bahasa Indonesia online untuk dikte. Tekan Mulai, bicara ke mikrofon, dan kata-kata Anda langsung muncul sebagai teks bertanda baca yang bisa diedit, dalam lebih dari 100 bahasa. Salin teks ke mana saja atau ekspor ke TXT, DOCX, atau PDF. Berjalan di browser, tanpa perlu daftar untuk mulai.",
+        "ogTitle": "Speech to Text Bahasa Indonesia — Ketik Pakai Suara",
+        "ogDescription": "Mengetik dengan suara. Tekan Mulai, bicara, dan lihat kata-kata Anda langsung jadi teks — gratis untuk mulai, 100+ bahasa, tanpa perlu daftar."
+    },
+    "hero": {
+        "h1": "Speech to Text Bahasa Indonesia – Mengetik dengan Suara Anda",
+        "subtitle": "Mengetik dengan suara Anda. Tekan Mulai, bicara, dan kata-kata Anda langsung muncul di layar sebagai teks bertanda baca yang bisa diedit. Diktekan email, catatan, pesan, atau draf pertama lebih cepat daripada mengetiknya, lalu salin ke mana saja atau ekspor ke TXT, DOCX, atau PDF. Gratis untuk mulai, dalam lebih dari 100 bahasa, tanpa perlu instal apa pun.",
+        "placeholder": "Tekan Mulai dan mulailah berbicara...",
+        "button": "Mulai Bicara"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara menggunakan speech to text bahasa Indonesia?",
+        "answer": "Buka TranscriptX, tekan Mulai, izinkan akses mikrofon, lalu bicaralah. Dengan speech to text bahasa Indonesia, kata-kata Anda langsung muncul sebagai teks selagi Anda berbicara. Edit bagian yang perlu diperbaiki, lalu salin teks ke email atau dokumen Anda, atau ekspor. Gratis untuk mulai, tanpa perlu daftar dan tanpa instal apa pun."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Speech to Text Bahasa Indonesia?",
+            "content": [
+                "Speech to text bahasa Indonesia memungkinkan Anda menulis dengan berbicara. Anda menekan Mulai, mengucapkan apa yang ingin ditulis, dan kata-kata muncul di layar saat Anda mengucapkannya — tanpa keyboard, tanpa menunggu, tanpa file yang perlu diproses.",
+                "Ini adalah dikte: kata-kata di halaman adalah milik Anda sendiri. Anda tidak sedang merekam orang lain untuk nanti; Anda sedang menyusun email, catatan, pesan, atau draf, dengan suara alih-alih jari.",
+                "Daya tariknya adalah kecepatan. Kebanyakan orang berbicara tiga sampai empat kali lebih cepat daripada mengetik, jadi menuangkan pikiran lewat ucapan ke halaman jauh lebih cepat daripada mengetiknya kata demi kata. Anda mendapat kecepatan bicara dengan hasil seperti mengetik.",
+                "TranscriptX melakukannya di browser Anda, gratis untuk mulai. Tekan Mulai, bicara, dan teks Anda siap digunakan."
+            ]
+        },
+        {
+            "h2": "Sekilas tentang Speech to Text Bahasa Indonesia",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis untuk mulai — paket berbayar untuk pemakaian lebih banyak"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak — pendaftaran opsional"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak perlu — berjalan di browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Suara Anda lewat mikrofon — tekan Mulai dan bicara"
+                },
+                {
+                    "label": "Output",
+                    "value": "Teks bertanda baca yang bisa diedit, muncul selagi Anda berbicara"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+"
+                },
+                {
+                    "label": "Ekspor",
+                    "value": "Salin ke clipboard, atau TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser di desktop, tablet, dan ponsel"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mengetik dengan Suara",
+            "steps": [
+                {
+                    "h3": "Tekan Mulai",
+                    "content": "Buka TranscriptX dan tekan Mulai. Izinkan akses mikrofon saat browser memintanya pertama kali."
+                },
+                {
+                    "h3": "Bicara dengan wajar",
+                    "content": "Ucapkan apa yang ingin Anda tulis dengan kecepatan normal. Tidak perlu bicara pelan atau berhenti di antara kata."
+                },
+                {
+                    "h3": "Lihat kata-kata Anda seketika",
+                    "content": "Teks muncul di layar selagi Anda berbicara, dengan tanda baca yang ditambahkan otomatis, sehingga Anda bisa melihat kalimat terbentuk secara real time."
+                },
+                {
+                    "h3": "Edit dan salin",
+                    "content": "Tekan Berhenti, perbaiki bagian yang perlu, lalu salin teks ke email, dokumen, atau chat Anda — atau ekspor sebagai TXT, DOCX, atau PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Suara ke Teks Langsung: Ketik Pakai Suara",
+            "content": [
+                "Suara ke teks langsung menggantikan keyboard dengan suara Anda. Apa pun yang biasanya Anda ketik — balasan, paragraf, daftar — cukup ucapkan, dan teksnya tertulis seiring Anda berbicara.",
+                "Ini sangat berguna saat mengetik terasa lambat atau merepotkan: di ponsel, di tablet tanpa keyboard, saat tangan sedang sibuk, atau bagi siapa pun yang merasa mengetik itu melelahkan atau menyakitkan."
+            ]
+        },
+        {
+            "h2": "Teks Instan, Siap Diedit",
+            "content": [
+                "Tidak ada yang perlu ditunggu — tidak perlu merekam dulu lalu mengonversi belakangan. Kata-kata ada di layar begitu Anda mengucapkannya, dengan tanda baca yang ditambahkan otomatis, sehingga hasilnya terbaca seperti tulisan, bukan sekadar deretan kata.",
+                "Bahasa lisan memang lebih santai daripada tulisan, jadi wajar jika ada satu-dua kalimat yang perlu dirapikan. Bagian tersulit — dari halaman kosong ke draf lengkap — sudah selesai; edit teks langsung di tempat, lalu salin ke aplikasi apa pun atau ekspor untuk disimpan."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditulis dengan Suara",
+            "intro": [
+                "Apa pun yang biasa Anda ketik, bisa Anda diktekan. Penggunaan speech to text bahasa Indonesia yang paling umum:"
+            ],
+            "items": [
+                {
+                    "h3": "Email dan balasan",
+                    "content": "Ucapkan email Anda seperti sedang menjelaskannya kepada seseorang, lalu tempel ke kotak masuk dan kirim. Balasan panjang selesai dalam waktu jauh lebih singkat."
+                },
+                {
+                    "h3": "Catatan dan daftar tugas",
+                    "content": "Catat ide, pengingat, atau daftar begitu terlintas, tanpa membuka keyboard."
+                },
+                {
+                    "h3": "Draf pertama",
+                    "content": "Ucapkan isi artikel, laporan, atau esai untuk mendapatkan draf kasar lengkap dengan cepat, lalu rapikan menjadi versi final."
+                },
+                {
+                    "h3": "Pesan dan postingan",
+                    "content": "Diktekan pesan panjang, caption, atau postingan media sosial di ponsel tanpa harus mengetik setiap kata dengan jempol."
+                },
+                {
+                    "h3": "Latihan bahasa",
+                    "content": "Bicaralah dalam bahasa yang sedang Anda pelajari dan lihat apakah kata-katanya keluar sesuai maksud Anda — cara cepat dan jujur untuk mengecek pelafalan."
+                },
+                {
+                    "h3": "Menulis tanpa tangan dan lebih mudah diakses",
+                    "content": "Bagi siapa pun dengan keterbatasan gerak, cedera akibat gerakan berulang, atau kesulitan mengetik, berbicara adalah cara menulis yang lebih cepat dan nyaman."
+                }
+            ]
+        },
+        {
+            "h2": "Tips Dikte yang Lebih Akurat",
+            "content": [
+                "Bicaralah dengan jelas dengan kecepatan normal, dekat dengan mikrofon. Headset atau ponsel yang dipegang dekat mulut memberi hasil lebih bersih daripada mikrofon laptop di seberang ruangan.",
+                "Tempat yang tenang paling membantu. Musik latar, suara lalu lintas, atau suara orang lain bisa ikut masuk ke teks, jadi diktekan di tempat yang tenang saat akurasi penting.",
+                "Berpikirlah dalam kalimat, bukan kata per kata. Menyelesaikan satu pikiran sebelum jeda membantu tanda baca jatuh di tempat yang tepat dan mengurangi yang perlu dirapikan nanti. TranscriptX mendukung lebih dari 100 bahasa, jadi Anda bisa mendikte dalam bahasa apa pun yang Anda gunakan untuk menulis."
+            ]
+        },
+        {
+            "h2": "Speech to Text atau Transkripsi Real Time?",
+            "intro": [
+                "Keduanya mengubah ucapan menjadi teks saat diucapkan. Bedanya ada pada kata-kata siapa yang Anda tuliskan."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih speech to text untuk menulis dengan suara Anda",
+                    "content": "Saat kata-katanya milik Anda sendiri — email, catatan, atau draf yang sedang Anda susun — inilah alat untuk mendiktekannya alih-alih mengetik."
+                },
+                {
+                    "h3": "Pilih transkripsi real time untuk mencatat ucapan orang lain",
+                    "content": "Saat Anda butuh catatan tertulis dari kuliah, wawancara, atau percakapan, gunakan [Live Transcription](/id/live-transcription). Jika ucapannya sudah direkam, unggah ke alat [Voice to Text](/id/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana speech to text bahasa Indonesia bekerja?",
+                    "a": "Anda menekan Mulai dan berbicara ke mikrofon. TranscriptX mengenali ucapan Anda selagi Anda berbicara dan langsung menuliskannya di layar, sambil menambahkan tanda baca."
+                },
+                {
+                    "q": "Apakah alat voice typing online ini gratis?",
+                    "a": "Ya, Anda bisa mulai secara gratis, tanpa perlu daftar dan tanpa instal apa pun. Membuat akun bersifat opsional, dan paket berbayar tersedia jika Anda sering mendikte."
+                },
+                {
+                    "q": "Apakah tanda baca ditambahkan, dan bisakah saya mengedit teksnya?",
+                    "a": "Ya untuk keduanya. Tanda baca ditambahkan selagi Anda berbicara, sehingga teks terbaca seperti tulisan biasa, dan setelah berhenti semuanya bisa diedit — perbaiki kata yang salah tangkap atau rapikan kalimat sebelum menyalinnya."
+                },
+                {
+                    "q": "Bagaimana cara memasukkan teks ke email atau dokumen saya?",
+                    "a": "Salin dengan sekali klik dan tempel ke email, dokumen, atau aplikasi chat apa pun, atau ekspor sebagai TXT, DOCX, atau PDF."
+                },
+                {
+                    "q": "Bahasa apa saja yang bisa saya ucapkan?",
+                    "a": "Lebih dari 100 bahasa didukung, termasuk bahasa Indonesia, jadi Anda bisa mendikte dalam bahasa yang Anda gunakan untuk menulis."
+                },
+                {
+                    "q": "Apakah saya perlu mengunduh aplikasi?",
+                    "a": "Tidak. Speech to text bahasa Indonesia ini berjalan di browser desktop, tablet, atau ponsel. Anda hanya perlu mengizinkan akses mikrofon."
+                },
+                {
+                    "q": "Apa bedanya speech to text dengan transkripsi real time?",
+                    "a": "Speech to text untuk mendiktekan kata-kata Anda sendiri — menulis dengan berbicara. Transkripsi real time untuk mencatat apa yang dikatakan orang lain, seperti kuliah atau wawancara. Keduanya berjalan secara real time; hanya saja dirancang untuk kebutuhan yang berbeda."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Mulai Speech to Text Bahasa Indonesia — Dapatkan Teks Seketika",
+        "content": [
+            "Tekan Mulai, bicara, dan TranscriptX mengubah suara Anda menjadi teks secara real time, dalam lebih dari 100 bahasa, langsung di browser Anda.",
+            "Diktekan email, catatan, pesan, atau draf pertama, lalu edit, salin, atau ekspor. Gratis untuk mulai, tanpa perlu daftar, tanpa instal apa pun."
+        ]
+    }
+}

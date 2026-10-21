@@ -1,0 +1,244 @@
+{
+    "seo": {
+        "title": "Video Yazıya Çevirme — Her Videoyu Ücretsiz Metne Çevirin | TranscriptX",
+        "description": "Videoyu metne çevirme işlemi online ve ücretsiz. Bir MP4, MOV veya herhangi bir videoyu yükleyin, 100'den fazla dilde konuşmacı etiketli doğru bir transkript alın. TXT, DOCX, PDF, SRT olarak dışa aktarın. Üyelik yok.",
+        "schemaName": "TranscriptX Video Metne Çevirme Aracı",
+        "schemaDescription": "Video dosyalarını 100'den fazla dilde metne çeviren ve deşifre eden ücretsiz online araç. Konuşmacı ayrımı, isteğe bağlı zaman damgaları ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. MP4, MOV, AVI, MKV ve WebM destekler, hesap açmanız gerekmez.",
+        "ogTitle": "Video Yazıya Çevirme — Her Videoyu Ücretsiz Metne Çevirin | TranscriptX",
+        "ogDescription": "Her video dosyasını metne çevirin. Bir MP4 veya MOV yükleyin, 100'den fazla dilde doğru bir transkript alın — ücretsiz ve üyelik gerektirmeden."
+    },
+    "hero": {
+        "h1": "Video Yazıya Çevirme",
+        "subtitle": "Her video dosyasını doğru ve düzenlenebilir metne çevirin. Bir MP4, MOV, AVI ya da yaygın kullanılan herhangi bir formatı yükleyin — bir toplantı kaydı, bir ekran kaydı, kamerayla çekilmiş bir görüntü — TranscriptX onu 100'den fazla dilde deşifre eder ve her konuşmacıyı etiketler. TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Ücretsiz, üyeliksiz ve dosya boyutu sınırı olmadan.",
+        "placeholder": "Bir video dosyası yükleyin...",
+        "button": "Metne Çevir"
+    },
+    "quickAnswer": {
+        "question": "Bir videoyu yazıya çevirme nasıl yapılır?",
+        "answer": "Video dosyanızı TranscriptX'e yükleyin; içindeki konuşmayı dakikalar içinde, 100'den fazla dilde ve her konuşmacıyı etiketleyerek yazılı metne çevirir. Ardından transkripti okuyabilir, düzenleyebilir, kopyalayabilir ya da beş formatta kaydedebilirsiniz. Hiçbir zaman hesap açmazsınız, dosya boyutu sınırı yoktur ve cihazınıza hiçbir şey kurmanıza gerek kalmaz."
+    },
+    "sections": [
+        {
+            "h2": "Video Yazıya Çevirme Nedir?",
+            "content": [
+                "Video yazıya çevirme, bir videonun içindeki konuşmayı okuyabileceğiniz kelimeler hâline getirir. Araca bir dosya verirsiniz — kaydedilmiş bir görüşme, bir web semineri, bir ders, bir çekim — ve video yazıya dökme işini kendiniz üstlenip kaydı gerçek zamanlı izleyerek duyduklarınızı tek tek yazmak yerine, tamamını metin olarak geri alırsınız.",
+                "Video, bilgi için en az kullanışlı formatlardan biridir. Göz gezdiremezsiniz, içinde bir cümleyi arayamazsınız ve bir cümleyi alıp başka yere taşıyamazsınız; bu yüzden işinize yarayan içerik bir oynat düğmesinin ve bir zaman çizelgesinin arkasında sıkışıp kalır. O video metne dönüştüğü anda ise süresinin çok küçük bir bölümünde okunur, herhangi bir satır bir saniyede bulunur ve bir alıntı doğrudan bir belgeye taşınır.",
+                "Bir video transkript ayrıca sonrasında gelen her şeyin önünü açar. Kelimeler metin olarak var olduğunda onları çevirebilir, onlardan altyazı üretebilir, özetleyebilir ya da ChatGPT, Claude veya Gemini gibi bir yapay zekâ asistanına verebilirsiniz — ham videonun hiçbirine izin vermediği şeyler.",
+                "TranscriptX bu dönüştürmeyi ücretsiz olarak, doğrudan tarayıcıda, hesap açmadan ve dosya boyutuna hiçbir sınır koymadan yapar."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Video Yazıya Çevirme",
+            "specs": [
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Dosya boyutu sınırı",
+                    "value": "Yok"
+                },
+                {
+                    "label": "Kabul edilen formatlar",
+                    "value": "MP4, MOV, AVI, MKV, WebM ve daha fazlası"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik olarak algılanır"
+                },
+                {
+                    "label": "Konuşmacı ayrımı",
+                    "value": "Evet — her konuşmacı etiketlenir"
+                },
+                {
+                    "label": "Zaman damgaları",
+                    "value": "İsteğe bağlı — her metin için açılıp kapatılabilir"
+                },
+                {
+                    "label": "Dışa aktarma formatları",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                }
+            ]
+        },
+        {
+            "h2": "Video Dosyasını Yazıya Çevirme Nasıl Yapılır?",
+            "steps": [
+                {
+                    "h3": "Video dosyasını yükleyin",
+                    "content": "Bir MP4, MOV, AVI ya da yaygın kullanılan başka bir video formatını doğrudan cihazınızdan sürükleyip bırakın veya videonun bağlantısını yapıştırın. Videodan yazıya çevirme için süre üst sınırı yoktur; iki dakikalık bir klip de üç saatlik bir kayıt da sorunsuz çalışır."
+                },
+                {
+                    "h3": "Araç konuşmayı deşifre eder",
+                    "content": "TranscriptX videonun sesini ayırır, konuşulan dili 100'den fazla dil arasından kendisi algılar, konuşmacıları birbirinden ayırt eder ve her şeyi noktalama ile cümle bölümleriyle birlikte yazar."
+                },
+                {
+                    "h3": "Metni gözden geçirin",
+                    "content": "Transkripti baştan sona okuyun ve kaydın zor anlaşılır kıldığı yerleri düzeltin. Kullanmadan önce ikinci kez bakmaya değer olanlar isimler, sayılar ve teknik terimlerdir."
+                },
+                {
+                    "h3": "Transkripti dışa aktarın veya kopyalayın",
+                    "content": "Metni doğrudan kopyalayın ya da TXT, DOCX, PDF, SRT veya VTT olarak indirin. Altyazı hazırlayacaksanız ya da bir alıntıyı görüntüyle karşılaştıracaksanız önce zaman damgalarını açın."
+                }
+            ]
+        },
+        {
+            "h2": "Ücretsiz Video Metne Çevirme Aracı",
+            "content": [
+                "TranscriptX, sonunda sizi bekleyen bir ödeme duvarı olmayan ücretsiz bir video metne çevirme aracıdır. Pek çok program dosyayı yüklemenize ve işi başlatmanıza izin verir, sonra sonucu göstermeden önce kart bilgisi ister ya da sizi birkaç dakikalık görüntüyle sınırlar. Burada video metne çevirme ücretsizdir, açılacak bir hesap yoktur ve videonun uzunluğuna ya da boyutuna dair bir sınır yoktur.",
+                "Bu araç, dosyası zaten elinde olan ve sadece kelimeleri isteyen insanlar için tasarlandı. Bir masaüstü uygulaması kurmuyor ya da bir abonelik akışından geçmiyorsunuz; bir video yüklüyor, araç işini yapıyor ve metni alıyorsunuz. Kimi kullanıcı bir video yazıya çevirme programı arar, kimi ise videoyu metne çevirme online bir araç; her iki durumda da aradıkları aynı şeydir ve ister bir kez ister her hafta video yazıya çevirme ücretsiz olarak yapılsın, sınır hiçbir zaman karşınıza çıkmaz.",
+                "Her şey tamamen tarayıcıda çalıştığı için araç dizüstü bilgisayarda, tablette ve telefonda aynı şekilde davranır — kurulacak bir şey ve güncel tutulacak bir eklenti yoktur."
+            ]
+        },
+        {
+            "h2": "Videoyu Metne Çevirme ve Video Deşifre",
+            "content": [
+                "Bir dosyayı dönüştürmek ile deşifre etmek aynı işlemi anlatır, ancak insanlar deşifre kelimesine sonucun yaklaşık değil güvenilir olması gerektiğinde başvurur. Harekete geçeceğiniz bir müşteri toplantısını, alıntı yapacağınız bir röportajı ya da dokümantasyona dönüştüreceğiniz bir eğitim kaydını videoyu metne çevirme işine soktuğunuzda durum tam olarak budur.",
+                "TranscriptX bunun için tasarlandı. Videodaki sesi yazıya çevirme sırasında sayfaya kelime boşaltmakla yetinmez — konuşmayı noktalar, okunabilir cümlelere böler ve her konuşmacıyı etiketler; böylece birkaç kişinin katıldığı bir görüşme, kesintisiz tek bir paragraf yerine kimin ne söylediğini net gösteren bir kayıt olarak okunur. Amaç her zaman aynıdır: güvenebileceğiniz bir video deşifre metni.",
+                "Zor kayıtların da üstesinden gelir. Ortam gürültüsü, üst üste binen konuşmalar veya güçlü bir aksan olsa bile işlem yürür; yine de güvenmeden önce gözden geçirmeye değer bölümler bunlardır. Tek konuşmacılı temiz bir kayıtta ise metin neredeyse kelimesi kelimesine geri gelir."
+            ]
+        },
+        {
+            "h2": "Desteklenen Video Formatları",
+            "intro": [
+                "TranscriptX elinizde bulunma ihtimali en yüksek video formatlarını kabul eder; böylece yüklemeden önce dosyayı dönüştürmeniz nadiren gerekir."
+            ],
+            "items": [
+                {
+                    "h3": "MP4",
+                    "content": "Telefonların, kameraların ve paylaşılan videoların büyük bölümünün varsayılan formatı; yüklemelerin çoğu da bu formatta gelir. Sürükleyip bırakın ve mp4 yazıya çevirme işlemini olduğu gibi yapın."
+                },
+                {
+                    "h3": "MOV",
+                    "content": "Apple'ın formatı; iPhone, iPad ve QuickTime tarafından üretilir. Arada hiçbir dönüştürme adımı olmadan doğrudan yükleyin."
+                },
+                {
+                    "h3": "AVI ve MKV",
+                    "content": "Uzun kayıtlarda ve arşivlenmiş görüntülerde sık karşılaşılan, daha eski ve yüksek kaliteli kapsayıcı formatlar. İkisi de diğer dosyalar gibi yüklenir ve deşifre edilir; endişelenecek bir boyut sınırı yoktur."
+                },
+                {
+                    "h3": "WebM",
+                    "content": "Pek çok tarayıcı tabanlı aracın ve ekran kaydedicinin dışa aktardığı format. Onu üreten aracın içinden doğrudan yükleyin."
+                }
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Çevirebilirsiniz",
+            "intro": [
+                "Videoda konuşma varsa TranscriptX onu metne çevirebilir. İnsanların en sık dönüştürdüğü kayıtlar ve her biri için transkriptin neden yerini hak ettiği:"
+            ],
+            "items": [
+                {
+                    "h3": "Zoom, Teams ve Meet kayıtları",
+                    "content": "Toplantı kaydını yazıya çevirme, kaydedilmiş bir görüntülü görüşmeyi her katılımcısı etiketlenmiş yazılı bir tutanağa dönüştürür; böylece kararlar ve yapılacak işler, kimsenin bir daha izlemediği bir saatlik dosyanın içinde değil bir sayfada yaşar."
+                },
+                {
+                    "h3": "Ekran kayıtları ve eğitim videoları",
+                    "content": "Ekran kaydını yazıya çevirme, kaydedilmiş bir tanıtımı ya da anlatımı adım adım metne dönüştürür; böylece bir kez sözlü anlatılan bir süreç, tüm ekibin okuyup içinde arama yapabileceği bir dokümantasyona dönüşür."
+                },
+                {
+                    "h3": "Web seminerleri ve sunumlar",
+                    "content": "Webinar deşifre işlemi, kaydedilmiş bir semineri önemli noktalar için göz gezdirebileceğiniz bir belgeye ve slaytları yeniden oynatmadan alıntı ile çıkarım toplayabileceğiniz bir kaynağa çevirir."
+                },
+                {
+                    "h3": "Kamera ve etkinlik görüntüleri",
+                    "content": "Kamerayla ya da telefonla çekilmiş röportajlar, konuşmalar ve görüntüler; alıntılanabilir ve aranabilir metne dönüşür, konuşmacılar ayrıldığı için de kimin ne dediği net kalır."
+                },
+                {
+                    "h3": "Dersler ve kaydedilmiş sınıflar",
+                    "content": "Ders kaydını metne çevirme, işlenmiş bir dersi terime göre arayabileceğiniz, üzerini işaretleyebileceğiniz ve ders bittikten çok sonra bile notlara indirgeyebileceğiniz çalışma materyaline dönüştürür."
+                },
+                {
+                    "h3": "Arşivlenmiş ve saklanan videolar",
+                    "content": "Cihazınızda duran her video dosyası — sakladığınız bir konuşma, size gönderilen bir klip — izlenmeden durmak yerine okuyup yeniden kullanabileceğiniz metne dönüşür."
+                }
+            ]
+        },
+        {
+            "h2": "Video Yazıya Çevirme Ne Kadar Doğru?",
+            "content": [
+                "Transkriptin videoyu ne kadar yakından izlediği kaydın kendisine bağlıdır. Net konuşma, dengeli ses seviyesi ve düşük arka plan gürültüsü en iyi sonucu verir — iyi kaydedilmiş bir web semineri ya da kamera karşısındaki tek bir konuşmacı çoğu zaman neredeyse kelimesi kelimesine geri gelir.",
+                "Doğruluk zor seslerde düşer: bir görüşmede birbirinin üzerine konuşan birkaç kişi, geniş bir salondaki yankı, diyaloğun altındaki müzik ya da yoğun jargonla birleşen kalın aksanlar. Videodaki sesi yazıya çevirme yine de yürür, ancak bu bölümler onlara güvenmeden önce dikkatle okunmaya değer.",
+                "Pratik gözden geçirme yöntemi, transkripti en çok önemsediğiniz anlarla karşılaştırarak taramaktır — sayılar, isimler, kilit kararlar — ve yalnızca onları düzeltmektir. Birkaç kelimeyi düzeltmek, tüm kaydı kendiniz yazmakla kıyaslandığında saniyeler alır; zaten videoyu en baştan metne çevirmenin bütün nedeni de budur."
+            ]
+        },
+        {
+            "h2": "100'den Fazla Dilde Video Metne Dönüştürme",
+            "content": [
+                "TranscriptX 100'den fazla dilde konuşmayı deşifre eder ve hangi dili duyduğunu kendisi çözer; bu yüzden yüklemeden önce hiçbir şey ayarlamanıza gerek yoktur. Türkçe çekilmiş bir video Türkçe metin olarak, Almanca çekilmiş bir video Almanca metin olarak geri döner; video metne dönüştürme kaydın dili ne olursa olsun aynı şekilde çalışır.",
+                "Konuşmacı ayrımı her dilde korunur; çok kişili bir kaydı tek bir sese karışmış değil okunabilir tutan da budur. Ve transkript düz metin olduğu için çeviri sonradan atabileceğiniz bir adımdır — videoyu kendi dilinde deşifre edin, ardından aynı içeriği o dili bilmeyen bir kitleyle paylaşmak için sonucu çevirin."
+            ]
+        },
+        {
+            "h2": "Metninizi Beş Formatta Dışa Aktarın",
+            "content": [
+                "Her transkript beş formatta çıkar ve hangisini isteyeceğiniz metnin nereye gideceğine bağlıdır. TXT düz, biçimlendirilmemiş kelimelerdir — okumak, aramak veya başka bir yere yapıştırmak için en temiz seçenek. DOCX; transkripti bir belgeye dönüştürmeyi düşündüğünüzde Word, Google Docs ve Pages ile açılır. PDF ise herkeste aynı görünen sabit bir sürümdür; paylaşmak ya da olduğu gibi kalması gereken bir şeyi dosyalamak için doğru olanıdır.",
+                "Kalan ikisi zamanlama bilgisi taşır. SRT, neredeyse her oynatıcının ve editörün kabul ettiği altyazı formatıdır; dolayısıyla transkriptin çıktığı videoya altyazı hazırlamak için zaman damgalarını açıp SRT olarak dışa aktarın. VTT ise aynı işi bir web sayfasında oynayan videolar için yapar.",
+                "Kaynağınız aslında bir video değil de ses dosyasıysa, [Ses Yazıya Çevirme](/tr/audio-to-text) aracı onun için tasarlanmıştır. Video cihazınızda değil de bir platformda duruyorsa, [YouTube Transkript](/tr/youtube-transcript), [TikTok Transkript](/tr/tiktok-transcript) ve [Instagram Transkript](/tr/instagram-transcript) araçları doğrudan bağlantıdan deşifre eder."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Video yazıya çevirme ücretsiz olarak nasıl yapılır?",
+                    "a": "Video dosyanızı TranscriptX'e yükleyin; hiçbir ücret ödemeden metne çevirir. Üyelik yok, yazılım yok, süre ya da boyut için sınır yok. İşlem bittiğinde transkripti kopyalayabilir veya dışa aktarabilirsiniz."
+                },
+                {
+                    "q": "Hangi video formatlarını yükleyebilirim?",
+                    "a": "Yaygın olanları — başta MP4, MOV, AVI, MKV ve WebM olmak üzere — yani mp4 yazıya çevirme dâhil çoğu işlemi, dosyayı önce dönüştürmeden doğrudan telefonunuzdan, kameranızdan ya da ekran kaydedicinizden yükleyerek yapabilirsiniz."
+                },
+                {
+                    "q": "Dosya boyutu veya uzunluğu için bir sınır var mı?",
+                    "a": "Hayır. Kısa klipler de saatler süren kayıtlar da çalışır; daha uzun bir videonun işlenmesi yalnızca biraz daha fazla zaman alır."
+                },
+                {
+                    "q": "Bu ücretsiz bir video metne çevirme aracı mı?",
+                    "a": "Evet. TranscriptX ödeme duvarı olmayan ücretsiz bir video metne çevirme aracıdır — bir video yükleyin, deşifre edin ve metni alın; hesap da yok ücret de."
+                },
+                {
+                    "q": "Deşifre ne kadar doğru?",
+                    "a": "Esas olarak kayda bağlıdır. Arka plan gürültüsü düşük, net bir konuşmacı neredeyse birebir çevrilirken üst üste binen konuşmalar, yankı veya güçlü aksanlar doğruluğu düşürür. Metne güvenmeden önce isimleri, sayıları ve uzmanlık terimlerini kontrol etmek her zaman değerlidir."
+                },
+                {
+                    "q": "Farklı konuşmacıları birbirinden ayırabiliyor mu?",
+                    "a": "Evet. Her konuşmacı ayrı ayrı etiketlenir; böylece kaydedilmiş toplantılar, röportajlar ve panel konuşmaları tek bir metin bloğu yerine kimin ne söylediğini gösterecek şekilde geri döner."
+                },
+                {
+                    "q": "Hangi dilleri destekliyor?",
+                    "a": "100'den fazlasını. Konuşulan dil otomatik olarak algılanır; bu yüzden yüklemeden önce seçmenize gerek kalmaz ve transkript aynı dilde geri gelir."
+                },
+                {
+                    "q": "Videodan altyazı alabilir miyim?",
+                    "a": "Evet. Zaman damgalarını açın ve bir oynatıcıya ya da editöre yükleyebileceğiniz, videonun yanında paylaşabileceğiniz bir altyazı dosyası için SRT veya VTT olarak dışa aktarın."
+                },
+                {
+                    "q": "Herhangi bir program kurmam gerekiyor mu?",
+                    "a": "Hayır. Her şey masaüstünde veya mobilde tarayıcı içinde çalışır. Videodaki konuşmayı deşifre etmeden, yani videodan metin çıkarma işlemine başlamadan önce kurulacak hiçbir uygulama, eklenti ya da uzantı yoktur."
+                },
+                {
+                    "q": "Transkripti bir yapay zekâ asistanıyla kullanabilir miyim?",
+                    "a": "Evet. Metni kopyalayın veya dışa aktarın ve videoyu özetlemesi, yapılacak işleri çıkarması ya da bir makaleye dönüştürmesi için ChatGPT, Claude veya Gemini'ye yapıştırın."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Videonuzu Ücretsiz Yazıya Çevirin",
+        "content": [
+            "Bir MP4, MOV ya da yaygın kullanılan herhangi bir video dosyasını yükleyin; TranscriptX onu 100'den fazla dilde, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla metne çevirir. Ücretsizdir, kurulacak bir şey yoktur ve dosya için bir sınır yoktur.",
+            "Transkripti okuyun, üzerinde çalışın, çevirin ya da TXT, DOCX, PDF, SRT veya VTT olarak kaydedin — kaydın bundan sonra neye dönüşmesi gerekiyorsa."
+        ]
+    }
+}

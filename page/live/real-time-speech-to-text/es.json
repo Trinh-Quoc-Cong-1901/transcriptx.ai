@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Voz a texto en tiempo real — Dictado por voz online gratis",
+        "description": "Pulsa Iniciar, habla y tus palabras aparecen al instante como texto editable. Voz a texto en tiempo real para dictar notas, correos y borradores. Sin registro.",
+        "schemaName": "TranscriptX Voz a texto en tiempo real",
+        "schemaDescription": "Herramienta online de voz a texto en tiempo real para dictar. Pulsa Iniciar, habla al micrófono y tus palabras aparecen al instante como texto puntuado y editable en más de 100 idiomas. Copia el texto donde quieras o expórtalo a TXT, DOCX o PDF. Funciona en el navegador y no necesitas registrarte para empezar.",
+        "ogTitle": "Voz a texto en tiempo real — Dictado por voz online gratis",
+        "ogDescription": "Escribe con tu voz. Pulsa Iniciar, habla y mira cómo tus palabras se convierten en texto al instante: gratis, en más de 100 idiomas y sin registro."
+    },
+    "hero": {
+        "h1": "Voz a texto en tiempo real – Escribe con tu voz",
+        "subtitle": "Escribe con tu voz. Pulsa Iniciar, habla y tus palabras aparecen en pantalla al instante como texto puntuado que puedes editar. Dicta un correo, una nota, un mensaje o un primer borrador más rápido de lo que podrías teclearlo; luego cópialo donde quieras o expórtalo a TXT, DOCX o PDF. Gratis para empezar, en más de 100 idiomas y sin instalar nada.",
+        "placeholder": "Pulsa Iniciar y empieza a hablar...",
+        "button": "Empezar a hablar"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo uso la voz a texto en tiempo real?",
+        "answer": "Abre TranscriptX, pulsa Iniciar, permite el acceso al micrófono y habla. Tus palabras se convierten en texto al instante mientras hablas. Corrige lo que haga falta y copia el texto en tu correo o documento, o expórtalo. Es gratis para empezar, sin registro y sin instalar nada."
+    },
+    "sections": [
+        {
+            "h2": "¿Qué es la voz a texto en tiempo real?",
+            "content": [
+                "La voz a texto en tiempo real te permite escribir hablando. Pulsas Iniciar, dices lo que quieres escribir y las palabras aparecen en pantalla mientras las pronuncias: sin teclado, sin esperas y sin archivos que procesar.",
+                "Es dictado: las palabras de la página son tuyas. No estás grabando a otra persona para después; estás redactando un correo, una nota, un mensaje o un borrador con la voz en lugar de con los dedos.",
+                "La gran ventaja es la velocidad. La mayoría de la gente habla entre tres y cuatro veces más rápido de lo que teclea, así que decir una idea en voz alta y verla en la página es mucho más rápido que escribirla palabra por palabra. Con la voz a texto en tiempo real tienes la rapidez de hablar con el resultado de escribir.",
+                "TranscriptX lo hace en tu navegador, gratis para empezar. Pulsa Iniciar, habla y tu texto estará listo para usar."
+            ]
+        },
+        {
+            "h2": "La voz a texto en tiempo real, de un vistazo",
+            "specs": [
+                {
+                    "label": "Precio",
+                    "value": "Gratis para empezar — planes de pago para un uso intensivo"
+                },
+                {
+                    "label": "Cuenta necesaria",
+                    "value": "No — el registro es opcional"
+                },
+                {
+                    "label": "Instalación",
+                    "value": "Ninguna — funciona en el navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Tu voz a través del micrófono — pulsa Iniciar y habla"
+                },
+                {
+                    "label": "Resultado",
+                    "value": "Texto puntuado y editable que aparece mientras hablas"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "100+"
+                },
+                {
+                    "label": "Exportación",
+                    "value": "Copiar al portapapeles, o TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de ordenador, tableta y móvil"
+                }
+            ]
+        },
+        {
+            "h2": "Cómo usar el dictado por voz",
+            "steps": [
+                {
+                    "h3": "Pulsa Iniciar",
+                    "content": "Abre TranscriptX y pulsa Iniciar. Permite el acceso al micrófono la primera vez que te lo pida el navegador."
+                },
+                {
+                    "h3": "Habla con naturalidad",
+                    "content": "Di lo que quieres escribir a un ritmo normal. No hace falta hablar despacio ni hacer pausas entre palabras."
+                },
+                {
+                    "h3": "Ve tus palabras al instante",
+                    "content": "El texto aparece en pantalla mientras hablas, con la puntuación añadida automáticamente, para que veas cómo toma forma cada frase en tiempo real."
+                },
+                {
+                    "h3": "Edita y copia",
+                    "content": "Pulsa Detener, corrige lo que necesites y copia el texto en tu correo, documento o chat, o expórtalo como TXT, DOCX o PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Escritura por voz: escribe sin teclado",
+            "content": [
+                "La escritura por voz sustituye el teclado por tu voz. Todo lo que normalmente teclearías —una respuesta, un párrafo, una lista— lo dices en voz alta, y el dictado por voz online lo va escribiendo sobre la marcha.",
+                "Resulta especialmente útil cuando teclear es lento o incómodo: en el móvil, en una tableta sin teclado, cuando tienes las manos ocupadas o para quien escribir a mano o con teclado le resulta cansado o doloroso."
+            ]
+        },
+        {
+            "h2": "Voz a texto en vivo, lista para editar",
+            "content": [
+                "Con la voz a texto en vivo no hay nada que esperar: ni grabar primero ni convertir después. Las palabras están en pantalla en el momento en que las dices, con la puntuación añadida automáticamente, así que el resultado se lee como un texto escrito y no como una ristra de palabras.",
+                "El lenguaje hablado es por naturaleza más suelto que el escrito, así que cuenta con pulir alguna frase aquí y allá. Lo difícil —pasar de una página en blanco a un borrador completo— ya está hecho: edita el texto en el mismo sitio y cópialo en cualquier aplicación o expórtalo para guardarlo."
+            ]
+        },
+        {
+            "h2": "Qué puedes escribir con tu voz",
+            "intro": [
+                "Todo lo que escribirías a teclado lo puedes dictar. Los usos más habituales de la voz a texto en tiempo real:"
+            ],
+            "items": [
+                {
+                    "h3": "Correos y respuestas",
+                    "content": "Di tu correo como se lo explicarías a alguien, pégalo en tu bandeja de entrada y envíalo. Las respuestas largas te llevan una fracción del tiempo."
+                },
+                {
+                    "h3": "Notas y listas de tareas",
+                    "content": "Apunta una idea, un recordatorio o una lista en cuanto se te ocurra, sin abrir el teclado."
+                },
+                {
+                    "h3": "Primeros borradores",
+                    "content": "Cuenta en voz alta un artículo, un informe o un trabajo para tener rápidamente un borrador completo y luego darle su forma final."
+                },
+                {
+                    "h3": "Mensajes y publicaciones",
+                    "content": "Dicta un mensaje largo, un pie de foto o una publicación para redes desde el móvil sin teclear cada palabra con el pulgar."
+                },
+                {
+                    "h3": "Práctica de idiomas",
+                    "content": "Habla en el idioma que estás aprendiendo y comprueba si las palabras salen como querías: una forma rápida y sincera de revisar tu pronunciación."
+                },
+                {
+                    "h3": "Escritura manos libres y accesible",
+                    "content": "Para personas con movilidad reducida, lesiones por esfuerzo repetitivo o dificultades para teclear, hablar es una forma más rápida y cómoda de escribir."
+                }
+            ]
+        },
+        {
+            "h2": "Consejos para un mejor dictado por voz",
+            "content": [
+                "Habla con claridad, a tu ritmo normal y cerca del micrófono. Unos auriculares con micrófono o el móvil cerca de la boca dan mejores resultados que el micrófono de un portátil al otro lado de la habitación.",
+                "Un lugar tranquilo ayuda más que cualquier otra cosa. La música de fondo, el tráfico u otras voces pueden colarse en el texto, así que dicta en un sitio sereno cuando la precisión importe.",
+                "Piensa en frases, no en palabras sueltas. Terminar una idea antes de hacer una pausa ayuda a que la puntuación caiga en su sitio y te deja menos que corregir después. TranscriptX admite más de 100 idiomas, así que puedes dictar en el idioma en el que escribes."
+            ]
+        },
+        {
+            "h2": "¿Escribir con tu voz o registrar lo que dicen otros?",
+            "intro": [
+                "Las dos convierten la voz en texto mientras se habla. La diferencia está en de quién son las palabras que quedan por escrito."
+            ],
+            "items": [
+                {
+                    "h3": "Elige voz a texto en tiempo real para escribir con tu voz",
+                    "content": "Cuando las palabras son tuyas —un correo, una nota, un borrador que estás redactando—, esta es la herramienta para dictarlas en lugar de teclearlas."
+                },
+                {
+                    "h3": "Elige la transcripción en vivo para registrar lo que dicen otros",
+                    "content": "Si quieres un registro escrito de una clase, una entrevista o una conversación, usa [Live Transcription](/es/live-transcription). Si la voz ya está grabada, súbela a la herramienta [Voice to Text](/es/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Preguntas frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo funciona la voz a texto en tiempo real?",
+                    "a": "Pulsas Iniciar y hablas al micrófono. TranscriptX reconoce tu voz mientras hablas y la escribe en pantalla al instante, añadiendo la puntuación sobre la marcha."
+                },
+                {
+                    "q": "¿Este dictado por voz online es gratis?",
+                    "a": "Sí, puedes empezar gratis, sin registro y sin instalar nada. Crear una cuenta es opcional y hay planes de pago disponibles si dictas mucho."
+                },
+                {
+                    "q": "¿Añade puntuación? ¿Puedo editar el texto?",
+                    "a": "Sí a las dos cosas. La puntuación se añade mientras hablas, así que el texto se lee como un escrito normal, y al detenerte todo es editable: corrige una palabra mal entendida o pule una frase antes de copiarla."
+                },
+                {
+                    "q": "¿Cómo paso el texto a mi correo o documento?",
+                    "a": "Cópialo con un clic y pégalo en cualquier correo, documento o aplicación de chat, o expórtalo como TXT, DOCX o PDF."
+                },
+                {
+                    "q": "¿En qué idiomas puedo hablar?",
+                    "a": "Se admiten más de 100 idiomas, así que puedes dictar en el idioma en el que escribes."
+                },
+                {
+                    "q": "¿Tengo que descargar una aplicación?",
+                    "a": "No. La voz a texto en tiempo real funciona en el navegador de tu ordenador, tableta o móvil. Solo tienes que permitir el acceso al micrófono."
+                },
+                {
+                    "q": "¿En qué se diferencia el dictado por voz de la transcripción en vivo?",
+                    "a": "La voz a texto en tiempo real sirve para dictar tus propias palabras, es decir, escribir hablando. La transcripción en vivo sirve para registrar lo que dicen otras personas, como en una clase o una entrevista. Las dos funcionan en tiempo real, pero están pensadas para tareas distintas."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Empieza a hablar: voz a texto en tiempo real al instante",
+        "content": [
+            "Pulsa Iniciar, habla y TranscriptX convierte tu voz en texto en tiempo real, en más de 100 idiomas, directamente en tu navegador.",
+            "Dicta un correo, una nota, un mensaje o un primer borrador y luego edítalo, cópialo o expórtalo. Gratis para empezar, sin registro y sin instalar nada."
+        ]
+    }
+}

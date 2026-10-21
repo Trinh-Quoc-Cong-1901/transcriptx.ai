@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "YouTube Transkript herunterladen — kostenlos als TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "YouTube Transkript kostenlos herunterladen — als TXT, DOCX, PDF oder SRT. Link einfügen, Transkript erhalten und die Datei auf dem Gerät speichern, auch für offline. Download YouTube transcript deutsch, ohne Anmeldung.",
+        "schemaName": "TranscriptX Tool zum Herunterladen von YouTube Transkripten",
+        "schemaDescription": "Kostenloses Tool, um das Transkript eines öffentlichen YouTube-Videos als TXT-, DOCX-, PDF- oder SRT-Datei herunterzuladen. Link einfügen und das Transkript auf dem eigenen Gerät speichern — ganz ohne Konto.",
+        "ogTitle": "YouTube Transkript herunterladen — kostenlos als TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Speichere jedes YouTube Transkript auf deinem Gerät. Herunterladen als TXT, DOCX, PDF oder SRT — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "YouTube Transkript herunterladen",
+        "subtitle": "Speichere das Transkript jedes öffentlichen YouTube-Videos auf deinem Gerät. Füge einen Link ein und lade den Text als TXT, DOCX, PDF oder SRT herunter — zum Lesen offline, zum Archivieren oder um ihn direkt in ein Dokument zu übernehmen. Kein Konto, keine Installation.",
+        "placeholder": "YouTube-Video-URL einfügen...",
+        "button": "Transkript holen & herunterladen"
+    },
+    "quickAnswer": {
+        "question": "Wie kann ich ein YouTube Transkript herunterladen?",
+        "answer": "Füge einen öffentlichen YouTube-Link bei TranscriptX ein, und sobald das Transkript fertig ist, wählst du ein Format und lädst es herunter. So kannst du das Transkript von einem YouTube-Video als Datei herunterladen und als TXT, DOCX, PDF oder SRT auf deinem Computer oder Handy speichern. Ohne Anmeldung, und du musst vorher nichts installieren."
+    },
+    "sections": [
+        {
+            "h2": "Was dir ein heruntergeladenes Transkript bringt",
+            "content": [
+                "Ein Transkript am Bildschirm zu lesen ist völlig in Ordnung, solange du am Schreibtisch sitzt und eine Verbindung hast. Ein YouTube Transkript herunterladen willst du dann, wenn der Text den Browser-Tab überleben soll — wenn du eine Datei brauchst, die dir gehört, auf deinem eigenen Gerät liegt und sich mit oder ohne Internet öffnen lässt.",
+                "Ein heruntergeladenes Transkript ist ein echtes Dokument. Du legst es in einen Rechercheordner, hängst es an eine E-Mail, schiebst es in ein gemeinsames Laufwerk oder druckst es aus. Es ist nicht mehr etwas, das du einmal angesehen hast, sondern Teil deiner Unterlagen. Anders gesagt: Wer den YouTube Video Text herunterladen will, bekommt hier eine Datei statt einer flüchtigen Ansicht.",
+                "TranscriptX erstellt das Transkript und übergibt dir den Download. Das Video selbst bleibt auf YouTube; auf deinem Gerät landet nur der Text, in dem Format, das du ausgewählt hast."
+            ]
+        },
+        {
+            "h2": "Welches Format solltest du herunterladen?",
+            "intro": [
+                "Die richtige Datei hängt ganz davon ab, was mit dem Transkript als Nächstes passiert. Vier Formate decken fast jeden Fall ab."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — reiner Text",
+                    "content": "Die leichteste und flexibelste Option. Eine .txt-Datei öffnet sich überall, bringt keine störende Formatierung mit und lässt sich am saubersten in ein anderes Tool oder einen KI-Assistenten einfügen. Wähle TXT, wenn du einfach nur die Worte brauchst — das ist auch der direkteste Weg, wenn du YouTube Untertitel als Text herunterladen möchtest statt als Datei für den Videoschnitt."
+                },
+                {
+                    "h3": "DOCX — bearbeitbares Dokument",
+                    "content": "Öffnet sich in Word, Google Docs und Pages. Wähle DOCX, wenn du das Transkript überarbeiten willst — Überschriften, Hervorhebungen, Kommentare, nachverfolgte Änderungen — und es als Arbeitsdokument behandelst statt als rohen Text."
+                },
+                {
+                    "h3": "PDF — feste, teilbare Fassung",
+                    "content": "Sieht auf jedem Gerät identisch aus und ist nicht zum Bearbeiten gedacht. Ein YouTube Transkript als PDF herunterladen lohnt sich, wenn du es jemandem schickst, als Beleg ablegst oder ausdruckst und das Layout exakt so bleiben soll, wie es ist."
+                },
+                {
+                    "h3": "SRT — Transkript mit Zeitangaben",
+                    "content": "Trägt in jeder Zeile einen Zeitstempel. Wähle SRT, wenn das Transkript an Momente im Video gebunden sein soll — für Untertitel, zum Abgleich eines Zitats mit dem Ton oder für jedes Tool, das zeitcodierten Text erwartet."
+                }
+            ]
+        },
+        {
+            "h2": "So lädst du ein YouTube Transkript herunter",
+            "steps": [
+                {
+                    "h3": "YouTube-Link einfügen",
+                    "content": "Kopiere die URL des öffentlichen Videos, das du brauchst, und füge sie oben in das Feld ein. Es gibt keinen Schritt mit Kontoerstellung und du musst vorher keine Datei hochladen."
+                },
+                {
+                    "h3": "Das Transkript entstehen lassen",
+                    "content": "TranscriptX liest den Ton aus und schreibt das vollständige Transkript in über 100 Sprachen — mit Kennzeichnung jedes Sprechers und gesetzter Zeichensetzung. Diese Transkription läuft vollständig im Browser."
+                },
+                {
+                    "h3": "Format auswählen",
+                    "content": "Wähle TXT, DOCX, PDF oder SRT, je nachdem, was du damit vorhast. Schalte vorher die Zeitstempel ein, wenn du SRT nimmst oder sie in der Datei haben willst."
+                },
+                {
+                    "h3": "Die Datei herunterladen",
+                    "content": "Speichere sie auf deinem Computer oder Handy. Hier endet der Vorgang, wenn du ein YouTube Video Transkript downloaden wolltest: Das Transkript ist jetzt eine Datei, die dir gehört — bereit zum Öffnen ohne Internet, zum Teilen oder zum Archivieren."
+                }
+            ]
+        },
+        {
+            "h2": "Wenn du die Datei brauchst, nicht nur den Text",
+            "intro": [
+                "Der Download zählt vor allem dann, wenn das Transkript den Browser verlassen und in einen echten Arbeitsablauf wandern muss. Ein paar Beispiele:"
+            ],
+            "items": [
+                {
+                    "h3": "Ein Recherchearchiv aufbauen",
+                    "content": "Forschende speichern Transkripte von Interviews, Vorträgen und Dokumentationen in einem Projektordner, damit die Quellen zusammenbleiben, durchsuchbar und zitierfähig sind — lange nachdem die Videos angesehen wurden."
+                },
+                {
+                    "h3": "Einreichen oder zu den Akten legen",
+                    "content": "Wenn ein Transkript abgegeben, angehängt oder abgelegt werden muss — für einen Kurs, eine juristische Notiz oder einen Bericht — ist das heruntergeladene PDF oder DOCX die Fassung, die den Weg macht."
+                },
+                {
+                    "h3": "Offline arbeiten",
+                    "content": "Ein heruntergeladenes TXT oder DOCX öffnet sich im Flugzeug, im Zug oder überall dort, wo die Verbindung abreißt. Lesen und Bearbeiten hören also nicht auf, nur weil das Internet aufhört."
+                },
+                {
+                    "h3": "An ein anderes Tool übergeben",
+                    "content": "Manche Software will eine Datei und keinen eingefügten Text. Wenn du dein YouTube Transkript exportieren kannst, hast du etwas zum Hochladen — in ein Übersetzungstool, ein Dokumentensystem oder einen Editor."
+                },
+                {
+                    "h3": "Eine eigene Kopie behalten",
+                    "content": "Videos werden gelöscht, auf privat gestellt oder bearbeitet. Wenn du das YouTube Transkript speichern kannst, hast du deine eigene Kopie dessen, was gesagt wurde — unabhängig davon, was mit dem Original passiert."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripte in über 100 Sprachen herunterladen",
+            "content": [
+                "Der Download ist nicht auf Englisch beschränkt. TranscriptX transkribiert gesprochene Sprache in über 100 Sprachen und erkennt die Sprache von selbst, sodass die gespeicherte Datei in genau der Sprache herauskommt, in der im Video gesprochen wurde. Ein deutsches Video ergibt ein deutsches Transkript, mit Umlauten und ß korrekt gesetzt — auch bei österreichischem oder Schweizer Einschlag.",
+                "Jedes Format trägt das vollständige Transkript und hält die Sprecher auseinander, sodass sich ein heruntergeladenes Interview oder eine Podiumsdiskussion als klarer Verlauf lesen lässt, wer was gesagt hat, statt als ein zusammengeflossener Block — egal, welches der vier Formate du wählst. Und ein YouTube Transkript kostenlos herunterladen gilt für alle Sprachen gleichermaßen."
+            ]
+        },
+        {
+            "h2": "Wenn ein anderes Tool besser passt",
+            "content": [
+                "Eine Transkript-Datei herunterzuladen ist nur eine von mehreren Möglichkeiten, und jedes Tool von TranscriptX ist um einen eigenen Bedarf herum gebaut. Wenn dein Ziel ein wenig anders aussieht, passt eines der folgenden besser.",
+                "Wenn du das Transkript einfach nur lesen und kopieren willst, ohne überhaupt eine Datei zu speichern, hält das Tool [YouTube Transcript](/de/youtube-transcript) alles auf dem Bildschirm. Wenn du in Wahrheit eine zeitgenaue Untertiteldatei für ein Schnittprogramm brauchst statt eines Dokuments, gibt der [YouTube Subtitle Downloader](/de/youtube-subtitle-downloader) stattdessen SRT und VTT aus. Und wenn dir der vollständige Text zu viel ist, verdichtet der [YouTube Video Summarizer](/de/youtube-video-summarizer) das Video auf seine Kernpunkte."
+            ]
+        },
+        {
+            "h2": "Häufige Fragen",
+            "items": [
+                {
+                    "q": "Wie lade ich ein Transkript von einem YouTube-Video herunter?",
+                    "a": "Füge den Video-Link bei TranscriptX ein, warte, bis das Transkript fertig ist, wähle TXT, DOCX, PDF oder SRT und lade es herunter. Die Datei wird direkt auf deinem Gerät gespeichert, ganz ohne Konto."
+                },
+                {
+                    "q": "Ist das Herunterladen eines YouTube Transkripts kostenlos?",
+                    "a": "Ja. Sowohl das Erstellen des Transkripts als auch der Download sind kostenlos — ohne Konto und ohne Begrenzung, wie lang das Video sein darf."
+                },
+                {
+                    "q": "Welche Formate kann ich herunterladen?",
+                    "a": "Vier: TXT für reinen Text, DOCX für ein bearbeitbares Dokument, PDF für eine feste Fassung und SRT für ein Transkript mit Zeitstempeln."
+                },
+                {
+                    "q": "Kann ich das Transkript mit Zeitstempeln herunterladen?",
+                    "a": "Ja. Schalte die Zeitstempel ein, bevor du dein YouTube Transkript exportieren lässt, und lade dann SRT herunter, um die Zeitangaben zu behalten — oder nimm sie direkt in eine TXT- oder DOCX-Datei mit auf."
+                },
+                {
+                    "q": "Wo wird die Datei gespeichert?",
+                    "a": "Dort, wo dein Browser Downloads ablegt — im Download-Ordner deines Computers oder im Speicher deines Handys. Von dort kannst du sie verschieben, ohne Internet öffnen oder teilen."
+                },
+                {
+                    "q": "Kann ich Transkripte von langen Videos herunterladen?",
+                    "a": "Ja. Es gibt keine Längenbegrenzung. Das vollständige Transkript eines mehrstündigen Videos wird als eine einzige Datei heruntergeladen, in welchem Format auch immer."
+                },
+                {
+                    "q": "Muss ich für den Download etwas installieren?",
+                    "a": "Nein. Alles läuft im Browser. Es gibt keine Software, keine Erweiterung und keine App, die du installieren musst, bevor du ein YouTube Transkript als TXT herunterladen kannst."
+                },
+                {
+                    "q": "Welches Format eignet sich am besten zum späteren Bearbeiten?",
+                    "a": "DOCX. Es öffnet sich in Word, Google Docs und Pages und behält die Formatierung, lässt sich also am leichtesten umschreiben. Wer nach download youtube transcript deutsch sucht und nur die rohen Worte braucht, nimmt TXT — oder PDF für eine Fassung, die sich nicht ändern soll."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Transkript kostenlos herunterladen",
+        "content": [
+            "Füge den Link zu einem öffentlichen YouTube-Video ein, lass TranscriptX das Transkript in über 100 Sprachen erstellen und lade es als TXT, DOCX, PDF oder SRT herunter.",
+            "Das Transkript wird zu einer Datei, die dir gehört — bereit zum Lesen ohne Internet, zum Archivieren, Drucken oder Teilen. Kein Konto, keine Installation, keine Kosten."
+        ]
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Transcription en direct — Gratuite et en temps réel",
+        "description": "Appuyez sur Démarrer pour transcrire cours, interviews et conversations. Transcription en direct en ligne, sans inscription. Export TXT, DOCX ou PDF.",
+        "schemaName": "TranscriptX Transcription en direct",
+        "schemaDescription": "Outil de transcription en direct en ligne qui enregistre depuis votre microphone et transcrit la parole en temps réel, dans plus de 100 langues. Appuyez sur Démarrer pour capturer cours, interviews et conversations au moment où ils ont lieu, puis copiez ou exportez la transcription en TXT, DOCX, PDF, SRT ou VTT. Fonctionne dans le navigateur, sans inscription pour commencer.",
+        "ogTitle": "Transcription en direct — Gratuite et en temps réel",
+        "ogDescription": "Appuyez sur Démarrer et voyez la parole devenir texte en temps réel. Transcrivez cours, interviews et conversations en direct, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Transcription en direct – Transcrivez la parole en temps réel",
+        "subtitle": "Appuyez sur Démarrer : TranscriptX écoute via votre microphone et transforme ce qui se dit en texte, en temps réel. Transcrivez un cours, une interview ou une conversation pendant qu'ils se déroulent, puis appuyez sur Arrêter et gardez la transcription complète — copiez-la ou exportez-la en TXT, DOCX, PDF, SRT ou VTT. Gratuit pour commencer, dans plus de 100 langues, sans rien installer.",
+        "placeholder": "Appuyez sur Démarrer pour lancer la transcription en direct...",
+        "button": "Lancer la transcription en direct"
+    },
+    "quickAnswer": {
+        "question": "Comment faire une transcription en direct ?",
+        "answer": "Ouvrez TranscriptX, appuyez sur Démarrer et autorisez l'accès au microphone. Tout ce qui se dit près du micro est transcrit en temps réel et s'affiche à l'écran au fil de la parole : c'est la transcription en direct. Appuyez sur Arrêter quand vous avez terminé pour relire, modifier, copier ou exporter la transcription complète. Gratuit pour commencer, sans inscription et sans rien installer."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la transcription en direct ?",
+            "content": [
+                "La transcription en direct transforme la parole en texte pendant qu'elle est prononcée. Au lieu d'enregistrer un cours ou une interview pour le retranscrire ensuite, vous appuyez sur Démarrer, les mots s'affichent à l'écran à mesure que les gens parlent, et à la fin de la séance la transcription est déjà rédigée.",
+                "L'objectif : capturer ce que disent les autres, sur le moment. Un professeur qui développe un sujet, une source qui répond à vos questions, une équipe qui discute d'un projet — la transcription en direct suit le fil et note tout, pour que vous puissiez vous concentrer sur l'échange au lieu de courir après vos notes.",
+                "C'est ce qui la distingue de la transcription d'un fichier. Pas d'enregistrement à importer, pas de traitement à attendre à la fin : vous transcrivez en direct, et le compte rendu se construit en temps réel.",
+                "TranscriptX fait tout cela directement dans le navigateur, gratuitement pour commencer. Appuyez sur Démarrer, laissez-le écouter et gardez la transcription une fois terminé."
+            ]
+        },
+        {
+            "h2": "La transcription en direct en bref",
+            "specs": [
+                {
+                    "label": "Prix",
+                    "value": "Gratuit pour commencer — offres payantes pour un usage intensif"
+                },
+                {
+                    "label": "Compte requis",
+                    "value": "Non — l'inscription est facultative"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Aucune — fonctionne dans le navigateur"
+                },
+                {
+                    "label": "Entrée",
+                    "value": "Votre microphone, en direct — appuyez sur Démarrer"
+                },
+                {
+                    "label": "Sortie",
+                    "value": "Du texte qui s'affiche en temps réel pendant que les gens parlent"
+                },
+                {
+                    "label": "Durée de séance",
+                    "value": "Utilisable pendant tout un cours ou toute une interview"
+                },
+                {
+                    "label": "Langues",
+                    "value": "100+"
+                },
+                {
+                    "label": "Formats d'export",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Appareils",
+                    "value": "Navigateurs sur ordinateur, tablette et mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Comment transcrire en direct",
+            "steps": [
+                {
+                    "h3": "Appuyez sur Démarrer",
+                    "content": "Ouvrez TranscriptX et appuyez sur Démarrer. Votre navigateur demande une seule fois l'accès au microphone — autorisez-le et la transcription en direct commence aussitôt."
+                },
+                {
+                    "h3": "Laissez-le écouter",
+                    "content": "Placez votre appareil là où il entend bien l'orateur — sur la table en amphi, entre vous et la personne que vous interviewez, ou au milieu de la table de réunion."
+                },
+                {
+                    "h3": "Regardez la transcription se construire",
+                    "content": "Les mots s'affichent à l'écran au fur et à mesure, ponctuation comprise, pour que vous puissiez suivre ou revenir d'un coup d'œil sur ce qui vient d'être dit."
+                },
+                {
+                    "h3": "Appuyez sur Arrêter et conservez-la",
+                    "content": "À la fin de la séance, appuyez sur Arrêter. La transcription complète est prête à être relue, modifiée, copiée ou exportée en TXT, DOCX, PDF, SRT ou VTT."
+                }
+            ]
+        },
+        {
+            "h2": "La transcription en temps réel, directement dans votre navigateur",
+            "content": [
+                "Avec la transcription en temps réel, il n'y a aucun décalage entre la parole et l'écrit. Le texte suit le rythme de la conversation, si bien que la transcription affichée est toujours à jour.",
+                "Cela change votre façon de travailler. En cours, vous pouvez relire une définition donnée par l'intervenant il y a une minute. En interview, vous voyez une citation apparaître au moment où elle est prononcée et pouvez la repérer pour plus tard. Dans une discussion rapide, vous vérifiez un chiffre ou un nom sans demander à personne de répéter."
+            ]
+        },
+        {
+            "h2": "Transcrire un audio en texte en temps réel depuis votre micro",
+            "content": [
+                "La transcription audio en direct fonctionne avec tout ce que votre microphone entend. Appuyez sur Démarrer et TranscriptX transcrit l'audio en texte en continu — un ou plusieurs intervenants, dans un bureau calme comme dans un amphithéâtre.",
+                "Si l'audio est déjà enregistré, inutile de le rejouer devant le micro. Importez plutôt le fichier dans l'outil [Audio to Text](/fr/audio-to-text) ou l'outil [Voice to Text](/fr/voice-to-text) : il sera transcrit directement."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez transcrire en direct",
+            "intro": [
+                "La transcription en direct est pensée pour les moments où quelqu'un parle et où vous avez besoin d'une trace écrite. Les usages les plus courants :"
+            ],
+            "items": [
+                {
+                    "h3": "Cours et conférences universitaires",
+                    "content": "Laissez la transcription prendre les notes pendant que vous écoutez. Ensuite, vous retrouvez chaque explication, exemple et définition dans un texte que vous pouvez rechercher et réviser."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Gardez le contact visuel avec votre interlocuteur au lieu d'écrire. Ses réponses sont transcrites en direct : les citations exactes sont sur la page dès qu'elles sont prononcées."
+                },
+                {
+                    "h3": "Conversations et discussions",
+                    "content": "Capturez un brainstorming, une séance de planification ou une conversation importante pendant qu'elle a lieu, pour que personne n'ait à se fier à sa mémoire sur ce qui a été décidé."
+                },
+                {
+                    "h3": "Conférences, séminaires et événements",
+                    "content": "Obtenez la retranscription en direct d'un intervenant depuis le public et repartez avec un compte rendu écrit complet, pas seulement les diapositives."
+                },
+                {
+                    "h3": "Réunions en présentiel",
+                    "content": "Posez un ordinateur ou un téléphone sur la table, appuyez sur Démarrer, et la discussion est consignée au fil de l'eau — prête à devenir un procès-verbal à la fin de la réunion."
+                },
+                {
+                    "h3": "Suivre une parole difficile à entendre",
+                    "content": "Pour les personnes sourdes ou malentendantes, ou qui écoutent dans une langue étrangère, lire les mots en temps réel rend une conversation ou un cours bien plus facile à suivre."
+                }
+            ]
+        },
+        {
+            "h2": "Conseils pour une transcription en direct précise",
+            "content": [
+                "La transcription en direct dépend avant tout de ce qu'entend le microphone. Plus l'appareil est proche de la personne qui parle, plus le texte est propre — en cours, asseyez-vous devant ; en interview, placez le téléphone ou l'ordinateur entre vous et votre invité.",
+                "Le bruit de fond et les personnes qui parlent en même temps sont les principales causes d'erreurs. Un endroit plus calme et une voix à la fois font une vraie différence, et si un passage était bruyant, vous pouvez corriger un mot ou deux après avoir appuyé sur Arrêter.",
+                "TranscriptX prend en charge plus de 100 langues : vous pouvez transcrire en direct dans la langue réellement parlée, au lieu de traduire dans votre tête en prenant des notes."
+            ]
+        },
+        {
+            "h2": "Transcription en direct en ligne, gratuite pour commencer",
+            "content": [
+                "Vous pouvez lancer une transcription en direct en ligne immédiatement — sans inscription et sans rien installer. L'offre gratuite vous permet de commencer tout de suite ; créer un compte est facultatif, et des offres payantes existent si vous avez besoin de plus d'utilisation. Une transcription en direct gratuite qui fonctionne de la même manière sur Windows, Mac, Chromebook, Android et iPhone, tant que votre navigateur peut utiliser le microphone."
+            ]
+        },
+        {
+            "h2": "Transcription en direct ou dictée en temps réel ?",
+            "intro": [
+                "Les deux transforment la parole en texte au moment où elle est prononcée, mais elles servent des besoins différents. Choisissez selon les mots que vous voulez voir sur la page."
+            ],
+            "items": [
+                {
+                    "h3": "Choisissez la transcription en direct pour garder une trace de ce que disent les autres",
+                    "content": "Quand vous voulez un compte rendu écrit d'un cours, d'une interview, d'une conversation ou d'une conférence — une parole que vous écoutez, pas que vous composez —, la transcription en direct est faite pour ça."
+                },
+                {
+                    "h3": "Choisissez la dictée pour écrire avec votre voix",
+                    "content": "Quand vous voulez dicter votre propre e-mail, note ou brouillon au lieu de le taper, utilisez [Real-Time Speech to Text](/fr/real-time-speech-to-text). Et si la parole est déjà enregistrée, les outils [Voice to Text](/fr/voice-to-text) et [Audio to Text](/fr/audio-to-text) transcrivent directement le fichier."
+                }
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Qu'est-ce que la transcription en direct ?",
+                    "a": "La transcription en direct transforme la parole en texte en temps réel, pendant qu'elle est prononcée. Vous appuyez sur Démarrer, le microphone écoute et les mots s'affichent à l'écran à mesure que les gens parlent : la transcription est prête dès la fin de la séance."
+                },
+                {
+                    "q": "Comment lancer une transcription en direct ?",
+                    "a": "Ouvrez TranscriptX, appuyez sur Démarrer et autorisez l'accès au microphone quand votre navigateur le demande. La transcription commence immédiatement. Appuyez sur Arrêter quand vous avez terminé."
+                },
+                {
+                    "q": "La transcription en direct est-elle gratuite ?",
+                    "a": "Oui, vous pouvez commencer gratuitement. La transcription en direct fonctionne dans votre navigateur sur ordinateur, tablette ou mobile, sans rien installer, et vous pouvez l'utiliser sans vous inscrire. Si vous transcrivez beaucoup, les offres payantes vous donnent plus d'utilisation."
+                },
+                {
+                    "q": "Puis-je télécharger la transcription après avoir appuyé sur Arrêter ?",
+                    "a": "Oui. Une fois arrêtée, vous pouvez relire et modifier la transcription, la copier ou l'exporter en TXT, DOCX, PDF, SRT ou VTT."
+                },
+                {
+                    "q": "Quelle est la précision de la transcription en temps réel ?",
+                    "a": "Elle dépend surtout de ce qu'entend le microphone. Une parole claire, proche de l'appareil, est retranscrite presque mot pour mot ; dans une salle bruyante ou quand plusieurs personnes parlent en même temps, mieux vaut relire rapidement après l'arrêt."
+                },
+                {
+                    "q": "Dans quelles langues puis-je transcrire en direct ?",
+                    "a": "Plus de 100 langues sont prises en charge : vous pouvez transcrire en direct dans la langue parlée."
+                },
+                {
+                    "q": "Et si j'ai déjà un enregistrement ?",
+                    "a": "Inutile de le rejouer devant le microphone. Importez-le dans l'outil Voice to Text ou Audio to Text et le fichier sera transcrit directement."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Lancez votre transcription en direct gratuitement",
+        "content": [
+            "Appuyez sur Démarrer et TranscriptX transcrit en temps réel ce qui se dit — un cours, une interview, une conversation ou une conférence — dans plus de 100 langues, directement dans votre navigateur.",
+            "Appuyez sur Arrêter et la transcription complète est prête à être relue, modifiée, copiée ou exportée en TXT, DOCX, PDF, SRT ou VTT. Gratuit pour commencer, sans inscription, sans rien installer."
+        ]
+    }
+}

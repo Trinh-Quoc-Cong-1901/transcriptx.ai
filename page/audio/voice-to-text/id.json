@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Suara ke Teks — Ubah Suara & Rekaman Jadi Teks Gratis | TranscriptX",
+        "description": "Ubah suara jadi teks online gratis. Rekam langsung di browser atau unggah rekaman suara, lalu dapatkan teks akurat dalam 100+ bahasa. Ekspor TXT, DOCX, PDF. Tanpa daftar.",
+        "schemaName": "TranscriptX — Konverter Suara ke Teks",
+        "schemaDescription": "Alat suara ke teks online gratis yang mengubah ucapan dan rekaman suara menjadi teks tertulis dalam lebih dari 100 bahasa, dengan label pembicara serta ekspor ke TXT, DOCX, PDF, SRT, dan VTT. Rekam langsung di browser atau unggah rekaman, tanpa perlu akun.",
+        "ogTitle": "Suara ke Teks — Ubah Suara & Rekaman Jadi Teks Gratis | TranscriptX",
+        "ogDescription": "Ubah suara Anda jadi teks. Rekam di browser atau unggah rekaman suara dan dapatkan teks akurat dalam 100+ bahasa, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Suara ke Teks",
+        "subtitle": "Ubah kata-kata yang Anda ucapkan menjadi teks tertulis. Rekam langsung di browser atau unggah rekaman suara, lalu TranscriptX menuliskannya dalam lebih dari 100 bahasa, lengkap dengan label pembicara. Dikte sebuah catatan, transkrip sebuah memo, atau ubah percakapan yang Anda rekam — lalu ekspor ke TXT, DOCX, PDF, SRT, atau VTT. Tanpa akun, tanpa instalasi apa pun.",
+        "placeholder": "Rekam suara Anda atau unggah rekaman...",
+        "button": "Ubah Suara Jadi Teks"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara mengubah suara menjadi teks?",
+        "answer": "Rekam suara Anda langsung di TranscriptX atau unggah sebuah rekaman suara, lalu ucapan di dalamnya berubah menjadi teks tertulis dalam hitungan detik, dalam lebih dari 100 bahasa. Setelah itu Anda bisa membaca, mengedit, menyalin, atau mengekspor teksnya. Tidak perlu daftar dan tidak ada yang perlu diinstal."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Suara ke Teks?",
+            "content": [
+                "Suara ke teks mengubah kata-kata yang diucapkan menjadi kata-kata tertulis. Anda berbicara — atau memutar rekaman seseorang yang sedang berbicara — dan alih-alih mengetik, Anda menerima kata-katanya sebagai teks yang bisa dibaca, diedit, dan disimpan. Idenya sama dengan fitur dikte di HP Anda, tapi alat ini bekerja pada rekaman utuh, di dalam browser, tanpa batas durasi dan tanpa akun.",
+                "Yang membedakannya dari mengolah sebuah file audio adalah titik awalnya. Suara ke teks dibangun di sekitar kata yang diucapkan saat itu juga atau saat Anda merekamnya: voice memo yang Anda dikte sambil berjalan, rapat yang Anda rekam dengan HP, ide yang Anda ucapkan keras-keras karena bicara lebih cepat daripada mengetik. Masukannya adalah suara Anda atau sebuah rekaman suara, bukan file media yang Anda unduh.",
+                "Nilainya terletak pada kenyataan bahwa berbicara lebih cepat daripada mengetik, tetapi teks jauh lebih berguna daripada audio. Suara ke teks berada di antara keduanya — Anda mendapat kecepatan bicara sekaligus bentuk tertulis yang bisa dicari, diedit, dan dibagikan, tanpa harus mentranskripnya sendiri.",
+                "TranscriptX melakukannya secara gratis, langsung di browser, baik Anda merekam saat itu juga maupun mengunggah rekaman yang sudah Anda miliki."
+            ]
+        },
+        {
+            "h2": "Suara ke Teks Sekilas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak ada — berjalan di browser"
+                },
+                {
+                    "label": "Masukan",
+                    "value": "Rekam langsung di browser atau unggah rekaman suara"
+                },
+                {
+                    "label": "Batas durasi rekaman",
+                    "value": "Tidak ada"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Pemisahan pembicara",
+                    "value": "Ya — setiap pembicara diberi label"
+                },
+                {
+                    "label": "Timestamp",
+                    "value": "Opsional — bisa dinyalakan per transkrip"
+                },
+                {
+                    "label": "Format ekspor",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser desktop, tablet, dan HP"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mengubah Suara Menjadi Teks",
+            "steps": [
+                {
+                    "h3": "Rekam atau unggah",
+                    "content": "Tekan rekam dan bicara langsung di browser, atau unggah rekaman suara yang Anda buat sebelumnya di HP atau alat perekam. Tidak ada batas seberapa lama Anda berbicara."
+                },
+                {
+                    "h3": "Alat ini mendengarkan dan menuliskannya",
+                    "content": "TranscriptX mendeteksi sendiri bahasa yang diucapkan di antara lebih dari 100 bahasa, lalu melakukan konversi suara ke teks lengkap dengan tanda baca, serta memberi label pada setiap pembicara bila ada lebih dari satu."
+                },
+                {
+                    "h3": "Baca dan edit teksnya",
+                    "content": "Kata-katanya muncul sebagai teks yang bisa Anda rapikan saat itu juga — pangkas awalan yang salah, betulkan sebuah nama, atau ubah kalimat yang bertele-tele menjadi jelas."
+                },
+                {
+                    "h3": "Salin atau ekspor",
+                    "content": "Salin teksnya ke sebuah catatan, dokumen, atau pesan, atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT untuk disimpan maupun dibagikan."
+                }
+            ]
+        },
+        {
+            "h2": "Rekam Langsung atau Unggah Rekaman Suara",
+            "content": [
+                "Suara ke teks bekerja dengan dua cara, dan keduanya berawal dari suara Anda, bukan dari file yang diunduh.",
+                "Rekam langsung ketika kata-katanya belum ada. Buka alat ini, mulai merekam suara langsung di browser, lalu bicara — sebuah ide yang ingin Anda tuliskan, catatan untuk diri sendiri, atau draf yang lebih enak diucapkan daripada diketik. Begitu Anda berhenti, ucapan itu sudah menjadi teks yang bisa diedit dan disimpan. Ini jalur tercepat ketika Anda berpikir sambil bicara dan ingin gagasannya tertangkap tanpa menyentuh keyboard.",
+                "Unggah rekaman ketika suaranya sudah tertangkap. Voice memo dari HP, voice note dari aplikasi chat, percakapan yang Anda rekam sebelumnya — unggah saja dan TranscriptX akan mengubah rekaman suara ke teks seluruhnya. Dengan cara mana pun tidak ada batas durasi, jadi pengingat sepuluh detik dan diskusi berdurasi satu jam sama-sama ditangani."
+            ]
+        },
+        {
+            "h2": "Transkrip Rekaman Suara",
+            "content": [
+                "Sebuah rekaman suara menyimpan semua yang diucapkan, tapi dalam bentuk yang tidak bisa Anda cari, kutip, atau edit. Mentranskripnya berarti mengubah rekaman suara menjadi teks — rekaman suara ke teks dalam satu langkah, teks yang benar-benar bisa Anda olah.",
+                "Transkrip rekaman suara paling berguna ketika rekaman itu memuat informasi yang akan Anda perlukan nanti. Wawancara yang direkam berubah menjadi teks yang bisa dikutip dengan setiap pembicara diberi label. Rapat yang direkam berubah menjadi catatan tertulis tentang apa yang disepakati. Kuliah yang direkam berubah menjadi catatan yang bisa dicari per istilah. Entah Anda menyebut hasilnya transkrip dari rekaman suara atau sekadar kata-kata di atas halaman, itulah yang membuat Anda bisa memakai isinya alih-alih hanya menyimpan audionya.",
+                "TranscriptX mentranskrip sebuah rekaman suara baik berisi satu orang maupun beberapa orang. Ketika ada lebih dari satu suara, setiap pembicara diberi label, sehingga percakapan yang direkam terbaca sebagai dialog bolak-balik alih-alih satu aliran kata tanpa jeda."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Diubah Jadi Teks",
+            "intro": [
+                "Di mana pun suara Anda membawa sesuatu yang layak disimpan, suara ke teks mengubahnya menjadi catatan yang bisa dipakai. Penggunaan yang paling umum:"
+            ],
+            "items": [
+                {
+                    "h3": "Voice memo dan catatan",
+                    "content": "Tangkap sebuah ide, pengingat, atau draf dengan mengucapkannya, lalu ubah suara jadi tulisan yang bisa diedit alih-alih rekaman yang harus Anda putar ulang untuk mengingat apa yang tadi Anda katakan."
+                },
+                {
+                    "h3": "Rapat dan panggilan",
+                    "content": "Rekam rapat dengan HP dan ubah menjadi notulen tertulis, dengan setiap orang diberi label, sehingga keputusan dan daftar tindak lanjut ada di atas kertas alih-alih di ingatan seseorang."
+                },
+                {
+                    "h3": "Wawancara",
+                    "content": "Ubah wawancara yang Anda rekam menjadi teks yang bisa dikutip, dengan pembicara yang dipisahkan, sehingga Anda bisa mengambil kalimat persisnya alih-alih memparafrasekannya dari ingatan."
+                },
+                {
+                    "h3": "Mendikte dokumen",
+                    "content": "Ucapkan draf pertama sebuah email, laporan, atau artikel dan biarkan suara ke teks menuliskannya, lalu rapikan teksnya alih-alih mengetik setiap kata dari nol."
+                },
+                {
+                    "h3": "Kuliah dan belajar",
+                    "content": "Rekam sebuah kelas atau sesi belajar dan ubah menjadi teks yang bisa Anda cari, tandai, dan pelajari kembali nanti."
+                },
+                {
+                    "h3": "Aksesibilitas dan penggunaan bebas tangan",
+                    "content": "Bagi siapa pun yang merasa mengetik itu lambat atau sulit, berbicara lalu menerima teks yang rapi adalah cara menulis yang lebih cepat dan lebih nyaman."
+                }
+            ]
+        },
+        {
+            "h2": "Suara ke Teks untuk Dikte",
+            "content": [
+                "Kebanyakan orang berbicara jauh lebih cepat daripada mengetik, dan karena itulah mengetik dengan suara terasa begitu cocok untuk suara ke teks. Ketika draf pertama sudah ada di kepala Anda, mengucapkannya keras-keras lalu menerima teksnya lebih cepat daripada menyusunnya kata demi kata di keyboard.",
+                "Tantangan dikte adalah bahasa lisan lebih longgar daripada bahasa tulis — ada awalan yang salah, kata pengisi, dan kalimat yang melantur. Karena suara ke teks memberi Anda teks yang bisa diedit alih-alih dokumen jadi, hal itu mudah diperbaiki: turunkan dulu kata-kata mentahnya secepat Anda bicara, lalu luangkan satu menit untuk merapikannya. Bagian tersulitnya, yaitu berangkat dari halaman kosong menuju draf utuh, sudah selesai.",
+                "Cara ini berlaku untuk apa pun yang biasanya Anda ketik: email, catatan, kerangka tulisan, jurnal harian, atau bentuk kasar sebuah artikel yang akan Anda sunting setelahnya."
+            ]
+        },
+        {
+            "h2": "Akurasi dan Bahasa",
+            "content": [
+                "Seberapa dekat teksnya dengan apa yang Anda ucapkan sangat bergantung pada rekamannya. Berbicara dengan jelas pada tempo yang stabil, dekat dengan mikrofon dan jauh dari kebisingan latar, memberi hasil paling bersih — dan karena sebagian besar penggunaan suara ke teks adalah merekam suara Anda sendiri, hal itu justru sering ada dalam kendali Anda.",
+                "Akurasi menurun pada lingkungan yang berisik, orang yang berbicara saling menimpa, atau ucapan yang sangat cepat dan bergumam. Bagian-bagian seperti itu layak diperiksa sekilas, tapi untuk voice note yang jelas atau percakapan yang direkam dengan baik, teksnya kembali nyaris kata per kata.",
+                "TranscriptX mengenali ucapan dalam lebih dari 100 bahasa, termasuk Bahasa Indonesia, dan mendeteksi sendiri bahasa yang Anda gunakan, jadi Anda bisa mendikte atau mentranskrip dalam bahasa Anda sendiri tanpa mengubah pengaturan apa pun lebih dulu."
+            ]
+        },
+        {
+            "h2": "Suara ke Teks atau Audio ke Teks?",
+            "intro": [
+                "Keduanya mengubah ucapan menjadi teks, tapi masing-masing dibentuk di sekitar titik awal yang berbeda. Pilih berdasarkan dari mana kata-kata Anda berasal."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih suara ke teks untuk kata-kata yang Anda ucapkan sendiri",
+                    "content": "Ketika Anda ingin merekam suara secara langsung, mendikte sebuah draf, atau mentranskrip voice memo maupun rekaman yang Anda buat sendiri, inilah alat yang dibuat untuk itu — termasuk merekam langsung di dalam browser."
+                },
+                {
+                    "h3": "Pilih audio ke teks untuk file audio yang sudah ada",
+                    "content": "Ketika Anda sudah punya file audio — sebuah podcast, wawancara yang diunduh, atau MP3 dari sebuah rapat — alat [Audio to Text](/id/audio-to-text) dibentuk untuk mengunggah dan mentranskrip file media. Dan jika rekaman Anda sebenarnya adalah audio dari sebuah video, alat [YouTube Transcript](/id/youtube-transcript) menangani sumber tersebut secara langsung."
+                }
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara mengubah suara menjadi teks secara gratis?",
+                    "a": "Rekam suara Anda di TranscriptX atau unggah sebuah rekaman suara, dan alat ini akan mengubah ucapannya menjadi teks tanpa biaya. Tidak ada akun yang harus dibuat, tidak ada yang perlu diinstal, dan tidak ada batas durasi rekaman."
+                },
+                {
+                    "q": "Bisakah saya merekam langsung di dalam alat ini?",
+                    "a": "Bisa. Anda bisa merekam suara langsung di browser dan menerima teksnya begitu Anda berhenti, atau mengunggah rekaman yang Anda buat sebelumnya. Keduanya bekerja dengan cara yang sama."
+                },
+                {
+                    "q": "Bisakah saya mentranskrip rekaman suara yang sudah saya miliki?",
+                    "a": "Bisa. Unggah rekamannya — voice memo, pesan suara, atau percakapan yang direkam — dan TranscriptX akan mentranskrip seluruhnya menjadi teks, dengan label pembicara bila ada lebih dari satu. Dengan cara ini Anda bisa mentranskrip rekaman dengan durasi berapa pun."
+                },
+                {
+                    "q": "Apakah suara ke teks cocok untuk dikte?",
+                    "a": "Cocok. Berbicara lebih cepat daripada mengetik, jadi mengetik dengan suara adalah salah satu penggunaan yang paling populer. Anda menerima teks yang bisa diedit, sehingga mudah mengucapkan draf kasar lalu merapikannya alih-alih mengetik dari nol."
+                },
+                {
+                    "q": "Bahasa apa saja yang didukung?",
+                    "a": "Lebih dari 100. Bahasa yang diucapkan terdeteksi otomatis, jadi Anda bisa mendikte atau mentranskrip dalam bahasa Anda sendiri tanpa memilihnya lebih dulu."
+                },
+                {
+                    "q": "Bisakah alat ini memisahkan pembicara yang berbeda?",
+                    "a": "Bisa. Ketika sebuah rekaman berisi lebih dari satu suara, setiap pembicara diberi label, sehingga percakapan atau rapat yang direkam terbaca sebagai dialog yang jelas."
+                },
+                {
+                    "q": "Apakah ada batas seberapa lama saya bisa merekam?",
+                    "a": "Tidak ada. Catatan suara singkat maupun sesi rekaman panjang sama-sama bisa diproses; rekaman yang lebih panjang hanya butuh sedikit lebih banyak waktu."
+                },
+                {
+                    "q": "Apakah saya perlu menginstal aplikasi?",
+                    "a": "Tidak. Suara ke teks berjalan di browser, baik di desktop maupun HP, tanpa aplikasi ubah suara jadi teks, plugin, atau akun apa pun."
+                },
+                {
+                    "q": "Seberapa akurat suara ke teks?",
+                    "a": "Sebagian besar bergantung pada rekamannya. Ucapan yang jelas, dekat dengan mikrofon dan jauh dari kebisingan, kembali nyaris kata per kata, sementara ucapan yang berisik atau saling menimpa layak diperiksa sekilas sebelum Anda mengandalkannya."
+                },
+                {
+                    "q": "Apa bedanya suara ke teks dengan audio ke teks?",
+                    "a": "Suara ke teks dibuat untuk ucapan yang Anda tangkap sendiri — merekam langsung atau mentranskrip sebuah voice memo. Audio ke teks dibuat untuk file audio yang sudah ada seperti podcast dan MP3. Jika yang Anda punya adalah file media alih-alih rekaman suara, gunakan alat Audio to Text."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Ubah Suara Anda Jadi Teks Gratis",
+        "content": [
+            "Rekam langsung di browser atau unggah rekaman suara, dan TranscriptX akan mengubah kata-kata yang Anda ucapkan menjadi teks dalam lebih dari 100 bahasa, lengkap dengan label pembicara dan timestamp opsional.",
+            "Dikte sebuah draf, transkrip sebuah memo, atau tuliskan percakapan yang Anda rekam — lalu baca, edit, salin, atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT. Tanpa akun, tanpa instalasi, tanpa biaya."
+        ]
+    }
+}

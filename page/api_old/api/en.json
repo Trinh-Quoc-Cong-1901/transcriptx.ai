@@ -1,0 +1,206 @@
+{
+    "seo": {
+        "title": "Transcription API — Speech to Text API for Audio, Video & Links | TranscriptX",
+        "description": "Transcription API for developers: send an audio file, video file or link and get text back. Speech to text in 100+ languages with speaker labels, timestamps, SRT/VTT.",
+        "schemaName": "TranscriptX Transcription API",
+        "schemaDescription": "Speech to text API that transcribes audio files, video files and links from YouTube, TikTok, Instagram, Facebook and other platforms. Returns punctuated transcripts in over 100 languages with speaker labels and timestamps, exportable as text, SRT or VTT. About 1–2 minutes per hour of audio, tested with 10-hour recordings. Also available as an MCP server for AI agents.",
+        "ogTitle": "Transcription API — Speech to Text for Audio, Video & Links",
+        "ogDescription": "One speech to text API for files and links. 100+ languages, speaker labels, timestamps, subtitles, and an MCP server for AI agents."
+    },
+    "apiGuide": {
+        "status": "pending",
+        "note": "Short API guide shown above the SEO content: get an API key, cURL / Python / JavaScript request for a file and for a URL, sample JSON response, link to docs. To be added by the dev team."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "Transcription API – Speech to Text for Audio, Video and Links",
+        "subtitle": "Add speech to text to your product with one API. Send an audio or video file, or a link from YouTube, TikTok, Instagram and other platforms, and get back a punctuated transcript with speaker labels and timestamps in over 100 languages. Export as text, SRT or VTT, or connect it to AI agents through MCP.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "What is a transcription API?",
+        "answer": "A transcription API — also called a speech to text API — is a web service that converts spoken audio into written text for your application. You send an audio file, video file or media link, and it returns the transcript, usually with timestamps and speaker labels. TranscriptX handles files and links in one API, in over 100 languages, at about 1–2 minutes per hour of audio."
+    },
+    "sections": [
+        {
+            "h2": "What Is a Transcription API?",
+            "content": [
+                "A transcription API turns speech into text inside your own software. Instead of uploading recordings to a website one by one, your app sends audio or video to the API and receives the transcript back as data, ready to store, search, summarise or display.",
+                "You will see it called a speech to text API, an audio transcription API or a voice to text API. They describe the same thing: speech in, text out. What separates providers is what they accept as input, how accurate and fast they are, and what comes back with the words — timestamps, speakers, subtitle formats.",
+                "TranscriptX is built around one idea: whatever your users have — a file on disk or a link to a video online — the same API turns it into text."
+            ]
+        },
+        {
+            "h2": "TranscriptX API at a Glance",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Audio files, video files, and links (YouTube, TikTok, Instagram, Facebook, Vimeo, LinkedIn, Twitch, Dailymotion, Reddit, Google Drive, Dropbox and direct media URLs)"
+                },
+                {
+                    "label": "Audio formats",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG and more"
+                },
+                {
+                    "label": "Video formats",
+                    "value": "MP4, MOV, AVI, MKV, WEBM and more"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker labels",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Yes, per segment"
+                },
+                {
+                    "label": "Output",
+                    "value": "Text, SRT, VTT"
+                },
+                {
+                    "label": "Speed",
+                    "value": "About 1–2 minutes per hour of audio; a 10-hour recording in about 10 minutes"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% on clear audio in our internal tests"
+                },
+                {
+                    "label": "AI agents",
+                    "value": "MCP server for Claude and other MCP clients"
+                }
+            ]
+        },
+        {
+            "h2": "One Speech to Text API for Files and Links",
+            "content": [
+                "Most speech to text APIs only accept a file. That leaves you to download videos from social platforms, extract the audio and upload it again — before transcription even starts.",
+                "TranscriptX accepts both. Upload a file from your own storage, or pass a URL and let the API fetch the media itself — whether it is a YouTube video, a TikTok, a Google Drive share link or a direct link to an MP3. Your code stays the same either way."
+            ]
+        },
+        {
+            "h2": "Audio Transcription API",
+            "content": [
+                "As an audio transcription API, TranscriptX handles the recordings products deal with every day: podcast episodes, interviews, voice notes, call and meeting recordings, lectures. MP3, WAV, M4A, FLAC and other formats go in as they are, with no conversion step.",
+                "Long audio is where many APIs struggle, with file size caps or time limits per request. TranscriptX processes an hour of audio in about 1–2 minutes and has been tested with single 10-hour recordings. See [Transcribe Large Audio Files](/transcribe-large-audio-files) for more on long recordings."
+            ]
+        },
+        {
+            "h2": "Video Transcription API",
+            "content": [
+                "A video transcription API should not make you strip the audio track first. Send MP4, MOV, MKV, WEBM or another common format and TranscriptX transcribes the speech directly, returning timed segments you can turn into captions.",
+                "Export as SRT or VTT to add subtitles to your player, or use the plain text to index, summarise or translate video content at scale."
+            ]
+        },
+        {
+            "h2": "Social Video Transcript APIs",
+            "intro": [
+                "Social platforms rarely offer an official way to get transcripts of public videos. TranscriptX does, from a link:"
+            ],
+            "items": [
+                {
+                    "h3": "YouTube Transcript API",
+                    "content": "Any public video, with or without captions, with timestamps and speaker labels. See the [YouTube Transcript API](/api/youtube-transcript)."
+                },
+                {
+                    "h3": "TikTok Transcript API",
+                    "content": "Turn TikTok videos into text for trend research, social listening and content analysis. See the [TikTok Transcript API](/api/tiktok-transcript)."
+                },
+                {
+                    "h3": "Instagram Transcript API",
+                    "content": "Transcribe public Instagram Reels and videos from their links. Reels often have no captions, so the transcript is generated from the audio."
+                },
+                {
+                    "h3": "Facebook Transcript API",
+                    "content": "Get the text of public Facebook videos, Reels and saved Live broadcasts, including long streams, with each speaker labelled."
+                }
+            ]
+        },
+        {
+            "h2": "Speech to Text API vs Browser Speech Recognition API",
+            "content": [
+                "Searching for a speech recognition API often turns up the Web Speech API built into browsers. It is useful for live voice input on a web page — dictation, voice commands — but it runs in the user's browser, depends on the browser vendor, and is not designed to transcribe files or videos.",
+                "A server-side speech to text API like TranscriptX is the right choice when you need to transcribe recorded audio and video, process files in the background, get speaker labels and timestamps, or produce subtitles."
+            ]
+        },
+        {
+            "h2": "Built for AI Agents",
+            "content": [
+                "TranscriptX is available as an MCP server, so Claude and other MCP-compatible assistants can transcribe links and files on their own — no glue code. Ask an agent to summarise a YouTube video or a podcast episode, and it can fetch the transcript itself.",
+                "The same transcripts plug straight into RAG pipelines and LLM workflows, with timestamps that let answers cite the exact moment in a recording."
+            ]
+        },
+        {
+            "h2": "What You Can Build With a Voice to Text API",
+            "items": [
+                {
+                    "h3": "Meeting and call notes",
+                    "content": "Transcribe recordings, label speakers and pass the text to an LLM for summaries and action items."
+                },
+                {
+                    "h3": "Podcast and media platforms",
+                    "content": "Add searchable transcripts, show notes and captions to every episode."
+                },
+                {
+                    "h3": "Subtitle and localisation tools",
+                    "content": "Generate SRT or VTT in the spoken language, then translate."
+                },
+                {
+                    "h3": "Social listening and research",
+                    "content": "Analyse what is said in YouTube, TikTok and Instagram videos at scale."
+                },
+                {
+                    "h3": "Education",
+                    "content": "Turn recorded lectures into notes, search and study material."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "What is the difference between a transcription API and a speech to text API?",
+                    "a": "In practice, nothing — both convert spoken audio into text. \"Transcription API\" is more common when the input is recorded audio or video; \"speech to text API\" is also used for real-time voice input."
+                },
+                {
+                    "q": "Can the API transcribe video links, not just files?",
+                    "a": "Yes. Pass a link from YouTube, TikTok, Instagram, Facebook and other platforms, or a Google Drive, Dropbox or direct media URL, and the API fetches the media itself."
+                },
+                {
+                    "q": "Which languages does the speech to text API support?",
+                    "a": "Over 100 languages, detected automatically."
+                },
+                {
+                    "q": "Does it separate speakers?",
+                    "a": "Yes. Each speaker is labelled in the transcript."
+                },
+                {
+                    "q": "How fast is it?",
+                    "a": "About 1–2 minutes per hour of audio. A 10-hour recording took about 10 minutes in our tests."
+                },
+                {
+                    "q": "Can I get subtitles?",
+                    "a": "Yes. Transcripts can be exported as SRT or VTT."
+                },
+                {
+                    "q": "Is my data used to train AI?",
+                    "a": "No. Your files and transcripts are never used to train AI models."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Add Transcription to Your Product",
+        "content": [
+            "One transcription API for audio, video and links: 100+ languages, speaker labels, timestamps, subtitles and MCP for AI agents.",
+            "Get your API key, or see [API pricing](/api/pricing)."
+        ]
+    }
+}

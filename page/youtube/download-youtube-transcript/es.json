@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Descargar transcripción de YouTube — Gratis TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "Descarga la transcripción de YouTube gratis en TXT, DOCX, PDF o SRT. Pega un enlace, obtén la transcripción y guarda el archivo en tu dispositivo para leerlo sin conexión. Sin registro.",
+        "schemaName": "TranscriptX — Herramienta para descargar transcripciones de YouTube",
+        "schemaDescription": "Herramienta gratuita para descargar la transcripción de un video público de YouTube como archivo TXT, DOCX, PDF o SRT. Pega un enlace y guarda la transcripción en tu dispositivo sin necesidad de cuenta.",
+        "ogTitle": "Descargar transcripción de YouTube — Gratis TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Guarda la transcripción de cualquier video de YouTube en tu dispositivo. Descárgala en TXT, DOCX, PDF o SRT, gratis y sin registro."
+    },
+    "hero": {
+        "h1": "Descargar transcripción de YouTube",
+        "subtitle": "Guarda en tu dispositivo la transcripción de cualquier video público de YouTube. Pega un enlace y descarga el texto en TXT, DOCX, PDF o SRT para leerlo sin conexión, archivarlo o llevarlo a un documento. Sin cuenta y sin instalar nada.",
+        "placeholder": "Pega la URL de un video de YouTube...",
+        "button": "Obtener y descargar transcripción"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo descargar la transcripción de un video de YouTube?",
+        "answer": "Pega un enlace público de YouTube en TranscriptX y, cuando la transcripción esté lista, elige un formato y descárgala. Puedes guardarla en TXT, DOCX, PDF o SRT en tu ordenador o en tu móvil. Sin registro y sin nada que instalar antes."
+    },
+    "sections": [
+        {
+            "h2": "Para qué sirve descargar la transcripción",
+            "content": [
+                "Leer la transcripción en pantalla basta mientras estás en tu escritorio y con conexión. Descargar la transcripción de YouTube es lo que necesitas cuando el texto tiene que sobrevivir a la pestaña del navegador: cuando quieres un archivo tuyo, guardado en tu propio dispositivo, que se abra haya internet o no.",
+                "Una transcripción descargada es un documento de verdad. La metes en una carpeta de investigación, la adjuntas a un correo, la subes a una unidad compartida o la imprimes. Deja de ser algo que miraste una vez y pasa a formar parte de tus archivos. Dicho de otro modo: descargas el texto de un video de YouTube para conservar por escrito lo que se dijo.",
+                "TranscriptX prepara la transcripción y te entrega la descarga. El video se queda en YouTube; lo que llega a tu dispositivo es solo el texto, en el formato que hayas elegido."
+            ]
+        },
+        {
+            "h2": "¿Qué formato deberías descargar?",
+            "intro": [
+                "El archivo adecuado depende por completo de qué vas a hacer después con la transcripción. Cuatro formatos cubren casi todos los casos."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — texto plano",
+                    "content": "La opción más ligera y portátil. Un archivo .txt se abre en cualquier parte, no arrastra formato que estorbe y es lo más limpio para pegar en otra herramienta o en un asistente de IA. Elige descargar la transcripción de YouTube en TXT cuando solo quieres las palabras: también es la forma más directa de descargar subtítulos de YouTube en texto, sin marcas de tiempo de por medio."
+                },
+                {
+                    "h3": "DOCX — documento editable",
+                    "content": "Se abre en Word, Google Docs y Pages. Elige DOCX cuando pienses trabajar sobre la transcripción — títulos, subrayados, comentarios, control de cambios — y tratarla como un documento en marcha y no como texto en bruto."
+                },
+                {
+                    "h3": "PDF — versión fija para compartir",
+                    "content": "Se ve idéntico en todos los dispositivos y no está pensado para editarse. Elige PDF cuando vayas a enviar la transcripción a alguien, archivarla como registro o imprimirla, y quieras que la maquetación se quede exactamente como está."
+                },
+                {
+                    "h3": "SRT — transcripción con marcas de tiempo",
+                    "content": "Lleva una marca de tiempo en cada línea. Elige SRT cuando necesites la transcripción atada a momentos concretos del video: para subtitular, para contrastar una cita con el audio o para cualquier programa que espere texto con tiempo incorporado."
+                }
+            ]
+        },
+        {
+            "h2": "Cómo descargar la transcripción de un video de YouTube",
+            "steps": [
+                {
+                    "h3": "Pega el enlace de YouTube",
+                    "content": "Copia la URL del video público que quieras y pégala en el campo de arriba. No hay paso de registro ni ningún archivo que subir antes."
+                },
+                {
+                    "h3": "Deja que se genere la transcripción",
+                    "content": "TranscriptX lee el audio y escribe la transcripción completa en más de 100 idiomas, con cada hablante identificado y la puntuación puesta."
+                },
+                {
+                    "h3": "Elige tu formato",
+                    "content": "Escoge TXT, DOCX, PDF o SRT según lo que vayas a hacer con la transcripción. Activa antes las marcas de tiempo si descargas SRT o si las quieres dentro del archivo."
+                },
+                {
+                    "h3": "Descarga el archivo",
+                    "content": "Guárdalo en tu ordenador o en tu móvil. Ahí termina el proceso de descargar la transcripción de un video de YouTube: ya es un archivo tuyo, listo para abrirse sin conexión, compartirse o archivarse."
+                }
+            ]
+        },
+        {
+            "h2": "Cuando necesitas el archivo, no solo el texto",
+            "intro": [
+                "La descarga importa sobre todo cuando la transcripción tiene que salir del navegador y entrar en un flujo de trabajo real. Algunos ejemplos:"
+            ],
+            "items": [
+                {
+                    "h3": "Montar un archivo de investigación",
+                    "content": "Quien investiga guarda la transcripción de YouTube de entrevistas, ponencias y documentales dentro de una carpeta de proyecto, para que las fuentes queden juntas, buscables y citables mucho después de haber visto los videos."
+                },
+                {
+                    "h3": "Entregar o archivar un registro",
+                    "content": "Cuando la transcripción hay que entregarla, adjuntarla o dejarla en un expediente — para una asignatura, una nota legal o un informe — el PDF o el DOCX descargado es la versión que viaja."
+                },
+                {
+                    "h3": "Trabajar sin conexión",
+                    "content": "Un TXT o un DOCX descargado se abre en un avión, en un tren o donde se caiga la cobertura, así que leer y editar no se detiene cuando se detiene internet."
+                },
+                {
+                    "h3": "Pasarla a otro programa",
+                    "content": "Hay software que quiere un archivo y no texto pegado. Bajar la transcripción de YouTube te da algo que subir: a un traductor, a un gestor documental o a un editor."
+                },
+                {
+                    "h3": "Guardar una copia propia",
+                    "content": "Los videos se retiran, se ponen en privado o se editan. Guardar la transcripción de YouTube es quedarte con tu propia copia de lo que se dijo, pase lo que pase con el original."
+                }
+            ]
+        },
+        {
+            "h2": "Descargar transcripciones en más de 100 idiomas",
+            "content": [
+                "La descarga no se limita al inglés. TranscriptX transcribe el habla en más de 100 idiomas y detecta el idioma por su cuenta, así que el archivo que guardas sale en la lengua en la que se habló el video. Un video en español vuelve como transcripción en español, con sus acentos y su puntuación; uno en inglés o en portugués, igual.",
+                "Todos los formatos llevan la transcripción completa y mantienen separados a los hablantes, así que una entrevista o una mesa redonda descargada se lee como un registro claro de quién dijo qué y no como un bloque fundido, elijas el formato que elijas de los cuatro. Y descargar la transcripción de YouTube gratis vale igual para cualquier idioma: es lo mismo que mucha gente busca como descargar el transcript de YouTube, sin cuenta y sin coste."
+            ]
+        },
+        {
+            "h2": "Cuando otra herramienta encaja mejor",
+            "content": [
+                "Descargar la transcripción como archivo es una opción entre varias, y cada herramienta de TranscriptX está pensada para una necesidad distinta. Si tu objetivo es algo diferente, alguna de estas se ajusta mejor.",
+                "Si solo quieres leer y copiar la transcripción sin guardar ningún archivo, la herramienta [YouTube Transcript](/es/youtube-transcript) lo deja todo en pantalla. Si lo que de verdad necesitas es un archivo de subtítulos sincronizado para un editor de video en lugar de un documento para leer, el [YouTube Subtitle Downloader](/es/youtube-subtitle-downloader) exporta SRT y VTT justo para eso. Y si el texto completo es más de lo que quieres, el [YouTube Video Summarizer](/es/youtube-video-summarizer) reduce el video a sus ideas principales."
+            ]
+        },
+        {
+            "h2": "Preguntas frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo descargo la transcripción de un video de YouTube?",
+                    "a": "Pega el enlace del video en TranscriptX, espera a que se genere la transcripción, elige TXT, DOCX, PDF o SRT y descárgala. El archivo se guarda directamente en tu dispositivo y no hace falta ninguna cuenta."
+                },
+                {
+                    "q": "¿Es gratis descargar la transcripción de YouTube?",
+                    "a": "Sí. Tanto obtener la transcripción como descargarla son gratis, sin cuenta que crear y sin límite en la duración del video."
+                },
+                {
+                    "q": "¿Qué formatos puedo descargar?",
+                    "a": "Cuatro: TXT para texto plano, DOCX para un documento editable, PDF para una versión fija y SRT para la transcripción con marcas de tiempo."
+                },
+                {
+                    "q": "¿Puedo descargar la transcripción con marcas de tiempo?",
+                    "a": "Sí. Activa las marcas de tiempo antes de exportar y descarga SRT para conservar la sincronización, o inclúyelas dentro de un archivo TXT o DOCX."
+                },
+                {
+                    "q": "¿Dónde se guarda el archivo?",
+                    "a": "Donde tu navegador guarde las descargas: la carpeta de descargas del ordenador o el almacenamiento de tu móvil. Desde ahí puedes moverlo, abrirlo sin conexión o compartirlo."
+                },
+                {
+                    "q": "¿Puedo descargar transcripciones de videos largos?",
+                    "a": "Sí. No hay límite de duración. La transcripción completa de un video de varias horas se descarga como un único archivo, sea cual sea el formato que elijas."
+                },
+                {
+                    "q": "¿Necesito instalar algo para descargar?",
+                    "a": "No. Todo funciona en el navegador. No hay programa, extensión ni aplicación que instalar antes de descargar la transcripción de YouTube en TXT o en cualquier otro formato."
+                },
+                {
+                    "q": "¿Qué formato es mejor para editar después?",
+                    "a": "DOCX. Se abre en Word, Google Docs y Pages y conserva el formato, así que es el más fácil de reescribir. Elige TXT si solo necesitas las palabras en bruto, o PDF para una versión que no debería cambiar."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Descargar transcripción de YouTube gratis",
+        "content": [
+            "Pega el enlace de un video público de YouTube, deja que TranscriptX genere la transcripción en más de 100 idiomas y descárgala en TXT, DOCX, PDF o SRT.",
+            "La transcripción se convierte en un archivo tuyo, listo para leer sin conexión, archivar, imprimir o compartir. Sin cuenta, sin instalación y sin coste."
+        ]
+    }
+}

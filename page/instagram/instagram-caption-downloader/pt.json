@@ -1,0 +1,147 @@
+{
+    "seo": {
+        "title": "Baixar Legenda do Instagram — Copiar Grátis | TranscriptX",
+        "description": "Baixe a legenda de qualquer post, Reel ou vídeo do Instagram grátis. Cole o link e copie a descrição completa, com hashtags e emoji, como texto. Sem cadastro, sem instalar nada.",
+        "schemaName": "TranscriptX Instagram Caption Downloader",
+        "schemaDescription": "Ferramenta grátis para baixar a legenda escrita e a descrição de um post, Reel ou vídeo público do Instagram. Cole um link e copie o texto completo da legenda, com hashtags e emoji, sem precisar de conta.",
+        "ogTitle": "Baixar Legenda do Instagram — Copiar Grátis | TranscriptX",
+        "ogDescription": "Pegue a legenda de qualquer post ou Reel do Instagram. Cole o link e copie a descrição completa e as hashtags como texto, grátis e sem cadastro."
+    },
+    "hero": {
+        "h1": "Baixar Legenda do Instagram",
+        "subtitle": "Pegue a legenda escrita de qualquer post, Reel ou vídeo público do Instagram. Cole o link e receba a descrição completa — texto, hashtags e emoji — pronta para copiar, salvar ou traduzir. Sem conta, sem instalar nada.",
+        "placeholder": "Cole a URL de um post ou Reel do Instagram...",
+        "button": "Baixar Legenda"
+    },
+    "quickAnswer": {
+        "question": "Como baixar a legenda de um post do Instagram?",
+        "answer": "Cole o link de um post, Reel ou vídeo público do Instagram no TranscriptX e ele puxa a legenda escrita completa, com hashtags e emoji, pronta para copiar ou salvar como texto. Funciona em segundos, sem conta e sem instalar nada."
+    },
+    "sections": [
+        {
+            "h2": "O Que o Instagram Caption Downloader Faz",
+            "content": [
+                "Esta ferramenta tira a legenda de um post do Instagram e entrega tudo como texto puro. A legenda aqui é a descrição que o autor escreveu embaixo da foto, do Reel ou do vídeo — as palavras, as hashtags, os emoji, as quebras de linha — e não o áudio falado dentro do clipe.",
+                "É justamente essa distinção que faz esta página existir por conta própria. O Instagram não te dá nenhum botão para selecionar e copiar uma legenda direito; o texto fica preso dentro da interface do app, e tentar marcar tudo no celular é trabalhoso e quase sempre pega a coisa errada. O caption downloader puxa a descrição inteira de uma vez, exatamente como ela foi escrita.",
+                "Funciona em qualquer post público — imagem única, Carousel, Reel ou vídeo. Cole o link para baixar a legenda do Instagram de uma foto, ou faça o download da legenda de vídeo do Instagram a partir de um Reel: a descrição completa volta como texto com o qual você realmente consegue trabalhar."
+            ]
+        },
+        {
+            "h2": "Legenda ou Transcrição: Do Que Você Precisa?",
+            "intro": [
+                "Os dois são texto vindo do Instagram, mas cada um vem de um lugar diferente. Escolha pelo tipo de palavra que você procura."
+            ],
+            "items": [
+                {
+                    "h3": "Baixar a legenda para pegar a descrição escrita",
+                    "content": "Se você quer o texto que o autor digitou embaixo do post — a descrição, as hashtags, a chamada para ação — a ferramenta é esta. Ela copia o que foi escrito, não o que foi falado."
+                },
+                {
+                    "h3": "Pegar a transcrição para as palavras faladas",
+                    "content": "Se você quer o que é realmente dito dentro de um Reel ou vídeo — a narração, a fala, o áudio — isso é outro trabalho. A ferramenta [Instagram Transcript](/pt/instagram-transcript) transcreve a fala do clipe no lugar disso."
+                }
+            ]
+        },
+        {
+            "h2": "Como Baixar a Legenda de um Post do Instagram",
+            "steps": [
+                {
+                    "h3": "Copie o link do post",
+                    "content": "Abra o post, o Reel ou o vídeo no Instagram, toque no menu de três pontos e escolha Copiar link — ou copie a URL no computador. O post precisa ser público."
+                },
+                {
+                    "h3": "Cole no caption downloader",
+                    "content": "Jogue o link na caixa acima. Não tem etapa de login e não tem nada para instalar — assim você baixa a legenda do Instagram pelo link, e a ferramenta lê o post direto dele."
+                },
+                {
+                    "h3": "A legenda é extraída",
+                    "content": "O TranscriptX puxa a legenda escrita completa, mantendo as hashtags, os emoji e as quebras de linha exatamente como o autor publicou."
+                },
+                {
+                    "h3": "Copie ou salve o texto",
+                    "content": "Copie a legenda para colar em outro lugar, ou salve o arquivo. A partir daqui você pode traduzir, editar ou guardar tudo para consulta."
+                }
+            ]
+        },
+        {
+            "h2": "O Que Fazer Com Uma Legenda Baixada",
+            "intro": [
+                "Uma legenda é bem mais do que uma frase bonitinha embaixo da foto — para criadores e profissionais de marketing, é dado que vale guardar. Usos comuns:"
+            ],
+            "items": [
+                {
+                    "h3": "Estudar o que funciona",
+                    "content": "Baixe as legendas de posts que performaram bem — os seus ou os de um concorrente — e leia tudo lado a lado para enxergar os ganchos, a estrutura e as chamadas para ação que geraram engajamento."
+                },
+                {
+                    "h3": "Salvar uma legenda antes que ela mude",
+                    "content": "Posts são editados ou apagados. Ao salvar a legenda do Instagram você fica com sua própria cópia do texto exato, hashtags incluídas, aconteça o que acontecer com o original."
+                },
+                {
+                    "h3": "Traduzir uma legenda",
+                    "content": "Puxe a descrição como texto e traduza para entender um post em outro idioma, ou para adaptar uma legenda a um público que fala outra língua."
+                },
+                {
+                    "h3": "Reaproveitar e reescrever",
+                    "content": "Leve a legenda para um documento de conteúdo, um swipe file ou uma ferramenta de agendamento, assim uma linha que funcionou uma vez pode ser remodelada para outro post ou outra plataforma."
+                },
+                {
+                    "h3": "Guardar o conjunto de hashtags",
+                    "content": "As hashtags no fim de uma legenda são metade do trabalho. Quando você baixa a legenda de um Reel do Instagram, essa lista de tags vem inteira, pronta para estudar ou adaptar nos seus próprios posts."
+                }
+            ]
+        },
+        {
+            "h2": "Copiar Legenda do Instagram – Hashtags, Emoji e Formatação Intactos",
+            "content": [
+                "Uma legenda do Instagram não é só uma frase — são as quebras de linha que dão respiro ao texto, os emoji que carregam o tom e o bloco de hashtags que decide quem vai ver aquilo. Um caption downloader que achata tudo isso numa única linha bagunçada não serve para muita coisa.",
+                "O TranscriptX mantém a legenda exatamente como foi publicada. Quando você vai copiar a legenda do Instagram — o texto de um vídeo ou a descrição de uma foto — os emoji ficam no lugar, as quebras de linha se sustentam e o conjunto completo de hashtags vem junto. O que você copia se lê igual ao que estava no post.",
+                "Isso pesa mais ainda quando você está reaproveitando ou analisando uma legenda, porque a formatação e as tags fazem parte do que fez aquilo funcionar — não são enfeite para jogar fora."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como baixar legendas do Instagram de graça?",
+                    "a": "Cole o link de um post, Reel ou vídeo público do Instagram no TranscriptX e ele copia a legenda escrita completa grátis — um download da descrição do Instagram em uma única etapa. Não tem conta para criar nem nada para instalar."
+                },
+                {
+                    "q": "O caption downloader mantém as hashtags e os emoji?",
+                    "a": "Sim. A legenda volta exatamente como foi publicada — hashtags, emoji e quebras de linha, tudo intacto, sem ser achatado numa única linha."
+                },
+                {
+                    "q": "Dá para baixar a legenda de um Reel ou de um vídeo?",
+                    "a": "Sim. Funciona em qualquer post público, seja uma foto única, um Carousel, um Reel ou um vídeo. Cole o link e a descrição volta como texto."
+                },
+                {
+                    "q": "Isso é o texto da legenda ou o que é falado no vídeo?",
+                    "a": "É a legenda escrita — a descrição que o autor digitou embaixo do post. Para as palavras faladas dentro de um vídeo ou Reel, use a ferramenta Instagram Transcript."
+                },
+                {
+                    "q": "Dá para baixar a legenda de uma conta privada?",
+                    "a": "Não. A ferramenta só funciona com posts públicos, já que o conteúdo de uma conta privada não fica acessível abertamente."
+                },
+                {
+                    "q": "Posso traduzir a legenda depois de baixar?",
+                    "a": "Sim. Assim que a legenda vira texto, você pode traduzi-la para outro idioma para ler ou adaptar a um público diferente."
+                },
+                {
+                    "q": "Preciso fazer login no Instagram?",
+                    "a": "Não. Tudo roda no navegador só com o link público do post — sem login e sem app."
+                },
+                {
+                    "q": "Dá para baixar várias legendas?",
+                    "a": "Sim. Não tem limite — você pode extrair a legenda do Instagram online, colando um link por vez e copiando cada descrição, quantas você precisar, sem custo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Baixar Legenda do Instagram Grátis",
+        "content": [
+            "Cole o link de qualquer post, Reel ou vídeo público do Instagram e o TranscriptX puxa a legenda escrita completa — texto, hashtags e emoji — pronta para copiar ou salvar.",
+            "Estude, traduza, reaproveite, ou guarde uma cópia antes que o post mude. Sem conta, sem instalação, sem custo."
+        ]
+    }
+}

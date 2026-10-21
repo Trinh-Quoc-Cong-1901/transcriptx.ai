@@ -1,0 +1,160 @@
+{
+    "seo": {
+        "title": "TikTok Transcript API — Get TikTok Video Transcripts by API | TranscriptX",
+        "description": "TikTok transcript API for developers: send a TikTok link and get the spoken text back, even without captions. 100+ languages, timestamps, speaker labels, SRT/VTT.",
+        "schemaName": "TranscriptX TikTok Transcript API",
+        "schemaDescription": "API that returns the transcript of any public TikTok video from its link. The audio is transcribed, so it works whether or not the video has captions, in over 100 languages, with timestamps and speaker labels. Exports to text, SRT and VTT. Also available as an MCP server for AI agents.",
+        "ogTitle": "TikTok Transcript API — Get TikTok Video Transcripts by API",
+        "ogDescription": "Send a TikTok link, get the transcript back — with or without captions, in 100+ languages, with timestamps."
+    },
+    "apiGuide": {
+        "status": "pending",
+        "note": "Short API guide shown above the SEO content: get an API key, cURL / Python / JavaScript request with a TikTok URL, sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "TikTok Transcript API",
+        "subtitle": "Turn TikTok videos into text from your own code. Send a public TikTok link and TranscriptX returns what is said in the video — transcribed from the audio, so it works even when the creator added no captions. Timestamps, speaker labels and 100+ languages, with SRT and VTT export.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "Is there an API to get TikTok transcripts?",
+        "answer": "TikTok does not offer an official API that returns the transcript of any public video. A TikTok transcript API such as TranscriptX fills that gap: send the video link and receive the spoken words as text with timestamps, in over 100 languages. Because the audio is transcribed, it works on videos without captions."
+    },
+    "sections": [
+        {
+            "h2": "What Is a TikTok Transcript API?",
+            "content": [
+                "A TikTok transcript API returns the spoken content of a TikTok video to your application. You pass the video URL; you get back the transcript as text or timed segments, ready to analyse, store or display.",
+                "TikTok is one of the biggest sources of what people are saying about products, trends and news — but almost all of it is locked inside short videos. A transcript API turns those videos into text that your code can search, classify and summarise."
+            ]
+        },
+        {
+            "h2": "TikTok Transcript API at a Glance",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Any public TikTok video URL"
+                },
+                {
+                    "label": "Videos without captions",
+                    "value": "Supported — the audio is transcribed"
+                },
+                {
+                    "label": "TikTok account or app approval",
+                    "value": "Not needed"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Yes, per segment"
+                },
+                {
+                    "label": "Speaker labels",
+                    "value": "Yes — for duets, stitches and interviews"
+                },
+                {
+                    "label": "Output",
+                    "value": "Text, SRT, VTT"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% on clear audio in our internal tests"
+                },
+                {
+                    "label": "Not supported",
+                    "value": "Private videos and accounts"
+                }
+            ]
+        },
+        {
+            "h2": "Why TikTok Doesn't Give You Transcripts",
+            "content": [
+                "TikTok's official developer APIs are built for specific approved use cases, and none of them simply returns the transcript of an arbitrary public video. Access requires an application and review, and the data you get is limited to what each programme allows.",
+                "Captions do not solve it either. Many creators never add them, auto-captions are not always switched on, and on-screen text is often stylised, partial or different from what is actually said.",
+                "That is why a TikTok transcript API works from the audio. TranscriptX listens to the video itself, so every public TikTok with speech returns text — whatever the creator did or did not caption."
+            ]
+        },
+        {
+            "h2": "Transcribed From the Audio",
+            "content": [
+                "TikTok audio is hard: fast talking, slang, trending sounds and music under the voice. TranscriptX separates speech from background music and noise before transcribing, and labels each speaker when a video has more than one voice — a duet, a stitch, a street interview.",
+                "Languages are detected automatically, so a mixed feed of English, Spanish, Indonesian and Vietnamese videos comes back as text in each original language, with no configuration per request."
+            ]
+        },
+        {
+            "h2": "What Developers Build With a TikTok Transcript API",
+            "items": [
+                {
+                    "h3": "Social listening",
+                    "content": "Track what creators say about your brand, competitors or product category — not just what they write in captions."
+                },
+                {
+                    "h3": "Trend and hook research",
+                    "content": "Collect the scripts of viral videos and analyse hooks, structure and calls to action across thousands of clips."
+                },
+                {
+                    "h3": "Influencer vetting",
+                    "content": "Review what a creator actually says across their videos before a partnership."
+                },
+                {
+                    "h3": "Content repurposing",
+                    "content": "Turn TikTok videos into blog posts, captions, threads and scripts for other platforms."
+                },
+                {
+                    "h3": "AI datasets and agents",
+                    "content": "Feed transcripts into LLM pipelines, or let an AI agent fetch them directly through the TranscriptX MCP server."
+                }
+            ]
+        },
+        {
+            "h2": "Beyond TikTok",
+            "content": [
+                "The same API accepts YouTube, Instagram, Facebook, Vimeo and other links, plus audio and video files — so one integration covers every platform you monitor.",
+                "See the [YouTube Transcript API](/api/youtube-transcript) or the [TranscriptX API overview](/api). Need a single transcript without code? Use the free [TikTok Transcript](/tiktok-transcript) tool."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Does TikTok have an official transcript API?",
+                    "a": "No. TikTok's developer APIs require approval for specific use cases and do not provide a simple way to get the transcript of any public video."
+                },
+                {
+                    "q": "Does it work if the TikTok has no captions?",
+                    "a": "Yes. The transcript is generated from the audio, not from captions."
+                },
+                {
+                    "q": "Do I need a TikTok account or developer approval?",
+                    "a": "No. You only need the public video link and a TranscriptX API key."
+                },
+                {
+                    "q": "Which languages are supported?",
+                    "a": "Over 100 languages, detected automatically."
+                },
+                {
+                    "q": "Can I get TikTok transcripts as subtitles?",
+                    "a": "Yes. Export the transcript as SRT or VTT."
+                },
+                {
+                    "q": "Can I transcribe private TikTok videos?",
+                    "a": "No. Only public videos can be accessed."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn TikTok Videos Into Data",
+        "content": [
+            "Send any public TikTok link and get the transcript back — with or without captions, in over 100 languages, with timestamps and speaker labels.",
+            "Get your API key, or see [pricing](/api/pricing) and the [full API overview](/api)."
+        ]
+    }
+}

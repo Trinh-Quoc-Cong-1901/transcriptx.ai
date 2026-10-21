@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Live Transcription — Free Real-Time Transcription Online",
+        "description": "Press Start to transcribe lectures, interviews and conversations in real time. Free live transcription online, no sign-up needed. Export to TXT, DOCX or PDF.",
+        "schemaName": "TranscriptX Live Transcription",
+        "schemaDescription": "Online live transcription tool that records from your microphone and transcribes speech in real time, in over 100 languages. Press Start to capture lectures, interviews and conversations as they happen, then copy or export the transcript to TXT, DOCX, PDF, SRT or VTT. Runs in the browser with no sign-up needed to start.",
+        "ogTitle": "Live Transcription — Free Real-Time Transcription Online",
+        "ogDescription": "Press Start and watch speech turn into a transcript in real time. Transcribe lectures, interviews and conversations live, free and with no sign-up needed."
+    },
+    "hero": {
+        "h1": "Live Transcription – Transcribe Speech in Real Time",
+        "subtitle": "Press Start, and TranscriptX listens through your microphone and turns what is being said into text in real time. Transcribe a lecture, an interview or a conversation as it happens, then press Stop and keep the full transcript — copy it or export to TXT, DOCX, PDF, SRT or VTT. Free to start, in over 100 languages, with nothing to install.",
+        "placeholder": "Press Start to begin transcribing live...",
+        "button": "Start Live Transcription"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe live?",
+        "answer": "Open TranscriptX, press Start and allow microphone access. Everything said near the microphone is transcribed in real time and appears on screen as it is spoken. Press Stop when you are done to read, edit, copy or export the full transcript. It is free to start, with no sign-up needed and nothing to install."
+    },
+    "sections": [
+        {
+            "h2": "What Is Live Transcription?",
+            "content": [
+                "Live transcription turns speech into text while it is still being spoken. Instead of recording a lecture or an interview and transcribing it afterwards, you press Start, the words appear on screen as people talk, and by the time the session ends the transcript is already written.",
+                "The point is to capture what other people are saying, in the moment. A professor walking through a topic, a source answering your questions, a group talking through a plan — live transcription follows along and writes it all down, so you can pay attention to the conversation instead of scrambling to take notes.",
+                "That is what sets it apart from transcribing a file. There is no recording to upload and no waiting for processing at the end: you transcribe live, and the record builds up in real time.",
+                "TranscriptX does this right in the browser, free to start. Press Start, let it listen, and keep the transcript when you are done."
+            ]
+        },
+        {
+            "h2": "Live Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free to start — paid plans for heavier use"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No — sign-up is optional"
+                },
+                {
+                    "label": "Installation",
+                    "value": "None — runs in the browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Your microphone, live — press Start to begin"
+                },
+                {
+                    "label": "Output",
+                    "value": "Text that appears in real time as people speak"
+                },
+                {
+                    "label": "Session length",
+                    "value": "Run it for a whole lecture or interview"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Devices",
+                    "value": "Desktop, tablet and mobile browsers"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe Live",
+            "steps": [
+                {
+                    "h3": "Press Start",
+                    "content": "Open TranscriptX and press Start. Your browser asks for microphone access once — allow it and the live transcription begins straight away."
+                },
+                {
+                    "h3": "Let it listen",
+                    "content": "Place your device where it can hear the speaker clearly — on the desk in a lecture, between you and the person you are interviewing, or in the middle of the table."
+                },
+                {
+                    "h3": "Watch the transcript build",
+                    "content": "The words appear on screen as they are spoken, with punctuation added as it goes, so you can follow along or glance back at something that was just said."
+                },
+                {
+                    "h3": "Press Stop and keep it",
+                    "content": "When the session ends, press Stop. The full transcript is ready to read, edit, copy, or export as TXT, DOCX, PDF, SRT or VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Real-Time Transcription, Right in Your Browser",
+            "content": [
+                "Real-time transcription means there is no gap between someone speaking and the words being written. The text keeps pace with the conversation, so the transcript on your screen is always up to the moment.",
+                "That changes how you use it. In a lecture you can look back at a definition the speaker gave a minute ago. In an interview you can see a quote land on the page as it is said and mark it for later. In a fast discussion you can check a figure or a name without asking anyone to repeat it."
+            ]
+        },
+        {
+            "h2": "Transcribe Live Audio to Text From Your Microphone",
+            "content": [
+                "Live audio transcription works from whatever your microphone can hear. Press Start and TranscriptX transcribes live audio to text continuously — one speaker or several, a quiet office or a lecture hall.",
+                "If you have already recorded the audio, you do not need to replay it into the microphone. Upload the file to the [Audio to Text](/audio-to-text) tool or the [Voice to Text](/voice-to-text) tool instead and it will be transcribed directly."
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe Live",
+            "intro": [
+                "Live transcription is built for moments when someone is speaking and you need a written record of it. The most common uses:"
+            ],
+            "items": [
+                {
+                    "h3": "Lectures and classes",
+                    "content": "Let the transcript take the notes while you listen. Afterwards you have every explanation, example and definition in text you can search and revise from."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Keep eye contact with the person you are interviewing instead of writing. Their answers are transcribed live, so exact quotes are on the page the moment they are said."
+                },
+                {
+                    "h3": "Conversations and discussions",
+                    "content": "Capture a brainstorm, a planning session or an important conversation as it happens, so nobody has to rely on memory for what was agreed."
+                },
+                {
+                    "h3": "Talks, seminars and events",
+                    "content": "Transcribe a speaker live from the audience and leave with a full written record of the talk, not just the slides."
+                },
+                {
+                    "h3": "Meetings in the room",
+                    "content": "Put a laptop or phone on the table, press Start, and the discussion is written up as it goes — ready to turn into minutes when the meeting ends."
+                },
+                {
+                    "h3": "Following speech you cannot hear well",
+                    "content": "For anyone who is deaf or hard of hearing, or listening in a second language, reading the words in real time makes a conversation or a lecture much easier to follow."
+                }
+            ]
+        },
+        {
+            "h2": "Tips for Accurate Live Transcription",
+            "content": [
+                "Live transcription is only as good as what the microphone hears. The closer the device is to the person speaking, the cleaner the text — in a lecture, sit near the front; in an interview, place the phone or laptop between you and your guest.",
+                "Background noise and people talking over each other are the main things that reduce accuracy. A quieter spot and one voice at a time make a noticeable difference, and if a passage was noisy you can fix a word or two in the transcript after you press Stop.",
+                "TranscriptX supports over 100 languages, so you can transcribe live in the language that is actually being spoken rather than translating in your head while you take notes."
+            ]
+        },
+        {
+            "h2": "Live Transcribe Online, Free",
+            "content": [
+                "You can live transcribe online straight away — no sign-up needed and nothing to install. The free plan lets you start transcribing immediately; creating an account is optional, and paid plans are there if you need more usage. It works the same on Windows, Mac, Chromebook, Android and iPhone, as long as your browser can use the microphone."
+            ]
+        },
+        {
+            "h2": "Live Transcription or Real-Time Speech to Text?",
+            "intro": [
+                "Both turn speech into text as it is spoken, but they are made for different jobs. Pick by whose words you want on the page."
+            ],
+            "items": [
+                {
+                    "h3": "Choose live transcription to record what others say",
+                    "content": "When you want a written record of a lecture, an interview, a conversation or a talk — speech you are listening to, not speech you are composing — live transcription is built for it."
+                },
+                {
+                    "h3": "Choose real-time speech to text to write with your voice",
+                    "content": "When you want to dictate your own email, note or draft instead of typing it, use [Real-Time Speech to Text](/real-time-speech-to-text). And if the speech is already recorded, the [Voice to Text](/voice-to-text) and [Audio to Text](/audio-to-text) tools transcribe the file directly."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "What is live transcription?",
+                    "a": "Live transcription turns speech into text in real time, while it is being spoken. You press Start, the microphone listens, and the words appear on screen as people talk, so the transcript is ready as soon as the session ends."
+                },
+                {
+                    "q": "How do I start a live transcription?",
+                    "a": "Open TranscriptX, press Start and allow microphone access when your browser asks. The transcription begins immediately. Press Stop when you are finished."
+                },
+                {
+                    "q": "Is live transcription free?",
+                    "a": "Yes, you can start for free. Live transcription runs in your browser on desktop, tablet or mobile with nothing to install, and you can use it without signing up. If you transcribe a lot, paid plans offer more usage."
+                },
+                {
+                    "q": "Can I download the transcript after I press Stop?",
+                    "a": "Yes. Once you stop, you can read and edit the transcript, copy it, or export it as TXT, DOCX, PDF, SRT or VTT."
+                },
+                {
+                    "q": "How accurate is real-time transcription?",
+                    "a": "It depends mostly on what the microphone hears. Clear speech close to the device comes through close to word for word; noisy rooms or people talking over each other are worth a quick review after you stop."
+                },
+                {
+                    "q": "Which languages can I transcribe live?",
+                    "a": "Over 100 languages are supported, so you can transcribe live in the language being spoken."
+                },
+                {
+                    "q": "What if I already have a recording?",
+                    "a": "There is no need to play it back into the microphone. Upload it to the Voice to Text or Audio to Text tool and the file is transcribed directly."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Start a Live Transcription Free",
+        "content": [
+            "Press Start and TranscriptX transcribes what is being said in real time — a lecture, an interview, a conversation or a talk — in over 100 languages, right in your browser.",
+            "Press Stop and the full transcript is ready to read, edit, copy or export as TXT, DOCX, PDF, SRT or VTT. Free to start, no sign-up needed, nothing to install."
+        ]
+    }
+}

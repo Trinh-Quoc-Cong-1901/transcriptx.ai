@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Voice to Text — Convert Voice & Recordings to Text Free | TranscriptX",
+        "description": "Convert voice to text online free. Record straight into the browser or upload a voice recording, and get accurate text in 100+ languages. Export TXT, DOCX, PDF. No sign-up.",
+        "schemaName": "TranscriptX Voice to Text Converter",
+        "schemaDescription": "Free online voice to text tool that turns spoken words and voice recordings into written text in over 100 languages, with speaker labels and export to TXT, DOCX, PDF, SRT and VTT. Record directly in the browser or upload a recording, with no account required.",
+        "ogTitle": "Voice to Text — Convert Voice & Recordings to Text Free | TranscriptX",
+        "ogDescription": "Turn your voice into text. Record in the browser or upload a voice recording and get accurate text in 100+ languages, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "Voice to Text",
+        "subtitle": "Turn spoken words into written text. Record straight into the browser or upload a voice recording, and TranscriptX writes it out in over 100 languages, with speakers labelled. Dictate a note, transcribe a memo, or convert a recorded conversation — then export to TXT, DOCX, PDF, SRT or VTT. No account, nothing to install.",
+        "placeholder": "Record your voice or upload a recording...",
+        "button": "Convert Voice to Text"
+    },
+    "quickAnswer": {
+        "question": "How do I convert voice to text?",
+        "answer": "Record your voice directly in TranscriptX or upload a voice recording, and it turns the spoken words into written text in seconds, in over 100 languages. You can then read, edit, copy or export the text. No sign-up is needed and there is nothing to install."
+    },
+    "sections": [
+        {
+            "h2": "What Is Voice to Text?",
+            "content": [
+                "Voice to text turns spoken words into written ones. You speak — or play back a recording of someone speaking — and instead of typing, you get the words as text you can read, edit and keep. It is the same idea behind the dictation on your phone, but it works on full recordings, in the browser, with no length limit and no account.",
+                "Where it differs from working with an audio file is the starting point. Voice to text is built around the spoken word as it happens or as you captured it: a voice memo dictated on a walk, a meeting you recorded on your phone, an idea you talked through out loud because talking was faster than typing. The input is your voice or a voice recording, not a media file you downloaded.",
+                "The value is that speaking is faster than typing, but text is more useful than audio. Voice to text sits between the two — you get the speed of talking and the searchable, editable, shareable form of writing, without doing the transcribing yourself.",
+                "TranscriptX does this free, directly in the browser, whether you record on the spot or upload a recording you already have."
+            ]
+        },
+        {
+            "h2": "Voice to Text at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No"
+                },
+                {
+                    "label": "Installation",
+                    "value": "None — runs in the browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Record live in the browser or upload a voice recording"
+                },
+                {
+                    "label": "Recording length limit",
+                    "value": "None"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker separation",
+                    "value": "Yes — each speaker is labelled"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Optional — on or off per transcript"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Devices",
+                    "value": "Desktop, tablet and mobile browsers"
+                }
+            ]
+        },
+        {
+            "h2": "How to Convert Voice to Text",
+            "steps": [
+                {
+                    "h3": "Record or upload",
+                    "content": "Hit record and speak straight into the browser, or upload a voice recording you made earlier on your phone or a recorder. There is no limit on how long you talk."
+                },
+                {
+                    "h3": "The tool listens and writes it out",
+                    "content": "TranscriptX detects the spoken language on its own across more than 100 languages, and converts the speech into punctuated text, labelling each speaker when there is more than one."
+                },
+                {
+                    "h3": "Read and edit the text",
+                    "content": "The words appear as text you can clean up on the spot — trim a false start, fix a name, or tidy a rambling sentence into a clear one."
+                },
+                {
+                    "h3": "Copy or export",
+                    "content": "Copy the text into a note, a document or a message, or export it as TXT, DOCX, PDF, SRT or VTT to keep or share."
+                }
+            ]
+        },
+        {
+            "h2": "Record Live or Upload a Recording",
+            "content": [
+                "Voice to text works two ways, and both start with your voice rather than a downloaded file.",
+                "Record live when the words do not exist yet. Open the tool, start recording, and talk — an idea you want written down, a note to yourself, a draft you would rather speak than type. The moment you stop, the speech is text you can edit and keep. This is the fast route when you think out loud and want the thought captured without reaching for a keyboard.",
+                "Upload a recording when the voice is already captured. A voice memo from your phone, an audio note from a messaging app, a conversation you recorded earlier — upload it and TranscriptX transcribes the whole thing. Either way there is no cap on length, so a ten-second reminder and an hour-long recorded discussion are handled the same."
+            ]
+        },
+        {
+            "h2": "Transcribe a Voice Recording",
+            "content": [
+                "A voice recording holds everything that was said, but in a form you cannot search, quote or edit. Transcribing it turns that voice recording to text — a voice recording to transcript in one step, text you can actually work with.",
+                "Voice recording transcription is most useful when the recording carries information you will need later. A recorded interview becomes quotable text with each speaker labelled. A recorded meeting becomes a written record of what was agreed. A recorded lecture becomes notes you can search by term. Whether you call the result a transcript of voice recording audio or simply the words on a page, it is what lets you use the content instead of just storing the audio.",
+                "TranscriptX transcribes a voice recording whether it is one person or several. When more than one voice is present, each speaker is labelled, so a recorded conversation reads as a back-and-forth rather than a single stream of words."
+            ]
+        },
+        {
+            "h2": "What You Can Turn Into Text",
+            "intro": [
+                "Anywhere your voice carries something worth keeping, voice to text turns it into a usable record. The most common uses:"
+            ],
+            "items": [
+                {
+                    "h3": "Voice memos and notes",
+                    "content": "Capture an idea, a reminder or a draft by speaking it, and get editable text instead of a recording you have to play back to remember what you said."
+                },
+                {
+                    "h3": "Meetings and calls",
+                    "content": "Record a meeting on your phone and turn it into written minutes, with each person labelled, so decisions and action items are on the page rather than in someone's memory."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Transcribe a recorded interview into quotable text, with speakers separated, so you can pull the exact wording rather than paraphrasing from memory."
+                },
+                {
+                    "h3": "Dictating documents",
+                    "content": "Speak a first draft of an email, a report or an article and let voice to text write it out, then tidy the text rather than typing every word from scratch."
+                },
+                {
+                    "h3": "Lectures and study",
+                    "content": "Record a class or a study session and convert it to text you can search, highlight and revise from later."
+                },
+                {
+                    "h3": "Accessibility and hands-free use",
+                    "content": "For anyone who finds typing slow or difficult, speaking and getting clean text back is a faster, more comfortable way to write."
+                }
+            ]
+        },
+        {
+            "h2": "Voice to Text for Dictation",
+            "content": [
+                "Most people speak far faster than they type, which is why dictation is such a natural fit for voice to text. When you have a first draft in your head, saying it out loud and getting text back is quicker than building it word by word on a keyboard.",
+                "The trick with dictation is that spoken language is looser than written language — there are false starts, filler words and sentences that wander. Because voice to text hands you editable text rather than a finished document, that is easy to fix: get the raw words down at the speed of speech, then spend a minute tightening them into shape. The hard part, getting from a blank page to a full draft, is already done.",
+                "It works for anything you would otherwise type: emails, notes, outlines, journal entries, or the rough shape of an article you will edit afterwards."
+            ]
+        },
+        {
+            "h2": "Accuracy and Languages",
+            "content": [
+                "How closely the text matches what you said comes down to the recording. Speaking clearly at a steady pace, close to the microphone and away from background noise, gives the cleanest result — and since a lot of voice-to-text use is recording your own voice, that is often within your control.",
+                "Accuracy dips with noisy surroundings, people talking over each other, or very fast, mumbled speech. Those passages are worth a quick review, but for a clear voice note or a well-recorded conversation the text comes back close to word for word.",
+                "TranscriptX recognises speech in over 100 languages and detects which one you are speaking automatically, so you can dictate or transcribe in your own language without changing any settings first."
+            ]
+        },
+        {
+            "h2": "Voice to Text or Audio to Text?",
+            "intro": [
+                "Both turn speech into text, but they are shaped around different starting points. Pick by where your words are coming from."
+            ],
+            "items": [
+                {
+                    "h3": "Choose voice to text for your own spoken words",
+                    "content": "When you want to record your voice live, dictate a draft, or transcribe a voice memo or recording you made yourself, this is the tool built for it — including recording straight into the browser."
+                },
+                {
+                    "h3": "Choose audio to text for existing audio files",
+                    "content": "When you already have an audio file — a podcast, a downloaded interview, an MP3 of a meeting — the [Audio to Text](/audio-to-text) tool is shaped around uploading and transcribing media files. And if your recording is really the audio of a video, the [YouTube Transcript](/youtube-transcript) tool handles that source directly."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I convert voice to text for free?",
+                    "a": "Record your voice in TranscriptX or upload a voice recording, and it converts the speech to text at no cost. There is no account to create, nothing to install and no limit on recording length."
+                },
+                {
+                    "q": "Can I record straight into the tool?",
+                    "a": "Yes. You can record live in the browser and get the text when you stop, or upload a recording you made earlier. Both work the same way."
+                },
+                {
+                    "q": "Can I transcribe a voice recording I already have?",
+                    "a": "Yes. Upload the recording — a voice memo, an audio note, a recorded conversation — and TranscriptX transcribes the whole thing into text, with speakers labelled when there is more than one. You can transcribe a recording of any length this way."
+                },
+                {
+                    "q": "Is voice to text good for dictation?",
+                    "a": "Yes. Speaking is faster than typing, so dictation is one of the most popular uses. You get editable text back, which makes it easy to speak a rough draft and then tidy it up rather than typing from scratch."
+                },
+                {
+                    "q": "What languages are supported?",
+                    "a": "Over 100. The spoken language is detected automatically, so you can dictate or transcribe in your own language without selecting it first."
+                },
+                {
+                    "q": "Can it separate different speakers?",
+                    "a": "Yes. When a recording has more than one voice, each speaker is labelled, so a recorded conversation or meeting reads as a clear back-and-forth."
+                },
+                {
+                    "q": "Is there a limit on how long I can record?",
+                    "a": "No. A short voice note and a long recorded session both work; a longer recording just takes a little more time to process."
+                },
+                {
+                    "q": "Do I need to install an app?",
+                    "a": "No. Voice to text runs in the browser on desktop or mobile, with no app, plugin or account needed."
+                },
+                {
+                    "q": "How accurate is voice to text?",
+                    "a": "Mostly it depends on the recording. Clear speech, close to the mic and away from noise, comes back close to word for word, while noisy or overlapping speech is worth a quick review before you rely on it."
+                },
+                {
+                    "q": "What is the difference between voice to text and audio to text?",
+                    "a": "Voice to text is built for spoken words you capture yourself — recording live or transcribing a voice memo. Audio to text is built for existing audio files like podcasts and MP3s. If you have a media file rather than a voice recording, use the Audio to Text tool."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Convert Your Voice to Text Free",
+        "content": [
+            "Record straight into the browser or upload a voice recording, and TranscriptX turns your spoken words into text in over 100 languages, with speakers labelled and timestamps optional.",
+            "Dictate a draft, transcribe a memo, or write up a recorded conversation — then read, edit, copy or export it as TXT, DOCX, PDF, SRT or VTT. No account, no install, no cost."
+        ]
+    }
+}

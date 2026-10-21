@@ -1,0 +1,288 @@
+{
+    "seo": {
+        "title": "TranscriptX: Ücretsiz Yapay Zekâ Video ve Ses Deşifresi · Reklamsız",
+        "description": "100'den fazla dilde ücretsiz yapay zekâ deşifresi. Videoyu, sesi ya da YouTube, TikTok, Instagram ve diğer platformlardaki bağlantıları metne çevirin. SRT, VTT, DOCX, PDF olarak dışa aktarın.",
+        "schemaName": "TranscriptX Ücretsiz Yapay Zeka Transkripsiyon Aracı",
+        "schemaDescription": "TranscriptX, konuşmayı metne çeviren ücretsiz ve çevrim içi bir yapay zekâ deşifre aracıdır. Yüklediğiniz video dosyalarını, ses dosyalarını ve ses kayıtlarını kabul eder; ayrıca YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn ve diğer platformlardaki herkese açık video bağlantılarını da işler. 100'den fazla dilde çalışır, konuşulan dili otomatik algılar, konuşmacıları ayırır, isteğe bağlı zaman damgaları sunar ve TXT, SRT, VTT, DOCX ve PDF olarak dışa aktarır. Hesap gerektirmez.",
+        "ogTitle": "İçinde Konuşma Varsa TranscriptX Onu Metne Çevirir",
+        "ogDescription": "Video dosyaları, ses dosyaları, ses kayıtları ve YouTube, TikTok, Facebook, Instagram, Vimeo ve diğer platformlardaki herkese açık bağlantılar için ücretsiz yapay zekâ deşifresi. 100'den fazla dil, konuşmacı etiketleri, SRT ve VTT dışa aktarımı, kayıt gerekmez."
+    },
+    "hero": {
+        "h1": "Video ve Ses İçin Yapay Zeka Transkripsiyonu",
+        "placeholder": "Bir dosya yükleyin veya video bağlantısı yapıştırın...",
+        "button": "Transkript Oluştur"
+    },
+    "quickAnswer": {
+        "question": "TranscriptX nedir?",
+        "answer": "TranscriptX, konuşmayı metne çeviren ücretsiz bir yapay zekâ deşifre aracıdır. Bir video dosyası, ses dosyası ya da ses kaydı yükleyin veya YouTube, TikTok, Facebook, Instagram, Vimeo, X ve diğer platformlardan herkese açık bir video bağlantısı yapıştırın; her kaynak aynı temiz deşifre metniyle geri döner. 100'den fazla dilde çalışır, konuşulan dili otomatik algılar, her konuşmacıyı etiketler, isterseniz zaman damgası ekler ve TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarır. Her şey tarayıcıda çalışır: hesap yok, kurulum yok, dosya boyutu sınırı yok ve ücret yok."
+    },
+    "sections": [
+        {
+            "h2": "Yapay Zeka Transkripsiyonu Nedir?",
+            "content": [
+                "Yapay zekâ deşifresi, bir videodaki ya da ses kaydındaki konuşma dilini yazılı metne çevirir. Dosyayı siz yüklersiniz, söylenenleri elle yazmak yerine yapay zekâ yazıya döker — noktalama işaretleriyle birlikte, cümlelere ayrılmış ve kimin konuştuğuyla eşleştirilmiş halde.",
+                "Metnin asıl değeri, size sunduğu kullanım imkanlarında bulunur. Bir saatlik röportaj, tüm bilgiler bir ses dosyasının içinde kaldığında aramak, alıntı yapmak veya özetlemek için zordur. Aynı içerik transkripte dönüştürüldüğünde ise saniyeler içinde tarayabileceğiniz, doğru alıntılar çıkarabileceğiniz, çevirebileceğiniz, altyazıya dönüştürebileceğiniz veya analiz için ChatGPT, Gemini ya da Claude'a aktarabileceğiniz bir metne dönüşür.",
+                "TranscriptX bunu ücretsiz olarak, tarayıcıda yapar. Bir video dosyası, ses dosyası ya da ses kaydı yükleyin veya YouTube, TikTok, Facebook, Instagram, Vimeo, X ve diğer platformlardan herkese açık bir bağlantı yapıştırın. Dili 100'den fazla dil arasından algılar, her konuşmacıyı etiketler ve TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarır — kurulum yok, hesap yok, dosya boyutu sınırı yok. Oturum açmak isteğe bağlıdır ve yalnızca metinlerinizi kaydetmeye yarar."
+            ]
+        },
+        {
+            "h2": "Kısaca TranscriptX",
+            "specs": [
+                {
+                    "label": "Fiyat",
+                    "value": "Ücretsiz"
+                },
+                {
+                    "label": "Hesap gerekli mi?",
+                    "value": "Hayır — isteğe bağlı oturum açma deşifre metinlerinizi saklar"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Gerekmez — doğrudan tarayıcıda çalışır"
+                },
+                {
+                    "label": "Dosya boyutu sınırı",
+                    "value": "Yok"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+ dil — otomatik algılama"
+                },
+                {
+                    "label": "Konuşmacı ayırma",
+                    "value": "Evet — her konuşmacı etiketlenir"
+                },
+                {
+                    "label": "Zaman damgaları",
+                    "value": "İsteğe bağlı — her transkript için açılıp kapatılabilir"
+                },
+                {
+                    "label": "Dışa aktarma formatları",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Desteklenen kaynaklar",
+                    "value": "Video dosyaları, ses dosyaları, ses kayıtları ve YouTube, TikTok, Facebook, Instagram, Vimeo, X ve diğer platformlardaki herkese açık video bağlantıları"
+                }
+            ]
+        },
+        {
+            "h2": "Neleri Transkribe Edebilirsiniz?",
+            "intro": [
+                "TranscriptX, dosya boyutu sınırı olmadan, konuşma içeren her türlü kaydı 100'den fazla dilde işleyebilir."
+            ],
+            "items": [
+                {
+                    "h3": "Video dosyaları",
+                    "content": "Eğitim videoları, sunumlar, web seminerleri, kurslar ve kaydedilmiş görüşmeler aranabilir ve yeniden kullanılabilir okunabilir metinlere dönüştürülür."
+                },
+                {
+                    "h3": "Ses dosyaları",
+                    "content": "Podcast'ler, MP3 dosyaları, kaydedilmiş konuşmalar ve dersler saklaması ve yeniden kullanması kolay yazılı bir forma dönüştürülür."
+                },
+                {
+                    "h3": "Ses kayıtları",
+                    "content": "Sesli notlar ve konuşarak oluşturulan fikirler düzenlenebilir metne dönüşür — konuşmanın yazmaktan daha hızlı olduğu ancak fikrin yazılı olarak saklanması gerektiği durumlarda kullanışlıdır."
+                },
+                {
+                    "h3": "Toplantılar",
+                    "content": "Konuşmacı ayırma özelliği kimin ne söylediğini gösterir ve dört kişilik bir toplantıyı tek bir metin bloğu yerine kararların ve yapılacak işlerin gerçek bir kaydına dönüştürür."
+                },
+                {
+                    "h3": "Röportajlar",
+                    "content": "Konuşmacı etiketleri ve zaman damgaları, gazetecilerin ve araştırmacıların alıntıları bulmasına, ses kaydındaki ilgili bölüme dönmesine ve bilgileri kaynakla doğrulamasına yardımcı olur."
+                },
+                {
+                    "h3": "Dersler ve kurslar",
+                    "content": "Dersleri terimlerle aranabilen, tekrar incelenebilen ve notlara dönüştürülebilen yazılı çalışma materyallerine çevirin."
+                },
+                {
+                    "h3": "Podcast'ler",
+                    "content": "Tek bir bölüm; program notları, bülten, makale ve sosyal medya içeriklerine dönüşebilir — hepsi tek bir transkriptten oluşturulur."
+                },
+                {
+                    "h3": "Her platformdan videolar",
+                    "content": "YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn, Twitch ya da başka bir video platformundan herkese açık bir bağlantı yapıştırın; konuşulan içeriği araştırma, öğrenme, alıntılama ya da yeniden kullanma için metin olarak alın."
+                }
+            ]
+        },
+        {
+            "h2": "Yapay Zeka Transkripsiyonu Nasıl Çalışır?",
+            "steps": [
+                {
+                    "h3": "Bir dosya yükleyin veya bağlantı yapıştırın",
+                    "content": "Bir video, ses dosyası ya da ses kaydı bırakın veya YouTube, TikTok, Facebook, Instagram, Vimeo, X ve diğer platformlardan herkese açık bir video bağlantısı yapıştırın. Dosya boyutu sınırı yok ve oluşturulacak hesap yok."
+                },
+                {
+                    "h3": "Yapay zeka konuşmayı metne dönüştürür",
+                    "content": "TranscriptX, 100'den fazla dilde konuşulan dili otomatik olarak algılar, sesi arka plan gürültüsünden ayırır ve her konuşmacıyı belirleyerek kelimeleri noktalama işaretleri ve cümle ayrımlarıyla metne dönüştürür."
+                },
+                {
+                    "h3": "Transkripti inceleyin",
+                    "content": "Transkripti okuyun ve ses kalitesi nedeniyle anlaşılması zor olan bölümleri düzeltin. Yayınlamadan veya alıntı olarak kullanmadan önce isimler, sayılar ve teknik terimler özellikle kontrol edilmelidir."
+                },
+                {
+                    "h3": "TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın",
+                    "content": "Metni doğrudan kopyalayın veya sonraki kullanımınıza uygun formatı indirin — altyazı oluşturmak veya alıntıları kontrol etmek için gerekiyorsa dışa aktarmadan önce zaman damgalarını etkinleştirin."
+                }
+            ]
+        },
+        {
+            "h2": "Yapay Zeka Altyazı ve Caption Oluşturucu",
+            "content": [
+                "Caption ve altyazılar, zaman bilgisi eklenmiş transkriptlerdir. TranscriptX her satır için zaman damgası kaydettiği için, okunabilir bir transkript oluşturan aynı işlem aynı zamanda altyazı dosyası da oluşturur.",
+                "Zaman damgalarını etkinleştirin ve SRT veya VTT formatında dışa aktarın. Her iki format da YouTube, Vimeo, Instagram, TikTok ve standart web video oynatıcılarına doğrudan yüklenebilir. Böylece ayrı bir altyazı aracına ihtiyaç duymadan ham kaydı altyazılı bir videoya dönüştürebilirsiniz.",
+                "Dışa aktarılan dosya basit bir metin dosyası olduğu için yayınlamadan önce isimleri veya teknik terimleri düzenleyebilir ya da aynı videoyu uluslararası izleyiciler için yayınlamak üzere satırları çevirebilirsiniz."
+            ]
+        },
+        {
+            "h2": "Transkript, Caption ve Altyazı Arasındaki Fark Nedir?",
+            "intro": [
+                "Üçü de konuşmayı metne dönüştürür, ancak farklı amaçlar için tasarlanmıştır."
+            ],
+            "items": [
+                {
+                    "h3": "Transkript, tek başına okuyabileceğiniz yazılı kayıttır",
+                    "content": "Transkript, videonun yanında gösterilmek yerine ayrı olarak okunabilen şekilde söylenen her şeyin metne dönüştürülmüş halidir. Bir fikir aramak, kesin bir alıntı almak, materyali incelemek veya bir konuşmayı analiz etmek istediğinizde transkript kullanın. TXT, DOCX veya PDF olarak dışa aktarabilirsiniz."
+                },
+                {
+                    "h3": "Caption, sesi duyamayan izleyiciler için zaman senkronlu metindir",
+                    "content": "Caption, video oynatımıyla senkronize edilir ve her satır söylendiği anda görünür. Erişilebilirlik önemli olduğunda veya video sessiz oynatıldığında mesajın metinle aktarılması gerektiğinde kullanılır. Zaman damgalarını açın ve SRT veya VTT olarak dışa aktarın."
+                },
+                {
+                    "h3": "Altyazı, genellikle çevrilmiş zaman senkronlu konuşmadır",
+                    "content": "Altyazılar da video oynatılırken görünür, ancak temel amacı dil desteğidir: Konuşmacının söylediklerini o dili bilmeyen izleyicilere göstermektir. Uluslararası izleyiciler için altyazı kullanın. SRT veya VTT olarak dışa aktarın ve yayınlamadan önce satırları çevirin."
+                }
+            ]
+        },
+        {
+            "h2": "Transkriptinizi Beş Farklı Formatta Dışa Aktarın",
+            "content": [
+                "Her transkript beş farklı formatta dışa aktarılabilir ve doğru format seçimi, metinle daha sonra ne yapmak istediğinize bağlıdır.",
+                "TXT, biçimlendirme içermeyen düz metindir — okumak, aramak veya ChatGPT, Gemini ya da Claude'a yapıştırmak için en kolay seçenektir. DOCX, transkripti düzenlemek veya çalışma belgesi haline getirmek istediğinizde Word, Google Docs ve Pages üzerinde açılabilir. PDF, herkes için aynı görünen sabit bir kayıt sağlar ve değiştirilmemesi gereken belgeleri paylaşmak veya yazdırmak için uygundur.",
+                "Diğer iki format zaman bilgisi içerir. SRT, neredeyse tüm platformların desteklediği altyazı formatıdır; bu nedenle YouTube, Instagram veya TikTok videolarına altyazı eklemek için zaman damgalarını açıp SRT olarak dışa aktarın. VTT, tarayıcıda oynatılan HTML5 videolar için aynı görevi görür.",
+                "Hangi formatı seçeceğinizden emin değilseniz TXT ile başlayın. Başka araçlara aktarması en kolay formattır ve ihtiyaç duyduğunuzda her zaman farklı bir formatta yeniden dışa aktarabilirsiniz."
+            ]
+        },
+        {
+            "h2": "Herhangi Bir Platformdaki Videoyu Metne Dönüştürün",
+            "content": [
+                "Bir videoyu yazıya dönüştürmek için indirmenize gerek yoktur. Büyük platformların herhangi birinden herkese açık bir bağlantı yapıştırın; TranscriptX videodaki sesi doğrudan okur ve konuşulan içeriği arayabileceğiniz, alıntılayabileceğiniz ve yeniden kullanabileceğiniz bir metin olarak geri verir."
+            ],
+            "items": [
+                {
+                    "h3": "Bir YouTube videosundan transkript alın",
+                    "content": "Herhangi bir herkese açık YouTube videosunun URL'sini kopyalayın ve TranscriptX'e yapıştırın. İki saatlik bir ders, röportaj veya eğitim videosu 100'den fazla dilde metne dönüştürülür ve her konuşmacı ayrı olarak etiketlenir. Böylece zaman çizelgesinde uzun süre arama yapmak yerine ihtiyacınız olan fikri doğrudan bulabilirsiniz. Araştırmacılar bunu kaynakları doğru şekilde alıntılamak için, öğrenciler dersleri çalışma notlarına dönüştürmek için, yazarlar ise konuyu zaten iyi açıklayan videolardan makaleler oluşturmak için kullanır. YouTube işinizin önemli bir parçasıysa, [YouTube Transcript](/youtube-transcript) aracı tam olarak bu amaç için geliştirilmiştir."
+                },
+                {
+                    "h3": "Bir TikTok videosundan transkript alın",
+                    "content": "Herkese açık bir TikTok bağlantısı yapıştırın ve video akışınızdan kaybolmadan önce konuşulan kelimeleri metin olarak alın. Kısa videolar hızlı hareket eder ve en değerli bölüm genellikle tek bir cümledir — dikkatinizi çeken giriş, ürün incelemesindeki iddia veya birinin birkaç saniyede açıkladığı adım. Metin formatında olması sayesinde kaydedebilir, neden işe yaradığını analiz edebilir ve hatırlamaya çalışmadan kendi versiyonunuzu oluşturabilirsiniz. [TikTok Transcript](/tiktok-transcript) aracı özellikle kısa videolar için tasarlanmıştır."
+                },
+                {
+                    "h3": "Bir Facebook videosunu metne dönüştürün",
+                    "content": "Facebook, en kullanışlı videolarını ulaşması zor yerlerde saklar — kaydedilmiş canlı yayınlar, grupların içine gömülmüş klipler, bir saat süren kayıtlı etkinlikler. Bağlantıyı yapıştırın; [Facebook Transcript](/facebook-transcript) aracı herhangi bir herkese açık gönderiyi, Reel'i veya kaydedilmiş canlı yayını, her konuşmacı etiketlenmiş şekilde okunabilir metne dönüştürür. Böylece uzun bir yayın, dakikalar içinde okuyabileceğiniz ve önemli olan bölümü arayabileceğiniz bir şeye dönüşür."
+                },
+                {
+                    "h3": "Bir Instagram Reel'ini metne dönüştürün",
+                    "content": "Bir Reel, bir kez izlenip kaydırılıp geçilmek için yapılır, ancak değeri çoğu zaman saklamaya değer tek bir satırdadır. [Instagram Transcript](/instagram-transcript) aracı, herhangi bir herkese açık Reel veya videodaki konuşulan kelimeleri; kopyalayabileceğiniz, inceleyebileceğiniz ya da kendi içeriğinize dönüştürebileceğiniz bir metin olarak çıkarır — kancayı, ipucunu, işe yarayan senaryoyu."
+                },
+                {
+                    "h3": "Başka herhangi bir platformdaki videoyu deşifre edin",
+                    "content": "Vimeo, X, LinkedIn, Twitch, Dailymotion, Reddit, bir konferansın tekrarı, bir haber sitesinin gömülü oynatıcısı — sayfada konuşma içeren herkese açık bir video varsa URL'yi yapıştırın, TranscriptX sesi doğrudan kaynağından okur. O platformda hesabınız olmasına, bir indirici ya da arada bir ekran kaydediciye ihtiyacınız yok ve deşifre metni diğer her şeyle aynı beş dışa aktarma biçiminde geri döner."
+                }
+            ]
+        },
+        {
+            "h2": "Herhangi Bir Video, Ses veya Ses Kaydı Dosyasını Metne Dönüştürün",
+            "content": [
+                "Yazıya dökmeniz gereken her şey bir sosyal platformda bulunmaz. Kaynak, kendi cihazınızdaki bir dosya olduğunda TranscriptX her tür için ayrı bir araç sunar — yükleyin ve aynı temiz transkripti, 100'den fazla dilde, konuşmacılar etiketlenmiş olarak alın."
+            ],
+            "items": [
+                {
+                    "h3": "Bir video dosyasını metne dönüştürün",
+                    "content": "Yapıştıracak bir bağlantı yerine elinizde bir MP4, bir Zoom kaydı veya bir ekran kaydı mı var? [Video to Text](/video-to-text) aracı, yüklediğiniz her video dosyasını yazıya döker, konuşmacıları ayırır ve beş formata dışa aktarır; üstelik uğraşmanız gereken bir dosya boyutu sınırı yoktur."
+                },
+                {
+                    "h3": "Bir ses dosyasını metne dönüştürün",
+                    "content": "Video eklenmemiş bir podcast, bir MP3 veya kaydedilmiş bir röportaj için [Audio to Text](/audio-to-text) aracı, kaydı alıntılayabileceğiniz, düzenleyebileceğiniz veya arşivleyebileceğiniz temiz, noktalama işaretli bir transkripte dönüştürür."
+                },
+                {
+                    "h3": "Ses kayıtlarını metne dönüştürün",
+                    "content": "Yazabileceğinizden daha hızlı bir not dikte etmek veya telefonunuzda zaten bulunan bir sesli notu yazıya dökmek için [Voice to Text](/voice-to-text) aracı doğrudan tarayıcıda kayıt yapar ya da yüklediğiniz bir kaydı alır."
+                }
+            ]
+        },
+        {
+            "h2": "Sık Sorulan Sorular",
+            "items": [
+                {
+                    "q": "TranscriptX gerçekten ücretsiz mi?",
+                    "a": "Evet. TranscriptX üzerindeki yapay zeka transkripsiyonu ücretsizdir, hesap oluşturmanız gerekmez ve dosya boyutu sınırı yoktur."
+                },
+                {
+                    "q": "Herhangi bir şey yüklemem gerekiyor mu?",
+                    "a": "Hayır. TranscriptX doğrudan tarayıcıda çalışır. İndirilecek bir yazılım yoktur ve kayıt olmanız gerekmez."
+                },
+                {
+                    "q": "Hesaba ihtiyacım var mı?",
+                    "a": "Hayır. Bir bağlantı yapıştırın ya da bir dosya yükleyin, deşifre metni oturum açmadan geri gelir — hiçbir şey kaydın arkasına kilitlenmiş değil. Oturum açmak isteğe bağlıdır ve tek bir iş yapar: metinlerinizi kaydeder, böylece daha sonra yeniden açabilir ve aynı geçmişe herhangi bir cihazdan ulaşabilirsiniz. Geri kalan her şey her iki durumda da aynı şekilde çalışır."
+                },
+                {
+                    "q": "TranscriptX ile neleri deşifre edebilirim?",
+                    "a": "İçinde konuşma olan her şeyi: yüklediğiniz video dosyaları, ses dosyaları ve ses kayıtları ile YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn ve diğer platformlardaki herkese açık video bağlantıları. Tüm kaynaklar aynı deşifre metniyle geri döner; konuşmacılar etiketlenir, zaman damgaları isteğe bağlıdır."
+                },
+                {
+                    "q": "Hangi dilleri destekliyor?",
+                    "a": "100'den fazla dil desteklenir. TranscriptX konuşulan dili otomatik olarak algılar, bu nedenle yükleme öncesinde dil seçmeniz gerekmez."
+                },
+                {
+                    "q": "Hangi dosya formatlarını dışa aktarabilirim?",
+                    "a": "Beş format desteklenir: Okuma ve düzenleme için TXT, DOCX ve PDF; altyazılar için ise SRT ve VTT. Metni doğrudan da kopyalayabilirsiniz."
+                },
+                {
+                    "q": "Konuşmacıları birbirinden ayırabilir mi?",
+                    "a": "Evet. TranscriptX her konuşmacıyı ayrı olarak etiketler, böylece toplantılar, röportajlar ve çok kişili podcastlerde kimin ne söylediğini açıkça görebilirsiniz."
+                },
+                {
+                    "q": "Birden fazla kişinin olduğu bir toplantıyı yazıya dökebilir miyim?",
+                    "a": "Evet. Kaydı yükleyin ve her konuşmacı transkript içinde etiketlensin. Böylece uzun bir tartışma, kararlar ve yapılacak görevleri içeren kullanılabilir bir kayda dönüşür."
+                },
+                {
+                    "q": "Zaman damgası alabilir miyim?",
+                    "a": "Evet, isteğe bağlıdır. Altyazı dosyalarına ihtiyacınız olduğunda veya sesin belirli bir bölümüne geri dönmek istediğinizde zaman damgalarını açabilirsiniz; daha temiz bir okuma metni için kapatabilirsiniz."
+                },
+                {
+                    "q": "Bir YouTube videosunu nasıl yazıya dökerim?",
+                    "a": "Herkese açık bir YouTube videosunun URL'sini kopyalayın, TranscriptX'e yapıştırın; konuşulan içerik kopyalayabileceğiniz ya da dışa aktarabileceğiniz bir metin olarak geri gelir. Bunu sık yapıyorsanız özel bir YouTube Transcript aracı var ve aynı adımlar TikTok, Facebook, Instagram ya da Vimeo bağlantıları için de geçerli."
+                },
+                {
+                    "q": "Hangi platformlardan bağlantı yapıştırabilirim?",
+                    "a": "Herkese açık her video sayfasından — YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn, Twitch, Dailymotion ve daha fazlası. TranscriptX sesi doğrudan bağlantıdan okur, bu yüzden arada indirme ya da dönüştürme adımı yoktur. Gizli, listelenmemiş ve oturum açmayı zorunlu kılan videolara erişilemez."
+                },
+                {
+                    "q": "Yapay zeka transkripsiyonu ne kadar doğru?",
+                    "a": "Doğruluk büyük ölçüde kaydın kalitesine bağlıdır. Net konuşma, sabit ses seviyesi ve düşük arka plan gürültüsü en iyi sonuçları verir. Aynı anda konuşan kişiler, yankı veya yüksek sesli müzik doğruluğu azaltabilir. Yayınlamadan önce isimleri, sayıları ve teknik terimleri kontrol edin."
+                },
+                {
+                    "q": "AI transkripsiyon ile speech-to-text arasındaki fark nedir?",
+                    "a": "Speech-to-text, konuşulan kelimeleri yazılı kelimelere dönüştüren tanıma aşamasıdır. AI transkripsiyon ise ses tanıma, noktalama ekleme, konuşmacıları ayırma, zaman damgası ekleme ve kullanılabilir dosya dışa aktarma işlemlerini kapsayan tam süreçtir."
+                },
+                {
+                    "q": "Bir transkriptten altyazı oluşturabilir miyim?",
+                    "a": "Evet. Zaman damgalarını açın ve SRT veya VTT olarak dışa aktarın, ardından dosyayı YouTube, Instagram, TikTok veya video oynatıcınıza yükleyin."
+                },
+                {
+                    "q": "Transkripti ChatGPT veya Claude ile kullanabilir miyim?",
+                    "a": "Evet. Metni dışa aktarın veya kopyalayın ve özet oluşturmak, görevleri çıkarmak, konuları analiz etmek ya da makaleye dönüştürmek için herhangi bir yapay zeka asistanına yapıştırın."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Ücretsiz AI Transkripsiyonunuzu Başlatın",
+        "content": [
+            "Bir video, ses dosyası ya da ses kaydı yükleyin veya YouTube, TikTok, Facebook, Instagram, Vimeo ya da başka bir platformdan herkese açık bir video bağlantısı yapıştırın. TranscriptX 100'den fazla dilde, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla bir deşifre metni döndürür.",
+            "Okumak ve düzenlemek için TXT, DOCX veya PDF olarak dışa aktarın ya da videonuza altyazı eklemek için SRT veya VTT kullanın. Hesap gerekmez, dosya boyutu sınırı yoktur, tamamen ücretsizdir."
+        ]
+    }
+}

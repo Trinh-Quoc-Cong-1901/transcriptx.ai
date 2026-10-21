@@ -1,0 +1,244 @@
+{
+    "seo": {
+        "title": "Chuyển video thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "description": "Chuyển video thành văn bản online miễn phí. Tải lên file MP4, MOV hay bất kỳ video nào và nhận bản transcript chính xác với hơn 100 ngôn ngữ, có gán nhãn từng người nói. Xuất TXT, DOCX, PDF, SRT.",
+        "schemaName": "Công cụ chuyển video thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp chuyển đổi video thành văn bản với hơn 100 ngôn ngữ, có phân biệt người nói, tùy chọn dấu thời gian và xuất ra TXT, DOCX, PDF, SRT, VTT. Hỗ trợ MP4, MOV, AVI, MKV, WebM và nhiều định dạng khác, không cần tạo tài khoản.",
+        "ogTitle": "Chuyển video thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "ogDescription": "Biến mọi file video thành văn bản. Tải lên MP4 hay MOV và nhận bản transcript chính xác với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển video thành văn bản",
+        "subtitle": "Biến mọi file video thành văn bản chính xác, chỉnh sửa được. Tải lên file MP4, MOV, AVI hay bất kỳ định dạng phổ biến nào — một bản ghi cuộc họp, một screen recording, một đoạn quay từ máy ảnh — TranscriptX sẽ chuyển thành văn bản với hơn 100 ngôn ngữ, gán nhãn từng người nói. Xuất ra TXT, DOCX, PDF, SRT hoặc VTT. Miễn phí, không cần đăng ký và không giới hạn dung lượng.",
+        "placeholder": "Tải lên file video...",
+        "button": "Chuyển thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Cách chuyển video thành văn bản như thế nào?",
+        "answer": "Tải file video của bạn lên TranscriptX, công cụ sẽ chuyển lời nói bên trong thành văn bản chỉ trong vài phút, hỗ trợ hơn 100 ngôn ngữ và gán nhãn từng người nói. Sau đó bạn có thể đọc, chỉnh sửa, sao chép hoặc lưu bản transcript ở năm định dạng. Bạn không phải tạo tài khoản, không giới hạn dung lượng file và không phải cài đặt gì lên máy."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển video thành văn bản là gì?",
+            "content": [
+                "Chuyển video thành văn bản là lấy phần lời nói bên trong một đoạn video và viết ra thành chữ bạn đọc được. Bạn đưa cho công cụ một file — một cuộc gọi đã ghi hình, một buổi webinar, một bài giảng, một đoạn footage — và thay vì ngồi xem lại theo thời gian thực rồi gõ lại từng câu, bạn nhận về toàn bộ nội dung dưới dạng văn bản.",
+                "Video là một trong những định dạng khó dùng nhất khi bạn cần thông tin. Bạn không thể lướt nhanh một đoạn video, không thể tìm kiếm một câu bên trong nó, và cũng không thể tách lời từ video ra để mang đi chỗ khác, nên phần nội dung có giá trị bị nhốt sau nút play và một thanh thời gian. Ngay khi video đó chuyển sang văn bản, bạn đọc xong trong một phần nhỏ thời lượng gốc, tìm ra bất kỳ dòng nào trong một giây và kéo thẳng một câu trích vào tài liệu.",
+                "Việc chuyển video sang văn bản còn mở khóa mọi thứ phía sau. Khi câu chữ đã tồn tại dưới dạng text, bạn có thể dịch chúng, dựng phụ đề từ chúng, tóm tắt lại, hoặc đưa cho một trợ lý AI như ChatGPT, Claude hay Gemini — những việc mà file video thô không cho phép làm.",
+                "TranscriptX thực hiện việc chuyển đổi này miễn phí, chạy trực tiếp trên trình duyệt, không cần tài khoản và không giới hạn dung lượng file."
+            ]
+        },
+        {
+            "h2": "Chuyển video thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Giới hạn dung lượng",
+                    "value": "Không giới hạn"
+                },
+                {
+                    "label": "Định dạng hỗ trợ",
+                    "value": "MP4, MOV, AVI, MKV, WebM và nhiều định dạng khác"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — gán nhãn riêng cho từng người"
+                },
+                {
+                    "label": "Dấu thời gian",
+                    "value": "Tùy chọn — bật hoặc tắt cho từng bản ghi"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển file video thành văn bản",
+            "steps": [
+                {
+                    "h3": "Tải file video lên",
+                    "content": "Thả vào file MP4, MOV, AVI hay bất kỳ định dạng video phổ biến nào ngay từ máy của bạn, hoặc dán link dẫn tới đoạn video. Không có giới hạn độ dài, nên một clip hai phút và một bản ghi ba tiếng đều xử lý được."
+                },
+                {
+                    "h3": "Công cụ bóc băng lời nói",
+                    "content": "TranscriptX lấy phần âm thanh ra khỏi video, tự nhận diện ngôn ngữ đang nói trong hơn 100 ngôn ngữ, xác định từng người nói và viết lại câu chữ kèm dấu câu, ngắt câu rõ ràng."
+                },
+                {
+                    "h3": "Kiểm tra lại văn bản",
+                    "content": "Đọc qua một lượt và sửa những chỗ mà bản thu khiến máy khó nghe rõ. Tên riêng, con số và thuật ngữ chuyên ngành là những thứ đáng liếc lại lần nữa trước khi bạn dùng đến chúng."
+                },
+                {
+                    "h3": "Xuất hoặc sao chép bản transcript",
+                    "content": "Sao chép phần chữ ra, hoặc tải bản transcript về dưới dạng TXT, DOCX, PDF, SRT hay VTT. Hãy bật dấu thời gian trước nếu bạn định dựng phụ đề hoặc muốn đối chiếu một câu trích với đoạn hình gốc."
+                }
+            ]
+        },
+        {
+            "h2": "Phần mềm chuyển video thành văn bản miễn phí",
+            "content": [
+                "TranscriptX là phần mềm chuyển video thành văn bản miễn phí, không có bức tường thu phí chờ sẵn ở cuối. Rất nhiều công cụ cho bạn tải file lên, chạy xong quá trình bóc băng, rồi mới hỏi thẻ tín dụng trước khi cho xem kết quả, hoặc chỉ cho bạn vài phút hình đầu tiên. Ở đây việc chuyển đổi là miễn phí, không phải tạo tài khoản, và không giới hạn video dài hay nặng đến đâu.",
+                "Công cụ được làm cho những người đã có sẵn file trong máy và chỉ muốn lấy phần chữ. Bạn không phải cài một ứng dụng nào lên máy tính hay đăng ký gói thuê bao; bạn tải file lên, công cụ làm việc của nó, rồi bạn lấy văn bản. Dù bạn chuyển video thành văn bản một lần duy nhất hay tuần nào cũng làm, quy trình vẫn y như vậy và giới hạn không bao giờ xuất hiện.",
+                "Vì mọi thứ chạy trên trình duyệt, việc chuyển video thành văn bản online hoạt động giống hệt nhau trên laptop, máy tính bảng hay điện thoại — không có gì phải tải về máy và không có plugin nào phải cập nhật."
+            ]
+        },
+        {
+            "h2": "Bóc băng video chính xác",
+            "content": [
+                "Chuyển một file và bóc băng nó là cùng một thao tác, nhưng người ta dùng chữ \"bóc băng\" khi kết quả phải đúng chứ không chỉ đại khái là đúng. Đó là trường hợp bạn bóc băng một cuộc họp với khách hàng mà bạn sẽ căn cứ vào để hành động, một buổi phỏng vấn bạn sẽ trích dẫn, hay một buổi đào tạo bạn sẽ biến thành tài liệu.",
+                "TranscriptX được xây dựng cho tiêu chuẩn đó. Khi bạn chuyển âm thanh video thành văn bản, công cụ làm nhiều hơn là đổ chữ ra trang — nó thêm dấu câu, ngắt thành các câu dễ đọc và gán nhãn từng người nói, nên một cuộc gọi có nhiều người sẽ trả về thành một biên bản rõ ràng ai nói gì thay vì một đoạn dài liền mạch. Mục tiêu luôn giống nhau: chuyển đổi video thành văn bản mà bạn tin dùng được.",
+                "Công cụ cũng xử lý được những bản thu khó nhằn. Việc bóc băng vẫn chạy khi có tiếng ồn phòng, nhiều người nói chồng lên nhau hay giọng vùng miền nặng, dù đó chính là những đoạn đáng đọc lại trước khi bạn dựa vào chúng. Với một bản thu sạch chỉ có một người nói, văn bản trả về gần như đúng từng chữ."
+            ]
+        },
+        {
+            "h2": "Các định dạng video được hỗ trợ",
+            "intro": [
+                "TranscriptX nhận những định dạng video mà bạn nhiều khả năng đang có sẵn, nên hiếm khi bạn phải chuyển đổi file trước khi tải lên."
+            ],
+            "items": [
+                {
+                    "h3": "MP4",
+                    "content": "Định dạng mặc định của điện thoại, máy ảnh và hầu hết file tải về, cũng là định dạng của phần lớn file gửi lên đây. Thả vào và chuyển MP4 sang text luôn, không cần xử lý gì thêm."
+                },
+                {
+                    "h3": "MOV",
+                    "content": "Định dạng của Apple, do iPhone, iPad và QuickTime tạo ra. Tải thẳng từ máy của bạn lên, bỏ qua bước chuyển đổi định dạng."
+                },
+                {
+                    "h3": "AVI và MKV",
+                    "content": "Định dạng cũ và định dạng chứa chất lượng cao, thường gặp ở các bản thu dài và video lưu về máy. Cả hai đều tải lên và bóc băng bình thường, không phải lo về dung lượng vì không có giới hạn."
+                },
+                {
+                    "h3": "WebM",
+                    "content": "Định dạng mà nhiều công cụ quay màn hình và công cụ chạy trên trình duyệt xuất ra. Tải thẳng lên từ chính phần mềm đã tạo ra nó."
+                }
+            ]
+        },
+        {
+            "h2": "Bạn có thể chuyển những loại video nào",
+            "intro": [
+                "Chỉ cần trong video có tiếng nói, TranscriptX đều biến được thành văn bản. Dưới đây là những loại video người dùng chuyển nhiều nhất, và lý do bản transcript quan trọng với từng loại:"
+            ],
+            "items": [
+                {
+                    "h3": "Bản ghi Zoom, Teams và Meet",
+                    "content": "Một cuộc họp trực tuyến đã ghi hình trở thành biên bản viết, có gán nhãn từng người tham dự, nên các quyết định và đầu việc nằm trên một trang giấy thay vì nằm trong một file dài cả tiếng không ai xem lại."
+                },
+                {
+                    "h3": "Screen recording và video hướng dẫn",
+                    "content": "Một buổi hướng dẫn hay demo quay màn hình trở thành văn bản từng bước, nên một quy trình chỉ được nói miệng một lần sẽ thành tài liệu mà cả nhóm đọc và tìm kiếm được."
+                },
+                {
+                    "h3": "Webinar và bài thuyết trình",
+                    "content": "Một buổi webinar đã ghi hình trở thành tài liệu bạn lướt nhanh để lấy đúng phần quan trọng, và là nguồn để rút câu trích cùng ý chính mà không phải mở lại từng slide."
+                },
+                {
+                    "h3": "Footage máy quay và sự kiện",
+                    "content": "Phỏng vấn, bài nói và các đoạn quay bằng máy ảnh hay điện thoại trở thành văn bản trích dẫn được, tìm kiếm được, có tách người nói nên biết rõ câu nào của ai."
+                },
+                {
+                    "h3": "Bài giảng và lớp học ghi hình",
+                    "content": "Một buổi học đã ghi hình trở thành tài liệu ôn tập có thể tìm theo từ khóa, tô đậm và cô đọng lại thành ghi chú, kể cả rất lâu sau khi lớp học kết thúc."
+                },
+                {
+                    "h3": "Video lưu trong máy và video lưu trữ",
+                    "content": "Bất kỳ file video nào bạn đang giữ — một bài nói bạn lưu lại, một clip ai đó gửi cho bạn — đều chuyển thành văn bản để đọc và dùng lại, thay vì nằm im trong ổ cứng."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển video thành văn bản chính xác đến đâu?",
+            "content": [
+                "Bản transcript bám sát video đến đâu phụ thuộc chủ yếu vào chính bản thu. Lời nói rõ ràng, âm lượng đều và ít tiếng ồn nền cho kết quả tốt nhất — một buổi webinar thu tốt hay một người nói trước ống kính thường trả về gần như đúng từng chữ.",
+                "Độ chính xác giảm khi phần âm thanh lộn xộn: nhiều người nói chồng lên nhau trong một cuộc gọi, tiếng vọng trong phòng lớn, nhạc nền lấn át lời thoại, hay giọng vùng miền nặng đi kèm thuật ngữ dày đặc. Việc chuyển âm thanh video thành văn bản vẫn chạy, nhưng đó là những đoạn đáng đọc kỹ trước khi bạn dựa vào chúng.",
+                "Một cách rà soát thực tế là lướt bản transcript đối chiếu với đúng những phần bạn quan tâm nhất — các con số, tên riêng, những quyết định then chốt — rồi sửa tay những chỗ đó. Sửa vài chữ chỉ mất mấy giây so với việc tự gõ lại toàn bộ bản thu, và đó mới là lý do bạn chuyển video thành văn bản ngay từ đầu."
+            ]
+        },
+        {
+            "h2": "Chuyển video sang text với hơn 100 ngôn ngữ",
+            "content": [
+                "TranscriptX bóc băng lời nói ở hơn 100 ngôn ngữ và tự nhận diện ngôn ngữ mà nó đang nghe, nên bạn không phải chọn gì trước khi tải file lên. Một video quay bằng tiếng Việt trả về văn bản tiếng Việt có dấu đầy đủ; một video tiếng Đức trả về văn bản tiếng Đức.",
+                "Việc phân biệt người nói hoạt động ở mọi ngôn ngữ, và đó là thứ giữ cho một bản thu nhiều người vẫn đọc được thay vì bị trộn thành một khối. Và vì bản transcript là văn bản thuần, bạn có thể dịch sau — chuyển video thành text ở ngôn ngữ gốc, rồi dịch kết quả để chia sẻ cùng nội dung đó với những người không nói ngôn ngữ ấy."
+            ]
+        },
+        {
+            "h2": "Xuất bản transcript ra năm định dạng",
+            "content": [
+                "Mọi bản transcript đều xuất được ở năm định dạng, và chọn định dạng nào tùy vào việc bạn sẽ làm gì tiếp với văn bản. TXT là văn bản thuần, không định dạng — gọn nhất để đọc, tìm kiếm hay dán sang công cụ khác. DOCX mở được bằng Word, Google Docs và Pages khi bạn cần biên tập lại thành một tài liệu hoàn chỉnh. PDF cho bạn một bản cố định hiển thị giống nhau với mọi người, lý tưởng để chia sẻ hoặc lưu hồ sơ những thứ không nên bị chỉnh sửa.",
+                "Hai định dạng còn lại mang theo thông tin thời gian. SRT là định dạng phụ đề mà gần như mọi trình phát và phần mềm dựng phim đều chấp nhận, nên hãy bật dấu thời gian rồi xuất SRT nếu bạn muốn tạo phụ đề từ video đã dùng để lấy bản transcript. VTT làm đúng việc đó cho các trình phát video trên web.",
+                "Nếu nguồn của bạn thực ra là một file âm thanh chứ không phải file video, công cụ [Audio to Text](/vi/audio-to-text) được thiết kế riêng cho việc đó. Còn khi đoạn video nằm trên một nền tảng thay vì nằm trong máy bạn, các công cụ [YouTube Transcript](/vi/youtube-transcript), [TikTok Transcript](/vi/tiktok-transcript) và [Instagram Transcript](/vi/instagram-transcript) xử lý thẳng từ một đường link, không cần tải file lên."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao chuyển video thành văn bản miễn phí?",
+                    "a": "Tải file video của bạn lên TranscriptX, công cụ sẽ chuyển thành văn bản mà không tính phí. Không phải đăng ký, không phải cài phần mềm và không giới hạn độ dài hay dung lượng. Xong xuôi, bạn có thể sao chép hoặc xuất bản transcript ra."
+                },
+                {
+                    "q": "Tôi tải lên được những định dạng video nào?",
+                    "a": "Các định dạng phổ biến — MP4, MOV, AVI, MKV và WebM cùng nhiều loại khác — nên bạn thường tải thẳng file từ điện thoại, máy ảnh hay công cụ quay màn hình lên được mà không phải chuyển đổi trước."
+                },
+                {
+                    "q": "Có giới hạn dung lượng hay độ dài file không?",
+                    "a": "Không. Clip ngắn và bản thu dài nhiều giờ đều xử lý được. File dài hơn chỉ đơn giản là mất thêm chút thời gian xử lý."
+                },
+                {
+                    "q": "Đây có phải phần mềm chuyển video thành văn bản miễn phí không?",
+                    "a": "Đúng vậy. TranscriptX miễn phí và không có tường thu phí — bạn tải file lên, chuyển video thành văn bản online rồi lấy kết quả, không cần tài khoản và không mất tiền."
+                },
+                {
+                    "q": "Bản transcript chính xác đến mức nào?",
+                    "a": "Độ chính xác phụ thuộc chủ yếu vào bản thu. Một người nói rõ ràng với ít tiếng ồn nền cho kết quả gần như đúng từng chữ, còn người nói chồng lời, tiếng vọng hay giọng vùng miền nặng sẽ làm giảm độ chính xác. Rà lại tên riêng, con số và thuật ngữ chuyên ngành trước khi dùng đến văn bản luôn là việc đáng làm."
+                },
+                {
+                    "q": "Công cụ có phân biệt được những người nói khác nhau không?",
+                    "a": "Có. Mỗi người nói được gán nhãn riêng, nên các cuộc họp, buổi phỏng vấn và tọa đàm đã ghi hình trả về dưới dạng ai nói gì rõ ràng chứ không phải một khối chữ liền."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ, trong đó có tiếng Việt. Ngôn ngữ đang nói được tự động nhận diện nên bạn không cần chọn trước khi tải lên, và bản transcript trả về đúng bằng ngôn ngữ đó, có dấu đầy đủ."
+                },
+                {
+                    "q": "Tôi tạo phụ đề từ video được không?",
+                    "a": "Được. Hãy bật dấu thời gian rồi xuất ra SRT hoặc VTT để có một file phụ đề mà bạn nạp vào trình phát hay phần mềm dựng phim, hoặc đăng kèm với đoạn video."
+                },
+                {
+                    "q": "Tôi có phải cài phần mềm nào không?",
+                    "a": "Không. Mọi thứ chạy trên trình duyệt, cả trên máy tính lẫn điện thoại. Không có ứng dụng, plugin hay tiện ích mở rộng nào phải cài trước khi bạn bóc băng một đoạn video."
+                },
+                {
+                    "q": "Tôi dán được bản transcript vào trợ lý AI không?",
+                    "a": "Được. Sao chép hoặc xuất phần chữ ra rồi thả vào ChatGPT, Claude hay Gemini để tóm tắt nội dung video, rút ra các đầu việc, hoặc viết lại thành một bài viết."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển video thành văn bản miễn phí ngay",
+        "content": [
+            "Tải lên file MP4, MOV hay bất kỳ file video phổ biến nào, TranscriptX sẽ chuyển thành văn bản với hơn 100 ngôn ngữ, có nhãn người nói và dấu thời gian tùy chọn. Miễn phí, không phải cài đặt gì và không giới hạn dung lượng file.",
+            "Đọc, chỉnh sửa, dịch, hoặc lưu bản transcript dưới dạng TXT, DOCX, PDF, SRT hay VTT — tùy vào việc bạn cần làm tiếp theo với đoạn video đó."
+        ]
+    }
+}

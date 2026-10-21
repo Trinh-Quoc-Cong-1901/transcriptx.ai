@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Download Sarikata YouTube — Muat Turun SRT & VTT Percuma | TranscriptX",
+        "description": "Download sarikata YouTube daripada mana-mana video secara percuma. Tampal satu pautan dan simpan sarikata itu sebagai SRT atau VTT berserta cap masa, dalam lebih 100 bahasa. Tanpa pendaftaran, tanpa pemasangan.",
+        "schemaName": "Alat Download Sarikata YouTube TranscriptX",
+        "schemaDescription": "Alat percuma untuk download fail sarikata daripada video YouTube awam sebagai SRT atau VTT berserta cap masa, dalam lebih 100 bahasa. Tampal satu pautan dan simpan failnya tanpa perlu akaun.",
+        "ogTitle": "Download Sarikata YouTube — Muat Turun SRT & VTT Percuma | TranscriptX",
+        "ogDescription": "Download sarikata YouTube sebagai SRT atau VTT berserta masanya. Tampal satu pautan, simpan fail sarikata itu dalam lebih 100 bahasa, percuma dan tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Download Sarikata YouTube",
+        "subtitle": "Muat turun sarikata daripada mana-mana video YouTube awam sebagai satu fail sarikata bercap masa. Tampal satu pautan dan simpan SRT atau VTT, dalam lebih 100 bahasa, sedia dimuatkan ke dalam penyunting video atau dimuat naik ke platform lain. Tanpa akaun, tanpa pemasangan.",
+        "placeholder": "Tampal pautan video YouTube...",
+        "button": "Download Sarikata"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara download sarikata daripada sebuah video YouTube?",
+        "answer": "Tampal pautan YouTube awam ke dalam TranscriptX, dan ia menghasilkan satu fail sarikata bercap masa yang boleh anda muat turun sebagai SRT atau VTT. Sarikata itu keluar dalam lebih 100 bahasa, dengan satu cap masa pada setiap baris, sedia untuk disunting atau dimuat naik semula. Tiada akaun diperlukan."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Fail Sarikata Sebenarnya",
+            "content": [
+                "Sebuah fail sarikata bukan sekadar perkataan daripada sesuatu video — ia ialah perkataan itu berserta saat tepat setiap baris muncul dan hilang. Bukanya dan anda akan lihat blok teks yang berpasangan dengan cap masa seperti 00:01:12 hingga 00:01:15. Masa itulah intinya: ia memberitahu pemain video bila setiap baris sarikata patut dipaparkan.",
+                "Inilah yang memisahkan fail sarikata daripada transkrip biasa. Transkrip ialah teks yang anda baca dengan sendirinya; fail sarikata ialah teks yang dibina untuk berjalan seiring dengan video, segerak bingkai demi bingkai dengan pertuturannya.",
+                "TranscriptX menjana fail bercap masa itu daripada audio sesebuah video YouTube dan membiarkan anda memuat turunnya. Sebagai alat yang extract sarikata YouTube terus daripada pertuturannya, ia menyerahkan kepada anda sarikata untuk YouTube yang boleh dijatuhkan terus ke dalam penyunting atau pemain video — bukan satu dinding teks yang terpaksa anda selaraskan masanya sendiri, dan tiada apa yang perlu disalin baris demi baris."
+            ]
+        },
+        {
+            "h2": "SRT atau VTT: Format Sarikata Mana Yang Patut Anda Download",
+            "intro": [
+                "TranscriptX mengeksport kedua-dua format sarikata yang menjadi piawai. Yang mana satu anda muat turun bergantung pada ke mana sarikata itu akan pergi."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — fail sarikata sejagat",
+                    "content": "SubRip (.srt) ialah format yang hampir semuanya terima: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve dan kebanyakan pemain video. Pilih download sarikata YouTube SRT apabila anda memuat naik sarikata ke sesebuah platform atau memuatkannya ke dalam penyunting video — inilah pilihan lalai yang selamat."
+                },
+                {
+                    "h3": "VTT — sarikata untuk web",
+                    "content": "WebVTT (.vtt) ialah format yang dibina untuk video HTML5 yang bermain di dalam pelayar, dan ia menyokong tambahan seperti kedudukan dan gaya teks. Muat turun fail sarikata VTT apabila sarikata itu untuk sesebuah laman web atau aplikasi web, bukan untuk platform sosial atau penyunting."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Download Sarikata Daripada YouTube",
+            "steps": [
+                {
+                    "h3": "Tampal pautan videonya",
+                    "content": "Salin URL video YouTube awam itu dan tampalkannya ke dalam kotak di atas. Tiada akaun yang perlu dibuka dan tiada apa yang perlu dimuat naik."
+                },
+                {
+                    "h3": "TranscriptX membina sarikata bercap masa",
+                    "content": "Ia membaca audionya, mengesan bahasanya, dan menulis keluar setiap baris berserta masa mula dan masa tamatnya — masa yang diperlukan oleh sesebuah fail sarikata untuk kekal segerak."
+                },
+                {
+                    "h3": "Pilih SRT atau VTT",
+                    "content": "Pilih SRT untuk penyunting video atau platform sosial, atau VTT untuk video web. Kedua-duanya membawa sarikata yang sama dengan masa yang sama."
+                },
+                {
+                    "h3": "Muat turun fail sarikata itu",
+                    "content": "Simpan ke peranti anda, sedia dimuatkan ke dalam penyunting, dimuat naik bersama video yang dihantar semula, atau diterjemah sebelum diterbitkan. Begitulah selesainya kerja cara muat turun sarikata YouTube."
+                }
+            ]
+        },
+        {
+            "h2": "Apa Yang Boleh Anda Buat Dengan Fail Sarikata Yang Dimuat Turun",
+            "intro": [
+                "Fail sarikata ialah aset kerja, bukan sekadar rujukan. Ia dibina untuk dimuatkan, disunting dan digunakan semula:"
+            ],
+            "items": [
+                {
+                    "h3": "Menambah sarikata pada suntingan anda sendiri",
+                    "content": "Penyunting video memuatkan SRT itu ke dalam Premiere, Final Cut atau Resolve untuk menyarikatakan sesuatu potongan, melaraskan masanya mengikut suntingan mereka, dan menggayakan teksnya supaya sepadan dengan videonya."
+                },
+                {
+                    "h3": "Menghantar semula video berserta sarikata",
+                    "content": "Sekiranya anda menyiarkan semula sesuatu video ke saluran anda sendiri, memuat naik fail sarikata itu bersamanya memberikan penonton sarikata tanpa anda menaip semula walau sepatah pun. Di sinilah download sarikata dari video YouTube itu menjimatkan berjam-jam kerja."
+                },
+                {
+                    "h3": "Menterjemah untuk penonton antarabangsa",
+                    "content": "Oleh sebab fail sarikata ialah teks biasa yang boleh disunting berserta masanya, penterjemah boleh menulis semula barisnya ke dalam bahasa lain sementara cap masanya kekal utuh — jalan terpantas untuk menyarikatakan sesuatu video bagi pasaran baharu."
+                },
+                {
+                    "h3": "Membetulkan atau membersihkan sarikatanya",
+                    "content": "Buka failnya dalam mana-mana penyunting teks untuk membetulkan sesuatu nama, memecahkan baris yang terlalu panjang atau menganjakkan sedikit cap masa sebelum sarikata itu disiarkan."
+                },
+                {
+                    "h3": "Memenuhi keperluan kebolehcapaian",
+                    "content": "Sarikata selalunya diwajibkan, bukan pilihan. Fail SRT atau VTT yang telah dimuat turun ialah fail yang anda lampirkan untuk menjadikan sesebuah video boleh dicapai oleh penonton pekak dan bermasalah pendengaran."
+                }
+            ]
+        },
+        {
+            "h2": "Muat Turun Sarikata Dalam Lebih 100 Bahasa",
+            "content": [
+                "TranscriptX mengesan bahasa yang dituturkan dengan sendirinya dan membina sarikata dalam bahasa itu, merentasi lebih 100 bahasa — jadi fail sarikata yang anda muat turun itu menepati apa yang sebenarnya dikatakan di dalam video. Video berbahasa Melayu kembali sebagai sarikata bahasa Melayu, termasuk rakaman yang bercampur dengan bahasa Inggeris.",
+                "Dari situ, failnya milik anda untuk diterjemah. Oleh sebab masanya tersimpan berasingan daripada perkataannya, anda boleh menggantikan teks itu dengan bahasa lain dan sarikatanya tetap mendarat pada bingkai yang betul — dan begitulah caranya satu video berakhir bersarikata untuk beberapa penonton daripada satu muat turun sahaja."
+            ]
+        },
+        {
+            "h2": "Sarikata, Transkrip atau Ringkasan?",
+            "content": [
+                "Fail sarikata ialah muat turun yang betul apabila anda perlukan sarikata bercap masa untuk berjalan di atas sesebuah video. Apabila yang anda perlukan daripada video yang sama itu sesuatu yang lain, ada alat TranscriptX lain yang dibina khusus untuknya.",
+                "Untuk teks biasa yang anda baca dengan sendirinya — tanpa cap masa, tanpa apa-apa yang segerak dengan main balik — alat [YouTube Transcript](/ms/youtube-transcript) itulah yang anda mahukan, dan alat [Download YouTube Transcript](/ms/download-youtube-transcript) menyimpan teks tersebut sebagai dokumen TXT, DOCX atau PDF. Sekiranya anda cuma perlu tahu apa yang dibincangkan oleh sesebuah video dan bukan menyarikatakan setiap barisnya, [YouTube Video Summarizer](/ms/youtube-video-summarizer) memberikan anda perkara pentingnya dalam beberapa ayat sahaja."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana saya boleh download sarikata daripada sebuah video YouTube?",
+                    "a": "Tampal pautan video itu ke dalam TranscriptX, biarkan ia membina sarikata bercap masa, pilih SRT atau VTT, dan muat turunkan failnya. Itu sahaja langkah cara download sarikata YouTube — atau untuk download fail sarikata YouTube dalam mana-mana satu daripada dua format itu — tanpa perlu akaun."
+                },
+                {
+                    "q": "Adakah alat download sarikata YouTube ini percuma?",
+                    "a": "Ya. Membina dan memuat turun fail sarikata adalah percuma, tanpa akaun untuk dibuka dan tanpa had berapa panjang videonya."
+                },
+                {
+                    "q": "Apa bezanya SRT dengan VTT?",
+                    "a": "Kedua-duanya fail sarikata bercap masa. SRT ialah format sejagat yang diterima oleh platform dan penyunting video; VTT pula dibina untuk video web HTML5 dan menyokong kedudukan serta gaya teks tambahan. Pilih download sarikata YouTube SRT melainkan anda memang perlukannya untuk video web."
+                },
+                {
+                    "q": "Adakah sarikata itu disertakan cap masa?",
+                    "a": "Ya. Setiap baris di dalam fail SRT atau VTT membawa masa mula dan masa tamat — masa itulah yang mengekalkan sarikata segerak apabila failnya dimainkan di atas sesebuah video."
+                },
+                {
+                    "q": "Apa bezanya sarikata dengan transkrip?",
+                    "a": "Transkrip ialah teks biasa yang anda baca dengan sendirinya. Sarikata pula teks bercap masa yang dibuat untuk dipaparkan di atas video. Sekiranya anda mahukan perkataan untuk dibaca dan bukan sarikata untuk dipaparkan, gunakan alat transkrip sebaliknya."
+                },
+                {
+                    "q": "Bolehkah saya muat turun sarikata dalam bahasa lain?",
+                    "a": "Sarikata itu dibina dalam bahasa yang dituturkan di dalam video. Oleh sebab failnya teks yang boleh disunting dengan masanya disimpan berasingan, anda boleh menterjemah barisnya ke dalam bahasa lain sementara cap masanya kekal di tempatnya."
+                },
+                {
+                    "q": "Bolehkah saya sunting fail sarikata itu selepas memuat turunnya?",
+                    "a": "Boleh. Fail SRT atau VTT terbuka dalam mana-mana penyunting teks, jadi anda boleh membetulkan sesuatu perkataan, memecahkan sesuatu baris atau melaraskan cap masa sebelum sarikata itu disiarkan."
+                },
+                {
+                    "q": "Adakah failnya berfungsi dalam penyunting video saya?",
+                    "a": "Ya. SRT termuat ke dalam Premiere, Final Cut, DaVinci Resolve dan kebanyakan penyunting serta pemain lain, dan itulah sebabnya ia menjadi pilihan lalai bagi kerja suntingan."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Muat Turun Sarikata YouTube Secara Percuma",
+        "content": [
+            "Tampal pautan sebuah video YouTube awam dan TranscriptX membina satu fail sarikata bercap masa yang boleh anda muat turun sebagai SRT atau VTT, dalam lebih 100 bahasa.",
+            "Muatkannya ke dalam penyunting, muat naik bersama video yang dihantar semula, atau terjemahkannya untuk penonton baharu. Tanpa akaun, tanpa pemasangan, tanpa kos."
+        ]
+    }
+}

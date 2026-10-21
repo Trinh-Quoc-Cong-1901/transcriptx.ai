@@ -1,0 +1,248 @@
+{
+    "seo": {
+        "title": "Audio in Text umwandeln — kostenloser Audio in Text Converter | TranscriptX",
+        "description": "Audio in Text umwandeln, kostenlos und online. Lade eine MP3, WAV oder M4A hoch und erhalte ein genaues Transkript in über 100 Sprachen mit Sprecherkennung. Export als TXT, DOCX, PDF, SRT. Ohne Anmeldung.",
+        "schemaName": "TranscriptX Audio in Text Converter",
+        "schemaDescription": "Kostenloses Online-Tool, das Audiodateien in über 100 Sprachen in Text umwandelt und transkribiert — mit Sprechertrennung, optionalen Zeitstempeln und Export als TXT, DOCX, PDF, SRT und VTT. Unterstützt MP3, WAV, M4A, AAC und weitere Formate, ganz ohne Konto.",
+        "ogTitle": "Audio in Text umwandeln — kostenloser Audio in Text Converter | TranscriptX",
+        "ogDescription": "Mach aus jeder Audiodatei Text. Lade eine MP3, WAV oder M4A hoch und erhalte ein genaues Transkript in über 100 Sprachen — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "Audio in Text umwandeln",
+        "subtitle": "Mach aus jeder Audiodatei genauen, bearbeitbaren Text. Lade eine MP3, WAV, M4A oder jedes andere gängige Format hoch — TranscriptX transkribiert sie in über 100 Sprachen, benennt jeden Sprecher und setzt auf Wunsch Zeitstempel. Export als TXT, DOCX, PDF, SRT oder VTT. Kein Konto, kein Dateilimit, nichts zu installieren.",
+        "placeholder": "Audiodatei hochladen...",
+        "button": "In Text umwandeln"
+    },
+    "quickAnswer": {
+        "question": "Wie wandle ich eine Audiodatei in Text um?",
+        "answer": "Lade deine Audiodatei bei TranscriptX hoch — das Gesprochene wird in Sekunden in geschriebenen Text umgewandelt, in über 100 Sprachen und mit Kennzeichnung jedes Sprechers. Anschließend kannst du das Transkript lesen, kopieren, bearbeiten oder als TXT, DOCX, PDF, SRT oder VTT exportieren. Es ist kein Konto nötig, es gibt kein Dateilimit und du musst nichts installieren."
+    },
+    "sections": [
+        {
+            "h2": "Was bedeutet Audio in Text umwandeln?",
+            "content": [
+                "Audio in Text umwandeln heißt, das Gesprochene in einer Aufnahme in geschriebene Worte zu überführen. Du gibst dem Tool eine Datei — eine Podcast-Folge, ein Interview, eine aufgezeichnete Besprechung, eine Vorlesung — und statt sie von vorn bis hinten anzuhören und mitzutippen, bekommst du das Ganze als Text zurück.",
+                "Das ist deshalb wichtig, weil Audio ein schlechter Behälter für Informationen ist, mit denen du wirklich arbeiten musst. Du kannst eine Aufnahme nicht überfliegen, du kannst sie nicht nach dem einen Satz durchsuchen, den du brauchst, und du kannst kein Zitat daraus kopieren. Eine Stunde Audio versteckt ihren Inhalt in sechzig Minuten, die du in Echtzeit absitzen musst. Dieselbe Stunde als Text liest du in einem Bruchteil der Zeit, durchsuchst sie sofort und fügst sie überall dort ein, wo sie hin soll.",
+                "Audio zu Text schaltet außerdem alles frei, was danach kommt. Sobald eine Aufnahme Text ist, kannst du sie übersetzen, zu Untertiteln machen, zusammenfassen, korrekt zitieren oder einem KI-Assistenten wie ChatGPT, Claude oder Gemini zur Analyse geben — nichts davon geht, solange die Worte in der Audiodatei eingeschlossen bleiben.",
+                "TranscriptX erledigt diese Umwandlung kostenlos, direkt im Browser, ohne Konto und ohne Begrenzung der Dateigröße."
+            ]
+        },
+        {
+            "h2": "Audio zu Text auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine — läuft im Browser"
+                },
+                {
+                    "label": "Limit für Dateigröße",
+                    "value": "Keines"
+                },
+                {
+                    "label": "Unterstützte Formate",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG und mehr"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Sprechertrennung",
+                    "value": "Ja — jeder Sprecher wird gekennzeichnet"
+                },
+                {
+                    "label": "Zeitstempel",
+                    "value": "Optional — pro Transkript an- oder abschaltbar"
+                },
+                {
+                    "label": "Exportformate",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Geräte",
+                    "value": "Browser auf Desktop, Tablet und Smartphone"
+                }
+            ]
+        },
+        {
+            "h2": "Audiodatei in Text umwandeln – Schritt für Schritt",
+            "steps": [
+                {
+                    "h3": "Audiodatei hochladen",
+                    "content": "Zieh eine MP3, WAV, M4A oder ein anderes gängiges Audioformat hinein, oder füge einen Link zur Aufnahme ein. Es gibt keine Obergrenze für die Länge — eine zweiminütige Sprachnotiz funktioniert genauso wie eine dreistündige Podiumsdiskussion."
+                },
+                {
+                    "h3": "Das Tool transkribiert das Gesprochene",
+                    "content": "TranscriptX erkennt die gesprochene Sprache von selbst, über 100 Sprachen hinweg, trennt die Stimmen von Hintergrundgeräuschen, identifiziert jeden Sprecher und schreibt die Worte mit Zeichensetzung und Satzgrenzen aus."
+                },
+                {
+                    "h3": "Transkript durchsehen",
+                    "content": "Lies es einmal durch und korrigiere, was die Aufnahme schwer verständlich gemacht hat. Namen, Zahlen, Abkürzungen und Fachbegriffe sind das, was einen zweiten Blick verdient, bevor du dich auf den Text verlässt."
+                },
+                {
+                    "h3": "Text exportieren oder kopieren",
+                    "content": "Kopiere das Transkript direkt heraus oder lade es als TXT, DOCX, PDF, SRT oder VTT herunter. Schalte vorher die Zeitstempel an, wenn du sie für Untertitel brauchst oder ein Zitat gegen die Aufnahme prüfen willst."
+                }
+            ]
+        },
+        {
+            "h2": "Ein kostenloser Audio in Text Converter",
+            "content": [
+                "TranscriptX ist ein kostenloser Audio in Text Converter, bei dem am Ende keine Bezahlschranke wartet. Viele Tools lassen dich hochladen, die Transkription laufen — und fragen dann nach einer Kreditkarte, bevor sie dir das Ergebnis zeigen, oder deckeln dich bei ein paar Minuten Audio. Nichts davon gibt es hier: Du kannst dein Audio in Text umwandeln, kostenlos, ohne Konto und ohne Limit dafür, wie lang oder wie groß die Datei ist.",
+                "Das Tool ist für Leute gebaut, die das Audio schon haben und einfach nur den Text wollen. Du schließt kein Abo ab und lernst keine Software: Du lädst eine Datei hoch, wandelst die Audiodatei in Text um und nimmst das Ergebnis mit. Ob du einmal Audio zu Text brauchst oder jede Woche — der Ablauf bleibt gleich und die Grenze taucht nie auf.",
+                "Weil alles im Browser läuft, funktioniert der Converter auf dem Handy, dem Tablet und dem Laptop identisch — es gibt nichts herunterzuladen und kein Plugin, das aktuell gehalten werden müsste."
+            ]
+        },
+        {
+            "h2": "Audio transkribieren – präzise und zuverlässig",
+            "content": [
+                "Eine Datei umwandeln und sie transkribieren ist hier dieselbe Handlung, aber das Wort transkribieren signalisiert meist einen höheren Anspruch: Du willst dein Audio transkribieren und ein Ergebnis, das stimmt — nicht eines, das ungefähr stimmt. Genau das gilt für Interviews, die du zitieren wirst, für Besprechungen, aus denen Aufgaben folgen, und für Forschungsmaterial, das du belegen musst.",
+                "TranscriptX ist für diesen Anspruch gebaut. Wenn du eine Audiodatei transkribierst, wird nicht einfach ein Wortschwall auf die Seite gekippt — das Gesprochene wird interpunktiert, in lesbare Sätze zerlegt und jeder Sprecher gekennzeichnet. Eine Aufnahme mit drei Personen kommt so als klares Protokoll zurück, wer was gesagt hat, statt als ein einziger Block.",
+                "Auch schwierigere Aufnahmen sind kein Problem. Du kannst eine Audioaufnahme in Text umwandeln, selbst wenn Hintergrundgeräusche, überlappende Stimmen oder ein starker Akzent im Spiel sind — auch wenn genau diese Stellen es wert sind, vor der Veröffentlichung noch einmal geprüft zu werden. Bei einer sauberen Aufnahme mit nur einem Sprecher kommt das Transkript nahezu Wort für Wort zurück."
+            ]
+        },
+        {
+            "h2": "Unterstützte Audioformate",
+            "intro": [
+                "TranscriptX akzeptiert die Formate, die du am ehesten hast — du musst eine Datei also nur selten vor dem Hochladen konvertieren."
+            ],
+            "items": [
+                {
+                    "h3": "MP3",
+                    "content": "Das gängigste Audioformat, genutzt von den meisten Podcasts, Diktiergeräten und Downloads. Lade es direkt hoch und mach aus deiner MP3 Text, ohne Zwischenschritt."
+                },
+                {
+                    "h3": "WAV",
+                    "content": "Das hochwertige, unkomprimierte Format, das professionelle Rekorder und Audiosoftware ausgeben. Größere Dateien, aber es gibt kein Größenlimit, um das du dich sorgen müsstest."
+                },
+                {
+                    "h3": "M4A und AAC",
+                    "content": "Die Formate, in denen iPhones, Sprachmemo-Apps und viele Aufnahmetools standardmäßig speichern. Lade sie direkt vom Gerät hoch, ganz ohne Konvertierungsschritt."
+                },
+                {
+                    "h3": "FLAC und OGG",
+                    "content": "Verlustfreie und quelloffene Formate, genutzt von Archivaren und einigen Aufnahme-Apps. Beide lassen sich wie jede andere Datei hochladen und transkribieren."
+                }
+            ]
+        },
+        {
+            "h2": "Was du transkribieren kannst",
+            "intro": [
+                "Wenn in der Aufnahme gesprochen wird, macht TranscriptX Text daraus. Das sind die Aufnahmen, die am häufigsten umgewandelt werden — und warum das Transkript bei jeder davon zählt:"
+            ],
+            "items": [
+                {
+                    "h3": "Podcasts",
+                    "content": "Aus einer Folge werden Shownotes, ein Newsletter, ein Artikel, Zitate für Social Media und ein durchsuchbares Archiv — alles aus einem einzigen Transkript, ohne das Audio erneut abzuspielen, um jede Stelle zu finden."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Journalisten und Forschende bekommen den exakten Wortlaut, mit Sprecherkennzeichnung und optionalen Zeitstempeln — so lässt sich ein Zitat sauber entnehmen und gegen den Moment prüfen, in dem es gesagt wurde."
+                },
+                {
+                    "h3": "Besprechungen und Anrufe",
+                    "content": "Aus einem aufgezeichneten Meeting wird ein schriftliches Protokoll der Entscheidungen und Aufgaben, mit jedem Teilnehmer namentlich gekennzeichnet — es liest sich wie ein echtes Protokoll und nicht wie eine Textwand."
+                },
+                {
+                    "h3": "Vorlesungen und Kurse",
+                    "content": "Studierende machen aus aufgezeichneten Lehrveranstaltungen Lernmaterial, das sie nach Begriffen durchsuchen, markieren und noch lange nach der Sitzung zu Notizen verdichten können."
+                },
+                {
+                    "h3": "Juristische und medizinische Aufnahmen",
+                    "content": "Aus Zeugenaussagen, Diktaten und Gesprächen werden Dokumente, die geprüft, abgelegt und durchsucht werden können — mit dem Hinweis, Namen und Fachbegriffe sorgfältig zu kontrollieren, bevor etwas offiziell wird."
+                },
+                {
+                    "h3": "Sprachnotizen und Memos",
+                    "content": "Aus einem unterwegs aufgenommenen Gedanken wird bearbeitbarer Text, sodass der Einfall festgehalten ist, ohne dass du zum Tippen stehen bleiben musst."
+                }
+            ]
+        },
+        {
+            "h2": "Wie genau ist die Umwandlung von Audio in Text?",
+            "content": [
+                "Wie genau ein Transkript wird, hängt vor allem an der Aufnahme selbst. Deutliche Sprache, gleichmäßige Lautstärke und wenig Hintergrundgeräusch liefern die besten Ergebnisse — ein gut aufgenommenes Interview oder ein Studio-Podcast kommt oft fast Wort für Wort zurück.",
+                "Nachlassen tut die Genauigkeit bei unsauberem Audio: mehrere Personen, die durcheinanderreden, starkes Echo, laute Musik unter der Sprache oder dicke Akzente in Kombination mit dichtem Fachjargon. Die Transkription läuft trotzdem durch, aber genau diese Passagen sollte man aufmerksam lesen, bevor man sich darauf stützt.",
+                "Praktisch prüfst du am besten so: Überflieg das Transkript entlang der Stellen, die dir am wichtigsten sind — die Zahlen, die Namen, die zentralen Aussagen — und korrigiere diese von Hand. Eine Handvoll Wörter zu korrigieren dauert Sekunden im Vergleich dazu, die ganze Aufnahme selbst zu verschriftlichen — und genau darum geht es beim Umwandeln von Audio in Text überhaupt."
+            ]
+        },
+        {
+            "h2": "Audio zu Text in über 100 Sprachen",
+            "content": [
+                "TranscriptX transkribiert Sprache in mehr als 100 Sprachen und erkennt von selbst, welche es gerade hört — du wählst vor dem Hochladen also nichts aus. Eine Aufnahme auf Französisch kommt als französischer Text zurück, eine Aufnahme auf Hindi als Hindi-Text.",
+                "Die Sprechertrennung funktioniert in jeder Sprache, und genau das hält eine Aufnahme mit mehreren Personen lesbar statt ineinandergeschoben. Und weil das Transkript reiner Text ist, kannst du es hinterher übersetzen — transkribiere das Audio in der Originalsprache und übersetze das Ergebnis dann, um denselben Inhalt mit einem Publikum zu teilen, das die Sprache nicht spricht."
+            ]
+        },
+        {
+            "h2": "Transkript in fünf Formaten exportieren",
+            "content": [
+                "Jedes Transkript lässt sich in fünf Formaten exportieren, und welches das richtige ist, hängt davon ab, was als Nächstes mit dem Text passiert. TXT ist reiner, unformatierter Text — am saubersten zum Lesen, Durchsuchen oder Einfügen in ein anderes Tool. DOCX öffnet sich in Word, Google Docs und Pages, wenn du das Transkript als Dokument weiterbearbeiten willst. PDF gibt dir einen festen Stand, der bei allen gleich aussieht — ideal zum Teilen oder Ablegen von etwas, das nicht mehr verändert werden soll.",
+                "Die anderen beiden tragen die Zeitinformation. SRT ist das Untertitelformat, das praktisch jede Plattform und jedes Schnittprogramm akzeptiert — schalte also die Zeitstempel an und exportiere SRT, wenn das Audio zu einem Video gehört, das du untertiteln willst. VTT übernimmt dieselbe Aufgabe für webbasierte Videoplayer.",
+                "Wenn deine Aufnahme von Anfang an gesprochenes Wort war statt einer Mediendatei — eine Sprachnotiz, ein Diktat, eine eigene Live-Aufnahme — ist das Tool [Sprache in Text umwandeln](/de/voice-to-text) darauf zugeschnitten, inklusive der Möglichkeit, direkt im Browser aufzunehmen. Und wenn die Quelle ein Video statt einer Audiodatei ist, übernehmen [YouTube Transkript](/de/youtube-transcript) und [TikTok Transkript](/de/tiktok-transcript) diese Plattformen direkt."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich Audio kostenlos in Text umwandeln?",
+                    "a": "Lade deine Audiodatei bei TranscriptX hoch — sie wird ohne Kosten in Text transkribiert. Es gibt kein Konto anzulegen, keine Software zu installieren und kein Limit für Dateigröße oder Länge. Sobald es fertig ist, kannst du das Transkript kopieren oder exportieren."
+                },
+                {
+                    "q": "Welche Audioformate kann ich hochladen?",
+                    "a": "Die gängigen — MP3, WAV, M4A, AAC, FLAC und OGG unter anderem — sodass du eine Datei meist direkt von deinem Rekorder oder Handy hochladen kannst, ohne sie vorher zu konvertieren."
+                },
+                {
+                    "q": "Gibt es ein Limit für Dateigröße oder Länge?",
+                    "a": "Nein. Kurze Sprachnotizen und mehrstündige Aufnahmen funktionieren beide. Eine längere Datei braucht einfach etwas mehr Zeit in der Verarbeitung."
+                },
+                {
+                    "q": "Wie genau ist die Transkription?",
+                    "a": "Die Genauigkeit hängt vor allem an der Aufnahme. Deutliche Sprache und wenig Hintergrundgeräusch liefern nahezu wortgetreue Ergebnisse, während überlappende Sprecher, Echo oder starke Akzente sie senken. Namen, Zahlen und Fachbegriffe durchzusehen, bevor du dich auf den Text verlässt, lohnt sich immer."
+                },
+                {
+                    "q": "Kann das Tool verschiedene Sprecher unterscheiden?",
+                    "a": "Ja. TranscriptX kennzeichnet jeden Sprecher einzeln, sodass Interviews, Besprechungen und Aufnahmen mit mehreren Personen zeigen, wer was gesagt hat, statt als ein Textblock zurückzukommen."
+                },
+                {
+                    "q": "Welche Sprachen werden unterstützt?",
+                    "a": "Über 100. Die gesprochene Sprache wird automatisch erkannt, du musst sie vor dem Hochladen also nicht auswählen, und das Transkript kommt in derselben Sprache zurück."
+                },
+                {
+                    "q": "Kann ich Zeitstempel im Transkript bekommen?",
+                    "a": "Ja, und sie sind optional. Schalte sie an, wenn du Untertiteldateien brauchst oder zu einer Stelle in der Aufnahme zurückspringen willst; lass sie aus, wenn du sauberen Lesetext möchtest."
+                },
+                {
+                    "q": "Welche Formate kann ich exportieren?",
+                    "a": "Fünf insgesamt — TXT, DOCX und PDF zum Lesen und Bearbeiten, dazu SRT und VTT für Untertitel. Du kannst den Text auch direkt kopieren."
+                },
+                {
+                    "q": "Muss ich Software installieren?",
+                    "a": "Nein. Alles läuft im Browser, auf dem Desktop wie auf dem Handy. Es gibt keine App, kein Plugin und keine Erweiterung, die du vor dem Transkribieren installieren müsstest."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen Audio zu Text und Sprache zu Text?",
+                    "a": "Audio zu Text ist für vorhandene Audiodateien gedacht — einen Podcast, ein Interview, eine aufgezeichnete Besprechung. Sprache zu Text ist dafür da, Gesprochenes im Moment festzuhalten, inklusive Live-Aufnahme der eigenen Stimme. Wenn du diktieren oder eine Sprachnotiz transkribieren willst, nimm stattdessen das Tool Sprache in Text umwandeln."
+                },
+                {
+                    "q": "Kann ich das Transkript in ChatGPT oder Claude einfügen?",
+                    "a": "Ja. Sobald das Audio Text ist, kopiere oder exportiere es und gib es einem beliebigen KI-Assistenten, um die Aufnahme zusammenzufassen, Aufgaben herauszuziehen oder sie zu einem Artikel umzuformen."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Wandle dein Audio kostenlos in Text um",
+        "content": [
+            "Lade eine MP3, WAV, M4A oder jede andere gängige Audiodatei hoch — TranscriptX transkribiert sie in über 100 Sprachen, mit Sprecherkennzeichnung und optionalen Zeitstempeln. Kein Konto, kein Dateilimit, keine Kosten.",
+            "Lies es, kopiere es, bearbeite es, übersetze es oder exportiere es als TXT, DOCX, PDF, SRT oder VTT — je nachdem, was dein nächster Schritt aus der Aufnahme braucht."
+        ]
+    }
+}

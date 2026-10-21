@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Transkripsi Masa Nyata — Mula Percuma, Terus di Pelayar",
+        "description": "Tekan Mula untuk transkripsi masa nyata kuliah, temu bual dan perbualan. Mula percuma, tanpa perlu daftar. Eksport ke TXT, DOCX atau PDF.",
+        "schemaName": "TranscriptX Transkripsi Masa Nyata",
+        "schemaDescription": "Alat transkripsi masa nyata dalam talian yang merakam melalui mikrofon anda dan menukar ucapan kepada teks secara langsung, dalam lebih 100 bahasa. Tekan Mula untuk merakam kuliah, temu bual dan perbualan ketika ia berlangsung, kemudian salin atau eksport transkrip ke TXT, DOCX, PDF, SRT atau VTT. Berjalan dalam pelayar, tanpa perlu daftar untuk bermula.",
+        "ogTitle": "Transkripsi Masa Nyata — Mula Percuma, Terus di Pelayar",
+        "ogDescription": "Tekan Mula dan lihat ucapan bertukar menjadi transkrip secara masa nyata. Transkripsi langsung kuliah, temu bual dan perbualan — mula percuma, tanpa daftar."
+    },
+    "hero": {
+        "h1": "Transkripsi Masa Nyata – Tukar Ucapan kepada Teks Secara Langsung",
+        "subtitle": "Tekan Mula, dan TranscriptX mendengar melalui mikrofon anda lalu menukar apa yang diperkatakan kepada teks secara masa nyata. Transkripsikan kuliah, temu bual atau perbualan ketika ia berlangsung, kemudian tekan Henti dan simpan transkrip penuh — salin atau eksport ke TXT, DOCX, PDF, SRT atau VTT. Percuma untuk bermula, dalam lebih 100 bahasa, tanpa perlu memasang apa-apa.",
+        "placeholder": "Tekan Mula untuk memulakan transkripsi langsung...",
+        "button": "Mulakan Transkripsi Masa Nyata"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkripsi masa nyata?",
+        "answer": "Buka TranscriptX, tekan Mula dan benarkan akses mikrofon. Semua yang diperkatakan berhampiran mikrofon ditranskripsikan secara masa nyata dan dipaparkan di skrin sebaik sahaja ia diucapkan. Tekan Henti apabila selesai untuk membaca, menyunting, menyalin atau mengeksport transkrip penuh. Percuma untuk bermula, tanpa perlu daftar dan tanpa perlu memasang apa-apa."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Transkripsi Masa Nyata?",
+            "content": [
+                "Transkripsi masa nyata menukar ucapan kepada teks ketika ucapan itu masih berlangsung. Daripada merakam kuliah atau temu bual dan menyalinnya kemudian, anda hanya tekan Mula, perkataan muncul di skrin sambil orang bercakap, dan sebaik sahaja sesi tamat, transkripnya sudah siap.",
+                "Tujuannya ialah merakam apa yang dikatakan oleh orang lain, pada saat itu juga. Pensyarah yang menerangkan sesuatu topik, sumber yang menjawab soalan anda, sekumpulan rakan yang membincangkan rancangan — transkripsi masa nyata mengikuti semuanya dan mencatatnya, supaya anda boleh memberi tumpuan kepada perbualan dan tidak terkejar-kejar mencatat nota.",
+                "Itulah bezanya dengan mentranskripsikan fail. Tiada rakaman untuk dimuat naik dan tiada masa menunggu pemprosesan di hujungnya: anda membuat transkripsi secara langsung, dan rekodnya terbina dalam masa nyata.",
+                "TranscriptX melakukannya terus dalam pelayar, percuma untuk bermula. Tekan Mula, biarkan ia mendengar, dan simpan transkrip apabila anda selesai."
+            ]
+        },
+        {
+            "h2": "Transkripsi Masa Nyata Secara Ringkas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma untuk bermula — pelan berbayar untuk penggunaan lebih tinggi"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak — pendaftaran adalah pilihan"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Input",
+                    "value": "Mikrofon anda, secara langsung — tekan Mula untuk bermula"
+                },
+                {
+                    "label": "Output",
+                    "value": "Teks yang muncul secara masa nyata ketika orang bercakap"
+                },
+                {
+                    "label": "Tempoh sesi",
+                    "value": "Gunakan untuk sepanjang kuliah atau temu bual"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+"
+                },
+                {
+                    "label": "Format eksport",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan telefon mudah alih"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkripsi Langsung",
+            "steps": [
+                {
+                    "h3": "Tekan Mula",
+                    "content": "Buka TranscriptX dan tekan Mula. Pelayar anda akan meminta akses mikrofon sekali sahaja — benarkan, dan transkripsi langsung bermula serta-merta."
+                },
+                {
+                    "h3": "Biarkan ia mendengar",
+                    "content": "Letakkan peranti anda di tempat yang boleh mendengar penceramah dengan jelas — di atas meja dalam dewan kuliah, di antara anda dan orang yang ditemu bual, atau di tengah-tengah meja."
+                },
+                {
+                    "h3": "Lihat transkrip terbina",
+                    "content": "Perkataan muncul di skrin sebaik sahaja diucapkan, lengkap dengan tanda baca, jadi anda boleh mengikutinya atau menyemak semula sesuatu yang baru disebut."
+                },
+                {
+                    "h3": "Tekan Henti dan simpan",
+                    "content": "Apabila sesi tamat, tekan Henti. Transkrip penuh sedia untuk dibaca, disunting, disalin atau dieksport sebagai TXT, DOCX, PDF, SRT atau VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Langsung, Terus dalam Pelayar Anda",
+            "content": [
+                "Transkripsi langsung bermaksud tiada jurang antara seseorang bercakap dan perkataan itu ditulis. Teks bergerak seiring dengan perbualan, jadi transkrip di skrin anda sentiasa terkini.",
+                "Ini mengubah cara anda menggunakannya. Dalam kuliah, anda boleh menyemak semula definisi yang diberi oleh pensyarah seminit tadi. Dalam temu bual, anda boleh melihat petikan muncul di skrin sebaik sahaja ia diucapkan dan menandakannya untuk kemudian. Dalam perbincangan yang pantas, anda boleh menyemak angka atau nama tanpa meminta sesiapa mengulanginya."
+            ]
+        },
+        {
+            "h2": "Audio ke Teks Masa Nyata Terus dari Mikrofon Anda",
+            "content": [
+                "Tukar audio ke teks masa nyata daripada apa sahaja yang boleh didengar oleh mikrofon anda. Tekan Mula dan TranscriptX mentranskripsikan audio secara berterusan — seorang penceramah atau beberapa orang, di pejabat yang sunyi atau di dewan kuliah.",
+                "Jika anda sudah mempunyai rakaman audio, anda tidak perlu memainkannya semula ke mikrofon. Muat naik fail itu ke alat [Audio to Text](/ms/audio-to-text) atau alat [Voice to Text](/ms/voice-to-text), dan ia akan ditranskripsikan terus."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkripsikan Secara Langsung",
+            "intro": [
+                "Transkripsi masa nyata dibina untuk saat-saat apabila seseorang sedang bercakap dan anda memerlukan rekod bertulis. Kegunaan paling biasa:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi kuliah secara langsung",
+                    "content": "Biarkan transkrip mencatat nota sementara anda mendengar. Selepas itu, setiap penerangan, contoh dan definisi tersedia dalam bentuk teks yang boleh dicari dan diulang kaji."
+                },
+                {
+                    "h3": "Temu bual",
+                    "content": "Kekalkan hubungan mata dengan orang yang anda temu bual dan tidak perlu menulis. Jawapan mereka ditranskripsikan secara langsung, jadi petikan tepat sudah tertulis sebaik sahaja diucapkan."
+                },
+                {
+                    "h3": "Perbualan dan perbincangan",
+                    "content": "Rakam sesi sumbang saran, mesyuarat perancangan atau perbualan penting ketika ia berlangsung, supaya tiada sesiapa perlu bergantung pada ingatan tentang apa yang telah dipersetujui."
+                },
+                {
+                    "h3": "Ceramah, seminar dan acara",
+                    "content": "Transkripsikan penceramah secara langsung dari tempat duduk penonton dan pulang dengan rekod bertulis penuh, bukan sekadar slaid."
+                },
+                {
+                    "h3": "Mesyuarat bersemuka",
+                    "content": "Letakkan komputer riba atau telefon di atas meja, tekan Mula, dan perbincangan ditulis sepanjang mesyuarat — sedia untuk dijadikan minit mesyuarat sebaik sahaja ia tamat."
+                },
+                {
+                    "h3": "Mengikuti ucapan yang sukar didengar",
+                    "content": "Bagi sesiapa yang pekak atau kurang pendengaran, atau mendengar dalam bahasa kedua, membaca perkataan secara masa nyata menjadikan perbualan atau kuliah jauh lebih mudah diikuti."
+                }
+            ]
+        },
+        {
+            "h2": "Tip untuk Transkripsi Masa Nyata yang Tepat",
+            "content": [
+                "Ketepatan transkripsi masa nyata bergantung pada apa yang didengar oleh mikrofon. Semakin dekat peranti dengan penceramah, semakin bersih teksnya — dalam kuliah, duduk di barisan hadapan; dalam temu bual, letakkan telefon atau komputer riba di antara anda dan tetamu anda.",
+                "Bunyi bising latar dan orang yang bercakap serentak ialah punca utama ketepatan menurun. Tempat yang lebih sunyi dan seorang bercakap pada satu masa memberi perbezaan yang ketara, dan jika ada bahagian yang bising, anda boleh membetulkan satu dua perkataan dalam transkrip selepas menekan Henti.",
+                "TranscriptX menyokong lebih 100 bahasa, termasuk live transcription bahasa Melayu, jadi anda boleh membuat transkripsi dalam bahasa yang sebenarnya dituturkan, tanpa perlu menterjemah dalam kepala sambil mencatat nota."
+            ]
+        },
+        {
+            "h2": "Transkrip Langsung dalam Talian, Percuma untuk Bermula",
+            "content": [
+                "Anda boleh membuat transkrip langsung dalam talian dengan serta-merta — tanpa perlu daftar dan tanpa perlu memasang apa-apa. Dengan pelan percuma, transkripsi masa nyata percuma boleh dimulakan sekarang juga; pendaftaran akaun adalah pilihan, dan pelan berbayar tersedia jika anda memerlukan penggunaan lebih banyak. Ia berfungsi sama di Windows, Mac, Chromebook, Android dan iPhone, asalkan pelayar anda boleh menggunakan mikrofon."
+            ]
+        },
+        {
+            "h2": "Transkripsi Masa Nyata atau Real-Time Speech to Text?",
+            "intro": [
+                "Kedua-duanya menukar ucapan kepada teks ketika ia diucapkan, tetapi dibina untuk tugas yang berbeza. Pilih berdasarkan perkataan siapa yang anda mahu di atas kertas."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih transkripsi masa nyata untuk merakam kata-kata orang lain",
+                    "content": "Apabila anda mahukan rekod bertulis bagi kuliah, temu bual, perbualan atau ceramah — ucapan yang anda dengar, bukan ucapan yang anda karang sendiri — transkripsi masa nyata dibina untuk itu."
+                },
+                {
+                    "h3": "Pilih Real-Time Speech to Text untuk menulis dengan suara anda",
+                    "content": "Apabila anda mahu menyebut sendiri e-mel, nota atau draf anda dan tidak menaipnya, gunakan [Real-Time Speech to Text](/ms/real-time-speech-to-text). Dan jika ucapan itu sudah dirakam, alat [Voice to Text](/ms/voice-to-text) dan [Audio to Text](/ms/audio-to-text) akan mentranskripsikan fail itu secara terus."
+                }
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Apakah itu transkripsi masa nyata?",
+                    "a": "Transkripsi masa nyata menukar ucapan kepada teks ketika ia sedang diucapkan. Anda tekan Mula, mikrofon mendengar, dan perkataan muncul di skrin sambil orang bercakap, jadi transkrip sudah sedia sebaik sahaja sesi tamat."
+                },
+                {
+                    "q": "Bagaimana saya memulakan transkripsi langsung?",
+                    "a": "Buka TranscriptX, tekan Mula dan benarkan akses mikrofon apabila pelayar anda meminta. Transkripsi bermula serta-merta. Tekan Henti apabila anda selesai."
+                },
+                {
+                    "q": "Adakah transkripsi masa nyata percuma?",
+                    "a": "Ya, anda boleh bermula secara percuma. Transkripsi masa nyata berjalan dalam pelayar di desktop, tablet atau telefon tanpa perlu memasang apa-apa, dan anda boleh menggunakannya tanpa mendaftar. Jika anda kerap membuat transkripsi, pelan berbayar menawarkan penggunaan yang lebih banyak."
+                },
+                {
+                    "q": "Bolehkah saya memuat turun transkrip selepas menekan Henti?",
+                    "a": "Boleh. Selepas berhenti, anda boleh membaca dan menyunting transkrip, menyalinnya, atau mengeksportnya sebagai TXT, DOCX, PDF, SRT atau VTT."
+                },
+                {
+                    "q": "Sejauh manakah ketepatan transkripsi langsung?",
+                    "a": "Ia banyak bergantung pada apa yang didengar oleh mikrofon. Ucapan yang jelas dan dekat dengan peranti hampir tepat perkataan demi perkataan; bilik yang bising atau orang yang bercakap serentak wajar disemak sekali imbas selepas anda berhenti."
+                },
+                {
+                    "q": "Bahasa apakah yang boleh saya transkripsikan secara langsung?",
+                    "a": "Lebih 100 bahasa disokong, termasuk bahasa Melayu, jadi anda boleh membuat transkripsi dalam bahasa yang sedang dituturkan."
+                },
+                {
+                    "q": "Bagaimana jika saya sudah ada rakaman?",
+                    "a": "Tidak perlu memainkannya semula ke mikrofon. Muat naik ke alat Voice to Text atau Audio to Text dan fail itu akan ditranskripsikan secara terus."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Mulakan Transkripsi Masa Nyata Secara Percuma",
+        "content": [
+            "Tekan Mula dan TranscriptX mentranskripsikan apa yang diperkatakan secara masa nyata — kuliah, temu bual, perbualan atau ceramah — dalam lebih 100 bahasa, terus dalam pelayar anda.",
+            "Tekan Henti dan transkrip penuh sedia untuk dibaca, disunting, disalin atau dieksport sebagai TXT, DOCX, PDF, SRT atau VTT. Percuma untuk bermula, tanpa perlu daftar, tanpa perlu memasang apa-apa."
+        ]
+    }
+}

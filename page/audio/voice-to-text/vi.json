@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Chuyển giọng nói thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "description": "Chuyển giọng nói thành văn bản online miễn phí. Ghi âm trực tiếp trên trình duyệt hoặc tải lên bản ghi giọng nói, nhận văn bản chính xác với hơn 100 ngôn ngữ. Xuất TXT, DOCX, PDF. Không cần đăng ký.",
+        "schemaName": "Công cụ chuyển giọng nói thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp chuyển giọng nói và các bản ghi giọng nói thành văn bản với hơn 100 ngôn ngữ, có phân biệt người nói và xuất ra TXT, DOCX, PDF, SRT, VTT. Ghi âm trực tiếp trên trình duyệt hoặc tải lên bản ghi có sẵn, không cần tạo tài khoản.",
+        "ogTitle": "Chuyển giọng nói thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "ogDescription": "Biến giọng nói của bạn thành văn bản. Ghi âm ngay trên trình duyệt hoặc tải lên bản ghi giọng nói và nhận văn bản chính xác với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển giọng nói thành văn bản",
+        "subtitle": "Biến lời nói thành chữ viết. Ghi âm thẳng trên trình duyệt hoặc tải lên một bản ghi giọng nói, TranscriptX sẽ viết ra thành văn bản với hơn 100 ngôn ngữ, gán nhãn từng người nói. Đọc chính tả một ghi chú, chuyển một đoạn ghi âm nhanh, hay chuyển một cuộc trò chuyện đã thu lại — rồi xuất ra TXT, DOCX, PDF, SRT hoặc VTT. Không cần tài khoản, không phải cài đặt gì.",
+        "placeholder": "Ghi âm giọng nói hoặc tải lên bản ghi...",
+        "button": "Chuyển giọng nói thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để chuyển giọng nói thành văn bản?",
+        "answer": "Ghi âm giọng nói ngay trong TranscriptX hoặc tải lên một bản ghi giọng nói, công cụ sẽ biến lời nói thành chữ viết chỉ trong vài giây, hỗ trợ hơn 100 ngôn ngữ. Sau đó bạn có thể đọc, chỉnh sửa, sao chép hoặc xuất văn bản ra file. Không cần đăng ký tài khoản và không phải cài đặt gì."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển giọng nói thành văn bản là gì?",
+            "content": [
+                "Chuyển giọng nói thành văn bản là biến lời nói thành chữ viết. Bạn nói — hoặc mở lại một bản ghi có người đang nói — và thay vì phải gõ, bạn nhận về đúng những câu chữ đó dưới dạng văn bản để đọc, sửa và lưu lại. Vẫn là ý tưởng đằng sau tính năng đọc chính tả trên điện thoại của bạn, nhưng nó xử lý được cả những bản ghi dài, chạy ngay trên trình duyệt, không giới hạn thời lượng và không cần tài khoản.",
+                "Điểm khác biệt so với khi làm việc với một file âm thanh nằm ở xuất phát điểm. Chuyển giọng nói thành văn bản được xây dựng quanh lời nói ngay lúc nó bật ra, hoặc lúc bạn vừa thu lại: một đoạn ghi âm nhanh khi đang đi bộ, một cuộc họp bạn thu bằng điện thoại, một ý tưởng bạn nói thành lời vì nói nhanh hơn gõ. Đầu vào ở đây là giọng nói của bạn hoặc một bản ghi giọng nói, không phải một file media bạn tải về.",
+                "Giá trị của nó nằm ở chỗ nói thì nhanh hơn gõ, nhưng chữ viết lại hữu dụng hơn âm thanh. Chuyển giọng nói thành văn bản đứng ở giữa hai thứ đó — bạn có được tốc độ của việc nói và cái dạng tìm kiếm được, sửa được, chia sẻ được của chữ viết, mà không phải tự ngồi gõ lại.",
+                "TranscriptX làm việc này miễn phí, chạy trực tiếp trên trình duyệt, dù bạn ghi âm tại chỗ hay tải lên một bản ghi đã có sẵn."
+            ]
+        },
+        {
+            "h2": "Chuyển giọng nói thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Ghi âm trực tiếp trên trình duyệt hoặc tải lên bản ghi giọng nói"
+                },
+                {
+                    "label": "Giới hạn thời lượng ghi âm",
+                    "value": "Không"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — mỗi người nói được gán nhãn riêng"
+                },
+                {
+                    "label": "Dấu thời gian",
+                    "value": "Tùy chọn — bật hoặc tắt cho từng bản ghi"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển giọng nói thành văn bản",
+            "steps": [
+                {
+                    "h3": "Ghi âm hoặc tải lên",
+                    "content": "Bấm ghi âm rồi nói thẳng vào trình duyệt, hoặc tải lên một bản ghi giọng nói bạn đã thu trước đó bằng điện thoại hay máy ghi âm. Bạn nói bao lâu cũng được, không có giới hạn."
+                },
+                {
+                    "h3": "Công cụ nghe và viết ra thành chữ",
+                    "content": "TranscriptX tự nhận diện ngôn ngữ đang được nói trong hơn 100 ngôn ngữ, rồi chuyển lời nói thành văn bản có dấu câu đầy đủ, gán nhãn từng người khi có nhiều hơn một người nói."
+                },
+                {
+                    "h3": "Đọc và chỉnh sửa văn bản",
+                    "content": "Câu chữ hiện ra dưới dạng văn bản bạn có thể dọn lại ngay tại chỗ — cắt một câu nói hụt, sửa một cái tên, hay gọt một câu lan man thành một câu rõ ràng."
+                },
+                {
+                    "h3": "Sao chép hoặc xuất file",
+                    "content": "Sao chép văn bản vào một ghi chú, một tài liệu hay một tin nhắn, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT để lưu lại hoặc chia sẻ."
+                }
+            ]
+        },
+        {
+            "h2": "Ghi âm trực tiếp hoặc tải lên bản ghi có sẵn",
+            "content": [
+                "Chuyển giọng nói thành văn bản hoạt động theo hai cách, và cả hai đều bắt đầu từ giọng nói của bạn chứ không phải từ một file tải về.",
+                "Ghi âm trực tiếp khi câu chữ còn chưa tồn tại. Mở công cụ, bấm ghi âm và nói — một ý tưởng bạn muốn viết xuống, một lời nhắc cho chính mình, một bản nháp bạn thà nói hơn là gõ. Ngay khi bạn dừng lại, lời nói đã thành văn bản để bạn sửa và giữ lại. Đây là đường nhanh nhất khi bạn nghĩ thành tiếng và muốn giữ lại ý đó mà không phải với tay lấy bàn phím.",
+                "Tải lên bản ghi khi giọng nói đã được thu lại rồi. Một đoạn ghi âm nhanh trên điện thoại, một tin nhắn thoại từ ứng dụng nhắn tin, một cuộc trò chuyện bạn đã thu từ trước — tải lên và TranscriptX sẽ chuyển toàn bộ thành văn bản. Dù theo cách nào thì cũng không có giới hạn thời lượng, nên một lời nhắc mười giây và một buổi thảo luận thu dài cả tiếng đều được xử lý như nhau."
+            ]
+        },
+        {
+            "h2": "Chuyển bản ghi giọng nói thành văn bản",
+            "content": [
+                "Một bản ghi giọng nói giữ lại mọi thứ đã được nói ra, nhưng ở một dạng bạn không tìm kiếm được, không trích dẫn được và không sửa được. Bóc băng nó ra chính là chuyển bản ghi giọng nói thành văn bản — từ bản ghi ra thẳng bản chữ chỉ trong một bước, thành thứ bạn thực sự làm việc được.",
+                "Việc chuyển bản ghi giọng nói thành văn bản có ích nhất khi bản ghi chứa thông tin bạn sẽ cần đến sau này. Một buổi phỏng vấn đã thu trở thành văn bản trích dẫn được, với từng người nói được gán nhãn. Một cuộc họp đã thu trở thành biên bản ghi lại những gì đã thống nhất. Một bài giảng đã thu trở thành vở ghi bạn tìm được theo từ khóa. Dù bạn gọi kết quả đó là bản bóc băng của một bản ghi giọng nói hay đơn giản là câu chữ trên trang giấy, thì đó chính là thứ cho phép bạn dùng được nội dung thay vì chỉ cất giữ file ghi âm.",
+                "TranscriptX chuyển bản ghi giọng nói thành văn bản dù trong đó có một người hay nhiều người. Khi có nhiều hơn một giọng, mỗi người nói được gán nhãn riêng, nên một cuộc trò chuyện đã thu đọc lên như một cuộc đối đáp qua lại chứ không phải một dòng chữ liền mạch."
+            ]
+        },
+        {
+            "h2": "Bạn có thể chuyển những gì thành văn bản",
+            "intro": [
+                "Ở bất cứ đâu giọng nói của bạn mang theo thứ đáng giữ lại, chuyển giọng nói thành văn bản sẽ biến nó thành một bản ghi chép dùng được. Những trường hợp phổ biến nhất:"
+            ],
+            "items": [
+                {
+                    "h3": "Ghi chú và ghi âm nhanh",
+                    "content": "Giữ lại một ý tưởng, một lời nhắc hay một bản nháp bằng cách nói ra, và nhận về văn bản sửa được thay vì một file ghi âm mà bạn phải mở lại mới nhớ mình đã nói gì."
+                },
+                {
+                    "h3": "Cuộc họp và cuộc gọi",
+                    "content": "Thu lại một cuộc họp bằng điện thoại rồi biến nó thành biên bản, có gán nhãn từng người, để các quyết định và đầu việc nằm trên giấy chứ không nằm trong trí nhớ của ai đó."
+                },
+                {
+                    "h3": "Phỏng vấn",
+                    "content": "Chuyển một buổi phỏng vấn đã thu thành văn bản trích dẫn được, có tách người nói, để bạn lấy ra đúng nguyên văn thay vì diễn giải lại theo trí nhớ."
+                },
+                {
+                    "h3": "Soạn tài liệu bằng lời nói",
+                    "content": "Nói ra bản nháp đầu tiên của một email, một báo cáo hay một bài viết rồi để công cụ viết nó ra thành chữ, sau đó bạn chỉ việc gọt lại văn bản thay vì gõ từng từ từ đầu."
+                },
+                {
+                    "h3": "Bài giảng và học tập",
+                    "content": "Thu lại một buổi học hay một buổi tự học rồi chuyển thành văn bản để bạn tìm kiếm, đánh dấu và ôn lại về sau."
+                },
+                {
+                    "h3": "Hỗ trợ tiếp cận và dùng rảnh tay",
+                    "content": "Với những ai thấy việc gõ chậm hoặc khó khăn, nói ra và nhận lại văn bản sạch sẽ là cách viết nhanh hơn, thoải mái hơn."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển giọng nói thành văn bản để soạn thảo",
+            "content": [
+                "Phần lớn mọi người nói nhanh hơn gõ rất nhiều, và đó là lý do nhập liệu bằng giọng nói hợp một cách rất tự nhiên với công cụ này. Khi bản nháp đầu tiên đã có sẵn trong đầu, nói nó ra thành lời rồi nhận lại văn bản luôn nhanh hơn là dựng từng chữ một trên bàn phím.",
+                "Cái khó của việc gõ văn bản bằng giọng nói là ngôn ngữ nói lỏng lẻo hơn ngôn ngữ viết — có những câu nói hụt, những từ đệm và những câu đi lạc đề. Vì công cụ trả về cho bạn văn bản sửa được chứ không phải một tài liệu hoàn chỉnh, chuyện đó rất dễ khắc phục: cứ để câu chữ thô rơi xuống với tốc độ của lời nói, rồi dành một phút siết chúng lại cho gọn. Phần khó nhất, đi từ trang trắng đến một bản nháp đầy đủ, thì đã xong rồi.",
+                "Cách này dùng được cho mọi thứ bạn vẫn thường gõ: email, ghi chú, dàn ý, nhật ký, hay hình hài thô của một bài viết mà bạn sẽ biên tập lại sau."
+            ]
+        },
+        {
+            "h2": "Độ chính xác và ngôn ngữ",
+            "content": [
+                "Văn bản khớp với những gì bạn nói đến đâu phụ thuộc vào chính bản ghi. Nói rõ ràng với nhịp đều, gần micro và tránh xa tiếng ồn xung quanh sẽ cho kết quả sạch nhất — và vì phần lớn việc chuyển giọng nói thành văn bản là ghi lại chính giọng của bạn, điều đó thường nằm trong tầm kiểm soát của bạn.",
+                "Độ chính xác giảm xuống khi xung quanh ồn ào, khi nhiều người nói chồng lên nhau, hoặc khi ai đó nói rất nhanh và lí nhí. Những đoạn như vậy đáng để bạn rà lại một lượt, nhưng với một đoạn ghi chú rõ ràng hay một cuộc trò chuyện được thu tốt thì văn bản trả về gần như đúng từng chữ.",
+                "TranscriptX nhận dạng lời nói ở hơn 100 ngôn ngữ, trong đó có tiếng Việt, và tự phát hiện bạn đang nói ngôn ngữ nào, nên bạn có thể đọc chính tả hay chuyển bản ghi bằng chính tiếng của mình mà không phải chỉnh cài đặt gì trước."
+            ]
+        },
+        {
+            "h2": "Chọn công cụ giọng nói hay công cụ âm thanh?",
+            "intro": [
+                "Cả hai đều biến lời nói thành chữ, nhưng chúng được thiết kế quanh những xuất phát điểm khác nhau. Hãy chọn theo nơi câu chữ của bạn đến từ đó."
+            ],
+            "items": [
+                {
+                    "h3": "Chọn công cụ chuyển giọng nói thành văn bản cho lời nói của chính bạn",
+                    "content": "Khi bạn muốn ghi âm giọng mình trực tiếp, nói ra một bản nháp, hoặc chuyển một đoạn ghi âm nhanh hay một bản ghi do chính bạn tạo ra, thì đây là công cụ được làm cho việc đó — bao gồm cả việc ghi âm thẳng trên trình duyệt."
+                },
+                {
+                    "h3": "Chọn công cụ âm thanh cho các file audio có sẵn",
+                    "content": "Khi bạn đã có sẵn một file âm thanh — một tập podcast, một buổi phỏng vấn tải về, một file MP3 của cuộc họp — thì công cụ [Audio to Text](/vi/audio-to-text) được thiết kế quanh việc tải lên và chuyển các file media thành văn bản. Và nếu bản ghi của bạn thực chất là phần tiếng của một video, công cụ [YouTube Transcript](/vi/youtube-transcript) xử lý thẳng nguồn đó."
+                }
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao chuyển giọng nói thành văn bản miễn phí?",
+                    "a": "Ghi âm giọng nói trong TranscriptX hoặc tải lên một bản ghi giọng nói, công cụ sẽ chuyển lời nói thành văn bản mà không tính phí. Không phải tạo tài khoản, không phải cài đặt gì và không giới hạn thời lượng ghi âm."
+                },
+                {
+                    "q": "Tôi có ghi âm thẳng trong công cụ được không?",
+                    "a": "Có. Bạn có thể ghi âm trực tiếp trên trình duyệt và nhận văn bản ngay khi dừng lại, hoặc tải lên một bản ghi đã thu từ trước. Cả hai cách đều hoạt động như nhau."
+                },
+                {
+                    "q": "Tôi có thể chuyển một bản ghi giọng nói đã có sẵn không?",
+                    "a": "Có. Tải bản ghi lên — một đoạn ghi âm nhanh, một tin nhắn thoại, một cuộc trò chuyện đã thu — và TranscriptX sẽ chuyển toàn bộ thành văn bản, gán nhãn từng người nói khi có nhiều hơn một người. Bạn có thể chuyển bản ghi dài bao nhiêu cũng được theo cách này."
+                },
+                {
+                    "q": "Chuyển giọng nói thành văn bản có hợp để soạn thảo không?",
+                    "a": "Có. Nói nhanh hơn gõ, nên nhập liệu bằng giọng nói là một trong những cách dùng phổ biến nhất. Bạn nhận về văn bản sửa được, nên rất dễ nói ra một bản nháp thô rồi gọt lại thay vì gõ từ đầu."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ. Ngôn ngữ đang được nói sẽ tự động được nhận diện, nên bạn có thể đọc chính tả hay chuyển bản ghi bằng chính tiếng của mình mà không cần chọn trước."
+                },
+                {
+                    "q": "Công cụ có phân biệt được nhiều người nói không?",
+                    "a": "Có. Khi một bản ghi có nhiều hơn một giọng, mỗi người nói được gán nhãn riêng, nên một cuộc trò chuyện hay cuộc họp đã thu đọc lên như một cuộc đối đáp rõ ràng."
+                },
+                {
+                    "q": "Có giới hạn thời lượng tôi được ghi âm không?",
+                    "a": "Không. Một ghi chú giọng nói ngắn và một buổi thu dài đều dùng được; bản ghi dài hơn chỉ cần thêm chút thời gian để xử lý."
+                },
+                {
+                    "q": "Tôi có phải cài ứng dụng không?",
+                    "a": "Không. Phần mềm chuyển giọng nói thành văn bản này chạy ngay trên trình duyệt máy tính hay điện thoại, không cần ứng dụng, tiện ích mở rộng hay tài khoản."
+                },
+                {
+                    "q": "Chuyển giọng nói thành văn bản chính xác đến đâu?",
+                    "a": "Chủ yếu phụ thuộc vào bản ghi. Lời nói rõ ràng, gần micro và tránh tiếng ồn sẽ trả về gần như đúng từng chữ, còn những đoạn ồn ào hoặc nói chồng lên nhau thì đáng rà lại một lượt trước khi bạn dựa vào đó."
+                },
+                {
+                    "q": "Khác nhau thế nào giữa công cụ giọng nói và công cụ âm thanh?",
+                    "a": "Công cụ giọng nói được làm cho những lời nói do chính bạn thu lại — ghi âm trực tiếp hoặc chuyển một đoạn ghi âm nhanh. Còn công cụ chuyển âm thanh thành văn bản được làm cho các file audio có sẵn như podcast và MP3. Nếu thứ bạn có là một file media chứ không phải một bản ghi giọng nói, hãy dùng công cụ Audio to Text."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển giọng nói thành văn bản miễn phí",
+        "content": [
+            "Ghi âm thẳng trên trình duyệt hoặc tải lên một bản ghi giọng nói, TranscriptX sẽ biến lời nói của bạn thành văn bản với hơn 100 ngôn ngữ, có gán nhãn người nói và dấu thời gian tùy chọn.",
+            "Nói ra một bản nháp, chuyển một đoạn ghi âm nhanh, hay viết lại một cuộc trò chuyện đã thu — rồi đọc, chỉnh sửa, sao chép hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

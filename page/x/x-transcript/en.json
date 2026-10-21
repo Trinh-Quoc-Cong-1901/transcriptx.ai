@@ -1,0 +1,168 @@
+{
+    "seo": {
+        "title": "X Transcription — X Video to Text & Transcript Generator Free | TranscriptX",
+        "description": "Free X transcription: paste an x.com post link and turn the video into text in 100+ languages. Speaker labels, timestamps, SRT export. No X account, no sign-up.",
+        "schemaName": "TranscriptX X Video Transcription Tool",
+        "schemaDescription": "Free online X transcription tool. Paste the link to a public post on x.com and get the spoken words of its video or audio as text in over 100 languages, with speaker labels and optional timestamps. An hour of audio takes about 1–2 minutes, with around 95% accuracy in internal tests. Export to TXT, DOCX, PDF, SRT or VTT. No X account required; up to 5 hours free per day.",
+        "ogTitle": "X Transcription — X Video to Text, Free",
+        "ogDescription": "Paste an x.com link, get the transcript. X video to text in 100+ languages with speaker labels and SRT captions. Free, no X account."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "X Transcription – Turn Any X Video Into Text",
+        "subtitle": "Long-form videos, livestream replays, breaking-news clips, creator monologues — X carries more video every month, and none of it is searchable. Paste an x.com post link and TranscriptX writes out every word, labels each speaker and adds timestamps, in over 100 languages. Export to TXT, DOCX, PDF, SRT or VTT. No X account, nothing to download.",
+        "placeholder": "Paste an x.com post URL...",
+        "button": "Transcribe X Video"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe a video on X?",
+        "answer": "Open the post on X, copy its link (x.com/username/status/...), and paste it into TranscriptX. The video's audio is turned into punctuated text with speaker labels — a short clip in seconds, an hour in about 1–2 minutes. You do not need an X account, and up to 5 hours a day is free. The post must be public."
+    },
+    "sections": [
+        {
+            "h2": "What X Transcription Does",
+            "content": [
+                "X transcription takes the spoken audio in an X post — a video, a livestream replay or an audio clip — and turns it into written text. Instead of scrubbing through a 40-minute long-form video to find one sentence, you search the transcript and copy it.",
+                "X has become a video platform in its own right. Premium creators post long-form videos, news outlets stream live, and companies announce products on camera. Yet X offers no way to read, search or export what was said. An X video transcription fills that gap.",
+                "This page handles every way of asking for it — X transcription, X video to text, an X transcript generator — because the action is identical: paste the post link, get the words."
+            ]
+        },
+        {
+            "h2": "X Video Transcription: Key Facts",
+            "specs": [
+                {
+                    "label": "Works with",
+                    "value": "Public x.com posts with video or audio, including long-form videos and livestream replays"
+                },
+                {
+                    "label": "X account needed",
+                    "value": "No"
+                },
+                {
+                    "label": "Protected accounts",
+                    "value": "Not supported — only public posts can be accessed"
+                },
+                {
+                    "label": "Free allowance",
+                    "value": "Up to 5 hours a day, resets at the start of each day (PT)"
+                },
+                {
+                    "label": "Processing time",
+                    "value": "About 1–2 minutes per hour of video"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% on clear audio (internal tests)"
+                },
+                {
+                    "label": "Speakers",
+                    "value": "Labelled automatically"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, auto-detected"
+                },
+                {
+                    "label": "Downloads",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "X Video to Text in Three Steps",
+            "steps": [
+                {
+                    "h3": "Copy the post link",
+                    "content": "On mobile, tap the share icon under the post and pick Copy link. On desktop, copy the x.com address from your browser while the post is open."
+                },
+                {
+                    "h3": "Paste and start",
+                    "content": "Paste the link above and press the button. TranscriptX fetches the media from the public post — there is no file to save and no X login."
+                },
+                {
+                    "h3": "Read and download",
+                    "content": "The transcript appears with punctuation, speaker labels and optional timestamps. Copy what you need or download it as a document or caption file."
+                }
+            ]
+        },
+        {
+            "h2": "An X Transcript Generator That Reads the Audio",
+            "content": [
+                "Captions on X are hit and miss: many videos have none, and where they exist you cannot copy them as a clean document. An X transcript generator that works from the audio avoids both problems — if someone speaks in the video, you get the text.",
+                "TranscriptX separates voices from background music and crowd noise before transcribing, which matters on X, where much of the video is filmed on phones in loud places. On clear recordings, our internal tests measure around 95% word accuracy.",
+                "Length is not a problem either. As an X video transcriber, it treats a two-hour long-form video the same way as a 20-second clip: an hour of audio takes about 1–2 minutes, and anything up to 5 hours a day is free."
+            ]
+        },
+        {
+            "h2": "Captions for Your Own X Videos",
+            "content": [
+                "If you publish video on X, a transcript doubles as a caption file. Export it as SRT or VTT and the timing is already done — each line is matched to the moment it is spoken.",
+                "Captions keep muted viewers watching and make your videos accessible. Add the SRT when you post from a desktop browser, or import it into your editor to burn the captions into the video."
+            ]
+        },
+        {
+            "h2": "Who Uses X Video Transcription",
+            "items": [
+                {
+                    "h3": "Reporters and fact-checkers",
+                    "content": "Pull a word-for-word quote from a statement posted on X, with the timestamp to back it up."
+                },
+                {
+                    "h3": "Long-form creators",
+                    "content": "Turn each video into captions, a written summary and posts for other platforms from one transcript."
+                },
+                {
+                    "h3": "Brands and analysts",
+                    "content": "Track what executives, competitors and public figures say on camera without watching every video in full."
+                },
+                {
+                    "h3": "Researchers",
+                    "content": "Build a searchable text archive of public video posts for a project, before posts are deleted or edited."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is X transcription free?",
+                    "a": "Yes, for up to 5 hours of audio and video a day, with no account and no card. The allowance resets at the start of each day, Pacific Time (PT). Paid plans remove the daily cap."
+                },
+                {
+                    "q": "Do I have to log in to X?",
+                    "a": "No. TranscriptX only needs the link to a public post."
+                },
+                {
+                    "q": "Can I transcribe a post from a protected account?",
+                    "a": "No. Posts from protected accounts are visible only to approved followers, so TranscriptX cannot access their media."
+                },
+                {
+                    "q": "Can it handle long-form X videos and livestream replays?",
+                    "a": "Yes. Long videos are transcribed in one piece at about 1–2 minutes per hour of audio. A live stream needs to end and be available as a replay first."
+                },
+                {
+                    "q": "What about X Spaces?",
+                    "a": "Recorded Spaces can be transcribed too. See [X Spaces Transcript](/x-spaces-transcript) for details."
+                },
+                {
+                    "q": "Can I download the transcript as subtitles?",
+                    "a": "Yes. Choose SRT or VTT to get a timed caption file, or TXT, DOCX or PDF for reading."
+                },
+                {
+                    "q": "How long do you keep the files?",
+                    "a": "For a few days, so you can return to your transcript, then they are deleted automatically. Your content is never used to train AI models."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Get the Words Out of Any X Video",
+        "content": [
+            "Paste a public x.com link and TranscriptX returns the full transcript in over 100 languages, with speaker labels, timestamps and caption files ready to download.",
+            "Up to 5 hours free every day, no X account and no sign-up. For recorded Spaces, use [X Spaces Transcript](/x-spaces-transcript); for other platforms, try [YouTube Transcript](/youtube-transcript) or [TikTok Transcript](/tiktok-transcript)."
+        ]
+    }
+}

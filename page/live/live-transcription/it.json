@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Trascrizione in tempo reale — Gratis online, nel browser",
+        "description": "Premi Avvia e trascrivi lezioni, interviste e conversazioni mentre si parla. Trascrizione in tempo reale online, senza iscrizione. Esporta in TXT, DOCX, PDF.",
+        "schemaName": "TranscriptX Trascrizione in tempo reale",
+        "schemaDescription": "Strumento online di trascrizione in tempo reale che ascolta dal microfono e trascrive il parlato mentre viene pronunciato, in oltre 100 lingue. Premi Avvia per catturare lezioni, interviste e conversazioni nel momento in cui avvengono, poi copia o esporta la trascrizione in TXT, DOCX, PDF, SRT o VTT. Funziona nel browser e per iniziare non serve iscriversi.",
+        "ogTitle": "Trascrizione in tempo reale — Gratis online, nel browser",
+        "ogDescription": "Premi Avvia e guarda il parlato diventare una trascrizione in tempo reale. Lezioni, interviste e conversazioni in diretta, gratis per iniziare, senza account."
+    },
+    "hero": {
+        "h1": "Trascrizione in tempo reale – Trascrivi il parlato mentre accade",
+        "subtitle": "Premi Avvia: TranscriptX ascolta tramite il microfono e trasforma in testo ciò che viene detto, in tempo reale. Trascrivi una lezione, un'intervista o una conversazione mentre si svolge, poi premi Stop e conserva la trascrizione completa: copiala o esportala in TXT, DOCX, PDF, SRT o VTT. Gratis per iniziare, in oltre 100 lingue, senza installare nulla.",
+        "placeholder": "Premi Avvia per iniziare la trascrizione in tempo reale...",
+        "button": "Avvia la trascrizione"
+    },
+    "quickAnswer": {
+        "question": "Come si fa una trascrizione in tempo reale?",
+        "answer": "Apri TranscriptX, premi Avvia e consenti l'accesso al microfono. Tutto ciò che viene detto vicino al microfono viene trascritto in tempo reale e compare sullo schermo mentre si parla. Quando hai finito premi Stop per leggere, modificare, copiare o esportare la trascrizione completa. È gratis per iniziare, senza iscrizione e senza nulla da installare."
+    },
+    "sections": [
+        {
+            "h2": "Che cos'è la trascrizione in tempo reale?",
+            "content": [
+                "La trascrizione in tempo reale trasforma il parlato in testo mentre qualcuno sta ancora parlando. Invece di registrare una lezione o un'intervista e trascriverla in un secondo momento, premi Avvia, le parole compaiono sullo schermo man mano che le persone parlano e, quando la sessione finisce, la trascrizione è già pronta.",
+                "Lo scopo è catturare ciò che dicono gli altri, nel momento stesso. Un professore che spiega un argomento, una fonte che risponde alle tue domande, un gruppo che discute un progetto: la trascrizione in tempo reale segue il discorso e mette tutto per iscritto, così puoi concentrarti sulla conversazione invece di affannarti a prendere appunti.",
+                "È questo a distinguerla dalla trascrizione di un file. Non c'è nessuna registrazione da caricare e nessuna elaborazione da aspettare alla fine: trascrivi in diretta e il testo si compone in tempo reale.",
+                "TranscriptX lo fa direttamente nel browser, gratis per iniziare. Premi Avvia, lascialo ascoltare e conserva la trascrizione quando hai finito."
+            ]
+        },
+        {
+            "h2": "La trascrizione in tempo reale in breve",
+            "specs": [
+                {
+                    "label": "Prezzo",
+                    "value": "Gratis per iniziare — piani a pagamento per un uso più intenso"
+                },
+                {
+                    "label": "Account richiesto",
+                    "value": "No — l'iscrizione è facoltativa"
+                },
+                {
+                    "label": "Installazione",
+                    "value": "Nessuna — funziona nel browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Il tuo microfono, in diretta — premi Avvia per cominciare"
+                },
+                {
+                    "label": "Output",
+                    "value": "Testo che compare in tempo reale mentre le persone parlano"
+                },
+                {
+                    "label": "Durata della sessione",
+                    "value": "Usala per un'intera lezione o intervista"
+                },
+                {
+                    "label": "Lingue",
+                    "value": "100+"
+                },
+                {
+                    "label": "Formati di esportazione",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivi",
+                    "value": "Browser desktop, tablet e mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Come trascrivere in tempo reale",
+            "steps": [
+                {
+                    "h3": "Premi Avvia",
+                    "content": "Apri TranscriptX e premi Avvia. Il browser ti chiede una sola volta l'accesso al microfono: consentilo e la trascrizione parte subito."
+                },
+                {
+                    "h3": "Lascialo ascoltare",
+                    "content": "Posiziona il dispositivo dove può sentire chiaramente chi parla: sul banco durante una lezione, tra te e la persona che stai intervistando o al centro del tavolo."
+                },
+                {
+                    "h3": "Guarda la trascrizione prendere forma",
+                    "content": "Le parole compaiono sullo schermo mentre vengono pronunciate, con la punteggiatura aggiunta strada facendo, così puoi seguire il discorso o rileggere qualcosa appena detto."
+                },
+                {
+                    "h3": "Premi Stop e conservala",
+                    "content": "Quando la sessione finisce, premi Stop. La trascrizione completa è pronta da leggere, modificare, copiare o esportare in TXT, DOCX, PDF, SRT o VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Trascrizione live, direttamente nel browser",
+            "content": [
+                "Con la trascrizione live non c'è alcuno scarto tra chi parla e le parole scritte. Il testo tiene il passo della conversazione, così la trascrizione sullo schermo è sempre aggiornata all'ultimo istante.",
+                "E questo cambia il modo in cui la usi. A lezione puoi ritrovare una definizione data dal docente un minuto prima. In un'intervista vedi una citazione comparire sulla pagina nel momento in cui viene detta e puoi segnarla per dopo. In una discussione serrata puoi controllare un numero o un nome senza chiedere a nessuno di ripeterlo."
+            ]
+        },
+        {
+            "h2": "Trascrizione automatica in tempo reale dal microfono",
+            "content": [
+                "La trascrizione automatica in tempo reale funziona con tutto ciò che il microfono riesce a sentire. Premi Avvia e TranscriptX trasforma l'audio in testo senza interruzioni: una sola voce o più persone, un ufficio silenzioso o un'aula universitaria.",
+                "Se l'audio è già registrato, non serve riprodurlo davanti al microfono. Carica il file nello strumento [Audio to Text](/it/audio-to-text) o [Voice to Text](/it/voice-to-text) e verrà trascritto direttamente."
+            ]
+        },
+        {
+            "h2": "Cosa puoi trascrivere in tempo reale",
+            "intro": [
+                "La trascrizione in tempo reale è pensata per i momenti in cui qualcuno parla e ti serve un resoconto scritto. Gli usi più comuni:"
+            ],
+            "items": [
+                {
+                    "h3": "Lezioni e corsi",
+                    "content": "Con la trascrizione delle lezioni in tempo reale gli appunti si prendono da soli mentre ascolti. Alla fine hai ogni spiegazione, esempio e definizione in un testo da consultare e su cui ripassare."
+                },
+                {
+                    "h3": "Interviste",
+                    "content": "Mantieni il contatto visivo con la persona che intervisti invece di scrivere. Le sue risposte vengono trascritte in tempo reale, così le citazioni esatte sono sulla pagina nel momento in cui vengono pronunciate."
+                },
+                {
+                    "h3": "Conversazioni e discussioni",
+                    "content": "Cattura un brainstorming, una sessione di pianificazione o una conversazione importante mentre avviene, così nessuno deve affidarsi alla memoria per ricordare cosa è stato deciso."
+                },
+                {
+                    "h3": "Conferenze, seminari ed eventi",
+                    "content": "Trascrivi in diretta un relatore dalla platea ed esci con il resoconto scritto completo dell'intervento, non solo con le slide."
+                },
+                {
+                    "h3": "Riunioni in presenza",
+                    "content": "Appoggia un portatile o un telefono sul tavolo e premi Avvia: la trascrizione delle riunioni in tempo reale mette per iscritto la discussione man mano, pronta per diventare un verbale a fine incontro."
+                },
+                {
+                    "h3": "Seguire chi non senti bene",
+                    "content": "Per chi è sordo o ipoudente, o ascolta in una seconda lingua, leggere le parole in tempo reale rende molto più facile seguire una conversazione o una lezione."
+                }
+            ]
+        },
+        {
+            "h2": "Consigli per una trascrizione in tempo reale accurata",
+            "content": [
+                "La trascrizione in tempo reale è buona quanto ciò che sente il microfono. Più il dispositivo è vicino a chi parla, più il testo è pulito: a lezione siediti nelle prime file; in un'intervista metti il telefono o il portatile tra te e il tuo ospite.",
+                "Il rumore di fondo e le persone che si parlano sopra sono le cause principali di errori. Un posto più tranquillo e una voce alla volta fanno una differenza evidente e, se un passaggio era rumoroso, puoi correggere una parola o due nella trascrizione dopo aver premuto Stop.",
+                "TranscriptX supporta oltre 100 lingue, così puoi trascrivere nella lingua effettivamente parlata invece di tradurre mentalmente mentre prendi appunti."
+            ]
+        },
+        {
+            "h2": "Trascrizione in tempo reale gratis, online",
+            "content": [
+                "Puoi iniziare a trascrivere online subito: niente iscrizione e niente da installare. Il piano gratuito ti permette di cominciare immediatamente; creare un account è facoltativo e, se ti serve un uso maggiore, ci sono i piani a pagamento. Funziona allo stesso modo su Windows, Mac, Chromebook, Android e iPhone, purché il browser possa usare il microfono."
+            ]
+        },
+        {
+            "h2": "Trascrizione in tempo reale o testo scritto con la voce?",
+            "intro": [
+                "Entrambi trasformano il parlato in testo mentre viene pronunciato, ma servono a cose diverse. Scegli in base a di chi sono le parole che vuoi sulla pagina."
+            ],
+            "items": [
+                {
+                    "h3": "Scegli la trascrizione in tempo reale per registrare ciò che dicono gli altri",
+                    "content": "Quando ti serve un resoconto scritto di una lezione, un'intervista, una conversazione o un intervento — parole che stai ascoltando, non che stai componendo — la trascrizione in tempo reale è fatta apposta."
+                },
+                {
+                    "h3": "Scegli il testo dettato a voce per scrivere i tuoi contenuti",
+                    "content": "Quando vuoi comporre a voce una tua email, una nota o una bozza invece di digitarla, usa [Real-Time Speech to Text](/it/real-time-speech-to-text). E se il parlato è già registrato, gli strumenti [Voice to Text](/it/voice-to-text) e [Audio to Text](/it/audio-to-text) trascrivono il file direttamente."
+                }
+            ]
+        },
+        {
+            "h2": "Domande frequenti",
+            "items": [
+                {
+                    "q": "Che cos'è la trascrizione in tempo reale?",
+                    "a": "La trascrizione in tempo reale trasforma il parlato in testo mentre viene pronunciato. Premi Avvia, il microfono ascolta e le parole compaiono sullo schermo man mano che le persone parlano, così la trascrizione è pronta appena finisce la sessione."
+                },
+                {
+                    "q": "Come avvio una trascrizione live?",
+                    "a": "Apri TranscriptX, premi Avvia e consenti l'accesso al microfono quando il browser lo chiede. La trascrizione parte subito. Premi Stop quando hai finito."
+                },
+                {
+                    "q": "La trascrizione in tempo reale è gratis?",
+                    "a": "Sì, puoi iniziare gratis. La trascrizione in tempo reale funziona nel browser su computer, tablet o smartphone senza installare nulla e puoi usarla senza iscriverti. Se trascrivi molto, i piani a pagamento offrono un uso maggiore."
+                },
+                {
+                    "q": "Posso scaricare la trascrizione dopo aver premuto Stop?",
+                    "a": "Sì. Una volta fermata, puoi leggere e modificare la trascrizione, copiarla o esportarla in TXT, DOCX, PDF, SRT o VTT."
+                },
+                {
+                    "q": "Quanto è precisa la trascrizione automatica in tempo reale?",
+                    "a": "Dipende soprattutto da ciò che sente il microfono. Un parlato chiaro e vicino al dispositivo viene trascritto quasi parola per parola; con ambienti rumorosi o persone che si sovrappongono conviene dare una rapida rilettura dopo lo stop."
+                },
+                {
+                    "q": "In quali lingue posso trascrivere in tempo reale?",
+                    "a": "Sono supportate oltre 100 lingue, così puoi trascrivere in tempo reale nella lingua parlata."
+                },
+                {
+                    "q": "E se ho già una registrazione?",
+                    "a": "Non serve riprodurla davanti al microfono. Caricala nello strumento Voice to Text o Audio to Text e il file viene trascritto direttamente."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Avvia gratis la tua trascrizione in tempo reale",
+        "content": [
+            "Premi Avvia e TranscriptX trascrive in tempo reale ciò che viene detto — una lezione, un'intervista, una conversazione o un intervento — in oltre 100 lingue, direttamente nel browser.",
+            "Premi Stop e la trascrizione completa è pronta da leggere, modificare, copiare o esportare in TXT, DOCX, PDF, SRT o VTT. Gratis per iniziare, senza iscrizione, senza nulla da installare."
+        ]
+    }
+}

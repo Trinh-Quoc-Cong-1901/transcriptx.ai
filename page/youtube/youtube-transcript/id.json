@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "Transkrip YouTube — Ambil, Buat & Ekstrak Gratis | TranscriptX",
+        "description": "Dapatkan transkrip YouTube online gratis. Tempel URL YouTube untuk membuat, mengekstrak, membaca, menyalin, mengedit, dan menerjemahkan transkrip dalam 100+ bahasa. Tanpa daftar.",
+        "schemaName": "Alat Transkrip YouTube TranscriptX",
+        "schemaDescription": "Alat transkrip YouTube online gratis yang membuat dan mengekstrak transkrip dari video YouTube publik mana pun dalam lebih dari 100 bahasa. Baca, salin, edit, terjemahkan, dan ekspor teksnya tanpa perlu akun.",
+        "ogTitle": "Transkrip YouTube — Ambil, Buat & Ekstrak Gratis | TranscriptX",
+        "ogDescription": "Tempel URL YouTube dan dapatkan transkrip lengkapnya dalam hitungan detik. Buat atau ekstrak teks video publik mana pun dalam 100+ bahasa, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Transkrip YouTube",
+        "subtitle": "Dapatkan transkrip lengkap video YouTube publik mana pun dalam hitungan detik. Tempel URL-nya untuk membuat atau mengekstrak isi ucapan sebagai teks dalam lebih dari 100 bahasa, lalu baca, salin, edit, atau terjemahkan. Tanpa akun, tanpa aplikasi yang perlu dipasang.",
+        "placeholder": "Tempel URL video YouTube...",
+        "button": "Ambil Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara mengubah video YouTube menjadi teks?",
+        "answer": "Salin URL video YouTube publik mana pun lalu tempel ke TranscriptX. Alat ini membaca audionya, membuat transkrip dalam lebih dari 100 bahasa, dan mengembalikan teks yang bisa Anda baca, salin, edit, terjemahkan, atau ekspor. Tidak perlu akun dan tidak ada yang perlu dipasang."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkrip YouTube?",
+            "content": [
+                "Transkrip YouTube — transkrip video YouTube yang memuat seluruh isi ucapan di dalamnya — adalah isi lisan sebuah video yang ditulis ulang dalam bentuk teks. Alih-alih menonton ulang kuliah atau wawancara dua jam demi satu poin saja, Anda cukup membaca transkripnya, mencari kata kuncinya, lalu langsung melompat ke bagian yang Anda butuhkan.",
+                "Nilainya justru ada pada apa yang dibuka oleh teks itu. Selama masih berbentuk video, informasinya terkunci di dalam garis waktu — tidak bisa dicari, tidak bisa dikutip persis, dan tidak bisa ditempel ke alat lain. Setelah menjadi transkrip, video yang sama berubah menjadi teks yang bisa Anda pindai dalam hitungan detik, Anda ambil kutipan persisnya, Anda terjemahkan, Anda ubah menjadi catatan, atau Anda serahkan ke ChatGPT, Gemini, atau Claude untuk dianalisis.",
+                "TranscriptX mengambil transkrip video YouTube secara gratis, langsung di browser, tanpa perlu akun."
+            ]
+        },
+        {
+            "h2": "Transkrip YouTube Sekilas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak ada — berjalan di browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "URL video YouTube publik mana pun"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Pemisahan pembicara",
+                    "value": "Ya — setiap pembicara diberi label"
+                },
+                {
+                    "label": "Timestamp",
+                    "value": "Opsional — dinyalakan atau dimatikan per transkrip"
+                },
+                {
+                    "label": "Berfungsi walau video tanpa subtitle",
+                    "value": "Ya — transkrip dibuat dari audionya"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser desktop, tablet, dan HP"
+                },
+                {
+                    "label": "Format ekspor",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mengubah Video YouTube Menjadi Teks",
+            "steps": [
+                {
+                    "h3": "Salin URL video YouTube",
+                    "content": "Buka video yang ingin Anda transkrip lalu salin tautannya dari bilah alamat atau dari tombol Bagikan. Semua video YouTube publik bisa dipakai."
+                },
+                {
+                    "h3": "Tempel URL-nya ke TranscriptX",
+                    "content": "Tempel tautan itu ke kotak di bagian atas halaman ini. Tidak ada akun yang harus dibuat dan tidak ada file yang harus diunduh lebih dulu."
+                },
+                {
+                    "h3": "Buat transkripnya",
+                    "content": "TranscriptX membaca audionya, mendeteksi sendiri bahasa yang diucapkan dari 100+ bahasa, memisahkan setiap pembicara, lalu menuliskan kata demi kata lengkap dengan tanda baca dan pemenggalan kalimat."
+                },
+                {
+                    "h3": "Gunakan transkripnya",
+                    "content": "Baca di layar, salin seluruhnya atau satu kutipan saja, edit teksnya, terjemahkan, atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT — dengan timestamp menyala atau mati."
+                }
+            ]
+        },
+        {
+            "h2": "Generator Transkrip YouTube",
+            "content": [
+                "Tidak semua video punya subtitle, dan subtitle otomatis sering meleset. Ketika tidak ada teks siap pakai yang bisa ditarik, TranscriptX bekerja sebagai generator transkrip YouTube — pembuat transkrip video YouTube yang menyusun teksnya dari audio itu sendiri, bukan bergantung pada subtitle yang mungkin tidak pernah ditambahkan pembuat videonya.",
+                "Artinya, Anda tetap bisa membuat transkrip dari video YouTube meski tombol subtitle-nya tidak ada — rekaman siaran langsung, unggahan lama, atau ceramah dalam bahasa yang subtitle-nya dibuat asal-asalan oleh YouTube. Generator ini mendengarkan ucapannya lalu menghasilkan teks bersih dan bertanda baca dalam lebih dari 100 bahasa, dengan setiap pembicara diberi label.",
+                "Karena bekerja dari audio, hasilnya biasanya lebih akurat daripada transkrip otomatis YouTube sendiri, terutama pada logat daerah, istilah teknis, dan rekaman dengan banyak pembicara."
+            ]
+        },
+        {
+            "h2": "Ekstrak Teks dari Video YouTube",
+            "content": [
+                "Kalau videonya sudah punya subtitle, TranscriptX berperan sebagai pengekstrak: isi ucapan yang sudah ada ditarik keluar dan diserahkan ke tangan Anda sebagai teks bersih dan enak dibaca dalam satu langkah, tanpa menggeser-geser garis waktu dan tanpa menyalin baris demi baris. Inilah jalur cepat untuk mengambil teks dari video YouTube atau mengubah video YouTube ke teks tanpa langkah tambahan.",
+                "Ini jalur singkat bagi developer, peneliti, dan analis yang hanya butuh naskah mentahnya. Tempel URL-nya, ubah YouTube ke teks, lalu bawa langsung ke alur kerja Anda: sebuah dataset, dokumen riset, prompt AI, atau brief konten. Pengekstrak naskah YouTube ini mengembalikan teks utuh sehingga tidak ada bagian yang terpotong, sepanjang apa pun videonya."
+            ]
+        },
+        {
+            "h2": "Cara Memanfaatkan Transkrip YouTube",
+            "intro": [
+                "Transkrip mengubah video yang penuh ucapan menjadi teks yang bisa dicari, diedit, dan dipakai ulang. Alih-alih memutar ulang video berkali-kali, Anda langsung bekerja dengan informasinya."
+            ],
+            "items": [
+                {
+                    "h3": "Belajar dari kuliah dan tutorial",
+                    "content": "Mahasiswa dan peserta kelas online mengubah rekaman kuliah daring, kursus, dan tutorial menjadi catatan belajar. Dengan transkrip, mencari istilah penting, mengulang gagasan inti, dan bersiap menghadapi ujian jadi mudah tanpa perlu menggeser garis waktu."
+                },
+                {
+                    "h3": "Meneliti wawancara, podcast, dan diskusi",
+                    "content": "Peneliti dan jurnalis mengambil informasi lisan dari wawancara, podcast berbahasa Indonesia, film dokumenter, dan diskusi panel. Label pembicara dan timestamp opsional memudahkan menemukan sebuah kutipan lalu mencocokkannya dengan detik saat kalimat itu diucapkan."
+                },
+                {
+                    "h3": "Menulis artikel, newsletter, dan naskah",
+                    "content": "Penulis dan kreator mengubah satu video menjadi tulisan blog, newsletter, materi media sosial, atau naskah baru. Transkrip memberi Anda titik awal yang kuat, bukan halaman kosong."
+                },
+                {
+                    "h3": "Meringkas video yang panjang",
+                    "content": "Ketika sebuah video terlalu panjang untuk ditonton ulang, transkripnya membuat Anda cepat menangkap gagasan utama, poin penting, dan daftar tindakan — atau tinggal tempel ke asisten AI untuk diringkas."
+                },
+                {
+                    "h3": "Menerjemahkan isi video",
+                    "content": "Ambil transkrip dalam bahasa aslinya, lalu terjemahkan untuk memahami isinya atau menerbitkannya ulang bagi audiens yang berbeda."
+                },
+                {
+                    "h3": "Membuat konten lebih inklusif",
+                    "content": "Transkrip memberi penonton tuli dan yang kesulitan mendengar akses ke isi lengkap dalam bentuk teks, sekaligus memberi semua orang versi terbaca dari video yang tidak bisa diputar dengan suara."
+                }
+            ]
+        },
+        {
+            "h2": "Transkrip YouTube dalam 100+ Bahasa",
+            "content": [
+                "TranscriptX menangani transkripsi YouTube dalam lebih dari 100 bahasa dan mendeteksi bahasa yang diucapkan secara otomatis — Anda tidak perlu memilihnya sebelum mulai. Alat ini bisa menuliskan isi video YouTube apa pun, entah itu kuliah, podcast, atau wawancara, dan menghasilkan transkrip video YouTube dalam bahasa mana pun di antaranya. Tempel video berbahasa Indonesia, Inggris, Spanyol, Arab, atau Jepang, dan transkripnya kembali dalam bahasa yang sama.",
+                "Pemisahan pembicara berlaku di semua bahasa itu, sehingga wawancara atau diskusi panel ditulis dengan jelas siapa mengucapkan apa, bukan sebagai satu blok teks tanpa jeda. Itulah yang membuat video panjang dengan banyak orang jadi benar-benar bisa dipakai, bukan sekadar terbaca."
+            ]
+        },
+        {
+            "h2": "TranscriptX vs Transkrip Bawaan YouTube",
+            "intro": [
+                "YouTube menampilkan panel transkrip bawaan di sebagian video, tetapi panel itu dirancang untuk membaca subtitle sambil menonton — bukan untuk membawa teksnya ke tempat lain. Kalau tujuan Anda menyalin, mengedit, menerjemahkan, meringkas, atau mengekspor, alat khusus jauh lebih rapi."
+            ],
+            "items": [
+                {
+                    "h3": "Transkrip bawaan YouTube",
+                    "content": "Praktis untuk melirik subtitle selama pemutaran, dan hanya ada kalau pembuat videonya menambahkannya. Teksnya bercampur dengan timestamp, terkurung di dalam antarmuka YouTube, dan merepotkan untuk dirapikan atau dipindahkan ke alat lain."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Dibangun untuk menggarap transkrip sebagai teks. Alat ini tetap membuat transkrip walau videonya tidak punya subtitle, mengembalikan teks bersih bertanda baca dengan pembicara yang diberi label, dan membiarkan Anda menyalin, mengedit, menerjemahkan, meringkas, atau mengekspor ke lima format — dengan timestamp opsional."
+                }
+            ]
+        },
+        {
+            "h2": "Akurasi dan Faktor yang Memengaruhinya",
+            "content": [
+                "TranscriptX membuat transkrip dari audio videonya, jadi kualitas audio itulah yang paling menentukan. Ucapan yang jelas, volume yang stabil, dan minim derau latar menghasilkan teks paling bersih.",
+                "Akurasi bisa turun ketika para pembicara saling menimpa, ketika ada gema berat atau musik keras, atau pada logat yang sangat kental dan istilah teknis yang padat. Rekaman dengan banyak orang tetap dipisahkan per pembicara, tetapi suara yang bertumpuk memang titik paling rawan bagi alat mana pun.",
+                "Untuk kutipan penting, istilah teknis, nama orang, rujukan hukum, atau sitasi akademis, periksa baris terkait sebelum Anda menerbitkan atau mengutipnya. Menyalakan timestamp membuat pengecekan ini cepat — Anda bisa langsung melompat kembali ke detik itu di video dan mencocokkannya dengan audionya."
+            ]
+        },
+        {
+            "h2": "Saat Transkrip YouTube Tidak Bisa Dibuat",
+            "intro": [
+                "Karena TranscriptX menuliskan isi video dari audionya, tidak adanya jalur subtitle sama sekali bukan masalah — tetapi ada beberapa keadaan yang tetap bisa menggagalkan pembuatan transkrip. Hampir semuanya bermuara pada satu hal: apakah alat ini bisa menjangkau audio videonya."
+            ],
+            "items": [
+                {
+                    "h3": "Videonya privat atau sudah dihapus",
+                    "content": "Transkrip hanya bisa dibuat dari video yang bisa ditonton publik. Video privat dan video yang sudah dihapus tidak bisa dijangkau."
+                },
+                {
+                    "h3": "Videonya dibatasi usia atau wilayah",
+                    "content": "Video yang meminta verifikasi usia atau diblokir untuk wilayah tertentu mungkin tidak bisa diakses lewat alat online, karena audionya tidak tersedia secara terbuka."
+                },
+                {
+                    "h3": "Videonya tidak berisi ucapan",
+                    "content": "Video musik, klip bisu, dan rekaman tanpa suara orang tidak punya apa pun untuk dituliskan. Harus ada kata-kata yang diucapkan di dalam audionya."
+                },
+                {
+                    "h3": "Siaran langsungnya masih berjalan",
+                    "content": "Siaran yang masih live belum punya rekaman yang selesai. Tunggu sampai siarannya berakhir dan videonya terbit, baru tempel tautannya."
+                },
+                {
+                    "h3": "Audionya buruk sekali",
+                    "content": "Volume yang sangat pelan, derau terus-menerus, atau audio yang pecah parah bisa menyisakan terlalu sedikit ucapan jernih untuk dituliskan dengan andal."
+                }
+            ]
+        },
+        {
+            "h2": "Salin, Edit, Terjemahkan, atau Unduh",
+            "content": [
+                "Transkripnya milik Anda, dipakai sesuai kebutuhan langkah berikutnya. Salin seluruhnya atau satu baris saja langsung dari layar. Edit di tempat untuk membetulkan sebuah nama atau memangkas kata sisipan sebelum Anda menerbitkan atau mengutipnya. Terjemahkan ke bahasa lain tanpa meninggalkan alat ini.",
+                "Kalau Anda butuh file dan bukan teks di layar, ekspor saja — dan kalau mengunduh memang tujuan utama Anda, alat [Unduh Transkrip YouTube](/id/download-youtube-transcript) dibangun khusus untuk ekspor ke TXT, DOCX, PDF, dan SRT. Kalau yang Anda perlukan justru file subtitle-nya, pakai [Pengunduh Subtitle YouTube](/id/youtube-subtitle-downloader) untuk SRT dan VTT. [Peringkas Video YouTube](/id/youtube-video-summarizer) memberi Anda poin-poin utamanya, bukan transkrip lengkap."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara membuat transcript YouTube dari sebuah video?",
+                    "a": "Salin URL video YouTube publik lalu tempel ke TranscriptX. Transkripnya dibuat dalam hitungan detik dan muncul di layar, siap dibaca, disalin, diedit, diterjemahkan, atau diekspor. Tidak perlu akun dan tidak perlu aplikasi."
+                },
+                {
+                    "q": "Apakah alat transkrip YouTube ini gratis?",
+                    "a": "Ya. Mengambil transkrip YouTube di TranscriptX gratis, tanpa akun yang harus dibuat dan tanpa batas durasi video."
+                },
+                {
+                    "q": "Bisakah saya membuat transkrip kalau videonya belum ada teksnya sama sekali?",
+                    "a": "Bisa. TranscriptX bekerja sebagai generator transkrip YouTube — transkripnya dibuat dari audio video, jadi tetap jalan walau pembuat videonya tidak pernah menambahkan subtitle atau saat subtitle otomatisnya tidak ada."
+                },
+                {
+                    "q": "Apa bedanya membuat dan mengekstrak transkrip?",
+                    "a": "Mengekstrak berarti menarik teks dari subtitle yang sudah dimiliki video. Membuat berarti menyusun transkrip dari audio ketika tidak ada subtitle yang layak pakai. TranscriptX melakukan keduanya secara otomatis — Anda tinggal menempel URL dan teksnya keluar dengan cara mana pun."
+                },
+                {
+                    "q": "Bisakah saya transcribe video YouTube apa pun?",
+                    "a": "Anda bisa menuliskan isi video YouTube publik mana pun yang di dalamnya ada ucapan. Video privat, video terhapus, video berbatas usia, atau video yang diblokir wilayah tidak bisa dijangkau, dan video tanpa suara orang tidak punya apa pun untuk dituliskan."
+                },
+                {
+                    "q": "Bahasa apa saja yang didukung?",
+                    "a": "Lebih dari 100 bahasa. TranscriptX mendeteksi bahasa yang diucapkan secara otomatis, jadi Anda tidak perlu memilihnya sebelum menempel URL."
+                },
+                {
+                    "q": "Bisakah alat ini membedakan pembicara?",
+                    "a": "Bisa. Setiap pembicara diberi label terpisah, sehingga wawancara, diskusi panel, dan video dengan banyak orang kembali dalam bentuk yang menunjukkan siapa mengucapkan apa, bukan satu blok teks."
+                },
+                {
+                    "q": "Bisakah saya mendapat timestamp pada transkripnya?",
+                    "a": "Bisa, dan itu opsional. Nyalakan saat Anda perlu melompat kembali ke satu momen di video atau membuat file subtitle; matikan kalau Anda mau teks yang bersih untuk dibaca."
+                },
+                {
+                    "q": "Bisakah saya menyalin, mengedit, dan menerjemahkan transkripnya?",
+                    "a": "Bisa. Salin transkrip lengkap atau baris pilihan, edit teksnya di tempat, dan terjemahkan ke bahasa lain — semuanya sebelum Anda mengekspor atau menempelkannya ke alat lain."
+                },
+                {
+                    "q": "Apa bedanya transkrip YouTube dan subtitle?",
+                    "a": "Transkrip adalah versi teks dari isi ucapan yang Anda baca berdiri sendiri. Subtitle adalah teks bertanda waktu yang tampil saat video diputar, biasanya disimpan sebagai SRT atau VTT. Nyalakan timestamp lalu ekspor SRT atau VTT kalau yang Anda butuhkan memang subtitle, bukan transkrip biasa."
+                },
+                {
+                    "q": "Seberapa akurat transkripnya?",
+                    "a": "Akurasi paling bergantung pada audionya. Ucapan yang jelas dan derau latar yang rendah memberi hasil terbaik, sedangkan suara yang bertumpuk, gema, atau musik keras menurunkannya. Memeriksa ulang nama, angka, dan istilah teknis sebelum menerbitkan selalu sepadan."
+                },
+                {
+                    "q": "Bisakah transkrip YouTube ini dipakai dengan ChatGPT atau Claude?",
+                    "a": "Bisa. Salin atau ekspor teksnya lalu tempel ke asisten AI mana pun untuk meringkas videonya, menarik daftar tindakan, atau mengubahnya menjadi artikel."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Dapatkan Transkrip YouTube Anda Gratis",
+        "content": [
+            "Tempel URL video YouTube publik dan TranscriptX mengembalikan transkrip lengkapnya dalam lebih dari 100 bahasa, dengan label pembicara dan timestamp opsional — entah teksnya diekstrak dari subtitle yang sudah ada atau dibuat dari audionya.",
+            "Baca, salin, edit, terjemahkan, atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT. Tanpa akun, tanpa instalasi, tanpa biaya.",
+            "Pakai TranscriptX untuk mengubah video YouTube menjadi teks agar lebih mudah dipelajari, dicari, dikutip, dan dipakai ulang."
+        ]
+    }
+}

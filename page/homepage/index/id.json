@@ -1,0 +1,272 @@
+{
+    "seo": {
+        "title": "Transkripsi AI Gratis untuk Video & Audio Online | TranscriptX",
+        "description": "Transkripsi AI gratis dalam lebih dari 100 bahasa. Ubah video, audio, YouTube, dan TikTok menjadi teks dengan label pembicara. Ekspor ke TXT, SRT, VTT, DOCX, atau PDF. Tanpa pendaftaran.",
+        "schemaName": "Alat Transkripsi AI Gratis TranscriptX",
+        "schemaDescription": "TranscriptX adalah alat transkripsi AI online gratis yang mengubah video dan audio menjadi teks dalam lebih dari 100 bahasa, dengan pemisahan pembicara, timestamp opsional, serta ekspor ke format TXT, SRT, VTT, DOCX, dan PDF. Tidak diperlukan akun.",
+        "ogTitle": "Transkripsi AI Gratis untuk Video & Audio Online | TranscriptX",
+        "ogDescription": "Ubah video dan audio menjadi teks dengan transkripsi AI gratis. Mendukung lebih dari 100 bahasa, label pembicara, ekspor SRT dan VTT, tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Transkripsi AI untuk Video dan Audio",
+        "subtitle": "Ubah video, audio, dan rekaman suara menjadi teks dalam lebih dari 100 bahasa. Label pembicara, timestamp opsional, serta ekspor ke TXT, SRT, VTT, DOCX, atau PDF. Tanpa akun, tanpa batas ukuran file.",
+        "placeholder": "Unggah file atau tempel tautan video...",
+        "button": "Buat Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Apa itu TranscriptX?",
+        "answer": "TranscriptX adalah alat transkripsi AI gratis yang mengubah video dan audio menjadi teks dalam lebih dari 100 bahasa. Alat ini memberi label pada setiap pembicara, menambahkan timestamp jika diperlukan, dan mengekspor hasil ke format TXT, DOCX, PDF, SRT, atau VTT. Tidak diperlukan akun dan tidak ada batas ukuran file."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkripsi AI?",
+            "content": [
+                "Transkripsi AI mengubah bahasa yang diucapkan dari rekaman video atau audio menjadi teks tertulis. Anda hanya perlu mengunggah file, lalu AI akan menuliskan apa yang dikatakan tanpa perlu mengetik secara manual.",
+                "Nilai utama dari teks terletak pada apa yang bisa Anda lakukan dengannya. Wawancara selama satu jam sulit untuk dicari, dikutip, atau dirangkum ketika semua kata masih tersimpan di dalam file audio. Setelah menjadi transkrip, satu jam tersebut berubah menjadi teks yang dapat Anda baca dalam hitungan detik, mengambil kutipan yang tepat, menerjemahkan, mengubahnya menjadi subtitle, atau mengirimkannya ke ChatGPT, Gemini, atau Claude untuk dianalisis.",
+                "TranscriptX melakukan konversi ini secara gratis langsung melalui browser, tanpa memerlukan akun."
+            ]
+        },
+        {
+            "h2": "Sekilas Tentang TranscriptX",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Membutuhkan akun",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak ada — berjalan langsung di browser"
+                },
+                {
+                    "label": "Batas ukuran file",
+                    "value": "Tidak ada"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+ bahasa — terdeteksi secara otomatis"
+                },
+                {
+                    "label": "Pemisahan pembicara",
+                    "value": "Ya — setiap pembicara diberi label"
+                },
+                {
+                    "label": "Timestamp",
+                    "value": "Opsional — dapat diaktifkan atau dinonaktifkan untuk setiap transkrip"
+                },
+                {
+                    "label": "Format ekspor",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Sumber yang didukung",
+                    "value": "File video, file audio, rekaman suara, tautan YouTube publik, tautan TikTok publik"
+                }
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Anda Transkripsikan?",
+            "intro": [
+                "TranscriptX dapat menangani semua rekaman yang berisi suara dalam lebih dari 100 bahasa, tanpa batas ukuran file."
+            ],
+            "items": [
+                {
+                    "h3": "File video",
+                    "content": "Tutorial, presentasi, webinar, kursus, dan panggilan yang direkam dapat diubah menjadi teks yang mudah dibaca, dicari, dan digunakan kembali."
+                },
+                {
+                    "h3": "File audio",
+                    "content": "Podcast, file MP3, percakapan yang direkam, dan kuliah dapat diubah menjadi versi tertulis yang lebih mudah disimpan dan digunakan kembali."
+                },
+                {
+                    "h3": "Rekaman suara",
+                    "content": "Memo suara dan catatan yang diucapkan dapat menjadi teks yang dapat diedit — berguna ketika berbicara lebih cepat daripada mengetik tetapi ide tetap perlu dicatat dalam bentuk tulisan."
+                },
+                {
+                    "h3": "Rapat",
+                    "content": "Pemisahan pembicara menunjukkan siapa mengatakan apa, sehingga rapat dengan empat orang menjadi catatan nyata tentang keputusan dan tugas, bukan hanya satu blok teks panjang."
+                },
+                {
+                    "h3": "Wawancara",
+                    "content": "Label pembicara dan timestamp membantu jurnalis serta peneliti menemukan kutipan, kembali ke bagian tertentu dalam audio, dan memverifikasinya dengan sumber asli."
+                },
+                {
+                    "h3": "Kuliah dan kursus",
+                    "content": "Ubah pelajaran menjadi materi belajar tertulis yang dapat dicari berdasarkan kata tertentu, ditinjau kembali, dan diringkas menjadi catatan."
+                },
+                {
+                    "h3": "Podcast",
+                    "content": "Satu episode dapat menjadi catatan acara, newsletter, artikel, dan konten media sosial — semuanya berasal dari satu transkrip."
+                },
+                {
+                    "h3": "Video YouTube dan TikTok",
+                    "content": "Tempelkan tautan video publik dan dapatkan isi percakapan dalam bentuk teks untuk penelitian, pembelajaran, mengambil kutipan, atau penggunaan ulang konten."
+                }
+            ]
+        },
+        {
+            "h2": "Bagaimana Cara Kerja Transkripsi AI?",
+            "steps": [
+                {
+                    "h3": "Unggah file atau tempel tautan",
+                    "content": "Unggah video, file audio, atau rekaman suara, atau tempel tautan publik YouTube atau TikTok. Tidak ada batas ukuran file dan tidak perlu membuat akun."
+                },
+                {
+                    "h3": "AI mengubah suara menjadi teks",
+                    "content": "TranscriptX secara otomatis mendeteksi bahasa yang digunakan dalam lebih dari 100 bahasa, memisahkan suara dari kebisingan latar belakang, dan mengenali setiap pembicara saat menuliskan kata-kata dengan tanda baca serta pemisahan kalimat."
+                },
+                {
+                    "h3": "Tinjau hasil transkripsi",
+                    "content": "Baca hasil transkripsi dan perbaiki bagian yang sulit dipahami karena kualitas audio. Nama, angka, dan istilah teknis adalah bagian yang perlu diperiksa sebelum dipublikasikan atau dikutip."
+                },
+                {
+                    "h3": "Ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT",
+                    "content": "Salin teks secara langsung atau unduh format yang sesuai dengan kebutuhan berikutnya — aktifkan timestamp sebelum ekspor jika Anda membutuhkannya untuk subtitle atau pengecekan kutipan."
+                }
+            ]
+        },
+        {
+            "h2": "Generator Caption dan Subtitle AI",
+            "content": [
+                "Caption dan subtitle adalah transkrip yang dilengkapi dengan informasi waktu. Karena TranscriptX menyimpan timestamp untuk setiap baris, proses yang sama yang menghasilkan transkrip yang mudah dibaca juga dapat menghasilkan file caption.",
+                "Aktifkan timestamp dan ekspor dalam format SRT atau VTT. Kedua format tersebut dapat langsung diunggah ke YouTube, Vimeo, Instagram, TikTok, dan pemutar video web standar, sehingga Anda dapat mengubah rekaman mentah menjadi video dengan subtitle tanpa menggunakan alat subtitle tambahan.",
+                "Karena file hasil ekspor berupa teks biasa, Anda dapat membukanya dan memperbaiki nama atau istilah teknis sebelum dipublikasikan — atau menerjemahkan baris-baris tersebut untuk menerbitkan video yang sama kepada audiens internasional."
+            ]
+        },
+        {
+            "h2": "Transkrip, Caption, dan Subtitle: Apa Perbedaannya?",
+            "intro": [
+                "Ketiganya mengubah suara menjadi teks, tetapi dibuat untuk kebutuhan yang berbeda."
+            ],
+            "items": [
+                {
+                    "h3": "Transkrip adalah catatan tertulis yang dibaca secara terpisah",
+                    "content": "Transkrip berisi semua yang dikatakan dalam bentuk teks yang dapat dibaca tanpa harus melihat video secara bersamaan. Gunakan transkrip ketika isi kata-kata menjadi hal utama — seperti mencari ide, mengambil kutipan tepat, mempelajari materi, atau menganalisis percakapan. Ekspor dalam format TXT, DOCX, atau PDF."
+                },
+                {
+                    "h3": "Caption adalah teks bersinkronisasi waktu untuk penonton yang tidak dapat mendengar audio",
+                    "content": "Caption disinkronkan dengan pemutaran video sehingga setiap baris muncul saat kalimat tersebut diucapkan. Gunakan caption ketika aksesibilitas penting, atau ketika video diputar tanpa suara dan teks harus menyampaikan pesan. Aktifkan timestamp dan ekspor sebagai SRT atau VTT."
+                },
+                {
+                    "h3": "Subtitle adalah dialog bersinkronisasi waktu yang biasanya diterjemahkan",
+                    "content": "Subtitle juga muncul saat video diputar, tetapi tujuan utamanya berkaitan dengan bahasa: menampilkan apa yang dikatakan pembicara kepada penonton yang tidak memahami bahasa tersebut. Gunakan subtitle untuk audiens internasional. Ekspor sebagai SRT atau VTT, lalu terjemahkan barisnya sebelum dipublikasikan."
+                }
+            ]
+        },
+        {
+            "h2": "Ekspor Transkrip Anda dalam Lima Format",
+            "content": [
+                "Setiap transkrip dapat diekspor dalam lima format, dan format yang tepat bergantung pada apa yang ingin Anda lakukan dengan teks tersebut selanjutnya.",
+                "TXT adalah teks biasa tanpa format — paling mudah untuk dibaca, dicari, atau ditempel ke ChatGPT, Gemini, atau Claude. DOCX dapat dibuka di Word, Google Docs, dan Pages ketika Anda perlu mengedit transkrip atau mengubahnya menjadi dokumen kerja. PDF memberikan catatan tetap yang tampil sama untuk semua orang dan cocok untuk dibagikan atau dicetak tanpa perubahan.",
+                "Dua format lainnya menyimpan informasi waktu. SRT adalah format subtitle yang diterima hampir semua platform, jadi aktifkan timestamp dan ekspor SRT untuk menambahkan caption pada video YouTube, Instagram, atau TikTok. VTT memiliki fungsi yang sama untuk video HTML5 yang diputar melalui browser.",
+                "Jika Anda tidak yakin, mulailah dengan TXT. Format ini paling mudah dipindahkan ke alat lain, dan Anda selalu dapat melakukan ekspor ulang ke format berbeda kapan saja."
+            ]
+        },
+        {
+    "h2": "Transkripsikan Video Dari Platform Mana Pun",
+    "content": [
+        "Anda tidak perlu mengunduh video untuk mentranskripsikannya. Tempelkan tautan publik dari platform besar mana pun dan TranscriptX akan membaca audio langsung dari video tersebut, lalu mengembalikan konten yang diucapkan dalam bentuk teks yang dapat Anda cari, kutip, dan gunakan kembali."
+    ],
+    "items": [
+        {
+            "h3": "Dapatkan transkrip dari video YouTube",
+            "content": "Salin URL dari video YouTube publik apa pun dan tempelkan ke TranscriptX. Kuliah, wawancara, atau tutorial berdurasi dua jam akan dikonversi menjadi teks dalam lebih dari 100 bahasa, dengan setiap pembicara diberi label, sehingga Anda dapat menemukan ide yang Anda cari tanpa harus menggeser timeline video berulang kali. Peneliti menggunakan fitur ini untuk mengutip sumber secara akurat, pelajar menggunakannya untuk mengubah kuliah menjadi catatan belajar, dan penulis menggunakannya untuk membuat artikel dari video yang sudah menjelaskan suatu topik dengan baik. Jika YouTube merupakan bagian besar dari pekerjaan Anda, alat [YouTube Transcript](/youtube-transcript) dibuat khusus untuk kebutuhan ini."
+        },
+        {
+            "h3": "Dapatkan transkrip dari video TikTok",
+            "content": "Tempelkan tautan TikTok publik dan kata-kata yang diucapkan akan dikembalikan sebagai teks sebelum video tersebut hilang dari feed Anda. Video pendek bergerak cepat, dan bagian yang paling berguna biasanya hanya satu kalimat — pembuka yang membuat Anda berhenti menonton, klaim dalam ulasan produk, atau langkah yang dijelaskan seseorang hanya dalam sembilan detik. Dengan bentuk teks, Anda dapat menyimpannya, mempelajari mengapa konten tersebut berhasil, dan membuat versi Anda sendiri tanpa harus mengingatnya. Alat [TikTok Transcript](/tiktok-transcript) dibuat khusus untuk video berdurasi pendek."
+        },
+        {
+            "h3": "Transkripsikan video Facebook",
+            "content": "Facebook menyembunyikan video-video paling bergunanya di tempat yang sulit dijangkau — siaran Live yang tersimpan, klip yang terkubur di dalam grup, acara terekam yang berlangsung selama satu jam. Tempelkan tautannya dan alat [Facebook Transcript](/facebook-transcript) akan mengubah setiap postingan publik, Reel, atau Live tersimpan menjadi teks yang mudah dibaca, dengan setiap pembicara diberi label, sehingga siaran panjang menjadi sesuatu yang dapat Anda baca dalam hitungan menit dan telusuri untuk menemukan bagian yang penting."
+        },
+        {
+            "h3": "Transkripsikan Reel Instagram",
+            "content": "Sebuah Reel dibuat untuk ditonton sekali lalu digeser lewat, padahal nilainya sering kali terletak pada satu kalimat yang layak disimpan. Alat [Instagram Transcript](/instagram-transcript) menarik kata-kata yang diucapkan dari Reel atau video publik mana pun menjadi teks yang dapat Anda salin, pelajari, atau ubah menjadi konten Anda sendiri — pembuka, tipsnya, naskah yang membuatnya berhasil."
+        }
+    ]
+},
+{
+    "h2": "Ubah Video, Audio, atau File Suara Apa Pun Menjadi Teks",
+    "content": [
+        "Tidak semua yang perlu Anda transkripsikan berada di platform media sosial. Ketika sumbernya adalah file di perangkat Anda sendiri, TranscriptX memiliki alat khusus untuk setiap jenisnya — unggah file tersebut dan dapatkan transkrip yang sama bersihnya, dalam lebih dari 100 bahasa, dengan pembicara diberi label."
+    ],
+    "items": [
+        {
+            "h3": "Ubah file video menjadi teks",
+            "content": "Punya file MP4, rekaman Zoom, atau tangkapan layar dan bukan tautan untuk ditempelkan? Alat [Video to Text](/video-to-text) mentranskripsikan file video apa pun yang Anda unggah, memisahkan pembicara dan mengekspor ke lima format, tanpa batas ukuran file yang perlu diakali."
+        },
+        {
+            "h3": "Ubah file audio menjadi teks",
+            "content": "Untuk podcast, file MP3, atau wawancara terekam tanpa video, alat [Audio to Text](/audio-to-text) mengubah rekaman menjadi transkrip yang bersih dan berpunktuasi yang dapat Anda kutip, edit, atau arsipkan."
+        },
+        {
+            "h3": "Ubah rekaman suara menjadi teks",
+            "content": "Untuk mendiktekan catatan lebih cepat daripada mengetiknya, atau untuk mentranskripsikan memo suara yang sudah ada di ponsel Anda, alat [Voice to Text](/voice-to-text) merekam langsung di browser atau menerima rekaman yang Anda unggah."
+        }
+    ]
+},
+{
+    "h2": "Pertanyaan yang Sering Diajukan",
+    "items": [
+        {
+            "q": "Apakah TranscriptX benar-benar gratis?",
+            "a": "Ya. Transkripsi AI di TranscriptX dapat digunakan secara gratis, tanpa perlu membuat akun dan tanpa batas ukuran file."
+        },
+        {
+            "q": "Apakah saya perlu menginstal sesuatu?",
+            "a": "Tidak. TranscriptX berjalan langsung di browser. Tidak ada software yang perlu diunduh dan tidak perlu membuat akun."
+        },
+        {
+            "q": "Bahasa apa saja yang didukung?",
+            "a": "Lebih dari 100 bahasa. TranscriptX secara otomatis mendeteksi bahasa yang digunakan, sehingga Anda tidak perlu memilih bahasa sebelum mengunggah file."
+        },
+        {
+            "q": "Format file apa saja yang dapat saya ekspor?",
+            "a": "Lima format: TXT, DOCX, dan PDF untuk membaca serta mengedit, ditambah SRT dan VTT untuk caption dan subtitle. Anda juga dapat menyalin teks secara langsung."
+        },
+        {
+            "q": "Apakah dapat membedakan pembicara?",
+            "a": "Ya. TranscriptX memberi label pada setiap pembicara secara terpisah, sehingga rapat, wawancara, dan podcast dengan banyak orang menunjukkan siapa yang mengatakan apa."
+        },
+        {
+            "q": "Apakah saya bisa mentranskripsikan rapat dengan banyak orang?",
+            "a": "Ya. Unggah rekaman dan setiap pembicara akan diberi label dalam transkrip, sehingga diskusi panjang berubah menjadi catatan keputusan dan tindakan yang dapat digunakan."
+        },
+        {
+            "q": "Apakah saya bisa mendapatkan timestamp?",
+            "a": "Ya, fitur ini opsional. Aktifkan ketika Anda membutuhkan file caption atau ingin kembali ke bagian tertentu dalam audio; matikan untuk mendapatkan teks yang lebih bersih dan mudah dibaca."
+        },
+        {
+            "q": "Bagaimana cara mentranskripsikan video YouTube?",
+            "a": "Salin URL video YouTube publik, tempelkan ke TranscriptX, dan konten yang diucapkan akan kembali sebagai teks yang dapat Anda salin atau ekspor. Tersedia alat YouTube Transcript khusus jika Anda sering melakukan hal ini."
+        },
+        {
+            "q": "Seberapa akurat transkripsi AI?",
+            "a": "Akurasi terutama bergantung pada kualitas rekaman. Suara yang jelas, volume stabil, dan sedikit gangguan latar belakang memberikan hasil terbaik, sementara pembicara yang tumpang tindih, gema, atau musik keras dapat mengurangi akurasi. Periksa nama, angka, dan istilah teknis sebelum dipublikasikan."
+        },
+        {
+            "q": "Apa perbedaan antara transkripsi AI dan speech-to-text?",
+            "a": "Speech-to-text adalah tahap pengenalan yang mengubah kata-kata yang diucapkan menjadi tulisan. Transkripsi AI adalah seluruh proses yang mencakup pengenalan suara, penambahan tanda baca, pemberian label pembicara, penambahan timestamp, dan ekspor file yang dapat digunakan."
+        },
+        {
+            "q": "Apakah saya bisa membuat subtitle dari transkrip?",
+            "a": "Ya. Aktifkan timestamp dan ekspor dalam format SRT atau VTT, lalu unggah file tersebut ke YouTube, Instagram, TikTok, atau pemutar video Anda."
+        },
+        {
+            "q": "Apakah saya bisa menggunakan transkrip dengan ChatGPT atau Claude?",
+            "a": "Ya. Ekspor atau salin teks lalu tempelkan ke asisten AI apa pun untuk membuat ringkasan, mengambil daftar tindakan, menganalisis topik, atau mengubahnya menjadi artikel."
+        }
+    ]
+}],
+"conclusion": {
+    "h2": "Mulai Transkripsi AI Gratis Anda",
+    "content": [
+        "Unggah video, file audio, atau rekaman suara, atau tempelkan tautan YouTube atau TikTok. TranscriptX membuat transkrip dalam lebih dari 100 bahasa dengan label pembicara dan timestamp opsional.",
+        "Ekspor sebagai TXT, DOCX, atau PDF untuk membaca dan mengedit, atau sebagai SRT atau VTT untuk menambahkan caption ke video Anda. Tanpa akun, tanpa batas ukuran file, tanpa biaya."
+    ]
+}
+}

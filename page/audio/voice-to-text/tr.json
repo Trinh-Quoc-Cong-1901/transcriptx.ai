@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Sesi Yazıya Çevirme — Konuşmanızı Ücretsiz Metne Dönüştürün | TranscriptX",
+        "description": "Sesi yazıya çevirme işlemi online ve ücretsiz. Doğrudan tarayıcıya kayıt yapın ya da bir ses kaydı yükleyin, 100'den fazla dilde doğru bir metin alın. TXT, DOCX, PDF olarak dışa aktarın. Üyelik yok.",
+        "schemaName": "TranscriptX Sesi Yazıya Çevirme Aracı",
+        "schemaDescription": "Konuşulan sözleri ve sesli kayıtları 100'den fazla dilde yazılı metne dönüştüren ücretsiz online araç. Konuşmacı etiketleri ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. Doğrudan tarayıcıda kayıt yapabilir ya da bir kayıt yükleyebilirsiniz, hesap gerekmez.",
+        "ogTitle": "Sesi Yazıya Çevirme — Konuşmanızı Ücretsiz Metne Dönüştürün | TranscriptX",
+        "ogDescription": "Sesinizi yazıya dökün. Tarayıcıda kayıt yapın ya da bir ses kaydı yükleyin, 100'den fazla dilde doğru bir metin alın — ücretsiz ve üyelik gerektirmeden."
+    },
+    "hero": {
+        "h1": "Sesi Yazıya Çevirme",
+        "subtitle": "Konuşulan sözleri yazılı metne dönüştürün. Doğrudan tarayıcıya kayıt yapın ya da bir ses kaydı yükleyin; TranscriptX konuşmayı 100'den fazla dilde, konuşmacıları etiketleyerek yazıya döker. Bir notu dikte edin, bir sesli notu deşifre edin ya da kaydedilmiş bir sohbeti metne çevirin — ardından TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Hesap yok, kurulacak hiçbir şey yok.",
+        "placeholder": "Sesinizi kaydedin veya bir kayıt yükleyin...",
+        "button": "Sesi Yazıya Çevir"
+    },
+    "quickAnswer": {
+        "question": "Sesi yazıya çevirme nasıl yapılır?",
+        "answer": "Sesinizi doğrudan TranscriptX'te kaydedin ya da bir ses kaydı yükleyin; konuşulan sözleri saniyeler içinde, 100'den fazla dilde yazılı metne çevirir. Ardından metni okuyabilir, düzenleyebilir, kopyalayabilir veya dışa aktarabilirsiniz. Üyelik gerekmez ve kurulacak hiçbir şey yoktur."
+    },
+    "sections": [
+        {
+            "h2": "Sesi Yazıya Çevirme Nedir?",
+            "content": [
+                "Sesi yazıya çevirme, konuşulan sözleri yazılı sözlere dönüştürmektir. Siz konuşursunuz — ya da konuşan birinin kaydını çalarsınız — ve yazmak yerine kelimeleri okuyabileceğiniz, düzenleyebileceğiniz ve saklayabileceğiniz bir metin olarak alırsınız. Telefonunuzdaki dikte özelliğinin arkasındaki fikirle aynıdır, ama tam kayıtlar üzerinde, tarayıcıda, süre sınırı olmadan ve hesap açmadan çalışır.",
+                "Bir ses dosyasıyla çalışmaktan ayrıldığı yer, başlangıç noktasıdır. Sesi yazıya çevirme, tam o anda söylenen ya da sizin yakaladığınız konuşmanın etrafında kurgulanmıştır: yürürken dikte edilmiş bir sesli not, telefonunuzla kaydettiğiniz bir toplantı, yazmaktan daha hızlı olduğu için sesli düşündüğünüz bir fikir. Girdi, indirdiğiniz bir medya dosyası değil, sizin sesiniz ya da bir ses kaydıdır.",
+                "Değeri şurada: konuşmak yazmaktan hızlıdır, ama metin sesten daha kullanışlıdır. Sesi yazıya çevirme tam ikisinin arasında durur — konuşmanın hızını, yazının aranabilir, düzenlenebilir ve paylaşılabilir hâliyle birlikte elde edersiniz, üstelik deşifre işini kendiniz yapmadan.",
+                "TranscriptX bunu ücretsiz olarak, doğrudan tarayıcıda yapar; ister anında kayıt alın, ister elinizde hazır bulunan bir kaydı yükleyin."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Sesi Yazıya Çevirme",
+            "specs": [
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Girdi",
+                    "value": "Tarayıcıda canlı kayıt ya da bir ses kaydı yükleme"
+                },
+                {
+                    "label": "Kayıt süresi sınırı",
+                    "value": "Yok"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik olarak algılanır"
+                },
+                {
+                    "label": "Konuşmacı ayrımı",
+                    "value": "Evet — her konuşmacı etiketlenir"
+                },
+                {
+                    "label": "Zaman damgaları",
+                    "value": "İsteğe bağlı — her metin için açılıp kapatılabilir"
+                },
+                {
+                    "label": "Dışa aktarma formatları",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                }
+            ]
+        },
+        {
+            "h2": "Sesi Yazıya Çevirme Nasıl Yapılır?",
+            "steps": [
+                {
+                    "h3": "Kaydedin veya yükleyin",
+                    "content": "Kayıt düğmesine basıp doğrudan tarayıcıya konuşun ya da daha önce telefonunuzla veya bir kayıt cihazıyla aldığınız bir ses kaydını yükleyin. Ne kadar konuşacağınıza dair bir sınır yoktur."
+                },
+                {
+                    "h3": "Araç dinler ve yazıya döker",
+                    "content": "TranscriptX'in ses tanıma altyapısı konuşulan dili 100'den fazla dil arasından kendisi algılar ve konuşmayı noktalama işaretleriyle birlikte metne çevirir; birden fazla kişi varsa her konuşmacıyı etiketler."
+                },
+                {
+                    "h3": "Metni okuyun ve düzenleyin",
+                    "content": "Kelimeler, olduğu yerde toparlayabileceğiniz bir metin olarak görünür — yarım kalmış bir başlangıcı silin, bir ismi düzeltin ya da dağılmış bir cümleyi net bir cümleye çevirin."
+                },
+                {
+                    "h3": "Kopyalayın veya dışa aktarın",
+                    "content": "Metni bir nota, bir belgeye ya da bir mesaja kopyalayın; veya saklamak ya da paylaşmak için TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarın."
+                }
+            ]
+        },
+        {
+            "h2": "Canlı Kaydedin veya Bir Kaydı Yükleyin",
+            "content": [
+                "Sesi yazıya çevirme iki şekilde çalışır ve ikisi de indirilmiş bir dosyadan değil, sizin sesinizden başlar.",
+                "Kelimeler henüz ortada yokken canlı kaydedin. Aracı açın, tarayıcıda ses kaydetmeye başlayın ve konuşun — yazıya dökmek istediğiniz bir fikir, kendinize bir not, yazmaktansa söylemeyi tercih ettiğiniz bir taslak. Durduğunuz anda konuşma, düzenleyip saklayabileceğiniz bir metne dönüşür. Sesli düşündüğünüzde ve düşünceyi klavyeye uzanmadan yakalamak istediğinizde hızlı yol budur.",
+                "Ses zaten kayıtlıysa o kaydı yükleyin. Telefonunuzdaki bir sesli not, bir mesajlaşma uygulamasından gelen sesli mesaj, daha önce kaydettiğiniz bir sohbet — yükleyin, TranscriptX tamamını deşifre etsin. Her iki yolda da süre sınırı yoktur; on saniyelik bir hatırlatma da bir saat süren kayıtlı bir tartışma da aynı şekilde işlenir."
+            ]
+        },
+        {
+            "h2": "Kaydedilmiş Konuşmayı Yazıya Çevirme",
+            "content": [
+                "Bir ses kaydı söylenen her şeyi barındırır, ama arayamayacağınız, alıntılayamayacağınız ve düzenleyemeyeceğiniz bir biçimde. Deşifre etmek, o konuşmayı metne çevirir — tek adımda kayıttan deşifre metnine, yani gerçekten üzerinde çalışabileceğiniz bir metne.",
+                "Konuşmayı yazıya çevirme, en çok kaydın sonradan ihtiyaç duyacağınız bilgiyi taşıdığı durumlarda işe yarar. Kaydedilmiş bir röportaj, her konuşmacısı etiketlenmiş, alıntılanabilir bir metne dönüşür. Kaydedilmiş bir toplantı, neyin kararlaştırıldığının yazılı kaydı olur. Kaydedilmiş bir ders, terime göre arayabileceğiniz notlara dönüşür. Sonuca ister konuşma kaydının deşifre metni deyin ister sadece sayfadaki kelimeler, içeriği yalnızca depolamak yerine kullanmanızı sağlayan şey odur.",
+                "TranscriptX, ister tek kişi ister birkaç kişi olsun kaydedilmiş konuşmayı yazıya çevirir. Birden fazla ses varsa her konuşmacı etiketlenir; böylece kaydedilmiş bir sohbet, tek bir kelime akışı değil, karşılıklı bir konuşma olarak okunur."
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Çevirebilirsiniz",
+            "intro": [
+                "Sesiniz saklanmaya değer bir şey taşıyorsa, sesi yazıya çevirme onu kullanılabilir bir kayda dönüştürür. En yaygın kullanımlar:"
+            ],
+            "items": [
+                {
+                    "h3": "Sesli notlar ve hatırlatmalar",
+                    "content": "Bir fikri, bir hatırlatmayı ya da bir taslağı konuşarak yakalayın; ne söylediğinizi hatırlamak için tekrar dinlemeniz gereken bir kayıt yerine düzenlenebilir metin alın."
+                },
+                {
+                    "h3": "Toplantılar ve görüşmeler",
+                    "content": "Bir toplantıyı telefonunuzla kaydedin ve her kişinin etiketlendiği yazılı bir tutanağa çevirin; böylece kararlar ve yapılacak işler birinin hafızasında değil, sayfada durur."
+                },
+                {
+                    "h3": "Röportajlar",
+                    "content": "Kaydedilmiş bir röportajı, konuşmacıları ayrılmış hâlde alıntılanabilir metne dönüştürün; böylece hafızadan yorumlamak yerine ifadenin tam hâlini alabilirsiniz."
+                },
+                {
+                    "h3": "Belge dikte etme",
+                    "content": "Bir e-postanın, bir raporun ya da bir makalenin ilk taslağını konuşun ve sesi yazıya çevirme onu yazsın; sonra her kelimeyi sıfırdan yazmak yerine metni toparlayın."
+                },
+                {
+                    "h3": "Dersler ve çalışma",
+                    "content": "Bir dersi ya da bir çalışma oturumunu kaydedin ve sonradan arayabileceğiniz, işaretleyebileceğiniz ve tekrar edebileceğiniz bir metne çevirin."
+                },
+                {
+                    "h3": "Erişilebilirlik ve eller serbest kullanım",
+                    "content": "Yazmayı yavaş ya da zor bulan herkes için konuşup temiz bir metin geri almak, yazmanın daha hızlı ve daha rahat bir yoludur."
+                }
+            ]
+        },
+        {
+            "h2": "Dikte İçin Sesli Yazma",
+            "content": [
+                "Çoğu insan yazdığından çok daha hızlı konuşur; dikte etmenin sesi yazıya çevirmeye bu kadar doğal oturmasının sebebi de budur. Kafanızda bir ilk taslak varken, onu sesli söyleyip metin olarak geri almak, klavyede kelime kelime kurmaktan hızlıdır.",
+                "Dikte etmenin püf noktası, konuşma dilinin yazı dilinden daha dağınık olmasıdır — yarım kalan başlangıçlar, dolgu sözcükleri ve savrulan cümleler olur. Sesli yazma size bitmiş bir belge değil düzenlenebilir bir metin verdiği için bunu düzeltmek kolaydır: ham kelimeleri konuşma hızında kâğıda dökün, sonra bir dakikanızı onları toparlamaya ayırın. Zor olan kısım, yani boş sayfadan tam bir taslağa geçmek, çoktan bitmiştir.",
+                "Normalde yazacağınız her şey için işe yarar: e-postalar, notlar, taslak planlar, günlük kayıtları ya da sonradan düzenleyeceğiniz bir makalenin kaba hâli."
+            ]
+        },
+        {
+            "h2": "Doğruluk ve Diller",
+            "content": [
+                "Metnin söylediklerinizle ne kadar örtüştüğü, kayda bağlıdır. Mikrofona yakın, arka plan gürültüsünden uzak, dengeli bir hızda ve net konuşmak en temiz sonucu verir — ve kullanımın büyük bölümü kendi sesinizi kaydetmek olduğu için bu çoğu zaman sizin kontrolünüzdedir.",
+                "Gürültülü ortamlarda, insanlar birbirinin sözünü kestiğinde ya da çok hızlı ve yutarak konuşulduğunda doğruluk düşer. Bu bölümleri hızlıca gözden geçirmekte fayda vardır; ama net bir sesli notta ya da iyi kaydedilmiş bir sohbette metin neredeyse kelimesi kelimesine geri gelir.",
+                "TranscriptX'in konuşma tanıma altyapısı 100'den fazla dili tanır ve hangi dilde konuştuğunuzu otomatik olarak algılar; böylece önceden hiçbir ayar değiştirmeden kendi dilinizde dikte edebilir ya da deşifre edebilirsiniz."
+            ]
+        },
+        {
+            "h2": "Sesi Yazıya Çevirme mi, Ses Yazıya Çevirme mi?",
+            "intro": [
+                "İkisi de konuşmayı metne dönüştürür, ama farklı başlangıç noktalarına göre kurgulanmıştır. Kelimelerinizin nereden geldiğine bakarak seçin."
+            ],
+            "items": [
+                {
+                    "h3": "Kendi konuştuğunuz sözler için sesi yazıya çevirmeyi seçin",
+                    "content": "Sesinizi canlı kaydetmek, bir taslağı dikte etmek ya da kendi aldığınız bir sesli notu veya kaydı deşifre etmek istediğinizde, bunun için tasarlanmış araç budur — doğrudan tarayıcıya kayıt yapma seçeneği de dâhil."
+                },
+                {
+                    "h3": "Hazır ses dosyaları için ses yazıya çevirmeyi seçin",
+                    "content": "Elinizde zaten bir ses dosyası varsa — bir podcast, indirilmiş bir röportaj, bir toplantının MP3'ü — [Ses Yazıya Çevirme](/tr/audio-to-text) aracı medya dosyalarını yükleyip deşifre etmek üzere kurgulanmıştır. Kaydınız aslında bir videonun sesiyse, [YouTube Transkript](/tr/youtube-transcript) aracı bu kaynağı doğrudan destekler."
+                }
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Sesi ücretsiz olarak nasıl yazıya çeviririm?",
+                    "a": "Sesinizi TranscriptX'te kaydedin ya da bir ses kaydı yükleyin; konuşmayı hiçbir ücret ödemeden metne çevirir. Açılacak bir hesap, kurulacak bir şey ve kayıt süresi için bir sınır yoktur."
+                },
+                {
+                    "q": "Doğrudan araca kayıt yapabilir miyim?",
+                    "a": "Evet. Tarayıcıda canlı kayıt yapıp durduğunuzda metni alabilir ya da daha önce aldığınız bir kaydı yükleyebilirsiniz. İkisi de aynı şekilde çalışır."
+                },
+                {
+                    "q": "Elimde hazır bulunan bir ses kaydını deşifre edebilir miyim?",
+                    "a": "Evet. Kaydı yükleyin — bir sesli not, bir sesli mesaj, kaydedilmiş bir sohbet — TranscriptX tamamını metne çevirir ve birden fazla kişi varsa konuşmacıları etiketler. Bu yolla her uzunluktaki kaydı deşifre edebilirsiniz."
+                },
+                {
+                    "q": "Sesli yazma dikte için uygun mu?",
+                    "a": "Evet. Konuşmak yazmaktan hızlı olduğu için dikte etmek en yaygın kullanımlardan biridir. Geriye düzenlenebilir bir metin aldığınızdan, kaba bir taslağı konuşup sonra toparlamak sıfırdan yazmaktan çok daha kolaydır."
+                },
+                {
+                    "q": "Hangi diller destekleniyor?",
+                    "a": "100'den fazlası. Konuşulan dil otomatik olarak algılanır; böylece önceden seçmeden kendi dilinizde dikte edebilir ya da deşifre edebilirsiniz."
+                },
+                {
+                    "q": "Farklı konuşmacıları ayırabiliyor mu?",
+                    "a": "Evet. Bir kayıtta birden fazla ses olduğunda her konuşmacı etiketlenir; böylece kaydedilmiş bir sohbet ya da toplantı net bir karşılıklı konuşma olarak okunur."
+                },
+                {
+                    "q": "Ne kadar süre kayıt yapabileceğime dair bir sınır var mı?",
+                    "a": "Hayır. Kısa bir sesli not da uzun bir kayıt oturumu da çalışır; daha uzun bir kaydın işlenmesi yalnızca biraz daha fazla zaman alır."
+                },
+                {
+                    "q": "Bir uygulama kurmam gerekiyor mu?",
+                    "a": "Hayır. Bu ses metin dönüştürücü masaüstünde ya da mobilde tarayıcıda çalışır; hiçbir uygulama, eklenti veya hesap gerekmez."
+                },
+                {
+                    "q": "Sesi yazıya çevirme ne kadar doğru?",
+                    "a": "Büyük ölçüde kayda bağlıdır. Mikrofona yakın, gürültüden uzak ve net konuşma neredeyse kelimesi kelimesine geri gelirken, gürültülü ya da üst üste binen konuşmalar güvenmeden önce hızlı bir gözden geçirmeye değer."
+                },
+                {
+                    "q": "Sesi yazıya çevirme ile ses yazıya çevirme arasındaki fark nedir?",
+                    "a": "Sesi yazıya çevirme, kendiniz yakaladığınız konuşulan sözler içindir — canlı kayıt almak ya da bir sesli notu deşifre etmek gibi. Ses yazıya çevirme ise podcast ve MP3 gibi hazır ses dosyaları içindir. Elinizde bir ses kaydı değil de bir medya dosyası varsa Ses Yazıya Çevirme aracını kullanın."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Sesinizi Ücretsiz Yazıya Çevirin",
+        "content": [
+            "Doğrudan tarayıcıya kayıt yapın ya da bir ses kaydı yükleyin; TranscriptX konuşulan sözlerinizi 100'den fazla dilde, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla metne çevirir.",
+            "Bir taslağı dikte edin, bir sesli notu deşifre edin ya da kaydedilmiş bir sohbeti yazıya dökün — sonra okuyun, düzenleyin, kopyalayın veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarın. Hesap yok, kurulum yok, ücret yok."
+        ]
+    }
+}

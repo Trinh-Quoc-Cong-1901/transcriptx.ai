@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Cara Download Subtitle YouTube — SRT & VTT Gratis | TranscriptX",
+        "description": "Download subtitle dari YouTube secara gratis. Tempel link, lalu simpan subtitle sebagai file SRT atau VTT lengkap dengan penanda waktu, dalam 100+ bahasa. Tanpa daftar, tanpa instalasi.",
+        "schemaName": "TranscriptX — Alat Download Subtitle YouTube",
+        "schemaDescription": "Alat gratis untuk mengunduh file subtitle dari video YouTube publik sebagai SRT atau VTT lengkap dengan penanda waktu, dalam lebih dari 100 bahasa. Cukup tempel link dan simpan filenya tanpa perlu akun.",
+        "ogTitle": "Cara Download Subtitle YouTube — SRT & VTT Gratis | TranscriptX",
+        "ogDescription": "Download subtitle YouTube sebagai SRT atau VTT lengkap dengan waktunya. Tempel link, simpan file subtitle dalam 100+ bahasa, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Cara Download Subtitle YouTube",
+        "subtitle": "Download subtitle dari YouTube untuk video publik apa pun sebagai file subtitle bertimecode. Tempel link, lalu simpan SRT atau VTT dalam lebih dari 100 bahasa, siap dimuat ke editor video atau diunggah ke platform lain. Tanpa akun, tanpa instalasi.",
+        "placeholder": "Tempel URL video YouTube...",
+        "button": "Download Subtitle"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara download subtitle dari sebuah video YouTube?",
+        "answer": "Tempel link YouTube publik ke TranscriptX, lalu alat ini menyusun file subtitle bertimecode yang bisa Anda unduh sebagai SRT atau VTT. Subtitlenya tersedia dalam lebih dari 100 bahasa, dengan penanda waktu di setiap baris, siap untuk diedit atau diunggah ulang. Tidak perlu akun."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu File Subtitle — dan Apa Hasilnya Saat Anda Ekstrak Subtitle YouTube",
+            "content": [
+                "File subtitle bukan sekadar kata-kata yang terdengar di sebuah video — isinya kata-kata itu plus momen persis saat setiap baris muncul dan menghilang. Buka salah satunya, dan Anda akan melihat blok-blok teks yang berpasangan dengan timecode seperti 00:01:12 sampai 00:01:15. Waktu itulah inti seluruhnya: nilai itulah yang memberi tahu pemutar video kapan harus menampilkan setiap baris subtitle.",
+                "Inilah yang memisahkan file subtitle dari transkrip biasa. Transkrip adalah teks yang Anda baca berdiri sendiri; file subtitle adalah teks yang dibangun untuk berjalan berdampingan dengan video, tersinkron bingkai demi bingkai dengan ucapannya.",
+                "TranscriptX menyusun file bertimecode itu dari audio sebuah video YouTube lalu membiarkan Anda mengunduhnya. Sebagai alat untuk ekstrak subtitle YouTube, ia menyerahkan file subtitle yang bisa langsung Anda jatuhkan ke dalam editor atau pemutar video. Jadi ketika Anda download subtitle dari YouTube di sini, yang Anda dapat bukan tumpukan teks yang waktunya harus Anda cocokkan sendiri, dan tidak ada yang perlu disalin baris per baris."
+            ]
+        },
+        {
+            "h2": "SRT atau VTT: Format Subtitle Mana yang Sebaiknya Anda Download",
+            "intro": [
+                "TranscriptX mengekspor kedua format subtitle standar. Mana yang Anda unduh bergantung pada ke mana subtitle itu akan pergi."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — file subtitle yang diterima di mana saja",
+                    "content": "SubRip (.srt) adalah format yang hampir semua tempat menerimanya: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve, dan sebagian besar pemutar. Pilih download subtitle YouTube SRT kalau Anda hendak mengunggah subtitle ke sebuah platform atau memuatnya ke editor video — ini pilihan bawaan yang paling aman."
+                },
+                {
+                    "h3": "VTT — subtitle untuk web",
+                    "content": "WebVTT (.vtt) adalah format yang dibuat untuk video HTML5 yang diputar di dalam browser, dan ia mendukung tambahan seperti pengaturan posisi dan gaya teks. Unduh file subtitle VTT kalau subtitlenya ditujukan untuk sebuah situs web atau aplikasi web, bukan untuk platform sosial atau editor."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Download Subtitle dari YouTube, Langkah demi Langkah",
+            "steps": [
+                {
+                    "h3": "Tempel link videonya",
+                    "content": "Salin URL video YouTube publik itu lalu tempel ke kotak di atas. Tidak ada akun yang harus dibuat dan tidak ada apa pun yang perlu diunggah."
+                },
+                {
+                    "h3": "TranscriptX menyusun subtitle bertimecode",
+                    "content": "Ia membaca audionya, mendeteksi bahasanya, lalu menuliskan setiap baris beserta waktu mulai dan waktu selesainya — penanda waktu yang wajib ada supaya sebuah file subtitle tetap sinkron."
+                },
+                {
+                    "h3": "Pilih SRT atau VTT",
+                    "content": "Ambil SRT untuk editor video atau platform sosial, atau VTT untuk video web. Keduanya membawa subtitle yang sama dengan waktu yang sama persis."
+                },
+                {
+                    "h3": "Unduh file subtitlenya",
+                    "content": "Simpan ke perangkat Anda — dan karena semuanya berjalan di browser, cara download subtitle YouTube di hp sama saja dengan di komputer. Filenya siap dimuat ke editor Anda, diunggah bersama video yang Anda posting ulang, atau diterjemahkan sebelum ditayangkan."
+                }
+            ]
+        },
+        {
+            "h2": "Yang Bisa Anda Lakukan dengan File Subtitle yang Sudah Diunduh",
+            "intro": [
+                "File subtitle adalah bahan kerja, bukan sekadar rujukan. Ia memang dibentuk untuk dimuat, diedit, dan dipakai ulang:"
+            ],
+            "items": [
+                {
+                    "h3": "Menambahkan subtitle ke hasil editan Anda sendiri",
+                    "content": "Editor video memuat SRT-nya ke Premiere, Final Cut, atau Resolve untuk memberi subtitle pada sebuah potongan, menyesuaikan waktunya dengan editan mereka, lalu menata gaya teksnya agar cocok dengan videonya."
+                },
+                {
+                    "h3": "Mengunggah ulang video lengkap dengan subtitle",
+                    "content": "Kalau Anda memposting ulang sebuah video ke kanal Anda sendiri, mengunggah file subtitlenya bersama video itu memberi penonton subtitle tanpa Anda perlu mengetik ulang satu kata pun."
+                },
+                {
+                    "h3": "Menerjemahkan untuk penonton internasional",
+                    "content": "Karena file subtitle adalah teks polos yang bisa diedit dan waktunya tersimpan terpisah, penerjemah bisa menulis ulang barisnya ke bahasa lain sementara timecode-nya tetap utuh — inilah jalur tercepat untuk memberi subtitle pada sebuah video demi pasar baru."
+                },
+                {
+                    "h3": "Memperbaiki atau merapikan subtitlenya",
+                    "content": "Buka filenya di editor teks mana pun untuk membetulkan sebuah nama, memecah baris yang terlalu panjang, atau menggeser sedikit timecode sebelum subtitlenya tayang."
+                },
+                {
+                    "h3": "Memenuhi persyaratan aksesibilitas",
+                    "content": "Subtitle sering kali wajib, bukan opsional. Setelah Anda tahu cara mengambil subtitle dari YouTube, file SRT atau VTT hasil unduhannya itulah yang Anda lampirkan supaya sebuah video bisa diakses penonton tuli dan yang kesulitan mendengar."
+                }
+            ]
+        },
+        {
+            "h2": "Download Subtitle dalam Lebih dari 100 Bahasa",
+            "content": [
+                "TranscriptX mendeteksi bahasa yang diucapkan secara otomatis lalu menyusun subtitlenya dalam bahasa tersebut, mencakup lebih dari 100 bahasa — jadi file subtitle yang Anda unduh cocok dengan apa yang benar-benar diucapkan di dalam videonya. Video berbahasa Indonesia menghasilkan subtitle bahasa Indonesia yang rapi; begitu pula video berbahasa Inggris atau Jepang. Dan download subtitle YouTube gratis di sini berlaku sama untuk semua bahasa.",
+                "Dari sana filenya menjadi milik Anda untuk diterjemahkan. Karena waktunya tersimpan terpisah dari kata-katanya, Anda bisa mengganti teksnya dengan bahasa lain dan subtitlenya tetap mendarat di bingkai yang benar — persis begitulah satu video akhirnya punya subtitle untuk beberapa kelompok penonton hanya dari satu kali unduhan."
+            ]
+        },
+        {
+            "h2": "Subtitle, Transkrip, atau Ringkasan?",
+            "content": [
+                "File subtitle adalah unduhan yang tepat ketika Anda butuh subtitle bertimecode untuk berjalan di atas sebuah video. Kalau yang Anda butuhkan dari video yang sama adalah sesuatu yang lain, ada alat TranscriptX berbeda yang memang dibentuk untuk itu.",
+                "Untuk teks polos yang Anda baca berdiri sendiri — tanpa timecode, tanpa apa pun yang tersinkron ke pemutaran — alat [YouTube Transcript](/id/youtube-transcript) itulah yang Anda mau, dan alat [Download Transkrip YouTube](/id/download-youtube-transcript) menyimpan teks tersebut sebagai dokumen TXT, DOCX, atau PDF. Kalau Anda hanya perlu tahu sebuah video membahas apa alih-alih memberi subtitle pada setiap barisnya, [YouTube Video Summarizer](/id/youtube-video-summarizer) memberi Anda poin-poin utamanya dalam beberapa kalimat saja."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara download subtitle dari video YouTube?",
+                    "a": "Tempel link videonya ke TranscriptX, biarkan subtitle bertimecodenya tersusun, pilih SRT atau VTT, lalu unduh filenya. Hanya itu yang diperlukan untuk mengunduh subtitle dari YouTube — dalam format mana pun dari keduanya — dan tidak ada akun yang harus dibuat."
+                },
+                {
+                    "q": "Apakah situs download subtitle YouTube ini gratis?",
+                    "a": "Ya. Menyusun maupun mengunduh file subtitle sama-sama gratis, tanpa akun yang harus dibuat dan tanpa batasan seberapa panjang videonya."
+                },
+                {
+                    "q": "Apa bedanya SRT dan VTT?",
+                    "a": "Keduanya file subtitle bertimecode. SRT adalah format universal yang diterima platform dan editor video; VTT dibuat untuk video web HTML5 dan mendukung tambahan pengaturan posisi serta gaya teks. Pilih SRT kecuali Anda memang khusus butuh video web."
+                },
+                {
+                    "q": "Apakah subtitlenya menyertakan penanda waktu?",
+                    "a": "Ya. Setiap baris di dalam file SRT atau VTT membawa waktu mulai dan waktu selesai — penanda waktu itulah yang menjaga subtitlenya tetap sinkron saat filenya diputar di atas sebuah video."
+                },
+                {
+                    "q": "Apa bedanya subtitle dan transkrip?",
+                    "a": "Transkrip adalah teks polos yang Anda baca berdiri sendiri. Subtitle adalah teks bertimecode yang dibuat untuk ditampilkan di atas video. Kalau yang Anda inginkan adalah kata-kata untuk dibaca, bukan subtitle untuk ditampilkan, gunakan alat transkrip saja."
+                },
+                {
+                    "q": "Bisakah saya mengunduh subtitle dalam bahasa lain?",
+                    "a": "Subtitlenya disusun dalam bahasa yang diucapkan di dalam videonya. Karena filenya berupa teks yang bisa diedit dengan waktu yang tersimpan terpisah, Anda bisa menerjemahkan barisnya ke bahasa lain sementara timecode-nya tetap di tempatnya."
+                },
+                {
+                    "q": "Bisakah saya mengedit file subtitlenya setelah diunduh?",
+                    "a": "Bisa. File SRT atau VTT terbuka di editor teks mana pun, jadi Anda bisa membetulkan sebuah kata, memecah baris, atau menyesuaikan timecode sebelum subtitlenya tayang."
+                },
+                {
+                    "q": "Apakah filenya akan berfungsi di editor video saya?",
+                    "a": "Ya. SRT bisa dimuat ke Premiere, Final Cut, DaVinci Resolve, dan sebagian besar editor maupun pemutar lain — itulah sebabnya format ini menjadi pilihan bawaan untuk pekerjaan editing."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download Subtitle YouTube Gratis",
+        "content": [
+            "Tempel link sebuah video YouTube publik, dan TranscriptX menyusun file subtitle bertimecode yang bisa Anda unduh sebagai SRT atau VTT, dalam lebih dari 100 bahasa.",
+            "Muat ke editor, unggah bersama video yang Anda posting ulang, atau terjemahkan untuk penonton baru. Tanpa akun, tanpa instalasi, tanpa biaya."
+        ]
+    }
+}

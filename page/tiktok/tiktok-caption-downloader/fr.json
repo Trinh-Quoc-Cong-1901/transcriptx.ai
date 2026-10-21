@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "title": "Télécharger les sous-titres TikTok — gratuit et en ligne | TranscriptX",
+        "description": "Téléchargez gratuitement les sous-titres de n'importe quelle vidéo TikTok. Collez un lien et enregistrez les sous-titres dans un fichier synchronisé, en plus de 100 langues. Sans inscription, sans installation.",
+        "schemaName": "TranscriptX — Téléchargeur de sous-titres TikTok",
+        "schemaDescription": "Outil gratuit pour télécharger les sous-titres d'une vidéo TikTok publique sous forme de fichier synchronisé, en plus de 100 langues. Collez un lien et enregistrez les sous-titres pour republier, traduire ou rendre la vidéo accessible, sans aucun compte.",
+        "ogTitle": "Télécharger les sous-titres TikTok — gratuit et en ligne | TranscriptX",
+        "ogDescription": "Récupérez les sous-titres de n'importe quel TikTok dans un fichier synchronisé. Collez un lien, enregistrez le sous-titrage en plus de 100 langues, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Télécharger les sous-titres TikTok",
+        "subtitle": "Téléchargez les sous-titres de n'importe quelle vidéo TikTok publique. Collez un lien et enregistrez les paroles prononcées dans un fichier de sous-titres synchronisé, en plus de 100 langues, prêt à être remis sur une republication ou traduit. Aucun compte, rien à installer.",
+        "placeholder": "Collez l'URL d'une vidéo TikTok...",
+        "button": "Télécharger les sous-titres"
+    },
+    "quickAnswer": {
+        "question": "Comment télécharger les sous-titres d'une vidéo TikTok ?",
+        "answer": "Collez un lien TikTok public dans TranscriptX : l'outil construit les sous-titres à partir de l'audio de la vidéo, prêts à télécharger sous forme de fichier synchronisé. Le sous-titrage est disponible dans plus de 100 langues, chaque ligne étant calée sur la vidéo. Aucun compte n'est nécessaire."
+    },
+    "sections": [
+        {
+            "h2": "Ce que fait ce téléchargeur de sous-titres TikTok",
+            "content": [
+                "Cet outil extrait les sous-titres TikTok d'un clip et vous les remet sous forme de fichier téléchargeable — un téléchargement de sous-titres TikTok en une seule étape. Pas un paragraphe à lire, mais un fichier de sous-titres où chaque ligne porte le moment exact où elle doit apparaître à l'écran.",
+                "C'est ce calage temporel qui justifie l'existence de cette page à part de celle de la transcription. Une transcription est un texte qui se lit seul ; des sous-titres sont un texte fait pour défiler par-dessus la vidéo, synchronisé ligne par ligne avec la parole. Si votre objectif est de republier un clip sous-titré, de traduire le texte affiché à l'écran ou de répondre à une exigence d'accessibilité, il vous faut le fichier de sous-titres synchronisé, pas un bloc de texte à lire.",
+                "TranscriptX construit ce sous-titrage à partir de l'audio du TikTok : vous récupérez donc un fichier propre et calé même quand la vidéo d'origine n'avait aucun sous-titre activé."
+            ]
+        },
+        {
+            "h2": "Sous-titres ou transcription : de quoi avez-vous besoin ?",
+            "intro": [
+                "Les deux transforment la parole d'un TikTok en texte, mais ils sont faits pour deux usages différents. Choisissez selon ce qui vient ensuite."
+            ],
+            "items": [
+                {
+                    "h3": "Téléchargez les sous-titres quand le texte défile sur la vidéo",
+                    "content": "Si les mots doivent s'afficher sur un clip — sous-titres sur une republication, sous-titres traduits pour un autre public, texte d'accessibilité — c'est le fichier synchronisé produit par cet outil qu'il vous faut. Télécharger le texte d'une vidéo TikTok avec ses temps, c'est justement ce qui garde chaque ligne calée sur l'audio."
+                },
+                {
+                    "h3": "Prenez une transcription quand vous voulez juste les mots",
+                    "content": "Si vous avez seulement besoin de lire, de copier ou d'étudier le contenu parlé — le hook, une citation, un script — le texte brut est plus simple. Pour cela, l'outil [TikTok Transcript](/fr/tiktok-transcript) vous donne les mots sans aucun code temporel à retirer."
+                }
+            ]
+        },
+        {
+            "h2": "Comment télécharger les sous-titres d'une vidéo TikTok",
+            "steps": [
+                {
+                    "h3": "Copiez le lien TikTok",
+                    "content": "Appuyez sur Partager sur la vidéo et copiez le lien, ou récupérez l'URL sur ordinateur. La publication doit être publique."
+                },
+                {
+                    "h3": "Collez-le dans le téléchargeur de sous-titres",
+                    "content": "Placez le lien dans le champ ci-dessus. Il n'y a aucun fichier à envoyer et aucune étape de création de compte — l'outil lit l'audio directement depuis la vidéo."
+                },
+                {
+                    "h3": "TranscriptX construit les sous-titres synchronisés",
+                    "content": "Il transcrit la parole et la découpe en lignes de sous-titre, chacune avec une heure de début et de fin, pour rester calée pendant la lecture par-dessus le clip."
+                },
+                {
+                    "h3": "Téléchargez le fichier de sous-titres",
+                    "content": "Enregistrez les sous-titres sur votre appareil, prêts à être chargés dans un logiciel de montage, posés sur une republication ou traduits avant publication."
+                }
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez faire avec un fichier de sous-titres TikTok",
+            "intro": [
+                "Un fichier de sous-titres est un vrai support de travail, pas une simple copie des mots. Il est conçu pour être chargé, modifié et réutilisé :"
+            ],
+            "items": [
+                {
+                    "h3": "Republier un clip sous-titré",
+                    "content": "Reposez les sous-titres sur une vidéo que vous republiez — sur votre propre compte TikTok, ou en cross-post sous forme de Reel ou de Short — pour que les spectateurs aient le sous-titrage sans que vous ayez à retaper un seul mot."
+                },
+                {
+                    "h3": "Traduire pour un autre public",
+                    "content": "Comme le fichier est un texte modifiable dont le calage reste séparé, un traducteur peut réécrire les lignes dans une autre langue pendant que chaque sous-titre continue de tomber au bon moment."
+                },
+                {
+                    "h3": "Sous-titrer les vidéos regardées sans le son",
+                    "content": "La plupart des TikTok sont d'abord regardés en silence, et ce sont les sous-titres qui portent le message dans ces premières secondes. Un fichier téléchargé vous permet de les poser proprement plutôt que de dépendre de sous-titres automatiques approximatifs, qui avalent volontiers les accents et les élisions du français parlé vite."
+                },
+                {
+                    "h3": "Répondre aux besoins d'accessibilité",
+                    "content": "Les sous-titres rendent une vidéo utilisable par les personnes sourdes et malentendantes. Un fichier téléchargé est précisément l'élément que vous attachez pour y parvenir."
+                },
+                {
+                    "h3": "Corriger ou remettre en forme le sous-titrage",
+                    "content": "Ouvrez le fichier pour corriger un mot, couper une ligne trop longue ou ajuster le calage avant que les sous-titres ne partent en ligne sur votre publication."
+                }
+            ]
+        },
+        {
+            "h2": "Télécharger les sous-titres TikTok en plus de 100 langues",
+            "content": [
+                "TranscriptX détecte tout seul la langue parlée dans le TikTok et construit les sous-titres dans cette langue, parmi plus de 100 d'entre elles — le fichier que vous téléchargez correspond donc à ce qui est réellement dit dans le clip.",
+                "À partir de là, les sous-titres vous appartiennent et vous pouvez les traduire. Comme le calage vit séparément des mots, vous remplacez le texte par une autre langue et le sous-titrage tombe toujours sur les bonnes images : c'est ainsi qu'un même clip finit sous-titré pour plusieurs publics à partir d'un seul téléchargement. Traduire les sous-titres TikTok revient alors bien moins cher en temps que de tout retaper."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment télécharger les sous-titres d'une vidéo TikTok ?",
+                    "a": "Collez le lien de partage TikTok dans TranscriptX, laissez-le construire les sous-titres synchronisés à partir de l'audio, puis téléchargez le fichier de sous-titres. Il s'enregistre directement sur votre appareil, sans aucun compte requis."
+                },
+                {
+                    "q": "Ce téléchargeur de sous-titres TikTok est-il gratuit ?",
+                    "a": "Oui. Générer et télécharger des sous-titres TikTok est gratuit, sans compte à créer et sans limite sur le nombre de vidéos que vous traitez."
+                },
+                {
+                    "q": "Quelle différence entre les sous-titres TikTok et une transcription ?",
+                    "a": "Les sous-titres sont un texte synchronisé, fait pour s'afficher par-dessus la vidéo et enregistré dans un fichier de sous-titres. Une transcription, à l'inverse, n'est que les mots, sans aucun calage temporel. Utilisez cet outil pour un sous-titrage que vous pourrez republier ou traduire ; utilisez l'outil TikTok Transcript quand vous voulez seulement lire les mots."
+                },
+                {
+                    "q": "Les sous-titres contiennent-ils le calage temporel ?",
+                    "a": "Oui. Chaque ligne de sous-titre porte une heure de début et de fin, et c'est exactement ce qui garde le sous-titrage synchronisé pendant la lecture par-dessus le clip."
+                },
+                {
+                    "q": "Puis-je extraire les sous-titres d'un TikTok qui n'en affiche aucun ?",
+                    "a": "Oui. TranscriptX construit les sous-titres à partir de l'audio : il produit donc un fichier même pour une vidéo qui n'a jamais eu de sous-titres activés."
+                },
+                {
+                    "q": "Puis-je récupérer les sous-titres dans une autre langue ?",
+                    "a": "Les sous-titres sortent dans la langue parlée dans le TikTok. À partir de là, vous pouvez les traduire vous-même — les mots restent modifiables pendant que les codes temporels restent fixes, si bien que le sous-titrage continue de tomber sur les bonnes images dans la nouvelle langue."
+                },
+                {
+                    "q": "Puis-je utiliser le fichier quand je republie le clip ?",
+                    "a": "Oui, c'est l'usage principal : reposez les sous-titres téléchargés sur un clip que vous remettez en ligne, ou sur un Reel ou un Short cross-posté, pour qu'il se publie déjà sous-titré."
+                },
+                {
+                    "q": "Puis-je modifier le fichier de sous-titres après l'avoir enregistré ?",
+                    "a": "Oui. Le fichier de sous-titres est un texte modifiable : vous pouvez corriger un mot, couper une ligne ou décaler légèrement le calage avant que le sous-titrage ne parte en ligne."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Télécharger les sous-titres TikTok gratuitement",
+        "content": [
+            "Collez le lien d'un TikTok public et TranscriptX construit un fichier de sous-titres synchronisé que vous pouvez télécharger, en plus de 100 langues, directement depuis l'audio de la vidéo.",
+            "Posez le sous-titrage sur une republication, traduisez-le pour un nouveau public, ou attachez-le pour l'accessibilité. Sans compte, sans installation, sans frais."
+        ]
+    }
+}

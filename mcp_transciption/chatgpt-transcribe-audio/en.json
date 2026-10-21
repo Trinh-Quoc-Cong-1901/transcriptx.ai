@@ -1,0 +1,136 @@
+{
+    "seo": {
+        "title": "ChatGPT Transcribe Audio — Audio to Text in ChatGPT with TranscriptX",
+        "description": "Transcribe audio in ChatGPT with TranscriptX. Attach an MP3 or any recording and ChatGPT gets the full transcript to summarize, translate or turn into notes. Free to start.",
+        "schemaName": "TranscriptX for ChatGPT — Audio Transcription",
+        "schemaDescription": "TranscriptX connects to ChatGPT and turns audio files, podcasts and media links into a full transcript in over 100 languages. ChatGPT can then summarize, translate or answer questions about the transcript in the same chat. Export to TXT, SRT or VTT.",
+        "ogTitle": "ChatGPT Transcribe Audio — Powered by TranscriptX",
+        "ogDescription": "Attach a recording, and TranscriptX gives ChatGPT the full transcript to summarize, translate or ask about. Free to start."
+    },
+    "hero": {
+        "h1": "ChatGPT Transcribe Audio – Turn Audio Into Text in ChatGPT With TranscriptX",
+        "subtitle": "Connect TranscriptX to ChatGPT, then attach any recording or paste a podcast link. TranscriptX transcribes the audio and hands the full text to ChatGPT, so you can summarize, translate, quote or turn it into notes without leaving the chat. Free to start, in over 100 languages.",
+        "button": "Connect TranscriptX to ChatGPT"
+    },
+    "quickAnswer": {
+        "question": "Can ChatGPT transcribe audio?",
+        "answer": "Yes, with TranscriptX. Connect TranscriptX to ChatGPT once, attach an audio file or paste a link, and ask ChatGPT to transcribe it. TranscriptX turns the speech into text and returns the full transcript to the chat, where ChatGPT can summarize, translate or answer questions about it. Setup takes about a minute — see the Transcription MCP guide."
+    },
+    "sections": [
+        {
+            "h2": "How ChatGPT Transcribes Audio With TranscriptX",
+            "content": [
+                "ChatGPT is great at working with text, but it is not built to turn long recordings or media links into a complete transcript on its own. TranscriptX fills that gap.",
+                "Once TranscriptX is connected, the work is split in two. TranscriptX listens to the audio and turns it into an accurate transcript. ChatGPT then receives that transcript and does what it does best — summarizing, translating, explaining and rewriting.",
+                "You stay in one chat the whole time. Attach the file, ask for a transcript, and keep going with your next question."
+            ]
+        },
+        {
+            "h2": "Why Use TranscriptX to Transcribe Audio in ChatGPT",
+            "items": [
+                {
+                    "h3": "No more copy and paste",
+                    "content": "Without TranscriptX you transcribe in one tool and paste the text into ChatGPT. With it, the transcript lands directly in the conversation."
+                },
+                {
+                    "h3": "Full transcripts, even for long recordings",
+                    "content": "Meetings, lectures and podcast episodes are transcribed in full, not cut short. Long transcripts are read in parts so ChatGPT can work with the whole recording."
+                },
+                {
+                    "h3": "Audio to text in 100+ languages",
+                    "content": "Transcribe recordings in the language that was spoken, then ask ChatGPT to translate them into any other."
+                },
+                {
+                    "h3": "Files and links",
+                    "content": "Attach MP3, WAV, M4A and other audio or video files, or paste podcast, YouTube, Google Drive, Dropbox and OneDrive links."
+                },
+                {
+                    "h3": "Export when you need it",
+                    "content": "The result card has Copy and Export buttons for TXT, SRT and VTT, plus a link to open the full transcript in TranscriptX."
+                },
+                {
+                    "h3": "Private by design",
+                    "content": "TranscriptX only receives the file or link you ask it to transcribe — never your other messages. Uploaded files are deleted within 12 hours."
+                }
+            ]
+        },
+        {
+            "h2": "ChatGPT Audio to Text at a Glance",
+            "specs": [
+                { "label": "Powered by", "value": "TranscriptX, connected to ChatGPT" },
+                { "label": "Price", "value": "Free daily allowance — TranscriptX Pro for heavier use" },
+                { "label": "Account required", "value": "No — sign in with Google is optional" },
+                { "label": "Input", "value": "Audio and video files attached in the chat, or media links" },
+                { "label": "Languages", "value": "100+" },
+                { "label": "Export formats", "value": "TXT, SRT, VTT" },
+                { "label": "Setup", "value": "One-time — see the [Transcription MCP](/transcription-mcp) guide" }
+            ]
+        },
+        {
+            "h2": "What You Can Do With the Transcript in ChatGPT",
+            "intro": [
+                "Transcribing is only the first step. Once TranscriptX has handed the text to ChatGPT, try prompts like these:"
+            ],
+            "items": [
+                { "h3": "Summarize a recording", "content": "“Summarize this audio in 5 bullet points.”" },
+                { "h3": "Write meeting minutes", "content": "“Turn this into meeting minutes with decisions and action items.”" },
+                { "h3": "Translate", "content": "“Translate the transcript into Vietnamese.”" },
+                { "h3": "Pull out quotes", "content": "“List the three strongest quotes from this interview.”" },
+                { "h3": "Study from a lecture", "content": "“Make study notes and 10 quiz questions from this lecture.”" }
+            ]
+        },
+        {
+            "h2": "Popular Uses",
+            "items": [
+                { "h3": "Voice memos", "content": "Turn spoken ideas and reminders into clean, organized notes." },
+                { "h3": "Meetings and calls", "content": "Get the full transcript, then ask ChatGPT for minutes and follow-ups." },
+                { "h3": "Interviews", "content": "Keep exact wording for quotes, and let ChatGPT find the key moments." },
+                { "h3": "Lectures", "content": "Transcribe a whole class and turn it into study material." },
+                { "h3": "Podcasts", "content": "Paste an episode link to transcribe, summarize or translate it." }
+            ]
+        },
+        {
+            "h2": "Get Started",
+            "content": [
+                "Connecting TranscriptX to ChatGPT is a one-time setup. Follow the step-by-step guide on the [Transcription MCP](/transcription-mcp) page, then come back to any chat, attach a recording and ask ChatGPT to transcribe it.",
+                "Prefer to just download a transcript? Use [Audio to Text](/audio-to-text) or [Voice to Text](/voice-to-text) directly on TranscriptX."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Can ChatGPT transcribe audio files?",
+                    "a": "Yes, when TranscriptX is connected. TranscriptX transcribes the file and returns the full transcript to ChatGPT."
+                },
+                {
+                    "q": "Can ChatGPT convert MP3 to text?",
+                    "a": "Yes. Attach the MP3 in a chat with TranscriptX connected and ask ChatGPT to transcribe it. Other formats such as WAV, M4A and MP4 work too."
+                },
+                {
+                    "q": "Is it free?",
+                    "a": "TranscriptX has a free daily allowance for guests and free accounts. TranscriptX Pro lifts most limits. Nothing is purchased inside ChatGPT."
+                },
+                {
+                    "q": "How do I connect TranscriptX to ChatGPT?",
+                    "a": "It takes about a minute. Follow the setup steps on the [Transcription MCP](/transcription-mcp) page."
+                },
+                {
+                    "q": "Can ChatGPT translate the audio?",
+                    "a": "Yes. After TranscriptX returns the transcript, ask ChatGPT to translate it into any language."
+                },
+                {
+                    "q": "Does TranscriptX read my other ChatGPT messages?",
+                    "a": "No. It only receives the file or link you ask it to transcribe."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Audio in ChatGPT With TranscriptX",
+        "content": [
+            "Connect TranscriptX once, and every recording you share in ChatGPT can be transcribed, summarized and translated in the same chat — in over 100 languages.",
+            "Free to start. [Set up TranscriptX in ChatGPT](/transcription-mcp)."
+        ]
+    }
+}

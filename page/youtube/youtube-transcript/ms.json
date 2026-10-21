@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "Transkrip YouTube — Dapatkan, Jana & Ekstrak Percuma | TranscriptX",
+        "description": "Dapatkan transkrip YouTube dalam talian secara percuma. Tampal pautan YouTube untuk menjana, mengekstrak, membaca, menyalin, menyunting dan menterjemah transkrip dalam 100+ bahasa.",
+        "schemaName": "Alat Transkrip YouTube oleh TranscriptX",
+        "schemaDescription": "Alat transkrip YouTube dalam talian yang percuma, menjana serta mengekstrak transkrip daripada mana-mana video YouTube awam dalam lebih 100 bahasa. Baca, salin, sunting, terjemah dan eksport teksnya tanpa akaun.",
+        "ogTitle": "Transkrip YouTube — Dapatkan, Jana & Ekstrak Percuma | TranscriptX",
+        "ogDescription": "Tampal pautan YouTube dan dapatkan transkrip penuh dalam beberapa saat. Jana atau ekstrak teks mana-mana video awam dalam 100+ bahasa, percuma dan tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Transkrip YouTube",
+        "subtitle": "Dapatkan transkrip penuh mana-mana video YouTube awam dalam beberapa saat. Tampal pautannya untuk menjana atau mengekstrak isi pertuturan sebagai teks dalam lebih 100 bahasa, kemudian baca, salin, sunting atau terjemahkannya. Tiada akaun, tiada perisian yang perlu dipasang.",
+        "placeholder": "Tampal pautan video YouTube...",
+        "button": "Dapatkan Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Bagaimanakah cara mendapatkan transkrip YouTube?",
+        "answer": "Salin pautan mana-mana video YouTube awam dan tampalkannya ke dalam TranscriptX. Alat ini membaca audionya, menjana transkrip dalam lebih 100 bahasa, lalu memulangkan teks yang anda boleh baca, salin, sunting, terjemah atau eksport. Akaun tidak diperlukan dan tiada apa-apa yang perlu dipasang."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Yang Dimaksudkan dengan Transkrip YouTube?",
+            "content": [
+                "Transkrip YouTube — transkrip video YouTube yang merakam segala yang dituturkan di dalamnya — ialah kandungan lisan sesebuah video yang ditulis semula dalam bentuk teks. Daripada menonton semula syarahan atau temu bual dua jam semata-mata untuk mencari satu isi, anda cukup membaca transkripnya, mencari perkataan kuncinya, lalu terus melompat ke bahagian yang anda perlukan.",
+                "Nilainya terletak pada apa yang dibuka oleh teks itu. Selagi kekal sebagai video, maklumatnya terkunci di dalam garis masa — tidak dapat dicari, tidak dapat dipetik dengan tepat, dan tidak dapat ditampal ke alat lain. Setelah bertukar kepada transkrip, video yang sama bertukar kepada teks yang anda boleh imbas dalam beberapa saat, anda petik ayatnya dengan tepat, anda terjemahkan, anda jadikan nota, atau anda serahkan kepada ChatGPT, Gemini atau Claude untuk dianalisis.",
+                "TranscriptX memperoleh transkrip video YouTube secara percuma, terus di dalam pelayar, tanpa memerlukan akaun."
+            ]
+        },
+        {
+            "h2": "Transkrip YouTube Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Input",
+                    "value": "Pautan mana-mana video YouTube awam"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Pengasingan penutur",
+                    "value": "Ya — setiap penutur dilabel"
+                },
+                {
+                    "label": "Cap masa",
+                    "value": "Pilihan — buka atau tutup bagi setiap transkrip"
+                },
+                {
+                    "label": "Berfungsi walaupun video tiada sarikata",
+                    "value": "Ya — transkrip dijana daripada audionya"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan mudah alih"
+                },
+                {
+                    "label": "Format eksport",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Tukar Video YouTube ke Teks",
+            "steps": [
+                {
+                    "h3": "Salin pautan video YouTube",
+                    "content": "Buka video yang hendak anda transkripkan dan salin pautannya daripada bar alamat atau daripada butang Kongsi. Mana-mana video YouTube awam boleh digunakan."
+                },
+                {
+                    "h3": "Tampal pautan itu ke dalam TranscriptX",
+                    "content": "Tampalkan pautan tersebut ke dalam kotak di bahagian atas halaman ini. Tiada akaun yang perlu dibuka dan tiada fail yang perlu dimuat turun terlebih dahulu."
+                },
+                {
+                    "h3": "Jana transkripnya",
+                    "content": "TranscriptX membaca audionya, mengesan sendiri bahasa yang dituturkan daripada 100+ bahasa, mengasingkan setiap penutur, lalu menulis perkataannya lengkap dengan tanda baca dan pemisahan ayat."
+                },
+                {
+                    "h3": "Gunakan transkrip itu",
+                    "content": "Bacanya pada skrin, salin keseluruhannya atau satu petikan sahaja, sunting teksnya, terjemahkannya, atau eksport sebagai TXT, DOCX, PDF, SRT atau VTT — dengan cap masa dibuka atau ditutup."
+                }
+            ]
+        },
+        {
+            "h2": "Penjana Transkrip YouTube",
+            "content": [
+                "Bukan semua video disertakan sarikata, dan sarikata automatik pula kerap tersasar. Apabila tiada teks sedia ada yang berguna untuk ditarik keluar, TranscriptX berfungsi sebagai penjana transkrip YouTube — penjana yang membina teksnya daripada audio itu sendiri dan bukannya bergantung pada sarikata yang mungkin tidak pernah ditambah oleh pemilik video.",
+                "Ini bermakna anda masih boleh menjana transkrip daripada video YouTube walaupun butang sarikatanya tiada — rakaman siaran langsung, muat naik lama, atau ceramah dalam bahasa yang disarikatakan YouTube dengan teruk. Penjana ini mendengar pertuturannya lalu menghasilkan teks yang bersih dan bertanda baca dalam lebih 100 bahasa, dengan setiap penutur dilabel.",
+                "Oleh sebab ia bekerja daripada audio, hasilnya lazimnya lebih tepat berbanding transkrip automatik YouTube sendiri, terutamanya bagi loghat tempatan, istilah teknikal dan rakaman yang melibatkan ramai penutur."
+            ]
+        },
+        {
+            "h2": "Ekstrak Teks Video YouTube",
+            "content": [
+                "Apabila sesebuah video sudah mempunyai sarikata, TranscriptX bertindak sebagai pengekstrak: kandungan lisan yang sedia ada ditarik keluar dan diserahkan kepada anda sebagai teks bersih yang mudah dibaca dalam satu langkah, tanpa menyeret garis masa dan tanpa menyalin baris demi baris. Inilah jalan pantas untuk ekstrak teks dari video YouTube atau tukar YouTube ke teks tanpa langkah perantaraan.",
+                "Ini laluan singkat bagi pembangun, penyelidik dan penganalisis yang hanya memerlukan skrip mentahnya. Tampal pautannya, tukar video YouTube ke teks, lalu bawanya terus ke dalam aliran kerja anda: satu set data, dokumen penyelidikan, gesaan AI atau taklimat kandungan. Pengekstrak skrip YouTube ini memulangkan teks yang penuh supaya tiada bahagian terpotong, sepanjang mana sekalipun videonya."
+            ]
+        },
+        {
+            "h2": "Kegunaan Transkrip YouTube",
+            "intro": [
+                "Transkrip menukar video yang penuh pertuturan kepada teks yang boleh dicari, disunting dan digunakan semula. Daripada memainkan semula video berulang kali, anda terus bekerja dengan maklumatnya."
+            ],
+            "items": [
+                {
+                    "h3": "Belajar daripada syarahan dan tutorial",
+                    "content": "Pelajar universiti dan peserta kelas dalam talian menukar rakaman syarahan, kursus dan tutorial kepada nota ulang kaji. Dengan transkrip, mencari istilah penting, mengulang idea utama dan bersiap untuk peperiksaan terasa mudah tanpa perlu menyeret garis masa."
+                },
+                {
+                    "h3": "Mengkaji temu bual, podcast dan wacana",
+                    "content": "Penyelidik dan wartawan mengekstrak maklumat lisan daripada temu bual, podcast berbahasa Melayu, dokumentari dan sesi wacana panel. Label penutur dan cap masa pilihan memudahkan anda menemui satu petikan lalu memadankannya dengan saat ia diucapkan."
+                },
+                {
+                    "h3": "Menulis rencana, surat berita dan skrip",
+                    "content": "Penulis dan pencipta kandungan menukar satu video kepada catatan blog, surat berita, salinan media sosial atau skrip baharu. Transkrip memberi anda titik permulaan yang kukuh, bukannya helaian kosong."
+                },
+                {
+                    "h3": "Meringkaskan video yang panjang",
+                    "content": "Apabila sesebuah video terlalu panjang untuk ditonton semula, transkripnya membolehkan anda mengesan idea utama, isi penting dan senarai tindakan dengan pantas — atau tampalkannya ke dalam pembantu AI untuk diringkaskan."
+                },
+                {
+                    "h3": "Menterjemah kandungan video",
+                    "content": "Dapatkan transkrip dalam bahasa asalnya, kemudian terjemahkannya untuk memahami kandungan itu atau menerbitkannya semula bagi khalayak yang berbeza."
+                },
+                {
+                    "h3": "Membuka kandungan kepada semua orang",
+                    "content": "Transkrip memberikan penonton pekak dan yang bermasalah pendengaran akses kepada kandungan penuh dalam bentuk teks, sekali gus memberi sesiapa sahaja versi yang boleh dibaca bagi video yang tidak dapat dimainkan dengan bunyi."
+                }
+            ]
+        },
+        {
+            "h2": "Transkrip YouTube dalam Apa-apa Bahasa",
+            "content": [
+                "TranscriptX mengendalikan transkripsi YouTube dalam lebih 100 bahasa dan mengesan bahasa yang dituturkan secara automatik — anda tidak perlu memilihnya sebelum bermula. Alat ini boleh menulis semula isi mana-mana video YouTube, sama ada syarahan, podcast mahupun temu bual, dan menghasilkan transkrip video YouTube dalam mana-mana bahasa tersebut. Tampal video dalam bahasa Melayu, Inggeris, Mandarin, Tamil atau Arab, dan transkripnya pulang dalam bahasa yang sama.",
+                "Pengasingan penutur berfungsi merentas kesemuanya, jadi sesebuah temu bual atau wacana panel ditulis dengan jelas siapa berkata apa, bukan sebagai satu blok teks yang tidak berpenghujung. Itulah yang membuatkan video panjang dengan ramai orang benar-benar berguna, bukan sekadar boleh dibaca."
+            ]
+        },
+        {
+            "h2": "TranscriptX berbanding Transkrip Terbina Dalam YouTube",
+            "intro": [
+                "YouTube memaparkan panel transkrip terbina dalam pada sesetengah video, tetapi panel itu direka untuk membaca sarikata sambil menonton — bukan untuk membawa teksnya ke tempat lain. Apabila matlamat anda ialah menyalin, menyunting, menterjemah, meringkaskan atau mengeksport, alat khusus jauh lebih kemas."
+            ],
+            "items": [
+                {
+                    "h3": "Transkrip terbina dalam YouTube",
+                    "content": "Berguna untuk mengerling sarikata semasa video dimainkan, dan ia hanya wujud jika pemilik video menambahnya. Teksnya bercampur dengan cap masa, terkurung di dalam antara muka YouTube, serta menyusahkan untuk dikemaskan atau dipindahkan ke alat lain."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Dibina untuk mengendalikan transkrip sebagai teks. Ia tetap menjana transkrip walaupun video itu tiada sarikata, memulangkan teks bersih bertanda baca dengan penutur yang dilabel, serta membenarkan anda menyalin, menyunting, menterjemah, meringkaskan atau mengeksport kepada lima format — dengan cap masa sebagai pilihan."
+                }
+            ]
+        },
+        {
+            "h2": "Ketepatan dan Apa yang Mempengaruhinya",
+            "content": [
+                "TranscriptX menjana transkrip daripada audio video tersebut, jadi mutu audio itulah yang paling menentukan. Pertuturan yang jelas, kelantangan yang stabil dan bunyi latar yang minimum menghasilkan teks yang paling bersih.",
+                "Ketepatan boleh menurun apabila para penutur bercakap serentak, apabila terdapat gema yang kuat atau muzik yang lantang, atau apabila berdepan loghat yang sangat pekat dan istilah teknikal yang padat. Rakaman dengan ramai orang tetap diasingkan mengikut penutur, tetapi suara yang bertindih memang titik paling rawan bagi mana-mana alat.",
+                "Bagi petikan penting, istilah teknikal, nama orang, rujukan undang-undang atau petikan akademik, semak baris berkenaan sebelum anda menerbit atau memetiknya. Membuka cap masa membuatkan semakan ini pantas — anda boleh melompat terus semula ke saat itu dalam video dan memadankannya dengan audio."
+            ]
+        },
+        {
+            "h2": "Bila Transkrip YouTube Mungkin Tidak Terhasil",
+            "intro": [
+                "Oleh sebab TranscriptX menulis semula isi video daripada audionya, ketiadaan trek sarikata bukanlah masalah — tetapi beberapa keadaan masih boleh menghalang transkrip daripada terhasil. Hampir kesemuanya berbalik kepada satu perkara: sama ada alat ini dapat mencapai audio video itu."
+            ],
+            "items": [
+                {
+                    "h3": "Video itu peribadi atau telah dipadam",
+                    "content": "Transkrip hanya dapat dihasilkan daripada video yang boleh ditonton secara awam. Video peribadi dan video yang telah dipadam tidak dapat dicapai."
+                },
+                {
+                    "h3": "Video itu disekat umur atau wilayah",
+                    "content": "Video yang meminta pengesahan umur atau disekat mengikut wilayah mungkin tidak dapat diakses melalui alat dalam talian, kerana audionya tidak tersedia secara terbuka."
+                },
+                {
+                    "h3": "Video itu tiada perkataan yang dituturkan",
+                    "content": "Video muzik, klip senyap dan rakaman tanpa suara orang tiada apa-apa untuk ditranskripkan. Perlu ada perkataan yang dituturkan dalam audionya."
+                },
+                {
+                    "h3": "Siaran langsung masih berjalan",
+                    "content": "Siaran yang masih langsung belum mempunyai rakaman yang selesai. Tunggu sehingga ia tamat dan videonya diterbitkan, kemudian barulah tampal pautannya."
+                },
+                {
+                    "h3": "Audionya terlalu buruk",
+                    "content": "Kelantangan yang teramat rendah, bunyi bising yang berterusan atau audio yang herot teruk boleh meninggalkan terlalu sedikit pertuturan jernih untuk ditranskripkan dengan yakin."
+                }
+            ]
+        },
+        {
+            "h2": "Salin, Sunting, Terjemah atau Muat Turun",
+            "content": [
+                "Transkrip itu milik anda, digunakan mengikut keperluan langkah seterusnya. Salin keseluruhannya atau satu baris sahaja terus daripada skrin. Suntingnya di situ juga untuk membetulkan sesuatu nama atau membuang kata sisipan sebelum anda menerbit atau memetiknya. Terjemahkannya kepada bahasa lain tanpa meninggalkan alat ini.",
+                "Apabila anda memerlukan fail dan bukan teks pada skrin, eksportkannya — dan jika memuat turun memang matlamat utama anda, alat [Muat Turun Transkrip YouTube](/ms/download-youtube-transcript) dibina khusus untuk eksport kepada TXT, DOCX, PDF dan SRT. Jika yang anda perlukan khususnya ialah fail sarikata, gunakan [Pemuat Turun Sarikata YouTube](/ms/youtube-subtitle-downloader) untuk SRT dan VTT. [Perumus Video YouTube](/ms/youtube-video-summarizer) memberi anda isi utamanya, bukan transkrip penuh."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimanakah cara buat transcript YouTube daripada sesebuah video?",
+                    "a": "Salin pautan video YouTube awam dan tampalkannya ke dalam TranscriptX. Transkripnya dijana dalam beberapa saat dan terpapar pada skrin, sedia untuk dibaca, disalin, disunting, diterjemah atau dieksport. Akaun dan perisian tidak diperlukan."
+                },
+                {
+                    "q": "Adakah alat transkrip YouTube ini percuma?",
+                    "a": "Ya. Mendapatkan transkrip YouTube di TranscriptX adalah percuma, tanpa akaun yang perlu dibuka dan tanpa had tempoh video."
+                },
+                {
+                    "q": "Bolehkah saya menjana transkrip jika video itu belum mempunyai sebarang teks?",
+                    "a": "Boleh. TranscriptX berfungsi sebagai penjana transkrip YouTube — transkripnya dijana daripada audio video, jadi ia tetap berjalan walaupun pemilik video tidak pernah menambah sarikata atau apabila sarikata automatiknya tiada."
+                },
+                {
+                    "q": "Apakah bezanya menjana dan mengekstrak transkrip?",
+                    "a": "Mengekstrak bermaksud menarik teks daripada sarikata yang sudah ada pada video. Menjana pula bermaksud membina transkrip daripada audio apabila tiada sarikata yang berguna. TranscriptX melakukan kedua-duanya secara automatik — anda hanya menampal pautan dan teksnya keluar dengan cara mana sekalipun."
+                },
+                {
+                    "q": "Bolehkah saya transcribe video YouTube yang mana-mana?",
+                    "a": "Anda boleh menulis semula isi mana-mana video YouTube awam yang mengandungi pertuturan. Video peribadi, video yang dipadam, video bersekatan umur atau video yang disekat wilayah tidak dapat dicapai, dan video tanpa suara orang tiada apa-apa untuk ditranskripkan."
+                },
+                {
+                    "q": "Bahasa apakah yang disokong?",
+                    "a": "Lebih 100 bahasa. TranscriptX mengesan bahasa yang dituturkan secara automatik, jadi anda tidak perlu memilihnya sebelum menampal pautan."
+                },
+                {
+                    "q": "Bolehkah ia membezakan penutur?",
+                    "a": "Boleh. Setiap penutur dilabel secara berasingan, jadi temu bual, wacana panel dan video yang melibatkan ramai orang pulang dalam bentuk yang menunjukkan siapa berkata apa, bukan satu blok teks."
+                },
+                {
+                    "q": "Bolehkah saya mendapat cap masa bersama transkripnya?",
+                    "a": "Boleh, dan ia sebagai pilihan. Bukanya apabila anda perlu melompat semula ke sesuatu saat dalam video atau membina fail sarikata; tutupnya jika anda mahu teks yang bersih untuk dibaca."
+                },
+                {
+                    "q": "Bolehkah saya menyalin, menyunting dan menterjemah transkripnya?",
+                    "a": "Boleh. Salin transkrip penuh atau baris pilihan, suntinglah teksnya di situ juga, dan terjemahkannya kepada bahasa lain — kesemuanya sebelum anda mengeksport atau menampalnya ke alat lain."
+                },
+                {
+                    "q": "Apakah beza transkrip YouTube dengan sarikata?",
+                    "a": "Transkrip ialah versi teks bagi kandungan lisan yang anda baca secara bersendirian. Sarikata pula ialah teks bermasa yang dipaparkan semasa video dimainkan, lazimnya disimpan sebagai SRT atau VTT. Bukalah cap masa dan eksport SRT atau VTT jika yang anda perlukan memang sarikata, bukan sekadar transkrip biasa."
+                },
+                {
+                    "q": "Sejauh manakah ketepatan transkripnya?",
+                    "a": "Ketepatan bergantung terutamanya pada audio. Pertuturan yang jelas dan bunyi latar yang rendah memberikan hasil terbaik, manakala suara bertindih, gema atau muzik lantang menurunkannya. Menyemak semula nama, angka dan istilah teknikal sebelum menerbit sentiasa berbaloi."
+                },
+                {
+                    "q": "Bolehkah transkrip YouTube ini digunakan dengan ChatGPT atau Claude?",
+                    "a": "Boleh. Salin atau eksport teksnya lalu tampalkannya ke dalam mana-mana pembantu AI untuk meringkaskan video itu, mengeluarkan senarai tindakan, atau mengolahnya sebagai rencana."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Dapatkan Transkrip YouTube Anda Secara Percuma",
+        "content": [
+            "Tampal pautan video YouTube awam dan TranscriptX memulangkan transkrip penuhnya dalam lebih 100 bahasa, lengkap dengan label penutur dan cap masa pilihan — sama ada teksnya diekstrak daripada sarikata sedia ada atau dijana daripada audionya.",
+            "Bacanya, salinnya, suntingnya, terjemahkannya, atau eksportkannya sebagai TXT, DOCX, PDF, SRT atau VTT. Tiada akaun, tiada pemasangan, tiada kos.",
+            "Gunakan TranscriptX untuk menukar video YouTube ke teks supaya lebih mudah dipelajari, dicari, dipetik dan digunakan semula."
+        ]
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Transcrever Vídeo do Facebook — Vídeo em Texto Grátis | TranscriptX",
+        "description": "Transcrição de vídeo do Facebook online e grátis. Cole o link de um vídeo do Facebook e gere o texto de qualquer postagem, Reels ou live salva em mais de 100 idiomas. Leia, copie, edite. Sem cadastro.",
+        "schemaName": "Ferramenta TranscriptX de Transcrição de Vídeo do Facebook",
+        "schemaDescription": "Ferramenta online gratuita que gera a transcrição de qualquer vídeo público do Facebook — postagens de vídeo, Reels, vídeos do Watch e lives salvas — em mais de 100 idiomas. Cole o link do vídeo e tudo o que foi falado vira texto que você pode ler, copiar, editar, traduzir ou exportar, sem precisar de conta.",
+        "ogTitle": "Transcrever Vídeo do Facebook — Vídeo em Texto Grátis | TranscriptX",
+        "ogDescription": "Transforme qualquer vídeo do Facebook em texto. Cole o link e gere a transcrição em mais de 100 idiomas, grátis e sem cadastro."
+    },
+    "hero": {
+        "h1": "Transcrever Vídeo do Facebook",
+        "subtitle": "Transforme qualquer vídeo público do Facebook em texto. Cole o link de uma postagem de vídeo, de um Reels ou de uma live salva e o TranscriptX gera a transcrição completa em mais de 100 idiomas, com cada participante identificado. Leia, copie, edite ou traduza. Sem conta e sem instalar nada.",
+        "placeholder": "Cole o link de um vídeo do Facebook...",
+        "button": "Obter Transcrição"
+    },
+    "quickAnswer": {
+        "question": "Como transcrever vídeo do Facebook?",
+        "answer": "Copie o link de um vídeo público do Facebook e cole no TranscriptX. Ele extrai o áudio e faz a transcrição automática completa em segundos, em mais de 100 idiomas, pronta para você ler, copiar, editar ou exportar. Não é preciso se cadastrar e não há nada para instalar."
+    },
+    "sections": [
+        {
+            "h2": "O Que É a Transcrição de Vídeo do Facebook?",
+            "content": [
+                "A transcrição de vídeo do Facebook é todo o conteúdo falado de um vídeo escrito em forma de texto. Tudo o que é dito no clipe — o apresentador de uma live respondendo perguntas, um criador narrando um Reels, um palestrante em um evento gravado — vira palavras que você pode ler, pesquisar e copiar, em vez de ficar avançando e voltando o vídeo.",
+                "O Facebook é um lugar difícil de tirar informação de volta. Os vídeos ficam espalhados pelo feed, dentro de grupos, em páginas e em lives antigas que podem durar uma hora, e a plataforma não oferece nenhuma forma decente de ler o que foi dito. A transcrição resolve isso: transforma um vídeo enterrado e impossível de pesquisar em texto com o qual você realmente consegue trabalhar.",
+                "Esta página existe para fazer uma coisa bem feita — tirar as palavras de dentro de um vídeo do Facebook. Seja obtendo a transcrição, gerando ela com IA ou convertendo o vídeo do Facebook em texto, o resultado é o mesmo, então tudo isso vive em uma única ferramenta em vez de ficar dividido em páginas duplicadas.",
+                "O TranscriptX gera a transcrição grátis, direto no navegador e sem precisar de conta."
+            ]
+        },
+        {
+            "h2": "Transcrição de Vídeo do Facebook em Resumo",
+            "specs": [
+                {
+                    "label": "Preço",
+                    "value": "Grátis"
+                },
+                {
+                    "label": "Precisa de conta",
+                    "value": "Não"
+                },
+                {
+                    "label": "Instalação",
+                    "value": "Nenhuma — funciona no navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Qualquer link de vídeo público do Facebook"
+                },
+                {
+                    "label": "Funciona com",
+                    "value": "Postagens de vídeo, Reels, vídeos do Watch, lives salvas"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, detectados automaticamente"
+                },
+                {
+                    "label": "Separação de participantes",
+                    "value": "Sim — cada participante é identificado"
+                },
+                {
+                    "label": "Funciona sem legendas no vídeo",
+                    "value": "Sim — o texto vem do áudio"
+                },
+                {
+                    "label": "Formatos de exportação",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de computador, tablet e celular"
+                }
+            ]
+        },
+        {
+            "h2": "Como Transcrever um Vídeo do Facebook",
+            "steps": [
+                {
+                    "h3": "Copie o link do vídeo do Facebook",
+                    "content": "Abra o vídeo no Facebook, clique no menu de três pontos ou no horário da publicação e copie o link — ou copie a URL da barra de endereços no computador. O vídeo precisa ser público."
+                },
+                {
+                    "h3": "Cole no TranscriptX",
+                    "content": "Coloque o link no campo acima. Não há conta para criar nem nada para enviar; a ferramenta lê o vídeo direto do link."
+                },
+                {
+                    "h3": "A transcrição é gerada",
+                    "content": "O TranscriptX escuta o áudio, detecta sozinho o idioma falado entre mais de 100 idiomas, separa cada participante e faz a transcrição automática das palavras com pontuação."
+                },
+                {
+                    "h3": "Use o texto",
+                    "content": "Leia na tela, copie tudo ou apenas uma citação, edite, traduza ou baixe para guardar."
+                }
+            ]
+        },
+        {
+            "h2": "Um Gerador de Transcrição do Facebook com IA Que Funciona Sem Legendas",
+            "content": [
+                "A maioria dos vídeos do Facebook não tem uma faixa de legendas confiável de onde copiar, e as legendas automáticas que às vezes aparecem costumam vir incompletas ou erradas. Por isso o TranscriptX funciona como um gerador de transcrição do Facebook: ele constrói o texto a partir do próprio áudio, em vez de depender de legendas que o criador talvez nunca tenha adicionado.",
+                "Isso significa que você consegue transcrever o áudio de um vídeo do Facebook mesmo quando não há nada na tela para copiar — e transcrever um vídeo do Facebook que só existiu como live. O gerador com IA dá conta de um narrador sozinho, de uma entrevista entre duas pessoas ou de uma sala cheia de vozes em uma live gravada, identificando cada participante conforme avança. Como este site para transcrever vídeo do Facebook com IA parte do áudio, o resultado costuma sair mais limpo que as próprias legendas do Facebook, especialmente com sotaques e vocabulário técnico.",
+                "A transcrição de vídeo do Facebook funciona da mesma forma em todo idioma que ela escuta — uma live em português ou um Reels em espanhol volta como texto naquele mesmo idioma, detectado automaticamente."
+            ]
+        },
+        {
+            "h2": "Vídeo do Facebook em Texto",
+            "content": [
+                "Se você não pensa na palavra transcrição e só quer transformar um vídeo do Facebook em texto, esta é a mesma ferramenta com um nome que combina mais. Coloque o link e tudo o que foi falado no vídeo volta como texto limpo e fácil de ler.",
+                "Converter um vídeo do Facebook em texto é útil muito além de ler uma vez. Uma live gravada vira um documento no qual você pesquisa a única resposta que precisava, uma reunião longa de comunidade vira uma ata para compartilhar com quem faltou, e o vídeo de um criador vira material que você pode citar ou reaproveitar — tudo a partir do texto, em vez da linha do tempo. Passar um vídeo do Facebook para texto é o que torna esse conteúdo pesquisável de verdade."
+            ]
+        },
+        {
+            "h2": "O Que Você Pode Transcrever no Facebook",
+            "intro": [
+                "O Facebook reúne mais tipos de vídeo que a maioria das plataformas, e a transcrição ajuda em todos eles. Os mais convertidos pelas pessoas:"
+            ],
+            "items": [
+                {
+                    "h3": "Lives salvas do Facebook",
+                    "content": "As transmissões ao vivo costumam ser os vídeos mais longos e mais densos de informação do Facebook — webinars, sessões de perguntas e respostas, cultos, aulas, reuniões de comunidade. Transcrever uma live do Facebook transforma uma hora de transmissão em texto que você lê em minutos e no qual pesquisa a parte que importava."
+                },
+                {
+                    "h3": "Postagens de vídeo",
+                    "content": "Um recado gravado, um anúncio ou um vídeo explicativo publicado no feed vira texto citável e pesquisável, em vez de um clipe que você precisa reproduzir de novo toda vez que quer consultar."
+                },
+                {
+                    "h3": "Reels",
+                    "content": "Os Reels do Facebook são curtos e passam rápido, e a parte útil muitas vezes é uma única frase. Transcrever Reels do Facebook captura essa frase como texto antes que ela suma do feed."
+                },
+                {
+                    "h3": "Vídeos de grupos e páginas",
+                    "content": "Conteúdo educativo, tutoriais e discussões publicados dentro de grupos ou em páginas viram anotações e referências que você guarda fora da plataforma."
+                },
+                {
+                    "h3": "Eventos e entrevistas gravadas",
+                    "content": "Painéis, palestras e entrevistas transmitidas ou publicadas no Facebook viram transcrições com cada participante identificado, para você tirar uma citação exata e atribuí-la corretamente."
+                }
+            ]
+        },
+        {
+            "h2": "Copie, Edite, Traduza ou Baixe",
+            "content": [
+                "Assim que a transcrição aparece na tela, ela é sua para usar como o próximo passo exigir. Copie tudo ou apenas uma citação, edite o texto para corrigir um nome ou cortar o excesso, ou traduza para outro idioma sem sair da página.",
+                "Quando quiser guardar em vez de deixar na tela, exporte como TXT, DOCX, PDF, SRT ou VTT — texto puro para ler e colar, um documento para editar, um arquivo fixo para compartilhar ou um arquivo de legenda sincronizada, se o vídeo precisar de legendas.",
+                "Trabalha com outras plataformas também? As ferramentas [Transcrição do YouTube](/pt/youtube-transcript) e [Transcrição do TikTok](/pt/tiktok-transcript) fazem o mesmo trabalho nesses sites, e se a sua origem for um arquivo de áudio em vez de um vídeo, a ferramenta [Áudio para Texto](/pt/audio-to-text) foi feita para isso."
+            ]
+        },
+        {
+            "h2": "Precisão e Idiomas",
+            "content": [
+                "O quanto a transcrição corresponde ao vídeo depende principalmente do áudio. Uma pessoa falando com clareza em uma live bem gravada ou um Reels com roteiro volta quase palavra por palavra, enquanto uma sala barulhenta, gente falando por cima dos outros ou uma transmissão fraca gravada pelo celular vai exigir mais revisão.",
+                "Os trechos que valem conferir são os de sempre — nomes, números e qualquer termo técnico ou especializado — e corrigi-los junto ao vídeo leva segundos, comparado a transcrever tudo você mesmo.",
+                "O TranscriptX reconhece fala em mais de 100 idiomas e detecta automaticamente qual está ouvindo, então extrair texto de um vídeo do Facebook em qualquer idioma devolve a transcrição naquele mesmo idioma, com os participantes separados do começo ao fim."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como transcrever vídeo do Facebook grátis?",
+                    "a": "Copie o link de um vídeo público do Facebook, cole no TranscriptX e ele transcreve o vídeo sem nenhum custo. Não há conta para criar, software para instalar nem limite de duração do vídeo."
+                },
+                {
+                    "q": "Este é um gerador de transcrição do Facebook gratuito?",
+                    "a": "Sim. O TranscriptX funciona como um gerador de transcrição do Facebook gratuito — ele constrói o texto a partir do áudio usando IA, então funciona mesmo quando o vídeo não tem legendas."
+                },
+                {
+                    "q": "Dá para transcrever uma live do Facebook?",
+                    "a": "Sim, desde que a live já tenha terminado e a gravação esteja salva e pública. Cole o link da transmissão salva e ele transcreve a live inteira, com cada participante identificado."
+                },
+                {
+                    "q": "Posso converter um vídeo do Facebook em texto?",
+                    "a": "Sim. Converter um vídeo do Facebook em texto e obter a transcrição dele são a mesma ação aqui — cole o link e tudo o que foi falado volta como texto editável."
+                },
+                {
+                    "q": "Funciona se o vídeo não tiver legendas?",
+                    "a": "Sim. A transcrição vem do áudio, e não de alguma faixa de legendas, então um vídeo do Facebook sem legendas visíveis é transcrito normalmente."
+                },
+                {
+                    "q": "Quais idiomas ele consegue transcrever?",
+                    "a": "Mais de 100, incluindo o português. O idioma falado é detectado automaticamente, então a transcrição volta no idioma em que o vídeo do Facebook foi gravado."
+                },
+                {
+                    "q": "Preciso de conta no Facebook ou do aplicativo?",
+                    "a": "Não. Tudo funciona no navegador usando apenas o link público do vídeo — sem aplicativo do Facebook e sem login de nenhum tipo."
+                },
+                {
+                    "q": "Ele separa participantes diferentes?",
+                    "a": "Sim. Cada participante é identificado separadamente, então uma live gravada, uma entrevista ou uma discussão em grupo se lê como um diálogo claro, e não como um bloco único de texto."
+                },
+                {
+                    "q": "Posso baixar ou exportar a transcrição?",
+                    "a": "Sim. Faça a transcrição de vídeo do Facebook online, sem cadastro, e copie o texto ou exporte como TXT, DOCX, PDF, SRT ou VTT — texto puro, um documento editável, um registro fixo ou um arquivo de legenda sincronizada."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcreva Seu Vídeo do Facebook Grátis",
+        "content": [
+            "Cole o link de qualquer vídeo público do Facebook — uma postagem, um Reels ou uma live salva — e o TranscriptX gera a transcrição completa em mais de 100 idiomas, com cada participante identificado.",
+            "Leia, copie a parte que precisa, edite, traduza ou exporte como TXT, DOCX, PDF, SRT ou VTT. Sem conta, sem instalação e sem custo."
+        ]
+    }
+}

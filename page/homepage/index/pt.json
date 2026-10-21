@@ -1,0 +1,273 @@
+{
+    "seo": {
+        "title": "Transcrição de IA Gratuita para Vídeo e Áudio Online | TranscriptX",
+        "description": "Transcrição de IA gratuita em mais de 100 idiomas. Transforme vídeos, áudios, YouTube e TikTok em texto com identificação de falantes. Exporte para TXT, SRT, VTT, DOCX ou PDF. Sem cadastro.",
+        "schemaName": "Ferramenta Gratuita de Transcrição com IA TranscriptX",
+        "schemaDescription": "TranscriptX é uma ferramenta online gratuita de transcrição com IA que converte vídeos e áudios em texto em mais de 100 idiomas, com separação de falantes, marcações de tempo opcionais e exportação para formatos TXT, SRT, VTT, DOCX e PDF. Não é necessário criar uma conta.",
+        "ogTitle": "Transcrição de IA Gratuita para Vídeo e Áudio Online | TranscriptX",
+        "ogDescription": "Transforme vídeos e áudios em texto com transcrição de IA gratuita. Mais de 100 idiomas, identificação de falantes, exportação SRT e VTT, sem cadastro."
+    },
+    "hero": {
+        "h1": "Transcrição de IA para Vídeo e Áudio",
+        "subtitle": "Converta vídeos, áudios e gravações de voz em texto em mais de 100 idiomas. Com identificação de falantes, marcações de tempo opcionais e exportação para TXT, SRT, VTT, DOCX ou PDF. Sem conta e sem limite de tamanho de arquivo.",
+        "placeholder": "Envie um arquivo ou cole um link de vídeo...",
+        "button": "Gerar Transcrição"
+    },
+    "quickAnswer": {
+        "question": "O que é o TranscriptX?",
+        "answer": "TranscriptX é uma ferramenta gratuita de transcrição com IA que converte vídeos e áudios em texto em mais de 100 idiomas. Ela identifica cada falante, adiciona marcações de tempo quando necessário e permite exportar para TXT, DOCX, PDF, SRT ou VTT. Não é necessário criar uma conta e não há limite de tamanho de arquivo."
+    },
+    "sections": [
+        {
+            "h2": "O que é transcrição com IA?",
+            "content": [
+                "A transcrição com IA converte a linguagem falada de uma gravação de vídeo ou áudio em texto escrito. Basta carregar o ficheiro e a IA escreve automaticamente o que foi dito, sem que tenha de digitar tudo manualmente.",
+                "O verdadeiro valor está no que o texto permite fazer. Uma entrevista de uma hora é difícil de pesquisar, citar ou resumir quando as palavras permanecem dentro de um ficheiro de áudio. Depois de transformada em transcrição, essa mesma hora torna-se um texto que pode consultar em segundos, retirar citações exatas, traduzir, transformar em legendas ou enviar para ChatGPT, Gemini ou Claude para análise.",
+                "O TranscriptX realiza esta conversão gratuitamente diretamente no navegador, sem necessidade de criar uma conta."
+            ]
+        },
+        {
+            "h2": "TranscriptX em resumo",
+            "specs": [
+                {
+                    "label": "Preço",
+                    "value": "Grátis"
+                },
+                {
+                    "label": "Conta necessária",
+                    "value": "Não"
+                },
+                {
+                    "label": "Instalação",
+                    "value": "Nenhuma — funciona diretamente no navegador"
+                },
+                {
+                    "label": "Limite de tamanho do ficheiro",
+                    "value": "Sem limite"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100 — deteção automática"
+                },
+                {
+                    "label": "Separação de oradores",
+                    "value": "Sim — cada orador é identificado"
+                },
+                {
+                    "label": "Marcações de tempo",
+                    "value": "Opcional — podem ser ativadas ou desativadas em cada transcrição"
+                },
+                {
+                    "label": "Formatos de exportação",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Fontes aceites",
+                    "value": "Ficheiros de vídeo, ficheiros de áudio, gravações de voz, links públicos do YouTube, links públicos do TikTok"
+                }
+            ]
+        },
+        {
+            "h2": "O que pode transcrever?",
+            "intro": [
+                "O TranscriptX processa qualquer gravação com voz em mais de 100 idiomas, sem limite de tamanho de ficheiro."
+            ],
+            "items": [
+                {
+                    "h3": "Ficheiros de vídeo",
+                    "content": "Tutoriais, apresentações, webinars, cursos e chamadas gravadas tornam-se texto legível que pode pesquisar e reutilizar."
+                },
+                {
+                    "h3": "Ficheiros de áudio",
+                    "content": "Podcasts, ficheiros MP3, conversas gravadas e aulas são convertidos numa versão escrita mais fácil de arquivar e reutilizar."
+                },
+                {
+                    "h3": "Gravações de voz",
+                    "content": "Memórias de voz e notas faladas tornam-se texto editável — útil quando falar é mais rápido do que escrever, mas a ideia precisa de ficar registada por escrito."
+                },
+                {
+                    "h3": "Reuniões",
+                    "content": "A separação de oradores identifica quem disse o quê, transformando uma reunião com quatro pessoas num verdadeiro registo de decisões e tarefas, em vez de apenas um bloco de texto."
+                },
+                {
+                    "h3": "Entrevistas",
+                    "content": "As etiquetas dos oradores e as marcações de tempo permitem a jornalistas e investigadores encontrar citações, voltar ao momento exato do áudio e confirmar a informação com a fonte original."
+                },
+                {
+                    "h3": "Aulas e cursos",
+                    "content": "Transforme aulas em material de estudo escrito que pode pesquisar por termos, rever e resumir em apontamentos."
+                },
+                {
+                    "h3": "Podcasts",
+                    "content": "Um único episódio pode transformar-se em notas do programa, newsletter, artigo e conteúdo para redes sociais — tudo a partir de uma única transcrição."
+                },
+                {
+                    "h3": "Vídeos do YouTube e TikTok",
+                    "content": "Cole um link público de vídeo e obtenha o conteúdo falado em texto para pesquisa, aprendizagem, citações ou reutilização de conteúdo."
+                }
+            ]
+        },
+        {
+            "h2": "Como funciona a transcrição com IA?",
+            "steps": [
+                {
+                    "h3": "Envie um arquivo ou cole um link",
+                    "content": "Envie um vídeo, arquivo de áudio ou gravação de voz, ou cole um link público do YouTube ou TikTok. Não há limite de tamanho de arquivo e não é necessário criar uma conta."
+                },
+                {
+                    "h3": "A IA converte fala em texto",
+                    "content": "O TranscriptX detecta automaticamente o idioma falado em mais de 100 idiomas, separa a voz dos ruídos de fundo e identifica cada participante enquanto transforma a fala em texto com pontuação e separação de frases."
+                },
+                {
+                    "h3": "Revise a transcrição",
+                    "content": "Leia a transcrição e corrija qualquer trecho que tenha ficado difícil de entender devido à qualidade do áudio. Nomes, números e termos técnicos são os principais pontos que devem ser verificados antes de publicar ou usar como citação."
+                },
+                {
+                    "h3": "Exporte como TXT, DOCX, PDF, SRT ou VTT",
+                    "content": "Copie o texto diretamente ou baixe o formato que melhor atende ao seu próximo objetivo — ative os timestamps antes da exportação se precisar deles para legendas ou verificação de citações."
+                }
+            ]
+        },
+        {
+            "h2": "Gerador de legendas e subtítulos com IA",
+            "content": [
+                "Legendas e subtítulos são transcrições com informações de tempo adicionadas. Como o TranscriptX registra um timestamp para cada linha, o mesmo processo que cria uma transcrição legível também gera um arquivo de legenda.",
+                "Ative os timestamps e exporte em formato SRT ou VTT. Ambos os formatos podem ser enviados diretamente para YouTube, Vimeo, Instagram, TikTok e players de vídeo web padrão. Assim, você pode transformar uma gravação original em um vídeo legendado sem precisar de uma ferramenta separada de legendas.",
+                "Como o arquivo exportado é um arquivo de texto simples, você pode abri-lo e corrigir nomes ou termos técnicos antes da publicação — ou traduzir as linhas para publicar o mesmo vídeo para um público internacional."
+            ]
+        },
+        {
+            "h2": "Transcrição, legendas e subtítulos: qual é a diferença?",
+            "intro": [
+                "Todos transformam fala em texto, mas foram criados para objetivos diferentes."
+            ],
+            "items": [
+                {
+                    "h3": "Uma transcrição é o registro escrito que você lê separadamente",
+                    "content": "É tudo o que foi dito convertido em texto para ser lido de forma independente do vídeo, em vez de aparecer durante a reprodução. Escolha uma transcrição quando as palavras forem o foco principal — quando quiser pesquisar uma ideia, encontrar uma citação exata, estudar o conteúdo ou analisar uma conversa. Exporte como TXT, DOCX ou PDF."
+                },
+                {
+                    "h3": "Legendas são textos sincronizados para espectadores que não conseguem ouvir o áudio",
+                    "content": "As legendas são sincronizadas com a reprodução do vídeo para que cada linha apareça no momento em que é falada. Use legendas quando acessibilidade for importante ou quando o vídeo for reproduzido sem som e o texto precisar transmitir a mensagem. Ative os timestamps e exporte como SRT ou VTT."
+                },
+                {
+                    "h3": "Subtítulos são diálogos sincronizados, geralmente traduzidos",
+                    "content": "Os subtítulos também aparecem durante a reprodução, mas sua principal função é relacionada ao idioma: mostrar o que o falante disse para espectadores que não entendem aquela língua. Escolha subtítulos quando seu público for internacional. Exporte como SRT ou VTT e traduza as linhas antes de publicar."
+                }
+            ]
+        },
+        {
+            "h2": "Exporte sua transcrição em cinco formatos",
+            "content": [
+                "Cada transcrição pode ser exportada em cinco formatos, e o formato ideal depende do que você pretende fazer com o texto depois.",
+                "TXT é texto simples sem formatação — a opção mais fácil para ler, pesquisar ou colar no ChatGPT, Gemini ou Claude. DOCX pode ser aberto no Word, Google Docs e Pages quando você precisa editar a transcrição ou formatá-la como documento de trabalho. PDF fornece um registro fixo que aparece igual para todos e é ideal para compartilhar ou imprimir algo que não deve ser alterado.",
+                "Os outros dois formatos possuem informações de tempo. SRT é o formato de legenda aceito por praticamente todas as plataformas, então ative os timestamps e exporte SRT para adicionar legendas a vídeos no YouTube, Instagram ou TikTok. VTT faz a mesma função para vídeos HTML5 reproduzidos no navegador.",
+                "Se não souber qual formato escolher, comece com TXT. É o mais fácil de transferir para outras ferramentas e você sempre pode exportar novamente em outro formato quando precisar."
+            ]
+        },
+        {
+            "h2": "Transcreva vídeos de qualquer plataforma",
+            "content": [
+                "Você não precisa baixar um vídeo para transcrevê-lo. Cole um link público de qualquer grande plataforma e o TranscriptX lê o áudio do próprio vídeo, retornando o conteúdo falado em formato de texto que você pode pesquisar, citar e reutilizar."
+            ],
+            "items": [
+                {
+                    "h3": "Obtenha uma transcrição de um vídeo do YouTube",
+                    "content": "Copie o URL de qualquer vídeo público do YouTube e cole no TranscriptX. Uma aula, entrevista ou tutorial de duas horas é convertido em texto em mais de 100 idiomas, com cada participante identificado, permitindo encontrar a informação desejada sem precisar procurar manualmente na linha do tempo do vídeo. Pesquisadores usam esse recurso para citar fontes com precisão, estudantes para transformar aulas em anotações de estudo e escritores para criar artigos a partir de vídeos que já explicam bem um assunto. Se o YouTube faz parte importante do seu trabalho, a ferramenta [YouTube Transcript](/youtube-transcript) foi criada exatamente para essa finalidade."
+                },
+                {
+                    "h3": "Obtenha uma transcrição de um vídeo do TikTok",
+                    "content": "Cole um link público do TikTok e as palavras faladas serão transformadas em texto antes que o vídeo desapareça do seu feed. Vídeos curtos passam rapidamente, e a parte mais útil geralmente é apenas uma frase — a abertura que chamou sua atenção, uma afirmação em uma avaliação de produto ou uma etapa explicada em poucos segundos. Ter esse conteúdo em texto permite salvá-lo, analisar por que funcionou e criar sua própria versão sem depender da memória. A ferramenta [TikTok Transcript](/tiktok-transcript) foi desenvolvida especificamente para vídeos curtos."
+                },
+                {
+                    "h3": "Transcreva um vídeo do Facebook",
+                    "content": "O Facebook esconde seus vídeos mais úteis em lugares difíceis de alcançar — transmissões ao vivo salvas, clipes enterrados dentro de grupos, eventos gravados que duram uma hora. Cole o link e a ferramenta [Facebook Transcript](/facebook-transcript) transforma qualquer publicação pública, Reel ou live salva em texto legível, com cada falante identificado, de modo que uma transmissão longa se torna algo que você pode ler em minutos e pesquisar pela parte que importava."
+                },
+                {
+                    "h3": "Transcreva um Reel do Instagram",
+                    "content": "Um Reel é feito para ser visto uma vez e ignorado logo em seguida, mas o valor costuma ser uma única frase que vale a pena guardar. A ferramenta [Instagram Transcript](/instagram-transcript) extrai as palavras faladas de qualquer Reel ou vídeo público como texto que você pode copiar, estudar ou remodelar no seu próprio conteúdo — o gancho, a dica, o roteiro que fez tudo funcionar."
+                }
+            ]
+        },
+        {
+            "h2": "Converta qualquer arquivo de vídeo, áudio ou voz em texto",
+            "content": [
+                "Nem tudo o que você precisa transcrever está em uma rede social. Quando a origem é um arquivo no seu próprio dispositivo, o TranscriptX tem uma ferramenta dedicada para cada tipo — envie o arquivo e obtenha a mesma transcrição limpa, em mais de 100 idiomas, com os falantes identificados."
+            ],
+            "items": [
+                {
+                    "h3": "Converta um arquivo de vídeo em texto",
+                    "content": "Tem um MP4, uma gravação do Zoom ou uma captura de tela em vez de um link para colar? A ferramenta [Video to Text](/video-to-text) transcreve qualquer arquivo de vídeo que você enviar, separando os falantes e exportando para cinco formatos, sem limite de tamanho de arquivo para contornar."
+                },
+                {
+                    "h3": "Transforme um arquivo de áudio em texto",
+                    "content": "Para um podcast, um MP3 ou uma entrevista gravada sem vídeo anexado, a ferramenta [Audio to Text](/audio-to-text) converte a gravação em uma transcrição limpa e pontuada que você pode citar, editar ou arquivar."
+                },
+                {
+                    "h3": "Converta gravações de voz em texto",
+                    "content": "Para ditar uma nota mais rápido do que conseguiria digitá-la, ou para transcrever um memorando de voz que já está no seu telefone, a ferramenta [Voice to Text](/voice-to-text) grava diretamente no navegador ou recebe uma gravação que você enviar."
+                }
+            ]
+        },
+        {
+            "h2": "Perguntas frequentes",
+            "items": [
+                {
+                    "q": "O TranscriptX é realmente gratuito?",
+                    "a": "Sim. A transcrição por IA no TranscriptX é gratuita, sem necessidade de criar uma conta e sem limite de tamanho de arquivo."
+                },
+                {
+                    "q": "Preciso instalar alguma coisa?",
+                    "a": "Não. O TranscriptX funciona diretamente no navegador. Não há software para baixar e nenhuma conta precisa ser registrada."
+                },
+                {
+                    "q": "Quais idiomas são suportados?",
+                    "a": "Mais de 100 idiomas. O TranscriptX detecta automaticamente o idioma falado, então você não precisa selecioná-lo antes de enviar o arquivo."
+                },
+                {
+                    "q": "Quais formatos de arquivo posso exportar?",
+                    "a": "Cinco formatos: TXT, DOCX e PDF para leitura e edição, além de SRT e VTT para legendas e subtítulos. Você também pode copiar o texto diretamente."
+                },
+                {
+                    "q": "Ele consegue identificar diferentes participantes?",
+                    "a": "Sim. O TranscriptX identifica cada participante separadamente, então reuniões, entrevistas e podcasts com várias pessoas mostram claramente quem disse o quê."
+                },
+                {
+                    "q": "Posso transcrever uma reunião com várias pessoas?",
+                    "a": "Sim. Envie a gravação e cada participante será identificado na transcrição, transformando uma conversa longa em um registro útil com decisões e tarefas."
+                },
+                {
+                    "q": "Posso obter marcações de tempo?",
+                    "a": "Sim, elas são opcionais. Ative as marcações quando precisar de arquivos de legenda ou quiser voltar a um momento específico do áudio; desative para obter um texto mais limpo para leitura."
+                },
+                {
+                    "q": "Como faço para transcrever um vídeo do YouTube?",
+                    "a": "Copie o URL de um vídeo público do YouTube, cole no TranscriptX e o conteúdo falado será convertido em texto que você pode copiar ou exportar. Existe uma ferramenta dedicada de YouTube Transcript se você faz isso com frequência."
+                },
+                {
+                    "q": "Qual é a precisão da transcrição por IA?",
+                    "a": "A precisão depende principalmente da qualidade da gravação. Voz clara, volume estável e pouco ruído de fundo produzem os melhores resultados, enquanto pessoas falando ao mesmo tempo, eco ou música alta podem reduzir a precisão. Revise nomes, números e termos técnicos antes de publicar."
+                },
+                {
+                    "q": "Qual é a diferença entre transcrição por IA e speech-to-text?",
+                    "a": "Speech-to-text é a etapa de reconhecimento que transforma palavras faladas em palavras escritas. A transcrição por IA é o processo completo, incluindo reconhecimento de voz, pontuação, identificação de participantes, adição de marcações de tempo e exportação de um arquivo utilizável."
+                },
+                {
+                    "q": "Posso criar legendas a partir de uma transcrição?",
+                    "a": "Sim. Ative as marcações de tempo e exporte em SRT ou VTT, depois envie o arquivo para YouTube, Instagram, TikTok ou seu player de vídeo."
+                },
+                {
+                    "q": "Posso usar a transcrição com ChatGPT ou Claude?",
+                    "a": "Sim. Exporte ou copie o texto e cole em qualquer assistente de IA para criar resumos, extrair tarefas, analisar temas ou transformar o conteúdo em um artigo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Comece sua transcrição gratuita com IA",
+        "content": [
+            "Envie um vídeo, arquivo de áudio ou gravação de voz, ou cole um link do YouTube ou TikTok. O TranscriptX cria uma transcrição em mais de 100 idiomas, com identificação dos participantes e marcações de tempo opcionais.",
+            "Exporte como TXT, DOCX ou PDF para ler e editar, ou como SRT ou VTT para adicionar legendas ao seu vídeo. Sem conta, sem limite de tamanho de arquivo, sem custo."
+        ]
+    }
+}

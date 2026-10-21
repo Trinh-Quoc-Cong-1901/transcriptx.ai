@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "title": "YouTube Video Summarizer — Summarize Any Video Free | TranscriptX",
+        "description": "Summarize a YouTube video free with AI. Paste a link and get the key points and main ideas in seconds, in 100+ languages. No sign-up, no install.",
+        "schemaName": "TranscriptX YouTube Video Summarizer",
+        "schemaDescription": "Free AI tool that summarizes public YouTube videos into key points and a short overview in over 100 languages. Paste a link and read the main ideas in seconds with no account required.",
+        "ogTitle": "YouTube Video Summarizer — Summarize Any Video Free | TranscriptX",
+        "ogDescription": "Get the key points of any YouTube video in seconds. Paste a link and let AI summarize it, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "YouTube Video Summarizer",
+        "subtitle": "Get the point of a YouTube video without watching all of it. Paste a link and AI reads the whole thing, then hands you the key ideas in a short, scannable summary — in over 100 languages. No account, no install.",
+        "placeholder": "Paste a YouTube video URL...",
+        "button": "Summarize Video"
+    },
+    "quickAnswer": {
+        "question": "How do I summarize a YouTube video?",
+        "answer": "Paste a public YouTube link into TranscriptX and it reads the full video, then writes a short summary of the main points in seconds. The overview comes in over 100 languages so you can grasp a long video without watching it end to end. No account is needed."
+    },
+    "sections": [
+        {
+            "h2": "What a Video Summary Gives You",
+            "content": [
+                "A summary is not the whole video shrunk down — it is the few things that actually mattered, pulled out and written plainly. Instead of forty minutes of build-up, tangents and repetition, you get the handful of ideas the video was really about.",
+                "The AI reads everything that was said, works out which parts carry the meaning and which are filler, and gives you back the conclusion, the main arguments and the useful specifics — in the time it takes to read a few short paragraphs.",
+                "This is a different job from a transcript. A transcript hands you every word; a summary decides which words were worth your time. As a YouTube summarizer, TranscriptX is built to summarize YouTube videos down to what matters — reach for it when you want the takeaway, not the full text."
+            ]
+        },
+        {
+            "h2": "Why Summarize Instead of Watching the Whole Thing",
+            "content": [
+                "Most long videos could have been short. A twenty-minute review is often two minutes of verdict wrapped in eighteen of setup. A one-hour talk usually turns on three or four points. Watching all of it to find those points is the slow way.",
+                "A summary lets you decide in under a minute whether a video is worth your full attention. Sometimes the takeaway is all you needed and you move on. Sometimes it tells you exactly which section to go back and watch properly. Either way, you spent a minute instead of an hour to find out.",
+                "That trade is the entire value: you keep the information and give back the time."
+            ]
+        },
+        {
+            "h2": "How to Summarize a YouTube Video",
+            "steps": [
+                {
+                    "h3": "Paste the video link",
+                    "content": "Grab the link of the public YouTube video and drop it into the box above. No sign-up, nothing to install."
+                },
+                {
+                    "h3": "AI reads the full video",
+                    "content": "TranscriptX processes everything that was said from start to finish — not just the description or the first few minutes — so the summary reflects the whole thing."
+                },
+                {
+                    "h3": "Read the summary",
+                    "content": "In seconds you get a short overview and the key points, written plainly in over 100 languages. Skim it in the time a single scene would have taken."
+                },
+                {
+                    "h3": "Go deeper if you need to",
+                    "content": "If the summary shows the video is worth more of your time, jump back to the parts that matter — or pull the full transcript when you need every word."
+                }
+            ]
+        },
+        {
+            "h2": "What a Good Summary Includes",
+            "intro": [
+                "A useful summary is more than one vague sentence. TranscriptX pulls out the parts that let you actually use the video:"
+            ],
+            "items": [
+                {
+                    "h3": "The main takeaway",
+                    "content": "The single conclusion or answer the video is built around, stated up front so you get it immediately."
+                },
+                {
+                    "h3": "Key points",
+                    "content": "The handful of ideas, arguments or steps that carry the content, listed so you can scan them in order."
+                },
+                {
+                    "h3": "The useful specifics",
+                    "content": "The numbers, names, tools or recommendations worth remembering — the concrete details, not just the general theme."
+                },
+                {
+                    "h3": "The shape of the video",
+                    "content": "A sense of how the video moves from one idea to the next, so you know which section to revisit if you want the full version."
+                }
+            ]
+        },
+        {
+            "h2": "Who Summaries Are For",
+            "intro": [
+                "Anyone who watches more video than they have time for gets something out of a summary. A few of the most common:"
+            ],
+            "items": [
+                {
+                    "h3": "Students and learners",
+                    "content": "Decide whether a lecture or tutorial covers what you need before committing an hour, and turn the key points straight into revision notes."
+                },
+                {
+                    "h3": "Professionals keeping up",
+                    "content": "Get the substance of a conference talk, an earnings call or an industry interview between meetings, without setting aside the full runtime."
+                },
+                {
+                    "h3": "Researchers scanning sources",
+                    "content": "Summarize a stack of videos quickly to work out which few are worth watching in full and citing properly."
+                },
+                {
+                    "h3": "Creators and marketers",
+                    "content": "Pull the core message out of a long video to reshape it into a post, a script or a set of talking points."
+                }
+            ]
+        },
+        {
+            "h2": "Summarize Videos in Over 100 Languages",
+            "content": [
+                "The summarizer works across more than 100 languages and detects the spoken language on its own, so a video in German or Japanese comes back as a summary you can read.",
+                "It also means the summary can bridge languages: a video spoken in one language can be understood through a clear overview, so a long recording in a language you are still learning becomes something you can grasp in a paragraph."
+            ]
+        },
+        {
+            "h2": "When You Need More Than the Summary",
+            "content": [
+                "A summary is the fastest way into a video, but sometimes you need the detail sitting behind it. TranscriptX has a separate tool for each of those cases, so you can go as deep as the task requires.",
+                "When the summary tells you a video is worth the full read, the [YouTube Transcript](/youtube-transcript) tool gives you every word, and the [Download YouTube Transcript](/download-youtube-transcript) tool saves that transcript as a file to keep."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I summarize a YouTube video for free?",
+                    "a": "Paste the YouTube link into TranscriptX and it summarizes the video at no cost. It is completely free, with no sign-up, nothing to download and no cap on how long the video can be."
+                },
+                {
+                    "q": "Does it read the whole video or just the description?",
+                    "a": "The whole video. TranscriptX processes everything that was said from start to finish, so the summary reflects the full content rather than the title or first few minutes."
+                },
+                {
+                    "q": "How long is the summary?",
+                    "a": "Short enough to read in well under a minute — a brief overview plus the key points, rather than a page of text. The goal is to save you time, not hand you more reading."
+                },
+                {
+                    "q": "What is the difference between a summary and a transcript?",
+                    "a": "A transcript is every word that was said, written out in full. A summary is only the main points, condensed. Use the summarizer for the takeaway and the transcript tool when you need the complete text."
+                },
+                {
+                    "q": "What languages does it work in?",
+                    "a": "Over 100. TranscriptX detects the spoken language automatically and writes the summary so you can read it, whatever language the video is in."
+                },
+                {
+                    "q": "Can I summarize a long video or a podcast?",
+                    "a": "Yes. You can summarize YouTube videos of any length, and long videos and podcasts are exactly where it helps most — a multi-hour recording still comes back as a short set of key points."
+                },
+                {
+                    "q": "Do I need an account or any software?",
+                    "a": "No. The summarizer runs in the browser with no account and nothing to install. Paste a link and read the summary."
+                },
+                {
+                    "q": "Can I get the full transcript if the summary is not enough?",
+                    "a": "Yes. When you need every word rather than the highlights, use the YouTube transcript tool to get the complete text of the same video."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Summarize Your YouTube Video Free",
+        "content": [
+            "Paste a public YouTube link and TranscriptX reads the whole video, then hands you the key points in a short summary — in over 100 languages, in seconds.",
+            "Get the takeaway, decide what is worth watching in full, and keep the information without spending the time. It is the fast way to summarize YouTube — no account, no install, no cost."
+        ]
+    }
+}

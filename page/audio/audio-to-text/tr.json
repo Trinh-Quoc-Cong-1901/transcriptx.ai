@@ -1,0 +1,248 @@
+{
+    "seo": {
+        "title": "Ses Yazıya Çevirme — Ses Dosyalarını Ücretsiz Metne Çevirin | TranscriptX",
+        "description": "Ses yazıya çevirme işlemi online ve ücretsiz. MP3, WAV veya M4A yükleyin, 100'den fazla dilde konuşmacı etiketli doğru bir deşifre metni alın. TXT, DOCX, PDF, SRT olarak dışa aktarın. Üyelik yok.",
+        "schemaName": "TranscriptX Ses Metne Çevirme Aracı",
+        "schemaDescription": "Ses dosyalarını 100'den fazla dilde metne çeviren ve deşifre eden ücretsiz online araç. Konuşmacı ayrımı, isteğe bağlı zaman damgaları ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. MP3, WAV, M4A, AAC ve daha fazlasını destekler, hesap açmanız gerekmez.",
+        "ogTitle": "Ses Yazıya Çevirme — Ses Dosyalarını Ücretsiz Metne Çevirin | TranscriptX",
+        "ogDescription": "Her ses dosyasını yazıya çevirin. MP3, WAV veya M4A yükleyin, 100'den fazla dilde doğru bir metin alın — ücretsiz ve üyelik gerektirmeden."
+    },
+    "hero": {
+        "h1": "Ses Yazıya Çevirme",
+        "subtitle": "Her ses dosyasını doğru ve düzenlenebilir metne çevirin. MP3, WAV, M4A veya yaygın kullanılan herhangi bir formatı yükleyin; TranscriptX dosyayı 100'den fazla dilde deşifre eder, her konuşmacıyı etiketler ve isterseniz zaman damgası ekler. TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Hesap yok, dosya boyutu sınırı yok, kurulacak hiçbir şey yok.",
+        "placeholder": "Bir ses dosyası yükleyin...",
+        "button": "Yazıya Çevir"
+    },
+    "quickAnswer": {
+        "question": "Bir ses dosyasını yazıya çevirme nasıl yapılır?",
+        "answer": "Ses dosyanızı TranscriptX'e yükleyin; konuşmayı saniyeler içinde, 100'den fazla dilde ve her konuşmacıyı etiketleyerek yazılı metne çevirir. Ardından metni okuyabilir, kopyalayabilir, düzenleyebilir veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarabilirsiniz. Hesap gerekmez, dosya boyutu sınırı yoktur ve hiçbir şey kurmanıza gerek kalmaz."
+    },
+    "sections": [
+        {
+            "h2": "Ses Yazıya Çevirme Nedir?",
+            "content": [
+                "Ses yazıya çevirme, bir ses kaydının içindeki konuşmayı yazılı kelimelere dönüştürmektir. Araca bir dosya verirsiniz — bir podcast bölümü, bir röportaj, kaydedilmiş bir toplantı, bir ders — ve kaydı baştan sona dinleyip duyduklarınızı yazmak yerine, tamamını metin olarak geri alırsınız.",
+                "Bunun önemi şurada: ses, üzerinde gerçekten çalışmanız gereken bilgi için kötü bir kaptır. Bir kaydı göz gezdirerek tarayamazsınız, aradığınız tek cümleyi içinde arayamazsınız ve ondan bir alıntıyı kopyalayamazsınız. Bir saatlik ses, içeriğini gerçek zamanlı olarak oturup dinlemeniz gereken altmış dakikanın içine saklar. Aynı saat metin hâlindeyken bunun çok küçük bir bölümünde okunur, bir anda içinde arama yapılır ve gerekli olan yere yapıştırılır.",
+                "Ses metne çevirme işlemi ayrıca sonrasındaki her şeyin önünü açar. Bir kayıt metne dönüştüğünde onu çevirebilir, altyazıya dönüştürebilir, özetleyebilir, doğru biçimde alıntılayabilir veya analiz için ChatGPT, Claude ya da Gemini gibi bir yapay zekâ asistanına verebilirsiniz — kelimeler sesin içinde kilitli kaldığı sürece bunların hiçbiri mümkün değildir.",
+                "TranscriptX bu dönüştürmeyi ücretsiz olarak, doğrudan tarayıcıda, hesap açmadan ve dosya boyutuna hiçbir sınır koymadan yapar."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Ses Yazıya Çevirme",
+            "specs": [
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Dosya boyutu sınırı",
+                    "value": "Yok"
+                },
+                {
+                    "label": "Kabul edilen formatlar",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG ve daha fazlası"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik olarak algılanır"
+                },
+                {
+                    "label": "Konuşmacı ayrımı",
+                    "value": "Evet — her konuşmacı etiketlenir"
+                },
+                {
+                    "label": "Zaman damgaları",
+                    "value": "İsteğe bağlı — her metin için açılıp kapatılabilir"
+                },
+                {
+                    "label": "Dışa aktarma formatları",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                }
+            ]
+        },
+        {
+            "h2": "Ses Dosyasını Yazıya Çevirme Nasıl Yapılır?",
+            "steps": [
+                {
+                    "h3": "Ses dosyasını yükleyin",
+                    "content": "Bir MP3, WAV, M4A veya yaygın kullanılan başka bir ses formatını sürükleyip bırakın ya da kaydın bağlantısını yapıştırın. Dosya uzunluğunda üst sınır yoktur; iki dakikalık bir sesli not da üç saatlik bir panel de sorunsuz çalışır."
+                },
+                {
+                    "h3": "Araç konuşmayı deşifre eder",
+                    "content": "TranscriptX konuşulan dili 100'den fazla dil arasından kendisi algılar, sesleri arka plan gürültüsünden ayırır, her konuşmacıyı tanımlar ve kelimeleri noktalama ile cümle bölümleriyle birlikte yazar."
+                },
+                {
+                    "h3": "Metni gözden geçirin",
+                    "content": "Baştan sona okuyun ve kaydın zor anlaşılır kıldığı yerleri düzeltin. Metne güvenmeden önce ikinci kez bakmaya değer olanlar isimler, sayılar, kısaltmalar ve teknik terimlerdir."
+                },
+                {
+                    "h3": "Metni dışa aktarın veya kopyalayın",
+                    "content": "Metni doğrudan kopyalayın ya da TXT, DOCX, PDF, SRT veya VTT olarak indirin. Altyazı için ya da bir alıntıyı sesle karşılaştırmak için gerekiyorsa önce zaman damgalarını açın."
+                }
+            ]
+        },
+        {
+            "h2": "Ücretsiz Ses Metne Çevirme Aracı",
+            "content": [
+                "TranscriptX, sonunda sizi bekleyen bir ödeme duvarı olmayan ücretsiz bir ses metne çevirme aracıdır — yani alışılmış tuzakları olmayan bir araç. Pek çok program dosyayı yüklemenize ve dönüştürmeyi çalıştırmanıza izin verir, sonra sonucu göstermeden önce kart bilgisi ister ya da sizi birkaç dakikalık sesle sınırlar. Burada bunların hiçbiri yok — ses metne dönüştürme ücretsizdir, açılacak bir hesap yoktur ve dosyanın uzunluğuna ya da boyutuna dair bir sınır yoktur.",
+                "Bu araç, sesi zaten elinde olan ve sadece metni isteyen insanlar için tasarlandı. Bir aboneliğe kaydolmuyor ya da yeni bir yazılım öğrenmiyorsunuz; bir dosya yüklüyor, ses dosyasını metne çeviriyor ve sonucu alıyorsunuz. Sesi yazıya dönüştürme işini ister bir kez ister her hafta yapın, akış aynı kalır ve sınır asla karşınıza çıkmaz.",
+                "Her şey tarayıcıda çalıştığı için bu ücretsiz ses yazıya çeviren site telefonda, tablette ve dizüstü bilgisayarda aynı şekilde çalışır — indirilecek bir şey ve güncel tutulacak bir eklenti yoktur."
+            ]
+        },
+        {
+            "h2": "Ses Kaydını Metne Çevirme ve Deşifre",
+            "content": [
+                "Burada bir dosyayı dönüştürmek ile deşifre etmek aynı işlemdir, ancak deşifre kelimesi genellikle daha yüksek bir çıtaya işaret eder: sesi kabaca değil, doğru biçimde metne çevirmeniz gerekir. Alıntı yapacağınız röportajlar, harekete geçeceğiniz toplantılar ve kaynak göstereceğiniz araştırmalar için durum tam olarak budur.",
+                "TranscriptX bu çıta için tasarlandı. Ses kaydını metne çevirirken sayfaya kelimeleri boşaltmakla yetinmez — konuşmayı noktalar, okunabilir cümlelere böler ve her konuşmacıyı etiketler; böylece içinde üç kişi olan bir kayıt, kesintisiz tek bir blok yerine kimin ne söylediğini net gösteren bir kayıt olarak geri döner.",
+                "Zor kayıtların da üstesinden gelir. Araç, arka plan gürültüsü, üst üste binen konuşmalar veya güçlü bir aksan olsa bile ses deşifre işlemini yapabilir; yine de yayımlamadan önce gözden geçirmeye değer anlar bunlardır. Tek konuşmacılı temiz bir kayıtta ise metin neredeyse kelimesi kelimesine geri gelir."
+            ]
+        },
+        {
+            "h2": "Desteklenen Ses Formatları",
+            "intro": [
+                "TranscriptX elinizde bulunma ihtimali en yüksek formatları kabul eder; böylece yüklemeden önce dosyayı dönüştürmeniz nadiren gerekir."
+            ],
+            "items": [
+                {
+                    "h3": "MP3",
+                    "content": "Çoğu podcast, ses kayıt cihazı ve indirme tarafından kullanılan en yaygın ses formatı. Doğrudan yükleyin ve mp3 yazıya çevirme işlemini olduğu gibi yapın."
+                },
+                {
+                    "h3": "WAV",
+                    "content": "Profesyonel kayıt cihazlarının ve ses yazılımlarının ürettiği yüksek kaliteli, sıkıştırılmamış format. Dosyalar daha büyüktür, ama endişelenecek bir boyut sınırı yoktur."
+                },
+                {
+                    "h3": "M4A ve AAC",
+                    "content": "iPhone cihazların, sesli not uygulamalarının ve pek çok kayıt aracının varsayılan olarak kaydettiği formatlar. Hiçbir dönüştürme adımı olmadan doğrudan cihazınızdan yükleyin."
+                },
+                {
+                    "h3": "FLAC ve OGG",
+                    "content": "Arşivcilerin ve bazı kayıt uygulamalarının kullandığı kayıpsız ve açık kaynaklı formatlar. İkisi de diğer dosyalar gibi yüklenir ve deşifre edilir."
+                }
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Çevirebilirsiniz",
+            "intro": [
+                "Kayıtta konuşma varsa TranscriptX onu metne çevirebilir. İnsanların en sık dönüştürdüğü kayıtlardan bazıları ve her biri için metnin neden önemli olduğu:"
+            ],
+            "items": [
+                {
+                    "h3": "Podcast'ler",
+                    "content": "Tek bir bölüm; bölüm notlarına, bültene, makaleye, sosyal medya alıntılarına ve aranabilir bir arşive dönüşür — hepsi tek bir podcast deşifre metninden, her anı bulmak için sesi tekrar tekrar dinlemeden."
+                },
+                {
+                    "h3": "Röportajlar",
+                    "content": "Gazeteciler ve araştırmacılar, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla birlikte tam ifadeyi elde eder; böylece bir alıntı doğru biçimde çıkarılabilir ve söylendiği anla karşılaştırılabilir."
+                },
+                {
+                    "h3": "Toplantılar ve görüşmeler",
+                    "content": "Toplantı kaydını yazıya çevirme, kararların ve yapılacak işlerin yazılı bir kaydını verir; her katılımcı etiketlendiği için sonuç bir metin yığını değil, gerçek bir toplantı tutanağı gibi okunur."
+                },
+                {
+                    "h3": "Dersler ve kurslar",
+                    "content": "Öğrenciler kaydedilmiş dersleri, terime göre arayabilecekleri, üzerini işaretleyebilecekleri ve ders bittikten çok sonra bile notlara indirgeyebilecekleri çalışma materyaline dönüştürür."
+                },
+                {
+                    "h3": "Hukuki ve tıbbi kayıtlar",
+                    "content": "İfadeler, diktesi alınan notlar ve muayene görüşmeleri; incelenebilen, dosyalanabilen ve aranabilen belgelere dönüşür — resmî bir işlem öncesinde isimleri ve terimleri dikkatle kontrol etmeyi unutmamak kaydıyla."
+                },
+                {
+                    "h3": "Sesli notlar ve hatırlatmalar",
+                    "content": "Yolda kaydedilen bir fikir düzenlenebilir metne dönüşür; böylece düşünce, siz durup yazmak zorunda kalmadan kâğıda geçmiş olur."
+                }
+            ]
+        },
+        {
+            "h2": "Ses Yazıya Çevirme Ne Kadar Doğru?",
+            "content": [
+                "Bir ses metninin doğruluğu büyük ölçüde kaydın kendisine bağlıdır. Net konuşma, dengeli ses seviyesi ve düşük arka plan gürültüsü en iyi sonucu verir — iyi kaydedilmiş bir röportaj ya da stüdyoda çekilmiş bir podcast çoğu zaman neredeyse kelimesi kelimesine geri gelir.",
+                "Doğruluğun düştüğü yer dağınık seslerdir: birbirinin üzerine konuşan birkaç kişi, yoğun yankı, konuşmanın altındaki yüksek müzik ya da ağır bir jargonla birleşen kalın aksanlar. Deşifre yine de çalışır, ancak bu bölümler onlara güvenmeden önce dikkatle okunmaya değer.",
+                "Pratik bir gözden geçirme yöntemi, metni kaydın en çok önemsediğiniz kısımlarıyla karşılaştırarak taramaktır — sayılar, isimler, kilit iddialar — ve bunlardan hatalı olanları elle düzeltmektir. Birkaç kelimeyi düzeltmek, tüm kaydı kendiniz yazmakla kıyaslandığında saniyeler alır; zaten sesi yazıya çevirmenin asıl amacı da budur."
+            ]
+        },
+        {
+            "h2": "100'den Fazla Dilde Ses Metne Çevirme",
+            "content": [
+                "TranscriptX 100'den fazla dilde konuşmayı deşifre eder ve hangi dili duyduğunu kendisi algılar; bu yüzden yüklemeden önce hiçbir şey seçmenize gerek yoktur. Türkçe bir kayıt Türkçe metin olarak, Fransızca bir kayıt Fransızca metin olarak geri döner.",
+                "Konuşmacı ayrımı her dilde çalışır; çok kişili bir kaydı birbirine karışmış değil okunabilir tutan da budur. Ve metin düz metin olduğu için sonradan çevirebilirsiniz — sesi kendi dilinde deşifre edin, ardından aynı içeriği o dili bilmeyen bir kitleyle paylaşmak için sonucu çevirin."
+            ]
+        },
+        {
+            "h2": "Metninizi Beş Formatta Dışa Aktarın",
+            "content": [
+                "Her metin beş formatta dışa aktarılır ve doğru olanı, metnin bundan sonra başına ne geleceğine bağlıdır. TXT düz, biçimlendirilmemiş metindir — okumak, aramak veya başka bir araca yapıştırmak için en temiz seçenek. DOCX; metni bir belge olarak yeniden işlemeniz gerektiğinde Word, Google Docs ve Pages ile açılır. PDF ise herkeste aynı görünen sabit bir kayıt verir; paylaşmak ya da düzenlenmemesi gereken bir şeyi dosyalamak için idealdir.",
+                "Diğer ikisi zamanlama bilgisi taşır. SRT, neredeyse her platformun ve editörün kabul ettiği altyazı formatıdır; dolayısıyla ses altyazılamak istediğiniz bir videoya aitse zaman damgalarını açıp SRT olarak dışa aktarın. VTT ise aynı işi web tabanlı video oynatıcılar için yapar.",
+                "Kaydınız bir medya dosyası olarak değil de konuşulmuş sözler olarak başladıysa — bir sesli not, bir dikte, kendi kaydettiğiniz canlı bir kayıt — [Sesi Yazıya Çevirme](/tr/voice-to-text) aracı bunun için tasarlanmıştır ve doğrudan tarayıcıya kayıt yapma seçeneği sunar. Kaynak bir ses dosyası değil de video olduğunda ise [YouTube Transkript](/tr/youtube-transcript) ve [TikTok Transkript](/tr/tiktok-transcript) araçları bu platformları doğrudan destekler."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Online ses yazıya çevirme ücretsiz olarak nasıl yapılır?",
+                    "a": "Ses dosyanızı TranscriptX'e yükleyin; hiçbir ücret ödemeden metne çevirir. Açılacak bir hesap, kurulacak bir yazılım ve dosya boyutu ya da uzunluğu için bir sınır yoktur. İşlem bittiğinde metni kopyalayabilir veya dışa aktarabilirsiniz."
+                },
+                {
+                    "q": "Hangi ses formatlarını yükleyebilirim?",
+                    "a": "Yaygın olanları — başta MP3, WAV, M4A, AAC, FLAC ve OGG olmak üzere — yani dosyayı çoğu zaman önce dönüştürmeden doğrudan kayıt cihazınızdan ya da telefonunuzdan yükleyebilirsiniz."
+                },
+                {
+                    "q": "Dosya boyutu veya uzunluğu için bir sınır var mı?",
+                    "a": "Hayır. Kısa sesli notlar da saatler süren kayıtlar da çalışır. Daha uzun bir dosyanın işlenmesi yalnızca biraz daha fazla zaman alır."
+                },
+                {
+                    "q": "Deşifre ne kadar doğru?",
+                    "a": "Doğruluk esas olarak kayda bağlıdır. Net konuşma ve düşük arka plan gürültüsü neredeyse kelimesi kelimesine sonuç verirken, üst üste binen konuşmacılar, yankı veya ağır aksanlar bunu düşürür. Metne güvenmeden önce isimleri, sayıları ve teknik terimleri gözden geçirmek her zaman değerlidir."
+                },
+                {
+                    "q": "Farklı konuşmacıları birbirinden ayırabiliyor mu?",
+                    "a": "Evet. TranscriptX her konuşmacıyı ayrı ayrı etiketler; böylece röportajlar, toplantılar ve çok kişili kayıtlar tek bir metin bloğu yerine kimin ne söylediğini gösterecek şekilde geri döner."
+                },
+                {
+                    "q": "Hangi dilleri destekliyor?",
+                    "a": "100'den fazlasını. Konuşulan dil otomatik olarak algılanır; bu yüzden yüklemeden önce seçmenize gerek kalmaz ve metin aynı dilde geri gelir."
+                },
+                {
+                    "q": "Metinde zaman damgası alabilir miyim?",
+                    "a": "Evet ve isteğe bağlıdır. Altyazı dosyalarına ihtiyacınız olduğunda ya da kayıttaki bir noktaya geri dönmek istediğinizde açın; temiz bir okuma metni için kapalı bırakın."
+                },
+                {
+                    "q": "Hangi formatlarda dışa aktarabilirim?",
+                    "a": "Toplam beş format — okuma ve düzenleme için TXT, DOCX ve PDF, altyazılar için ise SRT ve VTT. Metni doğrudan kopyalayabilirsiniz de."
+                },
+                {
+                    "q": "Herhangi bir program kurmam gerekiyor mu?",
+                    "a": "Hayır. Her şey masaüstünde veya mobilde tarayıcı içinde çalışır. Deşifre öncesinde kurulacak hiçbir uygulama, eklenti ya da uzantı yoktur."
+                },
+                {
+                    "q": "Ses yazıya çevirme ile sesi yazıya çevirme arasındaki fark nedir?",
+                    "a": "Ses yazıya çevirme, elinizde hazır bulunan ses dosyaları içindir — bir podcast, bir röportaj, kaydedilmiş bir toplantı. Sesi yazıya çevirme ise konuşulan sözleri anlık olarak yakalamak, kendi sesinizi canlı kaydetmek de dâhil, bunun içindir. Dikte etmek ya da bir sesli notu deşifre etmek istiyorsanız onun yerine Sesi Yazıya Çevirme aracını kullanın."
+                },
+                {
+                    "q": "Metni ChatGPT veya Claude'a yapıştırabilir miyim?",
+                    "a": "Evet. Ses metne dönüştükten sonra kopyalayın veya dışa aktarın ve kaydı özetlemesi, yapılacak işleri çıkarması ya da bir makaleye dönüştürmesi için herhangi bir yapay zekâ asistanına verin."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Sesinizi Ücretsiz Yazıya Çevirin",
+        "content": [
+            "Bir MP3, WAV, M4A ya da yaygın kullanılan herhangi bir ses dosyasını yükleyin; TranscriptX onu 100'den fazla dilde, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla metne çevirir. Hesap yok, dosya boyutu sınırı yok, ücret yok.",
+            "Okuyun, kopyalayın, düzenleyin, çevirin ya da TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın — kayıttan bir sonraki adımınızın ihtiyaç duyduğu her ne ise."
+        ]
+    }
+}

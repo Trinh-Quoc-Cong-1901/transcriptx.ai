@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Real-Time Speech to Text — Free Live Voice to Text Online",
+        "description": "Press Start, speak, and your words appear instantly as editable text. Free real-time speech to text to dictate notes, emails and drafts. No sign-up needed.",
+        "schemaName": "TranscriptX Real-Time Speech to Text",
+        "schemaDescription": "Online real-time speech to text tool for dictation. Press Start, speak into your microphone, and your words appear instantly as punctuated, editable text in over 100 languages. Copy the text anywhere or export it to TXT, DOCX or PDF. Runs in the browser with no sign-up needed to start.",
+        "ogTitle": "Real-Time Speech to Text — Free Live Voice to Text Online",
+        "ogDescription": "Type with your voice. Press Start, speak, and watch your words appear as text instantly — free, in 100+ languages, with no sign-up needed."
+    },
+    "hero": {
+        "h1": "Real-Time Speech to Text – Type With Your Voice",
+        "subtitle": "Type with your voice. Press Start, speak, and your words appear on screen instantly as punctuated text you can edit. Dictate an email, a note, a message or a first draft faster than you could type it, then copy it anywhere or export to TXT, DOCX or PDF. Free to start, in over 100 languages, with nothing to install.",
+        "placeholder": "Press Start and begin speaking...",
+        "button": "Start Speaking"
+    },
+    "quickAnswer": {
+        "question": "How do I use real-time speech to text?",
+        "answer": "Open TranscriptX, press Start and allow microphone access, then speak. Your words appear as text instantly while you talk. Edit anything that needs fixing, then copy the text into your email or document, or export it. It is free to start, with no sign-up needed and nothing to install."
+    },
+    "sections": [
+        {
+            "h2": "What Is Real-Time Speech to Text?",
+            "content": [
+                "Real-time speech to text lets you write by speaking. You press Start, say what you want to write, and the words appear on screen as you say them — no keyboard, no waiting, no file to process.",
+                "It is dictation: the words on the page are your own. You are not recording someone else for later; you are composing an email, a note, a message or a draft, using your voice instead of your fingers.",
+                "The appeal is speed. Most people speak three to four times faster than they type, so getting a thought out loud and onto the page is far quicker than typing it word by word. Live speech to text gives you the speed of talking with the result of typing.",
+                "TranscriptX does this in your browser, free to start. Press Start, speak, and your text is ready to use."
+            ]
+        },
+        {
+            "h2": "Real-Time Speech to Text at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free to start — paid plans for heavier use"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No — sign-up is optional"
+                },
+                {
+                    "label": "Installation",
+                    "value": "None — runs in the browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Your voice through the microphone — press Start and speak"
+                },
+                {
+                    "label": "Output",
+                    "value": "Punctuated, editable text that appears as you speak"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+"
+                },
+                {
+                    "label": "Export",
+                    "value": "Copy to clipboard, or TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Devices",
+                    "value": "Desktop, tablet and mobile browsers"
+                }
+            ]
+        },
+        {
+            "h2": "How to Use Live Speech to Text",
+            "steps": [
+                {
+                    "h3": "Press Start",
+                    "content": "Open TranscriptX and press Start. Allow microphone access the first time your browser asks."
+                },
+                {
+                    "h3": "Speak naturally",
+                    "content": "Say what you want to write at a normal pace. There is no need to talk slowly or pause between words."
+                },
+                {
+                    "h3": "See your words instantly",
+                    "content": "The text appears on screen as you speak, with punctuation added automatically, so you can see your sentence take shape in real time."
+                },
+                {
+                    "h3": "Edit and copy",
+                    "content": "Press Stop, fix anything that needs it, then copy the text into your email, document or chat — or export it as TXT, DOCX or PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Real-Time Voice to Text: Type With Your Voice",
+            "content": [
+                "Real-time voice to text replaces the keyboard with your voice. Whatever you would normally type — a reply, a paragraph, a list — you say out loud, and live voice to text writes it down as you go.",
+                "It is especially useful when typing is slow or awkward: on a phone, on a tablet without a keyboard, when your hands are busy, or for anyone who finds typing tiring or painful."
+            ]
+        },
+        {
+            "h2": "Instant Speech to Text, Ready to Edit",
+            "content": [
+                "Instant speech to text means there is nothing to wait for — no recording first and converting later. The words are on the screen the moment you say them, with punctuation added automatically, so the result reads like written text rather than a stream of words.",
+                "Spoken language is naturally looser than writing, so expect to tidy a sentence here and there. The hard part — getting from a blank page to a full draft — is already done; edit the text in place, then copy it into any app or export it to keep."
+            ]
+        },
+        {
+            "h2": "What You Can Write With Your Voice",
+            "intro": [
+                "Anything you would type, you can dictate. The most common uses for real-time speech to text:"
+            ],
+            "items": [
+                {
+                    "h3": "Emails and replies",
+                    "content": "Speak your email the way you would explain it to someone, then paste it into your inbox and send. Long replies take a fraction of the time."
+                },
+                {
+                    "h3": "Notes and to-do lists",
+                    "content": "Capture an idea, a reminder or a list the moment it comes to you, without opening a keyboard."
+                },
+                {
+                    "h3": "First drafts",
+                    "content": "Talk through an article, a report or an essay to get a complete rough draft down quickly, then shape it into final form."
+                },
+                {
+                    "h3": "Messages and posts",
+                    "content": "Dictate a long message, a caption or a social post on your phone without thumb-typing every word."
+                },
+                {
+                    "h3": "Language practice",
+                    "content": "Speak in the language you are learning and see whether the words come out as you intended — a quick, honest check on your pronunciation."
+                },
+                {
+                    "h3": "Hands-free and accessible writing",
+                    "content": "For anyone with limited mobility, repetitive strain or difficulty typing, speaking is a faster and more comfortable way to write."
+                }
+            ]
+        },
+        {
+            "h2": "Tips for Better Dictation",
+            "content": [
+                "Speak clearly at your normal pace, close to the microphone. A headset or your phone held near your mouth gives cleaner results than a laptop microphone across the room.",
+                "A quiet space helps more than anything else. Background music, traffic or other voices can creep into the text, so dictate somewhere calm when accuracy matters.",
+                "Think in sentences rather than single words. Finishing a thought before you pause helps the punctuation land in the right place, and leaves you with less to tidy up afterwards. TranscriptX supports over 100 languages, so you can dictate in whichever language you write in."
+            ]
+        },
+        {
+            "h2": "Real-Time Speech to Text or Live Transcription?",
+            "intro": [
+                "Both turn speech into text as it is spoken. The difference is whose words you are writing down."
+            ],
+            "items": [
+                {
+                    "h3": "Choose real-time speech to text to write with your voice",
+                    "content": "When the words are your own — an email, a note, a draft you are composing — this is the tool for dictating them instead of typing."
+                },
+                {
+                    "h3": "Choose live transcription to record what others say",
+                    "content": "When you want a written record of a lecture, an interview or a conversation, use [Live Transcription](/live-transcription). If the speech is already recorded, upload it to the [Voice to Text](/voice-to-text) tool instead."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How does real-time speech to text work?",
+                    "a": "You press Start and speak into your microphone. TranscriptX recognises your speech as you talk and writes it on screen instantly, adding punctuation as it goes."
+                },
+                {
+                    "q": "Is this live voice to text tool free?",
+                    "a": "Yes, you can start for free, with no sign-up needed and nothing to install. Creating an account is optional, and paid plans are available if you dictate a lot."
+                },
+                {
+                    "q": "Does it add punctuation, and can I edit the text?",
+                    "a": "Yes to both. Punctuation is added as you speak, so the text reads like normal writing, and once you stop everything is editable — fix a misheard word or tidy a sentence before you copy it."
+                },
+                {
+                    "q": "How do I get the text into my email or document?",
+                    "a": "Copy it with one click and paste it into any email, document or chat app, or export it as TXT, DOCX or PDF."
+                },
+                {
+                    "q": "Which languages can I speak?",
+                    "a": "Over 100 languages are supported, so you can dictate in the language you write in."
+                },
+                {
+                    "q": "Do I need to download an app?",
+                    "a": "No. Real-time speech to text runs in your browser on desktop, tablet or mobile. You only need to allow microphone access."
+                },
+                {
+                    "q": "What is the difference between speech to text and live transcription?",
+                    "a": "Real-time speech to text is for dictating your own words — writing by speaking. Live transcription is for recording what other people say, such as a lecture or an interview. Both run in real time; they are shaped around different jobs."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Start Speaking — Get Text Instantly",
+        "content": [
+            "Press Start, speak, and TranscriptX turns your voice into text in real time, in over 100 languages, right in your browser.",
+            "Dictate an email, a note, a message or a first draft, then edit, copy or export it. Free to start, no sign-up needed, nothing to install."
+        ]
+    }
+}

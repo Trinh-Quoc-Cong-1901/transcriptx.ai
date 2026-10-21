@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "YouTube Subtitle Downloader — Download SRT & VTT Free | TranscriptX",
+        "description": "Download subtitles from any YouTube video free. Paste a link and save captions as SRT or VTT with timestamps, in 100+ languages. No sign-up, no install.",
+        "schemaName": "TranscriptX YouTube Subtitle Downloader",
+        "schemaDescription": "Free tool to download subtitle and caption files from public YouTube videos as SRT or VTT with timestamps, in over 100 languages. Paste a link and save the file with no account required.",
+        "ogTitle": "YouTube Subtitle Downloader — Download SRT & VTT Free | TranscriptX",
+        "ogDescription": "Download YouTube subtitles as SRT or VTT with timing. Paste a link, save the caption file in 100+ languages, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "YouTube Subtitle Downloader",
+        "subtitle": "Download the subtitles from any public YouTube video as a timed caption file. Paste a link and save SRT or VTT, in over 100 languages, ready to load into a video editor or upload to another platform. No account, no install.",
+        "placeholder": "Paste a YouTube video URL...",
+        "button": "Download Subtitles"
+    },
+    "quickAnswer": {
+        "question": "How do I download subtitles from a YouTube video?",
+        "answer": "Paste a public YouTube link into TranscriptX, and it produces a timed subtitle file you can download as SRT or VTT. The captions come in over 100 languages, with a timestamp on every line, ready for editing or re-uploading. No account is needed."
+    },
+    "sections": [
+        {
+            "h2": "What a Subtitle File Actually Is",
+            "content": [
+                "A subtitle file is not just the words from a video — it is the words plus the exact moment each line appears and disappears. Open one and you see blocks of text paired with timecodes like 00:01:12 to 00:01:15. That timing is the whole point: it tells a video player when to show each caption.",
+                "This is what separates a subtitle file from a plain transcript. A transcript is text you read on its own; a subtitle file is text built to run alongside video, synced frame by frame to the speech.",
+                "TranscriptX generates that timed file from the audio of a YouTube video and lets you download it. Working as a YouTube captions downloader, it hands you subtitles for YouTube you can drop straight into an editor or a video player — not a wall of text you would have to time by hand, and nothing to copy line by line."
+            ]
+        },
+        {
+            "h2": "SRT vs VTT: Which Subtitle Format to Download",
+            "intro": [
+                "TranscriptX exports both of the standard caption formats. Which one you download depends on where the subtitles are going."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — the universal subtitle file",
+                    "content": "SubRip (.srt) is the format nearly everything accepts: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve and most players. Download SRT when you are uploading captions to a platform or loading them into a video editor — it is the safe default."
+                },
+                {
+                    "h3": "VTT — captions for the web",
+                    "content": "WebVTT (.vtt) is the format built for HTML5 video playing in a browser, and it supports extras like positioning and styling. Download VTT when the captions are for a website or a web app rather than a social platform or an editor."
+                }
+            ]
+        },
+        {
+            "h2": "How to Download Subtitles From YouTube",
+            "steps": [
+                {
+                    "h3": "Paste the video link",
+                    "content": "Copy the URL of the public YouTube video and paste it into the box above. There is no account to create and nothing to upload."
+                },
+                {
+                    "h3": "TranscriptX builds the timed captions",
+                    "content": "It reads the audio, detects the language, and writes out each line with its start and end time — the timing a subtitle file needs to stay in sync."
+                },
+                {
+                    "h3": "Choose SRT or VTT",
+                    "content": "Pick SRT for a video editor or social platform, or VTT for web video. Both carry the same captions with the same timing."
+                },
+                {
+                    "h3": "Download the subtitle file",
+                    "content": "Save it to your device, ready to load into your editor, upload alongside a re-posted video, or translate before publishing."
+                }
+            ]
+        },
+        {
+            "h2": "What You Can Do With a Downloaded Subtitle File",
+            "intro": [
+                "A subtitle file is a working asset, not just a reference. It is built to be loaded, edited and re-used:"
+            ],
+            "items": [
+                {
+                    "h3": "Add captions to your own edit",
+                    "content": "Video editors load the SRT into Premiere, Final Cut or Resolve to caption a cut, adjust the timing to their edit, and style the text to match the video."
+                },
+                {
+                    "h3": "Re-upload a video with captions",
+                    "content": "If you are re-posting a video to your own channel, uploading the subtitle file alongside it gives viewers captions without you retyping a word."
+                },
+                {
+                    "h3": "Translate for an international audience",
+                    "content": "Because a subtitle file is plain, editable text with timing, translators can rewrite the lines into another language while the timecodes stay intact — the fastest route to subtitling a video for a new market."
+                },
+                {
+                    "h3": "Fix or clean the captions",
+                    "content": "Open the file in any text editor to correct a name, split a long line or nudge a timecode before the captions go live."
+                },
+                {
+                    "h3": "Meet accessibility requirements",
+                    "content": "Captions are often required, not optional. A downloaded SRT or VTT is the file you attach to make a video accessible to deaf and hard-of-hearing viewers."
+                }
+            ]
+        },
+        {
+            "h2": "Download Subtitles in Over 100 Languages",
+            "content": [
+                "TranscriptX detects the spoken language automatically and builds the captions in that language, across more than 100 of them — so the subtitle file you download matches what is actually said in the video.",
+                "From there the file is yours to translate. Because the timing lives separately from the words, you can replace the text with another language and the captions still land on the right frames — which is exactly how one video ends up subtitled for several audiences from a single download."
+            ]
+        },
+        {
+            "h2": "Subtitles, Transcript or Summary?",
+            "content": [
+                "A subtitle file is the right download when you need timed captions to run over a video. When you need something else from the same video, a different TranscriptX tool is built for it.",
+                "For plain text you read on its own — no timecodes, nothing syncing to playback — the [YouTube Transcript](/youtube-transcript) tool is what you want, and the [Download YouTube Transcript](/download-youtube-transcript) tool saves that text as a TXT, DOCX or PDF document. If you only need to know what a video covers rather than caption every line of it, the [YouTube Video Summarizer](/youtube-video-summarizer) gives you the key points in a few sentences."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I download captions from a YouTube video?",
+                    "a": "Paste the video link into TranscriptX, let it build the timed captions, choose SRT or VTT, and download the file. That is all it takes to download captions from YouTube — or to download the subtitle file from YouTube in either format — with no account required."
+                },
+                {
+                    "q": "Is the YouTube subtitle downloader free?",
+                    "a": "Yes. Building and downloading subtitle files is free, with no account to create and no limit on video length."
+                },
+                {
+                    "q": "What is the difference between SRT and VTT?",
+                    "a": "Both are timed caption files. SRT is the universal format that platforms and video editors accept; VTT is built for HTML5 web video and supports extra positioning and styling. Download SRT unless you specifically need web video."
+                },
+                {
+                    "q": "Do the subtitles include timestamps?",
+                    "a": "Yes. Every line in an SRT or VTT file carries a start and end time — that timing is what keeps the captions in sync when the file plays over a video."
+                },
+                {
+                    "q": "What is the difference between subtitles and a transcript?",
+                    "a": "A transcript is plain text you read on its own. Subtitles are timed text made to display over video. If you want words to read rather than captions to display, use the transcript tool instead."
+                },
+                {
+                    "q": "Can I download subtitles in another language?",
+                    "a": "The captions are built in the language spoken in the video. Because the file is editable text with the timing kept separate, you can translate the lines into another language while the timecodes stay in place."
+                },
+                {
+                    "q": "Can I edit the subtitle file after downloading?",
+                    "a": "Yes. An SRT or VTT file opens in any text editor, so you can fix a word, split a line or adjust a timecode before the captions go live."
+                },
+                {
+                    "q": "Will the file work in my video editor?",
+                    "a": "Yes. SRT loads into Premiere, Final Cut, DaVinci Resolve and most other editors and players, which is why it is the default choice for editing work."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download YouTube Subtitles Free",
+        "content": [
+            "Paste a public YouTube link and TranscriptX builds a timed caption file you can download as SRT or VTT, in over 100 languages.",
+            "Load it into an editor, upload it with a re-posted video, or translate it for a new audience. No account, no install, no cost."
+        ]
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "seo": {
+        "title": "TranscriptX: Chuyển Video & Audio Thành Văn Bản Bằng AI Miễn Phí · Không Quảng Cáo",
+        "description": "Công cụ chuyển giọng nói thành văn bản bằng AI miễn phí, hơn 100 ngôn ngữ. Chuyển video, audio hoặc liên kết từ YouTube, TikTok, Instagram và nhiều nền tảng khác thành văn bản. Xuất SRT, VTT, DOCX, PDF.",
+        "schemaName": "Công cụ chuyển đổi giọng nói thành văn bản AI miễn phí TranscriptX",
+        "schemaDescription": "TranscriptX là công cụ chuyển giọng nói thành văn bản bằng AI trực tuyến miễn phí. Công cụ nhận tệp video, tệp âm thanh và bản ghi giọng nói được tải lên, cùng liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn và các nền tảng khác. Hỗ trợ hơn 100 ngôn ngữ với tự động nhận diện ngôn ngữ, phân tách người nói, dấu thời gian tùy chọn và xuất ra TXT, SRT, VTT, DOCX và PDF. Không yêu cầu tài khoản.",
+        "ogTitle": "Có Giọng Nói Là TranscriptX Chuyển Được Thành Văn Bản",
+        "ogDescription": "Chuyển tệp video, tệp âm thanh, bản ghi giọng nói và liên kết công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo và nhiều nền tảng khác thành văn bản bằng AI miễn phí. Hơn 100 ngôn ngữ, nhãn người nói, xuất SRT và VTT, không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển Đổi Video Và Audio Thành Văn Bản Bằng AI",
+        "placeholder": "Tải file lên hoặc dán liên kết video...",
+        "button": "Tạo transcript"
+    },
+    "quickAnswer": {
+        "question": "TranscriptX là gì?",
+        "answer": "TranscriptX là công cụ chuyển giọng nói thành văn bản bằng AI miễn phí. Tải lên một tệp video, tệp âm thanh hoặc bản ghi giọng nói, hoặc dán liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X và các nền tảng khác — mọi nguồn đều trả về cùng một bản chép lời sạch sẽ. Công cụ hỗ trợ hơn 100 ngôn ngữ với tự động nhận diện ngôn ngữ, gắn nhãn từng người nói, thêm dấu thời gian khi bạn cần và xuất ra TXT, DOCX, PDF, SRT hoặc VTT. Mọi thứ chạy ngay trên trình duyệt: không cần tài khoản, không cần cài đặt, không giới hạn kích thước tệp và hoàn toàn miễn phí."
+    },
+    "sections": [
+        {
+            "h2": "AI Transcription là gì?",
+            "content": [
+                "AI transcription là công nghệ chuyển đổi ngôn ngữ nói từ video hoặc bản ghi âm thành văn bản. Bạn chỉ cần tải tệp lên, AI sẽ tự động ghi lại những gì được nói thay vì bạn phải tự gõ thủ công — có dấu câu, chia thành câu rõ ràng và gắn với người đã nói câu đó.",
+                "Giá trị thực sự của văn bản nằm ở những gì bạn có thể làm với nó. Một cuộc phỏng vấn kéo dài một giờ rất khó để tìm kiếm, trích dẫn hoặc tóm tắt khi toàn bộ nội dung vẫn nằm trong một tệp âm thanh. Khi được chuyển thành bản chép lời, cùng một khoảng thời gian đó trở thành văn bản mà bạn có thể đọc lướt trong vài giây, lấy chính xác câu trích dẫn, dịch, tạo phụ đề hoặc đưa vào ChatGPT, Gemini hay Claude để phân tích.",
+                "TranscriptX làm việc đó miễn phí, ngay trên trình duyệt. Tải lên một tệp video, tệp âm thanh hoặc bản ghi giọng nói, hoặc dán liên kết công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X và các nền tảng khác. Công cụ tự nhận diện ngôn ngữ trong hơn 100 ngôn ngữ, gắn nhãn từng người nói và xuất ra TXT, DOCX, PDF, SRT hoặc VTT — không cài đặt, không tài khoản, không giới hạn kích thước tệp. Đăng nhập là tùy chọn và chỉ để lưu lại các bản chép lời của bạn."
+            ]
+        },
+        {
+            "h2": "Tổng quan về TranscriptX",
+            "specs": [
+                {
+                    "label": "Giá",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không — đăng nhập tùy chọn giúp lưu lại bản chép lời"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không cần — chạy trực tiếp trên trình duyệt"
+                },
+                {
+                    "label": "Giới hạn kích thước tệp",
+                    "value": "Không có"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "100+ ngôn ngữ — tự động nhận diện"
+                },
+                {
+                    "label": "Tách người nói",
+                    "value": "Có — mỗi người nói được gắn nhãn riêng"
+                },
+                {
+                    "label": "Dấu thời gian",
+                    "value": "Tùy chọn — bật hoặc tắt cho từng bản chép lời"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Nguồn được hỗ trợ",
+                    "value": "Tệp video, tệp âm thanh, bản ghi giọng nói và liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X và nhiều nền tảng khác"
+                }
+            ]
+        },
+        {
+            "h2": "Bạn có thể chép lời những gì?",
+            "intro": [
+                "TranscriptX xử lý mọi bản ghi có giọng nói bằng hơn 100 ngôn ngữ, không giới hạn kích thước tệp."
+            ],
+            "items": [
+                {
+                    "h3": "Tệp video",
+                    "content": "Video hướng dẫn, bài thuyết trình, webinar, khóa học và cuộc gọi được ghi lại có thể chuyển thành văn bản dễ đọc, dễ tìm kiếm và tái sử dụng."
+                },
+                {
+                    "h3": "Tệp âm thanh",
+                    "content": "Podcast, tệp MP3, cuộc trò chuyện được ghi âm và bài giảng được chuyển thành phiên bản văn bản dễ lưu trữ và sử dụng lại."
+                },
+                {
+                    "h3": "Bản ghi giọng nói",
+                    "content": "Ghi chú thoại và ý tưởng được nói ra có thể trở thành văn bản có thể chỉnh sửa — hữu ích khi nói nhanh hơn gõ nhưng vẫn cần lưu lại ý tưởng bằng chữ."
+                },
+                {
+                    "h3": "Cuộc họp",
+                    "content": "Tính năng tách người nói xác định ai đã nói gì, giúp cuộc họp có nhiều người trở thành bản ghi thực tế về quyết định và công việc cần làm thay vì chỉ là một khối văn bản dài."
+                },
+                {
+                    "h3": "Phỏng vấn",
+                    "content": "Nhãn người nói và dấu thời gian giúp nhà báo, nhà nghiên cứu tìm nhanh câu trích dẫn, quay lại đúng thời điểm trong âm thanh và kiểm tra với nguồn gốc ban đầu."
+                },
+                {
+                    "h3": "Bài giảng và khóa học",
+                    "content": "Biến bài học thành tài liệu học tập dạng văn bản có thể tìm kiếm theo từ khóa, xem lại và tóm tắt thành ghi chú."
+                },
+                {
+                    "h3": "Podcast",
+                    "content": "Một tập podcast có thể trở thành ghi chú chương trình, bản tin, bài viết và nội dung mạng xã hội — tất cả chỉ từ một bản chép lời."
+                },
+                {
+                    "h3": "Video từ mọi nền tảng",
+                    "content": "Dán liên kết công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn, Twitch hay bất kỳ nền tảng video nào khác và nhận nội dung được nói dưới dạng văn bản để nghiên cứu, học tập, trích dẫn hoặc tái sử dụng nội dung."
+                }
+            ]
+        },
+        {
+            "h2": "AI Transcription hoạt động như thế nào?",
+            "steps": [
+                {
+                    "h3": "Tải tệp lên hoặc dán liên kết",
+                    "content": "Tải lên video, tệp âm thanh hoặc bản ghi âm giọng nói, hoặc dán liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X và các nền tảng khác. Không có giới hạn kích thước tệp và không cần tạo tài khoản."
+                },
+                {
+                    "h3": "AI chuyển đổi giọng nói thành văn bản",
+                    "content": "TranscriptX tự động phát hiện ngôn ngữ được nói trong hơn 100 ngôn ngữ, tách giọng nói khỏi tiếng ồn nền và xác định từng người nói trong khi chuyển đổi nội dung thành văn bản với dấu câu và phân chia câu rõ ràng."
+                },
+                {
+                    "h3": "Xem lại bản chép lời",
+                    "content": "Đọc lại bản chép lời và chỉnh sửa những phần khó nghe do chất lượng âm thanh. Tên riêng, con số và thuật ngữ chuyên ngành là những phần quan trọng cần kiểm tra trước khi xuất bản hoặc sử dụng để trích dẫn."
+                },
+                {
+                    "h3": "Xuất dưới dạng TXT, DOCX, PDF, SRT hoặc VTT",
+                    "content": "Sao chép trực tiếp văn bản hoặc tải xuống định dạng phù hợp với nhu cầu tiếp theo — bật dấu thời gian trước khi xuất nếu bạn cần tạo phụ đề hoặc kiểm tra trích dẫn."
+                }
+            ]
+        },
+        {
+            "h2": "Trình tạo Caption và Subtitle bằng AI",
+            "content": [
+                "Caption và subtitle là các bản chép lời có thêm thông tin thời gian. Vì TranscriptX ghi lại dấu thời gian cho từng dòng, cùng một quá trình tạo bản chép lời dễ đọc cũng có thể tạo ra tệp phụ đề.",
+                "Bật dấu thời gian và xuất dưới định dạng SRT hoặc VTT. Cả hai định dạng đều có thể tải trực tiếp lên YouTube, Vimeo, Instagram, TikTok và các trình phát video web tiêu chuẩn, giúp bạn chuyển đổi bản ghi gốc thành video có phụ đề mà không cần công cụ phụ đề riêng.",
+                "Vì tệp xuất ra là tệp văn bản thông thường, bạn có thể mở và chỉnh sửa tên riêng hoặc thuật ngữ kỹ thuật trước khi xuất bản — hoặc dịch các dòng phụ đề để phát hành cùng một video cho khán giả quốc tế."
+            ]
+        },
+        {
+            "h2": "Transcript, Caption và Subtitle: Khác nhau như thế nào?",
+            "intro": [
+                "Cả ba đều chuyển đổi giọng nói thành văn bản, nhưng được thiết kế cho những mục đích khác nhau."
+            ],
+            "items": [
+                {
+                    "h3": "Transcript là bản ghi văn bản có thể đọc riêng biệt",
+                    "content": "Transcript là toàn bộ nội dung được nói, chuyển thành văn bản để đọc độc lập thay vì hiển thị đồng thời cùng video. Sử dụng transcript khi nội dung chữ là điều quan trọng — như tìm kiếm ý tưởng, lấy trích dẫn chính xác, học tập tài liệu hoặc phân tích cuộc trò chuyện. Có thể xuất dưới dạng TXT, DOCX hoặc PDF."
+                },
+                {
+                    "h3": "Caption là văn bản đồng bộ thời gian dành cho người không thể nghe âm thanh",
+                    "content": "Caption được đồng bộ với quá trình phát video để mỗi dòng xuất hiện đúng lúc người nói phát âm câu đó. Sử dụng caption khi khả năng tiếp cận là yếu tố quan trọng hoặc khi video tự động phát không có âm thanh và văn bản cần truyền tải nội dung. Bật dấu thời gian và xuất dưới dạng SRT hoặc VTT."
+                },
+                {
+                    "h3": "Subtitle là đoạn hội thoại đồng bộ thời gian, thường được dịch sang ngôn ngữ khác",
+                    "content": "Subtitle cũng xuất hiện trong quá trình phát video, nhưng mục đích chính là hỗ trợ ngôn ngữ: hiển thị nội dung người nói cho những khán giả không hiểu ngôn ngữ gốc. Sử dụng subtitle khi hướng tới khán giả quốc tế. Xuất dưới dạng SRT hoặc VTT, sau đó dịch nội dung trước khi xuất bản."
+                }
+            ]
+        },
+        {
+            "h2": "Xuất bản chép lời của bạn với năm định dạng",
+            "content": [
+                "Mỗi bản chép lời có thể được xuất dưới năm định dạng khác nhau, và định dạng phù hợp phụ thuộc vào việc bạn muốn làm gì tiếp theo với nội dung văn bản.",
+                "TXT là văn bản thuần không có định dạng — dễ đọc, dễ tìm kiếm hoặc sao chép vào ChatGPT, Gemini hoặc Claude. DOCX có thể mở bằng Word, Google Docs và Pages khi bạn cần chỉnh sửa bản chép lời hoặc biến nó thành tài liệu làm việc. PDF cung cấp bản ghi cố định với cách hiển thị giống nhau cho mọi người, phù hợp để chia sẻ hoặc in những tài liệu không nên bị chỉnh sửa.",
+                "Hai định dạng còn lại chứa thông tin thời gian. SRT là định dạng phụ đề được hầu hết nền tảng hỗ trợ, vì vậy hãy bật dấu thời gian và xuất SRT để thêm phụ đề cho video trên YouTube, Instagram hoặc TikTok. VTT thực hiện chức năng tương tự cho video HTML5 phát trên trình duyệt.",
+                "Nếu bạn không chắc nên chọn định dạng nào, hãy bắt đầu với TXT. Đây là định dạng dễ đưa vào các công cụ khác nhất và bạn luôn có thể xuất lại sang định dạng khác khi cần."
+            ]
+        },
+        {
+            "h2": "Chép lời video từ mọi nền tảng",
+            "content": [
+                "Bạn không cần tải video xuống để chép lời. Chỉ cần dán một liên kết công khai từ bất kỳ nền tảng lớn nào và TranscriptX sẽ đọc âm thanh trực tiếp từ video, sau đó trả về nội dung được nói dưới dạng văn bản mà bạn có thể tìm kiếm, trích dẫn và tái sử dụng."
+            ],
+            "items": [
+                {
+                    "h3": "Nhận bản chép lời từ video YouTube",
+                    "content": "Sao chép URL của bất kỳ video YouTube công khai nào và dán vào TranscriptX. Một bài giảng, cuộc phỏng vấn hoặc video hướng dẫn dài hai giờ sẽ được chuyển thành văn bản với hơn 100 ngôn ngữ, đồng thời phân biệt từng người nói, giúp bạn tìm chính xác thông tin cần thiết mà không cần tua đi tua lại dòng thời gian của video. Các nhà nghiên cứu sử dụng công cụ này để trích dẫn nguồn chính xác, sinh viên dùng để biến bài giảng thành ghi chú học tập, còn người viết dùng để tạo bài viết từ những video đã giải thích chủ đề một cách rõ ràng. Nếu YouTube là phần quan trọng trong công việc của bạn, công cụ [YouTube Transcript](/youtube-transcript) được xây dựng chính xác cho mục đích này."
+                },
+                {
+                    "h3": "Nhận bản chép lời từ video TikTok",
+                    "content": "Dán liên kết TikTok công khai và những lời nói trong video sẽ được chuyển thành văn bản trước khi video biến mất khỏi nguồn cấp dữ liệu của bạn. Video ngắn trôi qua rất nhanh, và phần hữu ích nhất thường chỉ là một câu duy nhất — câu mở đầu khiến bạn dừng lại, nhận định trong một video đánh giá sản phẩm, hoặc một bước mà ai đó giải thích chỉ trong vài giây. Khi có nội dung ở dạng văn bản, bạn có thể lưu lại, phân tích lý do nó hiệu quả và tạo phiên bản của riêng mình thay vì cố gắng ghi nhớ. Công cụ [TikTok Transcript](/tiktok-transcript) được thiết kế riêng cho video ngắn."
+                },
+                {
+                    "h3": "Chép lời một video Facebook",
+                    "content": "Facebook giấu những video hữu ích nhất ở những nơi khó tiếp cận — các buổi phát trực tiếp đã lưu, các đoạn clip nằm sâu trong nhóm, những sự kiện được ghi lại kéo dài cả tiếng đồng hồ. Dán liên kết và công cụ [Facebook Transcript](/facebook-transcript) sẽ biến bất kỳ bài đăng công khai, Reel hay buổi Live đã lưu nào thành văn bản dễ đọc, với từng người nói được gắn nhãn, để một buổi phát dài trở thành thứ bạn có thể đọc trong vài phút và tìm đúng phần quan trọng."
+                },
+                {
+                    "h3": "Chép lời một Reel trên Instagram",
+                    "content": "Một Reel được tạo ra để xem một lần rồi lướt qua, nhưng giá trị của nó thường nằm ở một câu duy nhất đáng lưu lại. Công cụ [Instagram Transcript](/instagram-transcript) rút những lời được nói ra từ bất kỳ Reel hay video công khai nào thành văn bản mà bạn có thể sao chép, nghiên cứu hoặc chuyển hóa thành nội dung của riêng mình — câu mở đầu, mẹo hay, hay kịch bản đã khiến nó thành công."
+                },
+                {
+                    "h3": "Chép lời video từ bất kỳ nền tảng nào khác",
+                    "content": "Vimeo, X, LinkedIn, Twitch, Dailymotion, Reddit, một buổi hội thảo phát lại, trình phát video nhúng trên trang tin — nếu trang đó chứa một video công khai có giọng nói, hãy dán URL vào và TranscriptX sẽ đọc âm thanh trực tiếp từ nguồn. Bạn không cần tài khoản trên nền tảng đó, không cần công cụ tải xuống hay phần mềm quay màn hình trung gian, và bản chép lời vẫn trả về với đủ năm định dạng xuất như mọi nguồn khác."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển đổi bất kỳ file video, âm thanh hoặc giọng nói nào thành văn bản",
+            "content": [
+                "Không phải mọi thứ bạn cần chép lời đều nằm trên một nền tảng mạng xã hội. Khi nguồn là một file trên chính thiết bị của bạn, TranscriptX có công cụ chuyên biệt cho từng loại — chỉ cần tải lên và nhận cùng một bản chép lời sạch sẽ, với hơn 100 ngôn ngữ, có gắn nhãn người nói."
+            ],
+            "items": [
+                {
+                    "h3": "Chuyển đổi một file video thành văn bản",
+                    "content": "Bạn có một file MP4, một bản ghi Zoom hay một video quay màn hình thay vì một liên kết để dán? Công cụ [Video to Text](/video-to-text) chép lời bất kỳ file video nào bạn tải lên, phân tách người nói và xuất ra năm định dạng, không có giới hạn kích thước file nào phải bận tâm."
+                },
+                {
+                    "h3": "Biến một file âm thanh thành văn bản",
+                    "content": "Với một podcast, một file MP3 hay một cuộc phỏng vấn được ghi âm không kèm video, công cụ [Audio to Text](/audio-to-text) chuyển bản ghi thành một bản chép lời sạch sẽ, có dấu câu mà bạn có thể trích dẫn, chỉnh sửa hoặc lưu trữ."
+                },
+                {
+                    "h3": "Chuyển đổi bản ghi giọng nói thành văn bản",
+                    "content": "Để đọc một ghi chú nhanh hơn khả năng gõ, hoặc để chép lời một ghi âm giọng nói đã có sẵn trên điện thoại, công cụ [Voice to Text](/voice-to-text) ghi âm trực tiếp trên trình duyệt hoặc nhận một bản ghi âm mà bạn tải lên."
+                }
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "TranscriptX có thực sự miễn phí không?",
+                    "a": "Có. Tính năng chuyển đổi giọng nói thành văn bản bằng AI trên TranscriptX được sử dụng miễn phí, không cần tạo tài khoản và không giới hạn kích thước tệp."
+                },
+                {
+                    "q": "Tôi có cần cài đặt gì không?",
+                    "a": "Không. TranscriptX hoạt động trực tiếp trên trình duyệt. Không cần tải phần mềm và không cần đăng ký tài khoản."
+                },
+                {
+                    "q": "Tôi có cần tài khoản không?",
+                    "a": "Không. Dán một liên kết hoặc tải một tệp lên là nhận được bản chép lời mà không cần đăng nhập — không có tính năng nào bị khóa sau bước đăng ký. Đăng nhập là tùy chọn và làm đúng một việc: lưu lại các bản chép lời của bạn, để bạn mở lại sau này và truy cập cùng một lịch sử từ bất kỳ thiết bị nào. Mọi thứ còn lại hoạt động giống hệt nhau dù bạn có đăng nhập hay không."
+                },
+                {
+                    "q": "Tôi có thể chép lời những gì với TranscriptX?",
+                    "a": "Bất cứ thứ gì có giọng nói: tệp video, tệp âm thanh và bản ghi giọng nói bạn tải lên, cùng liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn và các nền tảng khác. Mọi nguồn đều trả về cùng một bản chép lời, có gắn nhãn người nói và dấu thời gian tùy chọn."
+                },
+                {
+                    "q": "Nó hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ. TranscriptX tự động phát hiện ngôn ngữ được nói, vì vậy bạn không cần chọn ngôn ngữ trước khi tải tệp lên."
+                },
+                {
+                    "q": "Tôi có thể xuất ra những định dạng tệp nào?",
+                    "a": "Có năm định dạng: TXT, DOCX và PDF để đọc và chỉnh sửa, cùng với SRT và VTT dành cho phụ đề. Bạn cũng có thể sao chép văn bản trực tiếp."
+                },
+                {
+                    "q": "Nó có thể phân biệt từng người nói không?",
+                    "a": "Có. TranscriptX gắn nhãn riêng cho từng người nói, vì vậy các cuộc họp, phỏng vấn và podcast có nhiều người tham gia sẽ hiển thị rõ ai đã nói gì."
+                },
+                {
+                    "q": "Tôi có thể chuyển đổi một cuộc họp có nhiều người không?",
+                    "a": "Có. Tải bản ghi âm lên và mỗi người nói sẽ được đánh dấu trong bản chép lời, biến một cuộc thảo luận dài thành bản ghi hữu ích với các quyết định và công việc cần thực hiện."
+                },
+                {
+                    "q": "Tôi có thể lấy Timestamps  không?",
+                    "a": "Có, đây là tùy chọn. Bật lấy Timestamps khi bạn cần tệp phụ đề hoặc muốn quay lại một thời điểm cụ thể trong âm thanh; tắt đi để có văn bản sạch và dễ đọc hơn."
+                },
+                {
+                    "q": "Làm cách nào để chuyển đổi video YouTube thành văn bản?",
+                    "a": "Sao chép URL của video YouTube công khai, dán vào TranscriptX và nội dung được nói sẽ được chuyển thành văn bản mà bạn có thể sao chép hoặc xuất ra. Nếu thường xuyên sử dụng, có công cụ YouTube Transcript chuyên biệt, và cách làm tương tự cũng áp dụng cho liên kết TikTok, Facebook, Instagram hay Vimeo."
+                },
+                {
+                    "q": "Tôi có thể dán liên kết từ những nền tảng nào?",
+                    "a": "Bất kỳ trang video công khai nào — YouTube, TikTok, Facebook, Instagram, Vimeo, X, LinkedIn, Twitch, Dailymotion và nhiều nền tảng khác. TranscriptX đọc âm thanh trực tiếp từ liên kết nên không cần bước tải xuống hay chuyển đổi trung gian. Video riêng tư, không công khai hoặc yêu cầu đăng nhập thì không truy cập được."
+                },
+                {
+                    "q": "Độ chính xác của AI transcription là bao nhiêu?",
+                    "a": "Độ chính xác phụ thuộc chủ yếu vào chất lượng bản ghi. Giọng nói rõ ràng, âm lượng ổn định và ít tiếng ồn nền sẽ cho kết quả tốt nhất, trong khi nhiều người nói cùng lúc, tiếng vang hoặc nhạc lớn có thể làm giảm độ chính xác. Hãy kiểm tra tên riêng, con số và thuật ngữ kỹ thuật trước khi xuất bản."
+                },
+                {
+                    "q": "Sự khác biệt giữa AI transcription và speech-to-text là gì?",
+                    "a": "Speech-to-text là bước nhận dạng chuyển đổi lời nói thành văn bản. AI transcription là toàn bộ quy trình bao gồm nhận dạng giọng nói, thêm dấu câu, phân biệt người nói, thêm dấu thời gian và xuất ra tệp có thể sử dụng."
+                },
+                {
+                    "q": "Tôi có thể tạo phụ đề từ bản chép lời không?",
+                    "a": "Có. Bật dấu thời gian và xuất dưới dạng SRT hoặc VTT, sau đó tải tệp lên YouTube, Instagram, TikTok hoặc trình phát video của bạn."
+                },
+                {
+                    "q": "Tôi có thể sử dụng bản chép lời với ChatGPT hoặc Claude không?",
+                    "a": "Có. Xuất hoặc sao chép văn bản và dán vào bất kỳ trợ lý AI nào để tạo bản tóm tắt, trích xuất nhiệm vụ, phân tích chủ đề hoặc chuyển đổi thành bài viết."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bắt đầu chuyển đổi giọng nói thành văn bản bằng AI miễn phí",
+        "content": [
+            "Tải lên video, tệp âm thanh hoặc bản ghi âm giọng nói, hoặc dán liên kết video công khai từ YouTube, TikTok, Facebook, Instagram, Vimeo hay một nền tảng khác. TranscriptX tạo bản chép lời bằng hơn 100 ngôn ngữ, có nhãn người nói và dấu thời gian tùy chọn.",
+            "Xuất dưới dạng TXT, DOCX hoặc PDF để đọc và chỉnh sửa, hoặc SRT và VTT để thêm phụ đề cho video. Không cần tài khoản, không giới hạn kích thước tệp, hoàn toàn miễn phí."
+        ]
+    }
+}

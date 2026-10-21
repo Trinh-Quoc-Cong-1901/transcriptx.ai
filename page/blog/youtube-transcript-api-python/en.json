@@ -1,0 +1,167 @@
+{
+    "seo": {
+        "title": "youtube-transcript-api in Python: Guide, Examples & Fixes",
+        "description": "How to use youtube_transcript_api in Python: install, fetch transcripts, pick languages, export SRT, and fix IP blocked and TranscriptsDisabled errors. Plus JavaScript.",
+        "schemaName": "youtube-transcript-api in Python: Guide, Examples and Fixes",
+        "schemaDescription": "A practical guide to the open-source youtube-transcript-api Python library from GitHub: installation, fetching transcripts, choosing and translating languages, formatting as SRT or JSON, fixing common errors such as RequestBlocked, IpBlocked and TranscriptsDisabled, a JavaScript alternative, and when to switch to a hosted YouTube transcript API.",
+        "ogTitle": "youtube-transcript-api in Python: Guide, Examples & Fixes",
+        "ogDescription": "Install, fetch, format and debug YouTube transcripts in Python — including why the library gets blocked on servers and what to do about it."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "youtube-transcript-api in Python: A Practical Guide",
+        "subtitle": "youtube-transcript-api is the most popular way to get YouTube transcripts in Python: no API key, no browser, a few lines of code. This guide covers installing it, fetching and formatting transcripts, the errors you will run into — especially IP blocks on servers — and what to use when the library is not enough."
+    },
+    "quickAnswer": {
+        "question": "How do I get a YouTube transcript in Python?",
+        "answer": "Install the open-source library with pip install youtube-transcript-api, then call YouTubeTranscriptApi().fetch(video_id). It returns the video's caption track as timed snippets, with no API key. It only works when the video has captions, and requests from cloud servers are often blocked by YouTube; in those cases, use proxies or a hosted YouTube transcript API."
+    },
+    "sections": [
+        {
+            "h2": "What youtube-transcript-api Is",
+            "content": [
+                "youtube-transcript-api is an open-source Python library, published on GitHub by jdepoix under the MIT licence. It reads the caption tracks YouTube already shows in its player — both uploaded and auto-generated — and returns them to your code. The import name is youtube_transcript_api.",
+                "Two things make it popular: it needs no Google API key or OAuth, and unlike the official YouTube Data API it works for videos you do not own. Two things limit it: it can only return captions that exist, and it depends on YouTube not blocking your requests."
+            ]
+        },
+        {
+            "h2": "Install and Fetch Your First Transcript",
+            "content": [
+                "Install it from PyPI, then fetch a transcript using the video ID — the part after v= in a YouTube URL. The examples below follow the 1.x version of the library; older tutorials use YouTubeTranscriptApi.get_transcript(), which belongs to earlier versions."
+            ],
+            "code": [
+                {
+                    "lang": "bash",
+                    "snippet": "pip install youtube-transcript-api"
+                },
+                {
+                    "lang": "python",
+                    "snippet": "from youtube_transcript_api import YouTubeTranscriptApi\n\nytt_api = YouTubeTranscriptApi()\ntranscript = ytt_api.fetch(\"dQw4w9WgXcQ\")\n\nfor snippet in transcript:\n    print(f\"[{snippet.start:.2f}] {snippet.text}\")"
+                }
+            ]
+        },
+        {
+            "h2": "Choose Languages and Translate",
+            "content": [
+                "By default the library asks for English. Pass a list of language codes in order of preference, and it returns the first one available. To see what a video offers, list its transcripts: each one tells you its language and whether it was generated automatically.",
+                "Where YouTube supports it, a transcript can also be translated into another language before you fetch it."
+            ],
+            "code": [
+                {
+                    "lang": "python",
+                    "snippet": "ytt_api = YouTubeTranscriptApi()\n\n# Prefer German, fall back to English\ntranscript = ytt_api.fetch(\"VIDEO_ID\", languages=[\"de\", \"en\"])\n\n# List every available transcript\nfor t in ytt_api.list(\"VIDEO_ID\"):\n    print(t.language_code, t.is_generated)\n\n# Translate an English transcript into Spanish\nen = ytt_api.list(\"VIDEO_ID\").find_transcript([\"en\"])\nes = en.translate(\"es\").fetch()"
+                }
+            ]
+        },
+        {
+            "h2": "Format as SRT, JSON or Plain Text",
+            "content": [
+                "The library ships formatters for the most common outputs: SRT and WebVTT for subtitles, JSON for storage, and plain text for LLMs and search."
+            ],
+            "code": [
+                {
+                    "lang": "python",
+                    "snippet": "from youtube_transcript_api.formatters import SRTFormatter, TextFormatter\n\ntranscript = YouTubeTranscriptApi().fetch(\"VIDEO_ID\")\n\nwith open(\"video.srt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(SRTFormatter().format_transcript(transcript))\n\nplain_text = TextFormatter().format_transcript(transcript)"
+                }
+            ]
+        },
+        {
+            "h2": "Common Errors and How to Fix Them",
+            "intro": [
+                "Almost every problem with youtube-transcript-api comes down to one of these exceptions:"
+            ],
+            "items": [
+                {
+                    "h3": "TranscriptsDisabled",
+                    "content": "The video has captions turned off. There is no caption track to read, so the library cannot help — the only route is to transcribe the audio."
+                },
+                {
+                    "h3": "NoTranscriptFound",
+                    "content": "Captions exist, but not in the languages you asked for. List the available transcripts and request one of those, or translate one."
+                },
+                {
+                    "h3": "VideoUnavailable",
+                    "content": "The video is private, deleted, age-restricted or region-blocked. Check the ID and whether the video plays in a logged-out browser."
+                },
+                {
+                    "h3": "RequestBlocked / IpBlocked",
+                    "content": "YouTube is refusing requests from your IP address. This is the most common error in production — see the next section."
+                }
+            ]
+        },
+        {
+            "h2": "Why It Gets Blocked on Servers",
+            "content": [
+                "The library works from your laptop and then fails the moment you deploy it. That is because YouTube blocks most requests coming from cloud providers such as AWS, Google Cloud and Azure, and rate-limits any IP that sends many requests in a short time.",
+                "The library's own documentation recommends rotating residential proxies, and it supports passing a proxy configuration. That works, but it adds a monthly proxy bill, another service to monitor, and retries when proxies get flagged too.",
+                "If transcripts are part of a product rather than a one-off script, it is usually simpler to call a hosted YouTube transcript API that handles fetching for you."
+            ]
+        },
+        {
+            "h2": "YouTube Transcript API in JavaScript and TypeScript",
+            "content": [
+                "There is no official youtube transcript api javascript version — the library is Python-only. In JavaScript and TypeScript, community packages on npm such as youtube-transcript read the same caption tracks in a similar way, and share the same two limits: no transcript when captions are missing, and blocks when run from cloud servers.",
+                "For Node.js in production, the same choice applies — manage proxies yourself, or call a hosted API over HTTP, which works identically from any language."
+            ]
+        },
+        {
+            "h2": "When to Use a Hosted API Instead",
+            "content": [
+                "youtube-transcript-api is a great fit for scripts, notebooks and small personal projects. A hosted service is a better fit when you hit any of these:"
+            ],
+            "items": [
+                {
+                    "h3": "Videos without captions",
+                    "content": "A hosted API such as TranscriptX transcribes the audio, so TranscriptsDisabled stops being a dead end."
+                },
+                {
+                    "h3": "Running on servers",
+                    "content": "No proxies to buy or rotate — fetching is handled for you."
+                },
+                {
+                    "h3": "Speakers and quality",
+                    "content": "Speaker labels, punctuation and around 95% accuracy on clear audio in our internal tests, instead of raw auto-captions."
+                },
+                {
+                    "h3": "More than YouTube",
+                    "content": "The same API covers TikTok, Instagram, Facebook and uploaded files."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is youtube-transcript-api free?",
+                    "a": "Yes. It is open source under the MIT licence and needs no API key. Your only costs are infrastructure and, if you use them, proxies."
+                },
+                {
+                    "q": "Where is the youtube transcript api GitHub repository?",
+                    "a": "It is maintained by jdepoix on GitHub as jdepoix/youtube-transcript-api, and published on PyPI as youtube-transcript-api."
+                },
+                {
+                    "q": "Why does youtube_transcript_api work locally but not on my server?",
+                    "a": "YouTube blocks most requests from cloud provider IP addresses. Use residential proxies or a hosted transcript API."
+                },
+                {
+                    "q": "Can it get transcripts for videos without captions?",
+                    "a": "No. It only reads existing caption tracks. To transcribe a video with no captions, you need a speech-to-text service."
+                },
+                {
+                    "q": "Is there a JavaScript version?",
+                    "a": "Not from the same author, but npm packages such as youtube-transcript work in a similar way, with the same limitations."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Pick the Right Tool for the Job",
+        "content": [
+            "For a quick script, youtube-transcript-api is hard to beat. When you need transcripts for videos without captions, reliable fetching from servers, or speaker labels, use the [TranscriptX YouTube Transcript API](/api/youtube-transcript).",
+            "Just need one transcript right now? Paste the link into the free [YouTube Transcript](/youtube-transcript) tool."
+        ]
+    }
+}

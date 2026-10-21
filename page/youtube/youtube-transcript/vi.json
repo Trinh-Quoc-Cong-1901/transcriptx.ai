@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "Chuyển video YouTube thành văn bản — Lấy transcript miễn phí | TranscriptX",
+        "description": "Chuyển video YouTube thành văn bản online miễn phí. Dán link YouTube để tạo, trích xuất, đọc, sao chép, chỉnh sửa và dịch bản transcript với hơn 100 ngôn ngữ. Không cần đăng ký.",
+        "schemaName": "Công cụ lấy transcript YouTube của TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp tạo và trích xuất bản transcript của mọi video YouTube công khai với hơn 100 ngôn ngữ. Đọc, sao chép, chỉnh sửa, dịch và xuất file mà không cần tạo tài khoản.",
+        "ogTitle": "Chuyển video YouTube thành văn bản — Lấy transcript miễn phí | TranscriptX",
+        "ogDescription": "Dán link YouTube và nhận toàn bộ bản transcript trong vài giây. Tạo hoặc trích xuất văn bản từ mọi video công khai với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển video YouTube thành văn bản",
+        "subtitle": "Lấy toàn bộ bản transcript của mọi video YouTube công khai chỉ trong vài giây. Dán link để tạo hoặc trích xuất phần lời nói thành văn bản với hơn 100 ngôn ngữ, rồi đọc, sao chép, chỉnh sửa hoặc dịch. Không cần tài khoản, không phải cài phần mềm.",
+        "placeholder": "Dán link video YouTube...",
+        "button": "Lấy transcript"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để lấy transcript video YouTube?",
+        "answer": "Sao chép link của bất kỳ video YouTube công khai nào rồi thả vào TranscriptX. Công cụ đọc phần âm thanh, tạo bản transcript với hơn 100 ngôn ngữ và trả về văn bản để bạn đọc, sao chép, chỉnh sửa, dịch hoặc xuất file. Không cần tài khoản và không có gì phải cài đặt."
+    },
+    "sections": [
+        {
+            "h2": "Transcript YouTube là gì?",
+            "content": [
+                "Transcript YouTube — bản transcript đầy đủ của một video YouTube, ghi lại tất cả những gì đã được nói — chính là phần lời nói trong video được viết ra thành văn bản. Thay vì xem lại một buổi giảng hay một cuộc phỏng vấn dài hai tiếng chỉ để tìm một ý, bạn đọc bản transcript, tìm kiếm trong đó và nhảy thẳng đến đoạn mình cần.",
+                "Giá trị nằm ở những gì văn bản mở khóa. Video giam thông tin bên trong dòng thời gian — khi còn là âm thanh, bạn không tìm kiếm được, không trích dẫn chính xác được, cũng không dán sang công cụ khác được. Khi đã thành bản transcript, đúng video đó trở thành văn bản để bạn lướt qua trong vài giây, lấy trích dẫn nguyên văn, đem đi dịch, biến thành ghi chú, hoặc đưa cho ChatGPT, Gemini hay Claude phân tích.",
+                "TranscriptX giúp bạn lấy transcript video YouTube miễn phí, chạy ngay trên trình duyệt và không cần tài khoản."
+            ]
+        },
+        {
+            "h2": "Chuyển video YouTube thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Link của bất kỳ video YouTube công khai nào"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — gán nhãn riêng cho từng người"
+                },
+                {
+                    "label": "Dấu thời gian",
+                    "value": "Tùy chọn — bật hoặc tắt cho từng bản transcript"
+                },
+                {
+                    "label": "Video chưa có phụ đề",
+                    "value": "Vẫn được — bản transcript được tạo từ chính phần âm thanh"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển video YouTube sang văn bản",
+            "steps": [
+                {
+                    "h3": "Sao chép link video YouTube",
+                    "content": "Mở video bạn muốn gỡ băng và sao chép link của nó từ thanh địa chỉ hoặc từ nút Chia sẻ. Mọi video YouTube công khai đều dùng được."
+                },
+                {
+                    "h3": "Dán link vào TranscriptX",
+                    "content": "Dán link vào ô ở đầu trang này. Không có tài khoản nào phải tạo và cũng không có file nào phải tải về trước."
+                },
+                {
+                    "h3": "Tạo bản transcript",
+                    "content": "TranscriptX đọc phần âm thanh, tự động nhận diện ngôn ngữ đang được nói trong hơn 100 ngôn ngữ, tách riêng từng người nói và viết lời ra thành chữ có dấu câu và ngắt câu rõ ràng."
+                },
+                {
+                    "h3": "Sử dụng bản transcript",
+                    "content": "Đọc ngay trên màn hình, sao chép toàn bộ hoặc một câu trích dẫn, chỉnh sửa nội dung, dịch sang ngôn ngữ khác, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT — với dấu thời gian bật hoặc tắt tùy bạn."
+                }
+            ]
+        },
+        {
+            "h2": "Công cụ tạo transcript YouTube",
+            "content": [
+                "Không phải video nào cũng có phụ đề, và phụ đề tự động thì thường sai. Khi không có sẵn bản chữ nào dùng được để rút ra, TranscriptX hoạt động như một công cụ tạo transcript YouTube — công cụ dựng văn bản từ chính phần âm thanh thay vì phụ thuộc vào phụ đề mà người đăng có thể chưa bao giờ thêm vào.",
+                "Nghĩa là bạn vẫn tạo transcript từ video YouTube được ngay cả khi nút phụ đề không xuất hiện: một bản ghi phát trực tiếp, một video đăng đã lâu, một bài nói mà YouTube làm phụ đề rất tệ. Công cụ nghe phần lời và cho ra văn bản sạch, có dấu câu, với hơn 100 ngôn ngữ và gán nhãn từng người nói.",
+                "Vì làm việc trực tiếp từ âm thanh, kết quả thường chính xác hơn phụ đề tự động của chính YouTube, nhất là với giọng vùng miền, thuật ngữ chuyên ngành và các bản ghi có nhiều người nói."
+            ]
+        },
+        {
+            "h2": "Trích xuất văn bản từ video YouTube",
+            "content": [
+                "Khi video đã có sẵn phụ đề do người đăng thêm, TranscriptX đóng vai trò công cụ trích xuất: nó rút phần lời nói đã có ra và đưa cho bạn dưới dạng văn bản sạch, dễ đọc, chỉ trong một bước — không phải tua đi tua lại video, cũng không phải chép từng dòng. Đây là cách nhanh nhất để trích xuất văn bản từ video YouTube hay lấy phụ đề YouTube thành văn bản mà không qua bước trung gian nào.",
+                "Đây là đường tắt dành cho lập trình viên, nhà nghiên cứu và người phân tích dữ liệu chỉ cần bản chữ thô. Dán link, chuyển YouTube sang text và đưa thẳng vào quy trình của bạn: một tập dữ liệu, một tài liệu nghiên cứu, một prompt cho AI hay một content brief. Công cụ trả về toàn bộ văn bản nên không đoạn nào bị cắt mất, dù video dài đến đâu."
+            ]
+        },
+        {
+            "h2": "Dùng bản transcript YouTube để làm gì",
+            "intro": [
+                "Bản transcript biến video có lời nói thành văn bản tìm kiếm được, chỉnh sửa được và tái sử dụng được. Thay vì phát đi phát lại video, bạn làm việc trực tiếp với thông tin."
+            ],
+            "items": [
+                {
+                    "h3": "Học từ bài giảng và video hướng dẫn",
+                    "content": "Học sinh, sinh viên và người học online biến bài giảng, khóa học và video hướng dẫn thành ghi chú ôn tập. Bản transcript giúp tìm nhanh từ khóa quan trọng, xem lại các ý chính và ôn thi mà không phải kéo tới kéo lui dòng thời gian."
+                },
+                {
+                    "h3": "Nghiên cứu phỏng vấn, podcast và tọa đàm",
+                    "content": "Nhà nghiên cứu và nhà báo lấy nội dung video YouTube thành văn bản từ các cuộc phỏng vấn, podcast, phim tài liệu và buổi tọa đàm. Nhãn người nói cùng dấu thời gian tùy chọn giúp tìm ra một câu trích dẫn và đối chiếu lại đúng khoảnh khắc nó được nói."
+                },
+                {
+                    "h3": "Viết bài, bản tin và kịch bản",
+                    "content": "Người viết và nhà sáng tạo nội dung biến một video thành bài blog, bản tin, nội dung mạng xã hội hay một kịch bản mới. Bản transcript cho bạn điểm khởi đầu vững chắc thay vì một trang trắng."
+                },
+                {
+                    "h3": "Tóm tắt một video dài",
+                    "content": "Khi video quá dài để xem lại, bản transcript giúp bạn nhìn ra ý chính, điểm mấu chốt và các việc cần làm thật nhanh — hoặc dán vào một trợ lý AI để nhận bản tóm tắt."
+                },
+                {
+                    "h3": "Dịch nội dung video",
+                    "content": "Lấy bản transcript ở ngôn ngữ gốc, sau đó dịch để hiểu nội dung hoặc đăng lại cho một nhóm khán giả khác."
+                },
+                {
+                    "h3": "Giúp nội dung dễ tiếp cận hơn",
+                    "content": "Bản transcript mang lại toàn bộ nội dung dạng chữ cho người khiếm thính và người nghe kém, đồng thời cho tất cả mọi người một phiên bản đọc được của video mà họ không thể bật tiếng."
+                }
+            ]
+        },
+        {
+            "h2": "Gỡ băng video YouTube ở mọi ngôn ngữ",
+            "content": [
+                "TranscriptX xử lý việc gỡ băng video YouTube với hơn 100 ngôn ngữ và tự động nhận diện ngôn ngữ đang được nói — bạn không phải chọn trước khi bắt đầu. Công cụ chuyển âm thanh trên YouTube thành văn bản dù đó là bài giảng, podcast hay phỏng vấn, và tạo ra bản transcript cho video YouTube ở bất kỳ ngôn ngữ nào trong số đó. Dán một video tiếng Việt, tiếng Anh, tiếng Trung, tiếng Nhật hay tiếng Hàn, văn bản sẽ trả về đúng ngôn ngữ đó.",
+                "Việc phân biệt người nói hoạt động ở tất cả các ngôn ngữ, nên một cuộc phỏng vấn hay buổi tọa đàm được viết ra rõ ai nói câu nào thay vì thành một khối chữ liền mạch. Đó chính là thứ khiến một video dài, nhiều người nói trở nên dùng được chứ không chỉ đọc được."
+            ]
+        },
+        {
+            "h2": "TranscriptX so với transcript có sẵn của YouTube",
+            "intro": [
+                "YouTube hiển thị một khung transcript có sẵn ở một số video, nhưng nó được làm ra để bạn đọc chữ trong lúc xem — không phải để mang văn bản đi nơi khác. Khi mục tiêu của bạn là sao chép, chỉnh sửa, dịch, tóm tắt hay xuất file, một công cụ chuyên dụng sẽ gọn gàng hơn."
+            ],
+            "items": [
+                {
+                    "h3": "Transcript có sẵn của YouTube",
+                    "content": "Tiện để liếc qua phần chữ trong lúc phát video, và chỉ tồn tại khi người đăng đã thêm vào. Văn bản bị trộn lẫn dấu thời gian, nằm bên trong giao diện YouTube và rất khó dọn dẹp hay mang sang công cụ khác."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Được xây dựng để làm việc với bản transcript như một văn bản thật sự. Nó tạo transcript ngay cả khi video không có phụ đề, trả về văn bản sạch có dấu câu và gán nhãn từng người nói, đồng thời cho bạn sao chép, chỉnh sửa, dịch, tóm tắt hoặc xuất ra năm định dạng — dấu thời gian tùy chọn."
+                }
+            ]
+        },
+        {
+            "h2": "Độ chính xác và những yếu tố ảnh hưởng",
+            "content": [
+                "TranscriptX tạo bản transcript từ phần âm thanh của video, nên chất lượng âm thanh là yếu tố quan trọng nhất. Lời nói rõ ràng, âm lượng ổn định và ít tạp âm nền sẽ cho kết quả sạch nhất.",
+                "Độ chính xác có thể giảm khi nhiều người nói chồng lên nhau, khi có tiếng vọng nặng hoặc nhạc lớn, hoặc với giọng vùng miền rất đặc trưng và thuật ngữ chuyên ngành dày đặc. Bản ghi nhiều người vẫn được gán nhãn theo từng người nói, nhưng đoạn nói chồng tiếng là nơi mọi công cụ đều dễ sai nhất.",
+                "Với các trích dẫn quan trọng, thuật ngữ chuyên ngành, tên riêng, dẫn chiếu pháp lý hay trích dẫn học thuật, hãy rà lại những dòng liên quan trước khi đăng hoặc trích dẫn. Bật dấu thời gian sẽ giúp việc này rất nhanh — bạn nhảy thẳng về đúng khoảnh khắc trong video và đối chiếu lại với âm thanh."
+            ]
+        },
+        {
+            "h2": "Khi nào không lấy được transcript YouTube",
+            "intro": [
+                "Vì TranscriptX gỡ băng từ âm thanh nên việc thiếu bản phụ đề không phải vấn đề — nhưng vẫn có vài tình huống khiến bản transcript không tạo được. Gần như tất cả đều quy về việc công cụ có tiếp cận được phần âm thanh của video hay không."
+            ],
+            "items": [
+                {
+                    "h3": "Video ở chế độ riêng tư hoặc đã bị xóa",
+                    "content": "Bản transcript chỉ tạo được từ video mà mọi người xem được công khai. Video riêng tư và video đã xóa thì không tiếp cận được."
+                },
+                {
+                    "h3": "Video bị giới hạn độ tuổi hoặc giới hạn khu vực",
+                    "content": "Video yêu cầu xác minh độ tuổi hoặc bị chặn theo khu vực có thể không truy cập được qua một công cụ online, vì phần âm thanh không được mở công khai."
+                },
+                {
+                    "h3": "Video không có lời nói",
+                    "content": "Video ca nhạc, đoạn phim câm và cảnh quay không có tiếng nói thì không có gì để gỡ băng. Trong âm thanh phải có lời nói."
+                },
+                {
+                    "h3": "Buổi phát trực tiếp vẫn đang diễn ra",
+                    "content": "Buổi phát vẫn đang trực tiếp thì chưa có bản ghi hoàn chỉnh. Hãy đợi đến khi kết thúc và video được đăng lên, rồi dán link vào."
+                },
+                {
+                    "h3": "Âm thanh quá kém",
+                    "content": "Âm lượng cực nhỏ, tạp âm liên tục hoặc âm thanh méo nặng có thể khiến phần lời nói rõ ràng còn lại quá ít để gỡ băng một cách đáng tin cậy."
+                }
+            ]
+        },
+        {
+            "h2": "Sao chép, chỉnh sửa, dịch hoặc tải về",
+            "content": [
+                "Bản transcript là của bạn, dùng thế nào là tùy bước tiếp theo cần gì. Sao chép toàn bộ hoặc một dòng duy nhất ngay từ màn hình. Chỉnh sửa tại chỗ để sửa một cái tên hay bỏ bớt từ đệm trước khi đăng hoặc trích dẫn. Dịch sang ngôn ngữ khác mà không phải rời khỏi công cụ.",
+                "Khi bạn cần một file thay vì chữ trên màn hình, hãy xuất ra — và nếu mục tiêu chính là tải file về, công cụ [Tải transcript YouTube](/vi/download-youtube-transcript) được xây dựng riêng quanh việc xuất ra TXT, DOCX, PDF và SRT. Nếu bạn cần đúng file phụ đề, hãy dùng [Công cụ tải phụ đề YouTube](/vi/youtube-subtitle-downloader) cho SRT và VTT. [Công cụ tóm tắt video YouTube](/vi/youtube-video-summarizer) cho bạn các ý chính thay vì toàn bộ bản transcript."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để lấy transcript của một video YouTube?",
+                    "a": "Sao chép link của một video YouTube công khai rồi dán vào TranscriptX. Bản transcript được tạo trong vài giây và hiện ngay trên màn hình, sẵn sàng để đọc, sao chép, chỉnh sửa, dịch hoặc xuất file. Không cần tài khoản và không cần phần mềm nào."
+                },
+                {
+                    "q": "Công cụ lấy transcript YouTube này có miễn phí không?",
+                    "a": "Có. Lấy transcript YouTube trên TranscriptX là miễn phí, không có tài khoản nào phải tạo và không giới hạn độ dài video."
+                },
+                {
+                    "q": "Video chưa có sẵn bản chữ nào thì có tạo được transcript không?",
+                    "a": "Có. TranscriptX hoạt động như một công cụ tạo transcript YouTube: nó tạo bản transcript từ phần âm thanh của video, nên vẫn dùng được kể cả khi người đăng chưa bao giờ thêm phụ đề hoặc khi phụ đề tự động không có."
+                },
+                {
+                    "q": "Tạo và trích xuất bản transcript khác nhau thế nào?",
+                    "a": "Trích xuất là rút văn bản ra từ phụ đề mà video đã có sẵn. Tạo là dựng bản transcript từ âm thanh khi không có phụ đề nào dùng được. TranscriptX làm cả hai việc một cách tự động — bạn chỉ cần dán link và nhận văn bản theo cách nào cũng được."
+                },
+                {
+                    "q": "Video YouTube nào cũng lấy được transcript chứ?",
+                    "a": "Bạn gỡ băng được mọi video YouTube công khai có lời nói bên trong. Video riêng tư, đã xóa, giới hạn độ tuổi hoặc bị chặn theo khu vực thì không tiếp cận được, còn video không có tiếng nói thì không có gì để gỡ băng."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ. TranscriptX tự động nhận diện ngôn ngữ đang được nói, nên bạn không cần chọn trước khi dán link."
+                },
+                {
+                    "q": "Công cụ có phân biệt được người nói không?",
+                    "a": "Có. Mỗi người nói được gán nhãn riêng, nên phỏng vấn, tọa đàm và video nhiều người sẽ trả về rõ ai nói câu nào thay vì thành một khối chữ liền."
+                },
+                {
+                    "q": "Bản transcript có kèm dấu thời gian không?",
+                    "a": "Có, và đây là tùy chọn. Bật lên khi bạn cần nhảy về một khoảnh khắc trong video hoặc cần tạo file chữ khớp giờ; tắt đi để có văn bản sạch, dễ đọc."
+                },
+                {
+                    "q": "Tôi có sao chép, chỉnh sửa và dịch bản transcript được không?",
+                    "a": "Được. Sao chép toàn bộ bản transcript hoặc những dòng bạn chọn, chỉnh sửa văn bản ngay tại chỗ và dịch sang ngôn ngữ khác — tất cả đều làm được trước khi xuất file hoặc dán sang công cụ khác."
+                },
+                {
+                    "q": "Transcript YouTube khác gì với file SRT và VTT?",
+                    "a": "Bản transcript là phiên bản văn bản của phần lời nói, bạn đọc độc lập được. Còn phụ đề là chữ khớp giờ hiện lên trong lúc phát video, thường lưu dưới dạng SRT hoặc VTT. Hãy bật dấu thời gian và xuất ra SRT hoặc VTT nếu thứ bạn cần là phụ đề chứ không phải một bản transcript thuần văn bản."
+                },
+                {
+                    "q": "Bản transcript chính xác đến đâu?",
+                    "a": "Độ chính xác phụ thuộc chủ yếu vào âm thanh. Lời nói rõ ràng và ít tạp âm nền cho kết quả tốt nhất, còn người nói chồng tiếng, tiếng vọng hay nhạc lớn sẽ làm giảm độ chính xác. Rà lại tên riêng, con số và thuật ngữ chuyên ngành trước khi đăng luôn là việc đáng làm."
+                },
+                {
+                    "q": "Tôi dùng transcript YouTube với ChatGPT hay Claude được không?",
+                    "a": "Được. Sao chép hoặc xuất văn bản ra rồi dán vào bất kỳ trợ lý AI nào để tóm tắt video, rút ra các việc cần làm, hoặc biến nó thành một bài viết."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Lấy transcript YouTube miễn phí",
+        "content": [
+            "Dán link một video YouTube công khai và TranscriptX trả về toàn bộ bản transcript với hơn 100 ngôn ngữ, có nhãn người nói và dấu thời gian tùy chọn — dù nó trích xuất phụ đề có sẵn hay tạo văn bản từ chính phần âm thanh.",
+            "Đọc, sao chép, chỉnh sửa, dịch, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT. Không cần tài khoản, không phải cài đặt, không mất phí.",
+            "Dùng TranscriptX để chuyển video YouTube thành văn bản, giúp nội dung trên YouTube dễ học, dễ tìm, dễ trích dẫn và dễ tái sử dụng hơn."
+        ]
+    }
+}

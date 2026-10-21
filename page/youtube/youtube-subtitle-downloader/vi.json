@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Tải phụ đề YouTube — SRT & VTT miễn phí | TranscriptX",
+        "description": "Tải phụ đề YouTube miễn phí từ mọi video công khai. Dán link là lưu được file phụ đề SRT hoặc VTT kèm mốc thời gian, hơn 100 ngôn ngữ. Không đăng ký, không cài đặt.",
+        "schemaName": "TranscriptX — Công cụ tải phụ đề YouTube",
+        "schemaDescription": "Công cụ miễn phí giúp tải file phụ đề từ video YouTube công khai dưới dạng SRT hoặc VTT kèm mốc thời gian, hỗ trợ hơn 100 ngôn ngữ. Chỉ cần dán link là lưu được file, không cần tài khoản.",
+        "ogTitle": "Tải phụ đề YouTube — SRT & VTT miễn phí | TranscriptX",
+        "ogDescription": "Tải phụ đề YouTube thành file SRT hoặc VTT có mốc thời gian. Dán link, lưu file phụ đề với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Tải phụ đề YouTube",
+        "subtitle": "Tải phụ đề của bất kỳ video YouTube công khai nào thành file có mốc thời gian. Dán link rồi lưu SRT hoặc VTT với hơn 100 ngôn ngữ, sẵn sàng nạp vào phần mềm dựng phim hoặc đăng lên nền tảng khác. Không cần tài khoản, không phải cài gì.",
+        "placeholder": "Dán link video YouTube...",
+        "button": "Tải phụ đề"
+    },
+    "quickAnswer": {
+        "question": "Cách tải phụ đề YouTube như thế nào?",
+        "answer": "Dán link YouTube công khai vào TranscriptX, công cụ sẽ dựng ra một file phụ đề có mốc thời gian để bạn tải về dưới dạng SRT hoặc VTT. Phụ đề hỗ trợ hơn 100 ngôn ngữ, mỗi dòng đều gắn mốc giờ, dùng ngay được cho việc chỉnh sửa hay đăng lại. Không cần tài khoản."
+    },
+    "sections": [
+        {
+            "h2": "File phụ đề thực chất là gì — kết quả của việc trích xuất phụ đề YouTube",
+            "content": [
+                "File phụ đề không chỉ chứa lời nói trong video, mà là lời nói cộng với đúng thời điểm từng dòng hiện lên và biến mất. Mở một file như vậy ra, bạn thấy các khối chữ đi kèm mốc giờ dạng 00:01:12 đến 00:01:15. Chính phần thời gian đó mới là điều cốt lõi: nó báo cho trình phát video biết khi nào phải hiện dòng phụ đề nào.",
+                "Đây là chỗ phân biệt file phụ đề với một bản transcript thuần. Transcript là chữ để bạn đọc riêng nó; còn file phụ đề là chữ được dựng để chạy song song với video, khớp với lời nói đến từng khung hình.",
+                "TranscriptX tạo ra file có mốc thời gian đó từ phần âm thanh của video YouTube rồi cho bạn tải về. Với vai trò công cụ trích xuất phụ đề YouTube, nó trao cho bạn file phụ đề thả thẳng được vào phần mềm dựng phim hay trình phát — không phải một khối chữ dài mà bạn còn phải tự canh giờ, cũng không phải ngồi chép từng dòng."
+            ]
+        },
+        {
+            "h2": "SRT hay VTT: nên tải phụ đề ở định dạng nào",
+            "intro": [
+                "TranscriptX xuất được cả hai định dạng phụ đề chuẩn. Chọn cái nào là tùy vào chỗ mà phụ đề sẽ đi tới."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — file phụ đề dùng được ở mọi nơi",
+                    "content": "SubRip (.srt) là định dạng gần như mọi thứ đều nhận: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve và hầu hết trình phát. Hãy tải phụ đề SRT khi bạn định đăng phụ đề lên một nền tảng hoặc nạp vào phần mềm dựng phim — đây là lựa chọn mặc định an toàn."
+                },
+                {
+                    "h3": "VTT — phụ đề cho web",
+                    "content": "WebVTT (.vtt) là định dạng sinh ra cho video HTML5 chạy trong trình duyệt, và hỗ trợ thêm những thứ như căn vị trí hay định kiểu chữ. Hãy tải file phụ đề VTT khi phụ đề dành cho một website hoặc ứng dụng web, chứ không phải cho mạng xã hội hay phần mềm dựng phim."
+                }
+            ]
+        },
+        {
+            "h2": "Cách tải phụ đề từ YouTube",
+            "steps": [
+                {
+                    "h3": "Dán link video",
+                    "content": "Sao chép URL của video YouTube công khai rồi dán vào ô phía trên. Không có bước tạo tài khoản và cũng không phải tải gì lên trước."
+                },
+                {
+                    "h3": "TranscriptX dựng phụ đề kèm mốc thời gian",
+                    "content": "Công cụ đọc phần âm thanh, tự nhận diện ngôn ngữ, rồi viết ra từng dòng kèm thời điểm bắt đầu và kết thúc — đúng phần thời gian mà một file phụ đề cần để không bị lệch."
+                },
+                {
+                    "h3": "Chọn SRT hoặc VTT",
+                    "content": "Chọn SRT cho phần mềm dựng phim hoặc mạng xã hội, chọn VTT cho video trên web. Cả hai đều mang cùng nội dung phụ đề với cùng mốc thời gian."
+                },
+                {
+                    "h3": "Tải file phụ đề về",
+                    "content": "Lưu vào thiết bị của bạn, sẵn sàng để nạp vào phần mềm dựng phim, đăng kèm video đăng lại, hoặc đem đi dịch trước khi phát hành."
+                }
+            ]
+        },
+        {
+            "h2": "Tải file phụ đề về rồi làm được gì",
+            "intro": [
+                "File phụ đề là một nguyên liệu để làm việc, không phải thứ chỉ để tham khảo. Nó được dựng ra để nạp vào, sửa lại và dùng tiếp:"
+            ],
+            "items": [
+                {
+                    "h3": "Gắn phụ đề vào bản dựng của bạn",
+                    "content": "Người dựng phim nạp file SRT vào Premiere, Final Cut hay Resolve để gắn phụ đề cho bản cắt, chỉnh lại mốc giờ cho khớp bản dựng của mình, rồi định kiểu chữ cho hợp với video."
+                },
+                {
+                    "h3": "Đăng lại video kèm phụ đề",
+                    "content": "Nếu bạn đăng lại một video lên kênh của mình, việc tải phụ đề video YouTube rồi tải file đó lên cùng sẽ cho người xem có phụ đề mà bạn không phải gõ lại chữ nào."
+                },
+                {
+                    "h3": "Dịch cho khán giả nước ngoài",
+                    "content": "Vì file phụ đề là văn bản thuần sửa được và phần thời gian nằm tách riêng, người dịch có thể viết lại các dòng sang ngôn ngữ khác mà mốc giờ vẫn giữ nguyên — đây là đường nhanh nhất để làm phụ đề cho một thị trường mới."
+                },
+                {
+                    "h3": "Sửa và dọn lại phụ đề",
+                    "content": "Mở file bằng bất kỳ trình soạn thảo văn bản nào để sửa một cái tên, tách một dòng quá dài hoặc xê dịch một mốc giờ, trước khi phụ đề lên sóng."
+                },
+                {
+                    "h3": "Đáp ứng yêu cầu tiếp cận",
+                    "content": "Phụ đề nhiều khi là bắt buộc chứ không phải tùy chọn. File SRT hoặc VTT đã tải về chính là thứ bạn đính kèm để video xem được với người khiếm thính và nghe kém."
+                }
+            ]
+        },
+        {
+            "h2": "Tải phụ đề với hơn 100 ngôn ngữ",
+            "content": [
+                "TranscriptX tự nhận diện ngôn ngữ đang nói và dựng phụ đề bằng chính ngôn ngữ đó, với hơn 100 thứ tiếng — nên file phụ đề bạn tải về khớp với những gì thực sự được nói trong video. Video tiếng Việt cho ra phụ đề tiếng Việt có dấu đầy đủ; video tiếng Anh hay tiếng Nhật cũng vậy. Mọi thứ chạy ngay trong trình duyệt, nên việc tải phụ đề YouTube online không đòi bạn cài phần mềm hay tiện ích mở rộng nào.",
+                "Từ đó trở đi, file là của bạn để đem đi dịch. Vì phần thời gian nằm tách khỏi phần chữ, bạn thay chữ sang ngôn ngữ khác mà phụ đề vẫn rơi đúng khung hình — đó chính là cách một video có phụ đề cho nhiều nhóm khán giả chỉ từ một lần tải."
+            ]
+        },
+        {
+            "h2": "Phụ đề, transcript hay tóm tắt?",
+            "content": [
+                "File phụ đề là lựa chọn đúng khi bạn cần phụ đề khớp giờ để chạy đè lên video. Còn khi bạn cần thứ khác từ cùng một video, TranscriptX có công cụ riêng được dựng cho việc đó.",
+                "Nếu bạn cần chữ thuần để đọc riêng — không mốc giờ, không phải chạy theo tiến trình phát — thì công cụ [YouTube Transcript](/vi/youtube-transcript) mới là thứ bạn muốn, còn công cụ [Tải transcript YouTube](/vi/download-youtube-transcript) lưu phần chữ đó thành tài liệu TXT, DOCX hoặc PDF. Nếu bạn chỉ cần biết video nói về cái gì chứ không cần phụ đề cho từng dòng, [YouTube Video Summarizer](/vi/youtube-video-summarizer) rút gọn còn vài câu ý chính."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để tải phụ đề từ một video YouTube?",
+                    "a": "Dán link video vào TranscriptX, đợi phụ đề kèm mốc thời gian dựng xong, chọn SRT hoặc VTT rồi tải file về. Cách tải phụ đề YouTube chỉ gói gọn trong bấy nhiêu bước — lấy file phụ đề ở định dạng nào cũng vậy, và không cần tài khoản."
+                },
+                {
+                    "q": "Công cụ tải phụ đề YouTube này có miễn phí không?",
+                    "a": "Có. Việc dựng và tải file phụ đề đều miễn phí, không phải tạo tài khoản và không giới hạn độ dài video."
+                },
+                {
+                    "q": "SRT và VTT khác nhau ở chỗ nào?",
+                    "a": "Cả hai đều là file phụ đề có mốc thời gian. SRT là định dạng phổ dụng mà các nền tảng và phần mềm dựng phim đều nhận; VTT được dựng cho video HTML5 trên web và hỗ trợ thêm căn vị trí, định kiểu chữ. Cứ chọn SRT trừ khi bạn đúng là cần cho video trên web."
+                },
+                {
+                    "q": "Phụ đề có kèm mốc thời gian không?",
+                    "a": "Có. Mỗi dòng trong file SRT hay VTT đều mang thời điểm bắt đầu và kết thúc — chính phần thời gian đó giữ cho phụ đề không bị lệch khi file chạy đè lên video."
+                },
+                {
+                    "q": "Phụ đề và transcript khác nhau thế nào?",
+                    "a": "Transcript là chữ thuần để bạn đọc riêng nó. Phụ đề là chữ khớp giờ, làm ra để hiện đè lên video. Nếu bạn muốn chữ để đọc chứ không phải phụ đề để hiển thị, hãy dùng công cụ transcript."
+                },
+                {
+                    "q": "Tôi tải phụ đề bằng ngôn ngữ khác được không?",
+                    "a": "Phụ đề được dựng theo ngôn ngữ nói trong video. Vì file là văn bản sửa được và phần thời gian nằm tách riêng, bạn có thể dịch các dòng sang ngôn ngữ khác mà mốc giờ vẫn giữ nguyên chỗ cũ."
+                },
+                {
+                    "q": "Tải xong tôi sửa được file phụ đề không?",
+                    "a": "Được. File SRT hay VTT mở bằng trình soạn thảo văn bản nào cũng được, nên bạn có thể sửa một từ, tách một dòng hoặc chỉnh một mốc giờ trước khi phụ đề lên sóng."
+                },
+                {
+                    "q": "File có chạy được trong phần mềm dựng phim của tôi không?",
+                    "a": "Có. SRT nạp được vào Premiere, Final Cut, DaVinci Resolve và hầu hết các phần mềm dựng phim lẫn trình phát khác, đó cũng là lý do nó là lựa chọn mặc định cho công việc dựng phim."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tải phụ đề YouTube miễn phí",
+        "content": [
+            "Dán link một video YouTube công khai và TranscriptX dựng ra file phụ đề kèm mốc thời gian để bạn tải về dưới dạng SRT hoặc VTT, với hơn 100 ngôn ngữ.",
+            "Nạp vào phần mềm dựng phim, đăng kèm video đăng lại, hoặc dịch cho một nhóm khán giả mới. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

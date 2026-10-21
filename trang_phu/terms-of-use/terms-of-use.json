@@ -1,0 +1,125 @@
+{
+  "seo": {
+    "title": "Terms of Use | TranscriptX",
+    "meta_description": "Read the Terms of Use for TranscriptX. Learn about your rights, responsibilities, acceptable use, and limitations when using our AI transcription platform for video, audio, transcripts, subtitles, captions, and AI summaries."
+  },
+  "headings": {
+    "h1": "Terms of Use"
+  },
+  "hero": {
+    "title": "Terms of Use",
+    "description": "Please read these Terms of Use carefully before accessing or using TranscriptX."
+  },
+  "contact": {
+    "email": "contact.freemd.io@gmail.com",
+    "label": "Support Email"
+  },
+  "sections": {
+    "1": {
+      "tag": "p",
+      "content": [
+        "These Terms of Use govern your access to and use of the TranscriptX website, products, and AI-powered transcription services.",
+        "By accessing or using TranscriptX, you agree to comply with these Terms of Use and all applicable laws and regulations.",
+        "If you do not agree with any part of these terms, you should discontinue using the platform."
+      ]
+    },
+    "2": {
+      "tag": "h2",
+      "title": "About TranscriptX",
+      "body": [
+        "TranscriptX is an AI-powered transcription platform that helps users convert video and audio into accurate transcripts, subtitles, captions, and AI-generated summaries.",
+        "Our services include AI Transcription, Video to Text, Audio to Text, YouTube Transcript, TikTok Transcript, Instagram Transcript, Facebook Transcript, Subtitle & Caption generation, and AI Summarization.",
+        "TranscriptX is designed as an AI productivity platform and does not operate as a public media hosting, publishing, cloud storage, or file-sharing service."
+      ]
+    },
+    "3": {
+      "tag": "h2",
+      "title": "Eligibility",
+      "body": [
+        "You must use TranscriptX in accordance with all applicable laws, regulations, and platform policies.",
+        "By using our services, you confirm that you have the legal authority to access, upload, and process the content submitted to TranscriptX."
+      ]
+    },
+    "4": {
+      "tag": "h2",
+      "title": "User Responsibilities",
+      "body": [
+        "You are solely responsible for all videos, audio recordings, transcripts, subtitles, captions, summaries, and other content you upload, generate, or export using TranscriptX.",
+        "You must ensure that you own the content or have obtained the necessary permissions to process it using our AI transcription services.",
+        "You agree not to use TranscriptX for illegal activities, copyright infringement, fraud, harassment, or any other unauthorized purpose."
+      ]
+    },
+    "5": {
+      "tag": "h2",
+      "title": "Acceptable Use",
+      "body": [
+        "You agree to use TranscriptX only for lawful and legitimate purposes.",
+        "You must not attempt to disrupt, overload, reverse engineer, interfere with, or compromise the security, availability, or integrity of the platform.",
+        "You must not upload malicious software, harmful files, or any content intended to damage the platform or negatively affect other users.",
+        "Automated abuse, excessive requests, or activities that degrade platform performance may result in temporary or permanent restrictions."
+      ]
+    },
+    "6": {
+      "tag": "h2",
+      "title": "Intellectual Property",
+      "body": [
+        "TranscriptX respects intellectual property rights and expects users to do the same.",
+        "All uploaded videos, audio files, transcripts, subtitles, captions, AI summaries, and other processed content remain the property of their respective owners.",
+        "TranscriptX does not claim ownership of user-submitted content or AI-generated outputs created from that content.",
+        "Users are responsible for ensuring that their use of third-party content complies with applicable copyright, licensing, trademark, and intellectual property laws."
+      ]
+    },
+    "7": {
+      "tag": "h2",
+      "title": "AI-Generated Results",
+      "body": [
+        "TranscriptX uses artificial intelligence to generate transcripts, subtitles, captions, translations, and summaries from user-provided media.",
+        "Although we continuously improve transcription accuracy, AI-generated results may occasionally contain recognition errors, omissions, or formatting differences.",
+        "Users should review AI-generated content before publishing, distributing, or relying on it for legal, medical, financial, academic, or other critical purposes."
+      ]
+    },
+    "8": {
+      "tag": "h2",
+      "title": "Service Availability",
+      "body": [
+        "We continuously improve TranscriptX to provide reliable and high-quality AI transcription services.",
+        "However, we cannot guarantee uninterrupted availability at all times. Scheduled maintenance, infrastructure updates, third-party service interruptions, or unforeseen technical issues may temporarily affect the platform.",
+        "We reserve the right to improve, modify, suspend, or discontinue any feature or service when necessary."
+      ]
+    },
+    "9": {
+      "tag": "h2",
+      "title": "Disclaimer",
+      "body": [
+        "TranscriptX is provided on an \"as is\" and \"as available\" basis.",
+        "We do not guarantee that every transcript, subtitle, caption, or AI summary will be completely error-free or suitable for every use case.",
+        "The quality of generated content depends on factors such as audio quality, background noise, speaker clarity, language, accents, recording conditions, and supported features."
+      ]
+    },
+    "10": {
+      "tag": "h2",
+      "title": "Limitation of Liability",
+      "body": [
+        "To the fullest extent permitted by applicable law, TranscriptX shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages arising from the use of the platform.",
+        "This includes, but is not limited to, transcription inaccuracies, subtitle generation errors, temporary service interruptions, data loss, business interruption, or any decisions made based on AI-generated content."
+      ]
+    },
+    "11": {
+      "tag": "h2",
+      "title": "Changes to These Terms",
+      "body": [
+        "We may update these Terms of Use periodically to reflect improvements to TranscriptX, changes in our AI services, legal requirements, or operational practices.",
+        "The latest version will always be published on this page.",
+        "Your continued use of TranscriptX after updated terms become effective constitutes your acceptance of the revised Terms of Use."
+      ]
+    },
+    "12": {
+      "tag": "h2",
+      "title": "Contact Us",
+      "body": [
+        "If you have questions about these Terms of Use or any aspect of TranscriptX, please contact us:",
+        "Email: contact.freemd.io@gmail.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+    "seo": {
+        "title": "Twitter to Text — Transcribe Twitter Videos Free | TranscriptX",
+        "description": "Turn Twitter videos and audio into text free. Paste a tweet link to get the transcript in 100+ languages, with speaker labels and SRT captions. No Twitter account needed.",
+        "schemaName": "TranscriptX Twitter Video Transcript Tool",
+        "schemaDescription": "Free online tool that turns the video or audio in a public tweet into text. Paste a tweet link and get a punctuated transcript in over 100 languages, with speaker labels and optional timestamps, in about 1–2 minutes per hour of audio. Export to TXT, DOCX, PDF, SRT or VTT. No Twitter account and no sign-up required; up to 5 hours free per day.",
+        "ogTitle": "Twitter to Text — Transcribe Twitter Videos Free",
+        "ogDescription": "Paste a tweet link, get the full transcript. Twitter video and audio to text in 100+ languages, with SRT captions. Free, no Twitter account needed."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "Twitter to Text – Transcribe Any Twitter Video or Audio",
+        "subtitle": "Paste the link to a tweet and TranscriptX turns the video or audio in it into text — a news clip, an interview, a product demo or a long livestream replay. Get every word with punctuation and speaker labels in over 100 languages, then copy it, quote it or export it as TXT, DOCX, PDF, SRT or VTT. No Twitter account, no download, no sign-up.",
+        "placeholder": "Paste a tweet URL...",
+        "button": "Get Transcript"
+    },
+    "quickAnswer": {
+        "question": "How do I convert a Twitter video to text?",
+        "answer": "Copy the link to a public tweet that contains a video or audio, paste it into TranscriptX, and the spoken words come back as text in seconds for a short clip, or about 1–2 minutes for an hour of audio. No Twitter account is needed, over 100 languages are supported, and you can export the transcript as TXT, DOCX or PDF, or as SRT or VTT captions."
+    },
+    "sections": [
+        {
+            "h2": "What Is a Twitter Transcript?",
+            "content": [
+                "A Twitter transcript — or Twitter video transcript — is the spoken content of a video or audio clip in a tweet, written out as text. Everything said in the clip — a politician's statement, a founder's announcement, a reporter's on-the-ground update — becomes words you can read, search, quote and copy.",
+                "Twitter is where a lot of news breaks first, often as video. But a video in your timeline is hard to quote and impossible to search, and the exact wording is what matters when you report on it, fact-check it or reply to it. Turning Twitter to text gives you that wording without replaying the clip ten times.",
+                "Whether you call it a Twitter transcript, Twitter video transcription or Twitter video to text, the job is the same, so it all lives on this one page. For recorded Spaces — the long, audio-only conversations on Twitter — see [Twitter Spaces Transcript](/twitter-spaces-transcript)."
+            ]
+        },
+        {
+            "h2": "Twitter to Text at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free — up to 5 hours of transcription a day"
+                },
+                {
+                    "label": "Twitter account required",
+                    "value": "No"
+                },
+                {
+                    "label": "TranscriptX account required",
+                    "value": "No — signing in is optional"
+                },
+                {
+                    "label": "Input",
+                    "value": "Link to a public tweet with video or audio"
+                },
+                {
+                    "label": "Private accounts",
+                    "value": "Not supported — videos from protected accounts cannot be accessed"
+                },
+                {
+                    "label": "Speed",
+                    "value": "Seconds for a short clip; 1–2 minutes per hour of audio"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% in our internal tests on clear audio"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker separation",
+                    "value": "Yes — each speaker is labelled"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe a Twitter Video",
+            "steps": [
+                {
+                    "h3": "Copy the tweet link",
+                    "content": "In the Twitter app, tap the share icon on the tweet and choose Copy link. On desktop, copy the URL from the address bar."
+                },
+                {
+                    "h3": "Paste it into TranscriptX",
+                    "content": "Drop the link into the box above to transcribe Twitter video without downloading it. There is no Twitter account to connect — TranscriptX fetches the video or audio straight from the public tweet."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "The language is detected automatically and the full clip comes back as punctuated text with each speaker labelled. Turn on timestamps to see exactly when each line was said."
+                },
+                {
+                    "h3": "Copy, quote or export",
+                    "content": "Copy the line you need, or export the whole transcript as TXT, DOCX or PDF. Choose SRT or VTT if you want captions for the video."
+                }
+            ]
+        },
+        {
+            "h2": "Twitter Transcript Generator",
+            "content": [
+                "Twitter shows auto-generated captions on some videos, but they are not available on every tweet, cannot be copied as clean text, and often drop punctuation and names. TranscriptX works as a Twitter transcript generator instead: it builds the transcript from the audio itself, so it works whether or not the video has captions.",
+                "As a Twitter video transcriber, it handles the kind of audio Twitter is full of — phone footage from a street, a press conference with several voices, a podcast clip with background music. Noise is separated from speech before transcription, and on clear audio our internal tests measure around 95% word accuracy.",
+                "It is also a free Twitter video to text converter for longer tweets. To transcribe Twitter video to text from long-form posts and livestream replays, the process is the same as for a 30-second clip: an hour of audio takes about 1–2 minutes, and up to 5 hours a day is free with no sign-up."
+            ]
+        },
+        {
+            "h2": "Twitter Transcription in Any Language",
+            "content": [
+                "Twitter transcription works in more than 100 languages, and you do not have to choose one. TranscriptX detects the spoken language on its own, so a tweet in Spanish, Japanese, Arabic or Vietnamese comes back as text in that language.",
+                "Mixed-language clips — an interview that switches between English and another language, for example — are transcribed as they are spoken, which makes the text easy to read slowly or paste into a translator."
+            ]
+        },
+        {
+            "h2": "Add Closed Captions to a Twitter Video",
+            "content": [
+                "Most people scroll Twitter with the sound off, so a video without captions loses its message in the first few seconds. Twitter video closed captions also make your video accessible to viewers who are deaf or hard of hearing.",
+                "TranscriptX works as a Twitter video subtitle generator: transcribe your video, check the text, then export it as an SRT file. Every line comes with its matching timestamps, so the captions stay in sync with the speech.",
+                "When you tweet the video from a desktop browser, you can attach the SRT file as a caption file. If you prefer burned-in captions, import the same SRT into your video editor before uploading. For other platforms, see [Video to Text](/video-to-text)."
+            ]
+        },
+        {
+            "h2": "Why Transcribe Twitter Videos",
+            "intro": [
+                "A video in a tweet is easy to watch and hard to use. Text fixes that:"
+            ],
+            "items": [
+                {
+                    "h3": "Quote it accurately",
+                    "content": "Journalists and fact-checkers need the exact words, not a paraphrase. A transcript with timestamps lets you quote a statement and point to the moment it was said."
+                },
+                {
+                    "h3": "Keep a record",
+                    "content": "Tweets get deleted. A transcript keeps a written copy of what was said, so you are not relying on the video staying online."
+                },
+                {
+                    "h3": "Repurpose a clip",
+                    "content": "Turn a video announcement into a thread, a blog post, a newsletter item or a LinkedIn post, starting from the text instead of rewatching the clip."
+                },
+                {
+                    "h3": "Caption your own videos",
+                    "content": "Export SRT captions so your tweets are understood on mute and reach viewers who rely on captions."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I get a transcript from a Twitter video?",
+                    "a": "To get transcript from Twitter video tweets, copy the link to the tweet and paste it into TranscriptX — the transcript is generated automatically. A short clip takes a few seconds; an hour of audio takes about 1–2 minutes."
+                },
+                {
+                    "q": "Can I transcribe a Twitter video for free?",
+                    "a": "Yes. You can transcribe Twitter video free — up to 5 hours of audio and video per day, with no account and no card. The allowance resets at the start of each new day, Pacific Time (PT)."
+                },
+                {
+                    "q": "Do I need a Twitter account?",
+                    "a": "No. TranscriptX reads the video from the public tweet link, so you do not need to log in to Twitter or connect an account."
+                },
+                {
+                    "q": "Can I transcribe videos from private accounts?",
+                    "a": "No. Videos from protected (private) Twitter accounts are only visible to approved followers, so TranscriptX has no permission to access them. The tweet must be public."
+                },
+                {
+                    "q": "Can I transcribe audio-only tweets and Spaces?",
+                    "a": "Yes. Tweets with audio are transcribed the same way as videos. For recorded Spaces, see [Twitter Spaces Transcript](/twitter-spaces-transcript)."
+                },
+                {
+                    "q": "Can I make subtitles for a Twitter video?",
+                    "a": "Yes. Export the transcript as an SRT or VTT file to get timed captions, then attach the SRT when you upload the video to Twitter or add it in your video editor."
+                },
+                {
+                    "q": "What happens to the video after transcription?",
+                    "a": "Files and transcripts are kept for a few days so you can come back to them, then deleted automatically. We do not use your content to train AI models."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn Any Twitter Video Into Text",
+        "content": [
+            "Paste a public tweet link and TranscriptX turns the video or audio into text in over 100 languages, with speaker labels, timestamps and SRT captions — no Twitter account, no download.",
+            "Free for up to 5 hours a day, no sign-up needed. Transcribing a recorded Space? See [Twitter Spaces Transcript](/twitter-spaces-transcript). Working with other platforms? Try [TikTok Transcript](/tiktok-transcript) or [YouTube Transcript](/youtube-transcript)."
+        ]
+    }
+}

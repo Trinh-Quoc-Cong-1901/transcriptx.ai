@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "title": "Résumé de vidéo YouTube — Résumer une vidéo avec l'IA, gratuit | TranscriptX",
+        "description": "Résumez une vidéo YouTube gratuitement avec l'IA. Collez un lien et obtenez les points clés et les idées principales en quelques secondes, dans plus de 100 langues. Sans inscription, sans installation.",
+        "schemaName": "TranscriptX — Résumé de vidéo YouTube",
+        "schemaDescription": "Outil IA gratuit qui résume les vidéos YouTube publiques en points clés et en un court aperçu, dans plus de 100 langues. Collez un lien et lisez les idées principales en quelques secondes, sans création de compte.",
+        "ogTitle": "Résumé de vidéo YouTube — Résumer une vidéo avec l'IA, gratuit | TranscriptX",
+        "ogDescription": "Obtenez les points clés de n'importe quelle vidéo YouTube en quelques secondes. Collez un lien et laissez l'IA la résumer, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Résumé de vidéo YouTube",
+        "subtitle": "Saisissez l'essentiel d'une vidéo YouTube sans la regarder en entier. Collez un lien : l'IA lit tout ce qui a été dit, puis vous remet les idées clés dans un résumé court et facile à parcourir — dans plus de 100 langues. Aucun compte, aucune installation.",
+        "placeholder": "Collez l'URL d'une vidéo YouTube...",
+        "button": "Résumer la vidéo"
+    },
+    "quickAnswer": {
+        "question": "Comment résumer une vidéo YouTube ?",
+        "answer": "Collez un lien YouTube public dans TranscriptX : l'outil lit la vidéo en entier, puis rédige un court résumé des points principaux en quelques secondes. L'aperçu sort dans plus de 100 langues, ce qui vous permet de saisir une longue vidéo sans la regarder de bout en bout. Aucun compte n'est nécessaire."
+    },
+    "sections": [
+        {
+            "h2": "Ce que le résumé d'une vidéo vous apporte",
+            "content": [
+                "Un résumé n'est pas la vidéo entière réduite : ce sont les quelques éléments qui comptaient vraiment, extraits et rédigés simplement. Au lieu de quarante minutes d'introduction, de digressions et de répétitions, vous récupérez la poignée d'idées dont la vidéo parlait réellement.",
+                "L'IA lit tout ce qui a été dit, détermine quelles parties portent le sens et lesquelles ne sont que du remplissage, puis vous rend la conclusion, les arguments principaux et les détails utiles — le temps de lire quelques paragraphes courts. C'est exactement ce qu'un résumé de vidéo YouTube doit faire : garder le fond et rendre le temps.",
+                "C'est un tout autre travail qu'une transcription. Une transcription vous remet chaque mot ; un résumé décide quels mots méritaient votre temps. En tant qu'outil pour résumer YouTube, TranscriptX est conçu pour ramener une vidéo à ce qui compte — utilisez-le quand vous voulez l'essentiel, pas le texte intégral."
+            ]
+        },
+        {
+            "h2": "Pourquoi résumer une vidéo YouTube plutôt que la regarder en entier",
+            "content": [
+                "La plupart des vidéos longues auraient pu être courtes. Un test de vingt minutes, c'est souvent deux minutes de verdict emballées dans dix-huit minutes de mise en place. Une conférence d'une heure tourne généralement autour de trois ou quatre points. Tout regarder pour trouver ces points-là, c'est la méthode lente.",
+                "Résumer une vidéo YouTube vous permet de décider en moins d'une minute si elle mérite toute votre attention. Parfois l'essentiel était tout ce dont vous aviez besoin, et vous passez à autre chose. Parfois cela vous indique exactement quel passage revoir sérieusement. Dans les deux cas, vous y avez consacré une minute au lieu d'une heure.",
+                "Cet échange fait toute la valeur de l'outil : vous gardez l'information et vous récupérez le temps."
+            ]
+        },
+        {
+            "h2": "Comment résumer une vidéo YouTube avec l'IA",
+            "steps": [
+                {
+                    "h3": "Collez le lien de la vidéo",
+                    "content": "Copiez le lien de la vidéo YouTube publique et déposez-le dans le champ ci-dessus. Aucune inscription, rien à installer."
+                },
+                {
+                    "h3": "L'IA lit la vidéo en entier",
+                    "content": "TranscriptX traite tout ce qui a été dit du début à la fin — pas seulement la description ou les premières minutes — pour que le résumé reflète l'ensemble du contenu."
+                },
+                {
+                    "h3": "Lisez le résumé",
+                    "content": "En quelques secondes, vous obtenez un aperçu court et les points clés, rédigés clairement dans plus de 100 langues. Vous le parcourez le temps qu'aurait duré une seule scène."
+                },
+                {
+                    "h3": "Allez plus loin si nécessaire",
+                    "content": "Si le résumé montre que la vidéo mérite davantage de votre temps, revenez aux passages qui comptent — ou récupérez la transcription complète quand vous avez besoin de chaque mot."
+                }
+            ]
+        },
+        {
+            "h2": "Ce que contient un bon résumé",
+            "intro": [
+                "Un résumé utile, ce n'est pas une phrase vague. TranscriptX en extrait les éléments qui vous permettent réellement d'exploiter la vidéo :"
+            ],
+            "items": [
+                {
+                    "h3": "L'essentiel à retenir",
+                    "content": "La conclusion ou la réponse unique autour de laquelle la vidéo est construite, annoncée d'emblée pour que vous la saisissiez immédiatement."
+                },
+                {
+                    "h3": "Les points clés",
+                    "content": "La poignée d'idées, d'arguments ou d'étapes qui portent le contenu, listés dans l'ordre pour que vous puissiez les parcourir."
+                },
+                {
+                    "h3": "Les détails concrets",
+                    "content": "Les chiffres, les noms, les outils ou les recommandations qui valent la peine d'être retenus — le concret, pas seulement le thème général."
+                },
+                {
+                    "h3": "La structure de la vidéo",
+                    "content": "Une idée de la façon dont la vidéo passe d'un point à l'autre, pour savoir quel passage revoir si vous voulez la version complète."
+                }
+            ]
+        },
+        {
+            "h2": "À qui servent les résumés",
+            "intro": [
+                "Toute personne qui regarde plus de vidéos qu'elle n'a de temps y gagne quelque chose. Voici les cas les plus fréquents :"
+            ],
+            "items": [
+                {
+                    "h3": "Étudiants et autodidactes",
+                    "content": "Déterminez si un cours ou un tutoriel couvre ce dont vous avez besoin avant d'y consacrer une heure, et transformez les points clés directement en fiches de révision."
+                },
+                {
+                    "h3": "Professionnels qui suivent leur secteur",
+                    "content": "Saisissez le fond d'une conférence, d'une présentation de résultats ou d'une interview sectorielle entre deux réunions, sans bloquer la durée complète."
+                },
+                {
+                    "h3": "Chercheurs qui trient leurs sources",
+                    "content": "Résumez rapidement une pile de vidéos pour repérer les quelques-unes qui méritent d'être visionnées en entier et citées correctement."
+                },
+                {
+                    "h3": "Créateurs et marketeurs",
+                    "content": "Extrayez le message central d'une vidéo longue pour le retravailler en publication, en script ou en série d'arguments."
+                }
+            ]
+        },
+        {
+            "h2": "Résumer des vidéos dans plus de 100 langues",
+            "content": [
+                "L'outil fonctionne dans plus de 100 langues et détecte seul la langue parlée : une vidéo en anglais ou en japonais vous revient sous forme de résumé en français, accents et ponctuation compris. Résumer une vidéo YouTube en ligne ne dépend donc pas de la langue du clip.",
+                "Cela veut aussi dire que le résumé fait le pont entre les langues : une vidéo parlée dans une langue devient compréhensible grâce à un aperçu clair, si bien qu'un long enregistrement dans une langue que vous apprenez encore se saisit en un paragraphe."
+            ]
+        },
+        {
+            "h2": "Quand le résumé ne suffit pas",
+            "content": [
+                "Un résumé est la voie la plus rapide pour entrer dans une vidéo, mais il vous faut parfois le détail qui se trouve derrière. TranscriptX propose un outil distinct pour chacun de ces cas, afin que vous alliez aussi loin que la tâche l'exige.",
+                "Quand le résumé vous montre qu'une vidéo mérite une lecture complète, l'outil [Transcription YouTube](/fr/youtube-transcript) vous donne chaque mot, et l'outil [Télécharger la transcription YouTube](/fr/download-youtube-transcript) enregistre cette transcription dans un fichier à conserver."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment résumer une vidéo YouTube gratuitement ?",
+                    "a": "Collez le lien YouTube dans TranscriptX et l'outil résume la vidéo sans rien vous facturer. C'est entièrement gratuit, sans inscription, sans rien à installer et sans limite de durée pour la vidéo."
+                },
+                {
+                    "q": "L'outil lit-il la vidéo entière ou seulement la description ?",
+                    "a": "La vidéo entière. TranscriptX traite tout ce qui a été dit du début à la fin, si bien que le résumé reflète l'ensemble du contenu et non le titre ou les premières minutes."
+                },
+                {
+                    "q": "Quelle est la longueur du résumé ?",
+                    "a": "Assez court pour être lu en bien moins d'une minute — un bref aperçu et les points clés, pas une page de texte. Le but est de vous faire gagner du temps, pas de vous donner davantage à lire."
+                },
+                {
+                    "q": "Quelle différence entre un résumé et une transcription ?",
+                    "a": "Une transcription, c'est chaque mot prononcé, écrit intégralement. Un résumé ne reprend que les points principaux, condensés. Utilisez l'outil de résumé quand vous voulez l'essentiel, et l'outil de transcription quand vous avez besoin du texte complet."
+                },
+                {
+                    "q": "Dans quelles langues l'outil fonctionne-t-il ?",
+                    "a": "Plus de 100. TranscriptX détecte automatiquement la langue parlée et rédige le résumé pour que vous puissiez le lire, quelle que soit la langue de la vidéo."
+                },
+                {
+                    "q": "Puis-je résumer une vidéo longue ou un podcast ?",
+                    "a": "Oui. Vous pouvez résumer des vidéos YouTube de n'importe quelle durée, et c'est justement sur les vidéos longues et les podcasts que l'outil aide le plus — un enregistrement de plusieurs heures revient sous forme d'une courte série de points clés."
+                },
+                {
+                    "q": "Faut-il un compte ou un logiciel ?",
+                    "a": "Non. Cet outil de résumé de vidéo YouTube fonctionne dans le navigateur, sans compte et sans rien à installer. Vous collez un lien et vous lisez le résumé."
+                },
+                {
+                    "q": "Puis-je obtenir la transcription complète si le résumé ne suffit pas ?",
+                    "a": "Oui. Quand vous avez besoin de chaque mot plutôt que des passages marquants, utilisez l'outil de transcription YouTube pour obtenir le texte intégral de la même vidéo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Résumez votre vidéo YouTube gratuitement",
+        "content": [
+            "Collez le lien d'une vidéo YouTube publique : TranscriptX lit la vidéo en entier, puis vous remet les points clés dans un résumé court — dans plus de 100 langues, en quelques secondes.",
+            "Saisissez l'essentiel, décidez ce qui mérite d'être regardé en entier, et gardez l'information sans y passer le temps. C'est la façon la plus rapide de résumer YouTube — aucun compte, aucune installation, aucun frais."
+        ]
+    }
+}

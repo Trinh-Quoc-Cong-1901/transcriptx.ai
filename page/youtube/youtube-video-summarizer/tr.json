@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "title": "YouTube Video Özetleme — Yapay Zeka ile Ücretsiz Özet | TranscriptX",
+        "description": "YouTube video özetleme ücretsiz: bağlantıyı yapıştırın, yapay zeka videonun tamamını okusun ve ana fikirleri saniyeler içinde 100'den fazla dilde özetlesin. Üyelik yok, kurulum yok.",
+        "schemaName": "TranscriptX YouTube Video Özetleme Aracı",
+        "schemaDescription": "Herkese açık YouTube videolarını ana noktalara ve kısa bir genel bakışa dönüştüren ücretsiz yapay zeka aracı. 100'den fazla dili destekler; bağlantıyı yapıştırmanız yeterlidir, hesap gerekmez. Bir YouTube video özetleyici olarak uzun bir kaydı birkaç paragraflık özete dönüştürür.",
+        "ogTitle": "YouTube Video Özetleme — Yapay Zeka ile Ücretsiz Özet | TranscriptX",
+        "ogDescription": "Her YouTube videosunun ana noktalarını saniyeler içinde öğrenin. Bağlantıyı yapıştırın, yapay zeka özetlesin — ücretsiz ve üyeliksiz."
+    },
+    "hero": {
+        "h1": "YouTube Video Özetleme",
+        "subtitle": "Bir YouTube videosunun ne anlattığını tamamını izlemeden öğrenin. Bağlantıyı yapıştırın; yapay zeka videonun bütününü okusun ve ana fikirleri kısa, göz gezdirilebilir bir özet hâlinde önünüze koysun — 100'den fazla dilde. Hesap yok, kurulum yok.",
+        "placeholder": "Bir YouTube video URL'si yapıştırın...",
+        "button": "Videoyu Özetle"
+    },
+    "quickAnswer": {
+        "question": "YouTube videosu nasıl özetlenir?",
+        "answer": "Herkese açık bir YouTube bağlantısını TranscriptX'e yapıştırın; araç videonun tamamını okur ve ana noktaların kısa bir özetini saniyeler içinde yazar. Özet 100'den fazla dilde geldiği için uzun bir videoyu baştan sona izlemeden kavrayabilirsiniz. Hesap gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "Bir YouTube Video Özeti Size Ne Verir",
+            "content": [
+                "Özet, videonun küçültülmüş hâli değildir — gerçekten önemli olan birkaç şeyin çekilip açık bir dille yazılmasıdır. Kırk dakikalık giriş, dağılma ve tekrar yerine, videonun aslında anlattığı bir avuç fikri alırsınız.",
+                "Yapay zeka söylenen her şeyi okur, hangi bölümlerin anlam taşıdığını ve hangilerinin dolgu olduğunu ayırt eder; sonucu, ana savları ve işinize yarayacak somut ayrıntıları size geri verir — birkaç kısa paragraf okuyacak sürede. YouTube içerik özetleme işi tam olarak budur.",
+                "Bu, bir transkriptten farklı bir iştir. Transkript size her kelimeyi verir; özet ise hangi kelimelerin vaktinize değdiğine karar verir. Bir YouTube video özetleyici olarak TranscriptX, YouTube videolarını önemli olana kadar sadeleştirmek için yapılmıştır — tam metni değil, geriye kalan fikri istediğinizde buna başvurun."
+            ]
+        },
+        {
+            "h2": "Neden Tamamını İzlemek Yerine Özetlemeli",
+            "content": [
+                "Uzun videoların çoğu kısa olabilirdi. Yirmi dakikalık bir inceleme çoğu zaman on sekiz dakikalık hazırlığa sarılmış iki dakikalık bir hükümdür. Bir saatlik bir konuşma genellikle üç dört noktanın etrafında döner. O noktaları bulmak için hepsini izlemek en yavaş yoldur.",
+                "Özet, bir videonun tüm dikkatinize değip değmeyeceğine bir dakikadan kısa sürede karar vermenizi sağlar. Bazen geriye kalan fikir zaten ihtiyacınız olan tek şeydir ve yolunuza devam edersiniz. Bazen de hangi bölüme dönüp düzgünce bakmanız gerektiğini söyler. Her hâlükârda bunu öğrenmek için bir saat yerine bir dakika harcamış olursunuz.",
+                "Bütün değer bu takasta: bilgiyi elinizde tutar, zamanı geri verirsiniz."
+            ]
+        },
+        {
+            "h2": "YouTube Video Özetleme AI ile Nasıl Yapılır",
+            "steps": [
+                {
+                    "h3": "Video bağlantısını yapıştırın",
+                    "content": "Herkese açık YouTube videosunun bağlantısını alıp yukarıdaki kutuya bırakın. Üyelik yok, kurulacak bir şey yok."
+                },
+                {
+                    "h3": "Yapay zeka videonun tamamını okur",
+                    "content": "TranscriptX baştan sona söylenen her şeyi işler — yalnızca açıklamayı ya da ilk birkaç dakikayı değil — böylece özet videonun bütününü yansıtır. YouTube video özetleme yapay zeka ile işte bu yüzden yüzeysel kalmaz."
+                },
+                {
+                    "h3": "Özeti okuyun",
+                    "content": "Saniyeler içinde kısa bir genel bakış ve ana noktalar, 100'den fazla dilde açık bir dille yazılmış olarak önünüze gelir. Tek bir sahnenin süreceği sürede göz gezdirin."
+                },
+                {
+                    "h3": "Gerekirse derine inin",
+                    "content": "Özet videonun daha fazla vaktinize değdiğini gösteriyorsa önemli bölümlere geri dönün — ya da her kelimeye ihtiyacınız olduğunda tam metne geçin."
+                }
+            ]
+        },
+        {
+            "h2": "İyi Bir Özette Neler Bulunur",
+            "intro": [
+                "İşe yarar bir özet, muğlak tek bir cümleden fazlasıdır. TranscriptX videoyu gerçekten kullanabilmenizi sağlayan parçaları çekip çıkarır:"
+            ],
+            "items": [
+                {
+                    "h3": "Ana çıkarım",
+                    "content": "Videonun etrafında kurulduğu tek sonuç ya da cevap; hemen kavrayasınız diye en başta söylenir."
+                },
+                {
+                    "h3": "Ana noktalar",
+                    "content": "İçeriği taşıyan bir avuç fikir, sav ya da adım; sırayla göz gezdirebilesiniz diye listelenir."
+                },
+                {
+                    "h3": "İşe yarayan ayrıntılar",
+                    "content": "Akılda tutmaya değer sayılar, isimler, araçlar ya da öneriler — genel temanın kendisi değil, somut bilgi."
+                },
+                {
+                    "h3": "Videonun akışı",
+                    "content": "Videonun bir fikirden diğerine nasıl geçtiğine dair bir his; tam hâlini istediğinizde hangi bölüme döneceğinizi bilirsiniz."
+                }
+            ]
+        },
+        {
+            "h2": "Özetler Kimler İçin",
+            "intro": [
+                "Vaktinin yettiğinden fazla video izleyen herkes bir özetten kazançlı çıkar. En yaygın birkaçı:"
+            ],
+            "items": [
+                {
+                    "h3": "Öğrenciler ve öğrenenler",
+                    "content": "Bir dersin ya da eğitim videosunun ihtiyacınız olanı kapsayıp kapsamadığına bir saat ayırmadan karar verin, ana noktaları doğrudan tekrar notuna çevirin."
+                },
+                {
+                    "h3": "Alanını takip eden profesyoneller",
+                    "content": "Bir konferans konuşmasının, bir bilanço toplantısının ya da sektörden bir röportajın özünü toplantı aralarında, tüm süreyi ayırmadan alın."
+                },
+                {
+                    "h3": "Kaynak tarayan araştırmacılar",
+                    "content": "Bir yığın videoyu hızla özetleyip hangilerinin tam olarak izlenmeye ve düzgünce kaynak gösterilmeye değdiğini belirleyin."
+                },
+                {
+                    "h3": "İçerik üreticileri ve pazarlamacılar",
+                    "content": "Uzun bir videonun ana mesajını çekip bir gönderiye, bir metne ya da konuşma başlıklarına dönüştürün."
+                }
+            ]
+        },
+        {
+            "h2": "100'den Fazla Dilde Video Özetleme",
+            "content": [
+                "Özetleyici 100'den fazla dilde çalışır ve konuşulan dili kendisi algılar; Türkçe bir kayıt ı, ş, ğ, ç ve ü harfleri bozulmadan Türkçe bir özet olarak döner, Almanca ya da Japonca bir video da okuyabileceğiniz bir özete dönüşür. YouTube video özetleme online yapıldığı için sonuç, videodaki dile bağlı kalmaz.",
+                "Bu aynı zamanda özetin diller arasında köprü kurabilmesi demektir: bir dilde konuşulan bir video, açık bir genel bakış üzerinden anlaşılabilir; böylece hâlâ öğrenmekte olduğunuz bir dildeki uzun bir kayıt, tek bir paragrafta kavrayabileceğiniz bir şeye dönüşür."
+            ]
+        },
+        {
+            "h2": "Özetten Fazlası Gerektiğinde",
+            "content": [
+                "Özet bir videoya en hızlı giriştir, ama bazen arkasında duran ayrıntıya ihtiyaç duyarsınız. TranscriptX bu durumların her biri için ayrı bir araç sunar; işin gerektirdiği kadar derine inebilirsiniz.",
+                "Özet size videonun tam olarak okunmaya değdiğini söylediğinde [YouTube Transcript](/tr/youtube-transcript) aracı her kelimeyi verir, [YouTube Transkript İndirme](/tr/download-youtube-transcript) aracı ise o transkripti saklamak üzere dosya olarak kaydeder."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Bir YouTube videosunu ücretsiz nasıl özetlerim?",
+                    "a": "YouTube bağlantısını TranscriptX'e yapıştırın; araç videoyu hiçbir ücret almadan özetler. YouTube video özetleme ücretsizdir: üyelik yok, kurulacak bir şey yok ve videonun süresine sınır konmaz."
+                },
+                {
+                    "q": "Videonun tamamını mı okuyor, yoksa yalnızca açıklamayı mı?",
+                    "a": "Videonun tamamını. TranscriptX baştan sona söylenen her şeyi işler; böylece özet, başlığı ya da ilk birkaç dakikayı değil içeriğin bütününü yansıtır."
+                },
+                {
+                    "q": "Özet ne kadar uzun oluyor?",
+                    "a": "Bir dakikanın çok altında okunacak kadar kısa — bir sayfa metin değil, kısa bir genel bakış ve ana noktalar. Amaç size vakit kazandırmak, okunacak yeni bir yığın vermek değil."
+                },
+                {
+                    "q": "Özet ile transkript arasındaki fark nedir?",
+                    "a": "Transkript, söylenen her kelimenin eksiksiz yazılmış hâlidir. Özet ise yalnızca ana noktaların yoğunlaştırılmış hâli. Geriye kalan fikir için özetleyiciyi, tam metne ihtiyacınız olduğunda transkript aracını kullanın."
+                },
+                {
+                    "q": "Hangi dillerde çalışıyor?",
+                    "a": "100'den fazla dilde. TranscriptX konuşulan dili otomatik olarak algılar ve özeti okuyabileceğiniz biçimde yazar; video hangi dilde olursa olsun."
+                },
+                {
+                    "q": "Uzun bir videoyu ya da podcast'i özetleyebilir miyim?",
+                    "a": "Evet. YouTube videolarını her uzunlukta özetleyebilirsiniz; uzun videolar ve podcast'ler zaten en çok işe yaradığı yerdir — saatler süren bir kayıt bile kısa bir ana nokta listesi olarak geri döner."
+                },
+                {
+                    "q": "Hesap ya da bir program gerekiyor mu?",
+                    "a": "Hayır. YouTube özetleme aracı tarayıcıda çalışır; hesap açmanız ve kurmanız gereken hiçbir şey yoktur. Bağlantıyı yapıştırın ve özeti okuyun."
+                },
+                {
+                    "q": "Özet yetmezse tam metni alabilir miyim?",
+                    "a": "Evet. Öne çıkanlar değil de her kelime gerektiğinde, aynı videonun tam metnini almak için YouTube transkript aracını kullanın."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Videonuzu Ücretsiz Özetleyin",
+        "content": [
+            "Herkese açık bir YouTube bağlantısı yapıştırın; TranscriptX videonun tamamını okusun ve ana noktaları kısa bir özet hâlinde önünüze koysun — 100'den fazla dilde, saniyeler içinde.",
+            "Geriye kalan fikri alın, neyin tam olarak izlenmeye değdiğine karar verin ve zamanı harcamadan bilgiyi elinizde tutun. YouTube video özetleme işinin en hızlı yolu budur — hesap yok, kurulum yok, ücret yok."
+        ]
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "seo": {
+        "title": "How Long Does It Take to Transcribe 1 Hour of Audio?",
+        "description": "Transcribing 1 hour of audio by hand takes 4–6 hours on average — about 4 minutes per audio minute. See times for 1, 10 and 60 minutes, by method, and how AI cuts it to minutes.",
+        "schemaName": "How Long Does It Take to Transcribe 1 Hour of Audio?",
+        "schemaDescription": "A guide to transcription time: how long it takes to transcribe 1 minute, 10 minutes and 1 hour of audio by hand, by a professional, through a service and with AI, what makes audio slower to transcribe, and how to cut the time to minutes with TranscriptX.",
+        "ogTitle": "How Long Does It Take to Transcribe 1 Hour of Audio?",
+        "ogDescription": "4–6 hours by hand, about 1–2 minutes with AI. Transcription time by audio length and by method, plus what makes some recordings take longer."
+    },
+    "hero": {
+        "h1": "How Long Does It Take to Transcribe 1 Hour of Audio?",
+        "subtitle": "Typing up one hour of audio by hand takes most people four to six hours — and longer if the recording is noisy or has several speakers. An AI transcription tool does the same job in about one to two minutes — in our test, 1 minute 19 seconds. Here is how long transcription takes by audio length and by method, and how to get it down to minutes. Want to skip straight to the transcript? Upload your file below.",
+        "placeholder": "Upload an audio or video file...",
+        "button": "Transcribe in Seconds"
+    },
+    "quickAnswer": {
+        "question": "How long does it take to transcribe 1 hour of audio?",
+        "answer": "On average, it takes four to six hours to transcribe one hour of audio by hand, about a 4:1 ratio. A professional transcriptionist with clear audio needs around three to four hours; difficult audio with several speakers, noise or technical terms can take six to ten. AI transcription such as TranscriptX turns an hour of audio into text in about one to two minutes (1 minute 19 seconds in our test), plus a short review."
+    },
+    "sections": [
+        {
+            "h2": "The Short Answer: The 4:1 Rule",
+            "content": [
+                "How long does it take to transcribe audio? It depends mostly on the method. How long to transcribe 1 hour of audio by hand is the question most people start with, and the answer is longer than they expect.",
+                "The figure most transcriptionists quote is a 4:1 ratio: four hours of work for every hour of audio. It is an average, not a guarantee. A fast, experienced typist working with a clean recording of one speaker can come in under that; a beginner working with a noisy group discussion can take two or three times as long.",
+                "The reason it takes so long is that nobody types as fast as people talk. Normal speech runs at around 130 to 150 words per minute, while a good typist manages 60 to 80. Add the time spent pausing, rewinding, checking a word you did not catch and formatting the result, and one minute of audio easily becomes four to six minutes of work.",
+                "AI transcription changes the ratio completely. The whole recording is processed at once, so an hour of audio becomes text in one to two minutes. The time that remains is reviewing, not typing.",
+                "The table below shows typical times by hand, at the 4:1 to 6:1 ratio, next to AI transcription on TranscriptX. Difficult audio can take longer in both cases."
+            ]
+        },
+        {
+            "h2": "Transcription Time by Audio Length",
+            "specs": [
+                {
+                    "label": "1 minute of audio",
+                    "value": "4–6 minutes by hand · about 1–2 seconds with AI"
+                },
+                {
+                    "label": "10 minutes of audio",
+                    "value": "40–60 minutes by hand · about 10–15 seconds with AI"
+                },
+                {
+                    "label": "30 minutes of audio",
+                    "value": "2–3 hours by hand · about 40 seconds to 1 minute with AI"
+                },
+                {
+                    "label": "1 hour of audio",
+                    "value": "4–6 hours by hand · about 1–2 minutes with AI"
+                },
+                {
+                    "label": "2 hours of audio",
+                    "value": "8–12 hours by hand · about 2–4 minutes with AI"
+                },
+                {
+                    "label": "10 hours of audio",
+                    "value": "40–60 hours by hand · about 10 minutes with AI (tested)"
+                }
+            ]
+        },
+        {
+            "h2": "How Long to Transcribe 1 Minute and 10 Minutes of Audio",
+            "content": [
+                "How long to transcribe 1 minute of audio? By hand, plan on four to six minutes. One minute of speech is around 130 to 150 words, and even a quick typist will pause to replay a phrase or two. With AI, a one-minute clip is usually ready in seconds.",
+                "How long to transcribe 10 minutes of audio? By hand, roughly 40 minutes to an hour — enough to fill a lunch break with a short interview or voice memo. With TranscriptX, ten minutes of audio typically comes back in 10 to 15 seconds, and the review takes a few minutes more."
+            ]
+        },
+        {
+            "h2": "Transcription Time by Method",
+            "intro": [
+                "The time it takes depends as much on how you transcribe as on how long the recording is. Here is how the main methods compare for one hour of clear audio:"
+            ],
+            "items": [
+                {
+                    "h3": "Typing it yourself",
+                    "content": "Four to six hours per hour of audio for most people, more for difficult recordings. Free in money, expensive in time."
+                },
+                {
+                    "h3": "A professional transcriptionist",
+                    "content": "Around three to four hours of work per audio hour on clear recordings, using foot pedals and shortcuts. Turnaround from a service is usually one to several days, depending on the queue."
+                },
+                {
+                    "h3": "AI transcription",
+                    "content": "About one to two minutes per hour of audio, with punctuation and speaker labels added automatically. Add a short review for names and numbers."
+                },
+                {
+                    "h3": "AI plus human review",
+                    "content": "The fastest way to a polished transcript: AI produces the draft in a minute or two, then you spend a fraction of the typing time checking the parts that matter."
+                }
+            ]
+        },
+        {
+            "h2": "What Makes Audio Take Longer to Transcribe",
+            "intro": [
+                "Two recordings of the same length can take very different amounts of time. These are the factors that slow transcription down, whether by hand or with AI:"
+            ],
+            "items": [
+                {
+                    "h3": "Number of speakers",
+                    "content": "Every extra voice means telling people apart and handling interruptions. Group discussions take far longer than a single speaker."
+                },
+                {
+                    "h3": "Audio quality",
+                    "content": "Background noise, echo, distant microphones and music force repeated listening and lower AI accuracy."
+                },
+                {
+                    "h3": "Accents and speaking speed",
+                    "content": "Fast talkers and unfamiliar accents need more replays to get every word right."
+                },
+                {
+                    "h3": "Technical vocabulary",
+                    "content": "Medical, legal or specialist terms, product names and proper nouns need to be checked and spelled correctly."
+                },
+                {
+                    "h3": "Transcript style",
+                    "content": "A verbatim transcript, with every um and false start, takes longer than a clean read; adding timestamps by hand adds more time again."
+                }
+            ]
+        },
+        {
+            "h2": "How to Cut Transcription Time to Minutes",
+            "steps": [
+                {
+                    "h3": "Upload the recording",
+                    "content": "Add your audio or video file to TranscriptX as it is, or paste a YouTube, Google Drive or Dropbox link. There is no file size limit."
+                },
+                {
+                    "h3": "Let AI write the draft",
+                    "content": "The full recording is transcribed in about one to two minutes per hour of audio, in over 100 languages, with punctuation and each speaker labelled."
+                },
+                {
+                    "h3": "Review the parts that matter",
+                    "content": "Check names, figures and key quotes against the audio. Turn on timestamps to jump straight to the right moment."
+                },
+                {
+                    "h3": "Export",
+                    "content": "Save the transcript as TXT, DOCX or PDF, or as SRT or VTT for captions. For tips on going faster still, see [How to Transcribe Audio Faster](/blog/how-to-transcribe-audio-faster)."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How long does 1 hour of audio take to transcribe?",
+                    "a": "Four to six hours by hand for most people, around three to four for a professional with clear audio, and about one to two minutes with AI transcription such as TranscriptX."
+                },
+                {
+                    "q": "How long does it take to transcribe 1 minute of audio?",
+                    "a": "About four to six minutes by hand for most people. With AI transcription, a one-minute clip is usually ready in a second or two."
+                },
+                {
+                    "q": "How long does it take to transcribe 10 minutes of audio?",
+                    "a": "Roughly 40 to 60 minutes by hand, more if the audio is difficult. With TranscriptX, it typically takes 10 to 15 seconds."
+                },
+                {
+                    "q": "What is the 4:1 rule in transcription?",
+                    "a": "It is the industry rule of thumb that transcribing audio by hand takes about four times as long as the recording itself — four hours of work for one hour of audio."
+                },
+                {
+                    "q": "How long does AI take to transcribe an hour of audio?",
+                    "a": "About one to two minutes on TranscriptX. In our test on October 6, 2026, a one-hour recording took 1 minute 19 seconds; at peak server load it can take up to about two minutes. Processing time scales with length, so a two-hour file takes roughly twice as long, and our 10-hour test file took about 10 minutes."
+                },
+                {
+                    "q": "Why does some audio take longer to transcribe?",
+                    "a": "Several speakers, background noise, strong accents, fast speech and technical vocabulary all slow transcription down, both for people and for AI."
+                },
+                {
+                    "q": "How long does it take to transcribe a 2-hour recording?",
+                    "a": "Eight to twelve hours by hand. With TranscriptX, about two to four minutes — and you can upload it whole, with no file size limit. See [Transcribe Large Audio Files](/transcribe-large-audio-files)."
+                },
+                {
+                    "q": "How long does it take to transcribe a 10-hour recording?",
+                    "a": "By hand, 40 to 60 hours — more than a full working week. On TranscriptX, our 10-hour test file was transcribed in about 10 minutes, in one piece with no splitting. Free use covers up to 5 hours a day, so a 10-hour file needs a paid plan, which has no daily cap."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn Hours of Typing Into Minutes",
+        "content": [
+            "Transcribing an hour of audio by hand takes four to six hours. TranscriptX does it in about one to two minutes, in over 100 languages, with punctuation and speaker labels already in place.",
+            "Upload a file or paste a link to try it — free for up to 5 hours of audio a day, no sign-up needed, no file size limit."
+        ]
+    }
+}

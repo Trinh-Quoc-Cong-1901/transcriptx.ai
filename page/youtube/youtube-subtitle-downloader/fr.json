@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Télécharger les sous-titres YouTube — SRT et VTT gratuits | TranscriptX",
+        "description": "Télécharger les sous-titres YouTube gratuitement. Collez un lien et enregistrez le fichier de sous-titres en SRT ou VTT, avec horodatage, dans plus de 100 langues. Sans inscription, sans installation.",
+        "schemaName": "TranscriptX — Téléchargeur de sous-titres YouTube",
+        "schemaDescription": "Outil gratuit pour télécharger le fichier de sous-titres d'une vidéo YouTube publique en SRT ou en VTT, avec un horodatage sur chaque ligne, dans plus de 100 langues. Collez un lien et enregistrez le fichier, sans création de compte.",
+        "ogTitle": "Télécharger les sous-titres YouTube — SRT et VTT gratuits | TranscriptX",
+        "ogDescription": "Téléchargez les sous-titres YouTube en SRT ou en VTT, horodatage compris. Collez un lien et enregistrez le fichier dans plus de 100 langues, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Télécharger les sous-titres YouTube",
+        "subtitle": "Récupérez les sous-titres de n'importe quelle vidéo YouTube publique sous forme de fichier horodaté. Collez un lien et enregistrez le SRT ou le VTT, dans plus de 100 langues, prêt à être chargé dans un logiciel de montage ou déposé sur une autre plateforme. Aucun compte, aucune installation.",
+        "placeholder": "Collez l'URL d'une vidéo YouTube...",
+        "button": "Télécharger les sous-titres"
+    },
+    "quickAnswer": {
+        "question": "Comment télécharger les sous-titres d'une vidéo YouTube ?",
+        "answer": "Collez un lien YouTube public dans TranscriptX : l'outil construit un fichier de sous-titres horodaté que vous téléchargez en SRT ou en VTT. Les sous-titres sortent dans plus de 100 langues, avec un horodatage sur chaque ligne, prêts pour le montage ou pour une nouvelle mise en ligne. Aucun compte n'est nécessaire."
+    },
+    "sections": [
+        {
+            "h2": "Ce qu'est vraiment un fichier de sous-titres",
+            "content": [
+                "Un fichier de sous-titres ne contient pas seulement les mots prononcés dans une vidéo : il contient ces mots et le moment exact où chaque ligne apparaît puis disparaît. Ouvrez-en un et vous verrez des blocs de texte associés à des horodatages du type 00:01:12 à 00:01:15. C'est toute la raison d'être du fichier : ces valeurs indiquent au lecteur vidéo quand afficher chaque sous-titre.",
+                "C'est précisément ce qui sépare un fichier de sous-titres d'une simple transcription. Une transcription est un texte que vous lisez pour lui-même ; un fichier de sous-titres est un texte fait pour défiler à côté de la vidéo, synchronisé image par image sur la parole.",
+                "TranscriptX génère ce fichier horodaté à partir de l'audio d'une vidéo YouTube et vous le laisse télécharger. En tant qu'outil pour extraire les sous-titres YouTube, il vous remet un vrai fichier de sous-titres YouTube à glisser directement dans un logiciel de montage ou dans un lecteur — pas un bloc de texte dont vous devriez caler la synchronisation à la main, et rien à copier ligne par ligne."
+            ]
+        },
+        {
+            "h2": "SRT ou VTT : quel format de sous-titres télécharger ?",
+            "intro": [
+                "TranscriptX exporte les deux formats de sous-titres standards. Celui que vous téléchargez dépend de la destination des sous-titres."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — le fichier de sous-titres universel",
+                    "content": "Le SubRip (.srt) est le format que presque tout accepte : YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve et la plupart des lecteurs. Choisissez de télécharger les sous-titres YouTube en SRT quand vous les déposez sur une plateforme ou les chargez dans un logiciel de montage — c'est la valeur sûre."
+                },
+                {
+                    "h3": "VTT — les sous-titres pensés pour le web",
+                    "content": "Le WebVTT (.vtt) est le format conçu pour la vidéo HTML5 lue dans un navigateur, et il gère des options supplémentaires comme le positionnement et la mise en forme. Téléchargez le VTT quand les sous-titres sont destinés à un site ou à une application web plutôt qu'à un réseau social ou à un logiciel de montage."
+                }
+            ]
+        },
+        {
+            "h2": "Comment télécharger les sous-titres YouTube en ligne",
+            "steps": [
+                {
+                    "h3": "Collez le lien de la vidéo",
+                    "content": "Copiez l'URL de la vidéo YouTube publique et collez-la dans le champ ci-dessus. Aucun compte à créer, et rien à importer."
+                },
+                {
+                    "h3": "TranscriptX construit les sous-titres horodatés",
+                    "content": "L'outil écoute l'audio, détecte la langue et écrit chaque ligne avec son heure de début et de fin — l'horodatage sans lequel un fichier de sous-titres ne peut pas rester synchronisé."
+                },
+                {
+                    "h3": "Choisissez le SRT ou le VTT",
+                    "content": "Prenez le SRT pour un logiciel de montage ou un réseau social, le VTT pour de la vidéo web. Les deux portent les mêmes sous-titres avec la même synchronisation."
+                },
+                {
+                    "h3": "Téléchargez le fichier de sous-titres",
+                    "content": "Le téléchargement des sous-titres YouTube s'arrête ici : enregistrez le fichier sur votre appareil, prêt à être chargé dans votre logiciel de montage, mis en ligne avec une vidéo republiée ou traduit avant publication. Tout se passe en ligne, dans le navigateur, sans rien installer."
+                }
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez faire d'un fichier de sous-titres téléchargé",
+            "intro": [
+                "Un fichier de sous-titres est un matériau de travail, pas une simple référence. Il est fait pour être chargé, modifié et réutilisé :"
+            ],
+            "items": [
+                {
+                    "h3": "Ajouter des sous-titres à votre propre montage",
+                    "content": "Les monteurs chargent le SRT dans Premiere, Final Cut ou Resolve pour sous-titrer une séquence, ajustent la synchronisation à leur montage et mettent le texte en forme pour qu'il colle à la vidéo."
+                },
+                {
+                    "h3": "Republier une vidéo avec ses sous-titres",
+                    "content": "Si vous remettez une vidéo en ligne sur votre propre chaîne, il suffit de récupérer les sous-titres YouTube et de déposer le fichier avec elle : vos spectateurs les voient sans que vous ayez retapé un seul mot."
+                },
+                {
+                    "h3": "Traduire pour un public international",
+                    "content": "Comme un fichier de sous-titres est du texte brut modifiable accompagné de sa synchronisation, un traducteur peut réécrire les lignes dans une autre langue sans que les horodatages bougent — le chemin le plus rapide pour sous-titrer une vidéo à destination d'un nouveau marché."
+                },
+                {
+                    "h3": "Corriger ou nettoyer les sous-titres",
+                    "content": "Ouvrez le fichier dans n'importe quel éditeur de texte pour rectifier un nom propre, couper une ligne trop longue ou décaler légèrement un horodatage avant la mise en ligne."
+                },
+                {
+                    "h3": "Répondre aux exigences d'accessibilité",
+                    "content": "Les sous-titres sont souvent obligatoires, pas facultatifs. Un SRT ou un VTT téléchargé, c'est exactement le fichier que vous joignez pour rendre une vidéo accessible aux personnes sourdes et malentendantes."
+                }
+            ]
+        },
+        {
+            "h2": "Télécharger des sous-titres dans plus de 100 langues",
+            "content": [
+                "TranscriptX détecte automatiquement la langue parlée et construit les sous-titres dans cette langue, parmi plus de 100 langues prises en charge — le fichier que vous téléchargez correspond donc à ce qui est réellement dit dans la vidéo. Une vidéo en français revient en sous-titres français, accents et ponctuation compris, et télécharger gratuitement les sous-titres d'une vidéo YouTube vaut de la même façon pour toutes les langues.",
+                "Ensuite, le fichier vous appartient et vous pouvez le traduire. Comme la synchronisation vit séparément des mots, vous remplacez le texte par une autre langue et les sous-titres tombent toujours sur les bonnes images — c'est exactement ainsi qu'une seule vidéo finit sous-titrée pour plusieurs publics à partir d'un unique téléchargement."
+            ]
+        },
+        {
+            "h2": "Sous-titres, transcription ou résumé ?",
+            "content": [
+                "Le fichier de sous-titres est le bon téléchargement quand il vous faut des sous-titres horodatés destinés à défiler sur une vidéo. Si vous attendez autre chose de la même vidéo, un autre outil TranscriptX est fait pour ça.",
+                "Pour du texte brut que l'on lit pour lui-même — sans horodatage, sans rien de synchronisé à la lecture — c'est l'outil [Transcription YouTube](/fr/youtube-transcript) qu'il vous faut, et l'outil [Télécharger une transcription YouTube](/fr/download-youtube-transcript) enregistre ce même texte sous forme de document TXT, DOCX ou PDF. Si vous voulez seulement savoir de quoi parle une vidéo au lieu d'en sous-titrer chaque ligne, le [Résumeur de vidéos YouTube](/fr/youtube-video-summarizer) vous en donne les points clés en quelques phrases."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment télécharger les sous-titres d'une vidéo YouTube ?",
+                    "a": "Collez le lien de la vidéo dans TranscriptX, laissez les sous-titres horodatés se construire, choisissez le SRT ou le VTT, puis téléchargez le fichier. C'est tout ce qu'il faut pour télécharger le fichier de sous-titres d'une vidéo YouTube, dans l'un ou l'autre format, sans compte requis."
+                },
+                {
+                    "q": "Le téléchargeur de sous-titres YouTube est-il gratuit ?",
+                    "a": "Oui. Construire et télécharger les fichiers de sous-titres est gratuit, sans compte à créer et sans limite de durée pour la vidéo. Tout fonctionne en ligne, il n'y a ni logiciel ni extension à installer."
+                },
+                {
+                    "q": "Quelle est la différence entre le SRT et le VTT ?",
+                    "a": "Ce sont deux fichiers de sous-titres horodatés. Le SRT est le format universel accepté par les plateformes et les logiciels de montage ; le VTT est conçu pour la vidéo web HTML5 et gère en plus le positionnement et la mise en forme. Prenez le SRT, sauf si vous visez précisément de la vidéo web."
+                },
+                {
+                    "q": "Les sous-titres contiennent-ils les horodatages ?",
+                    "a": "Oui. Chaque ligne d'un fichier SRT ou VTT porte une heure de début et une heure de fin — c'est cette synchronisation qui maintient les sous-titres en place quand le fichier est lu par-dessus la vidéo."
+                },
+                {
+                    "q": "Quelle est la différence entre des sous-titres et une transcription ?",
+                    "a": "Une transcription est du texte brut que l'on lit pour lui-même. Les sous-titres sont du texte horodaté fait pour s'afficher sur la vidéo. Si vous cherchez des mots à lire plutôt que des sous-titres à afficher, utilisez plutôt l'outil de transcription."
+                },
+                {
+                    "q": "Puis-je télécharger les sous-titres dans une autre langue ?",
+                    "a": "Les sous-titres sont construits dans la langue parlée dans la vidéo. Comme le fichier est du texte modifiable dont la synchronisation reste à part, vous pouvez traduire les lignes dans une autre langue sans que les horodatages bougent."
+                },
+                {
+                    "q": "Puis-je modifier le fichier de sous-titres après le téléchargement ?",
+                    "a": "Oui. Un fichier SRT ou VTT s'ouvre dans n'importe quel éditeur de texte : vous pouvez corriger un mot, couper une ligne ou ajuster un horodatage avant la mise en ligne des sous-titres."
+                },
+                {
+                    "q": "Le fichier fonctionnera-t-il dans mon logiciel de montage ?",
+                    "a": "Oui. Le SRT se charge dans Premiere, Final Cut, DaVinci Resolve et la plupart des autres logiciels de montage et lecteurs, ce qui en fait le choix par défaut pour le travail de montage."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Télécharger les sous-titres YouTube gratuitement",
+        "content": [
+            "Collez le lien d'une vidéo YouTube publique et TranscriptX construit un fichier de sous-titres horodaté que vous téléchargez en SRT ou en VTT, dans plus de 100 langues.",
+            "Chargez-le dans un logiciel de montage, déposez-le avec une vidéo republiée ou traduisez-le pour un nouveau public. Aucun compte, aucune installation, aucun frais."
+        ]
+    }
+}

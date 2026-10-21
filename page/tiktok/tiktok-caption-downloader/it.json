@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "title": "Sottotitoli TikTok — Scarica il File Gratis | TranscriptX",
+        "description": "Scarica gratis i sottotitoli TikTok da qualsiasi video pubblico. Incolla un link e salva i sottotitoli come file con i tempi, in oltre 100 lingue. Senza registrazione, senza installare niente.",
+        "schemaName": "TranscriptX — Strumento per Scaricare i Sottotitoli TikTok",
+        "schemaDescription": "Strumento gratuito per scaricare i sottotitoli di un video TikTok pubblico come file sincronizzato, in oltre 100 lingue. Incolla un link e salva i sottotitoli per ripubblicare la clip, tradurla o renderla accessibile, senza bisogno di alcun account.",
+        "ogTitle": "Sottotitoli TikTok — Scarica il File Gratis | TranscriptX",
+        "ogDescription": "Prendi i sottotitoli di qualsiasi TikTok come file con i tempi. Incolla un link e salva i sottotitoli in oltre 100 lingue, gratis e senza registrazione."
+    },
+    "hero": {
+        "h1": "Scaricare Sottotitoli TikTok",
+        "subtitle": "Prendi i sottotitoli di qualsiasi video TikTok pubblico. Incolla il link e salva le parole pronunciate come file di sottotitoli con i tempi, in oltre 100 lingue, pronto da rimettere su una clip che ripubblichi o da tradurre. Nessun account, niente da installare.",
+        "placeholder": "Incolla l'URL di un video TikTok...",
+        "button": "Scarica i sottotitoli"
+    },
+    "quickAnswer": {
+        "question": "Come si scaricano i sottotitoli di un video TikTok?",
+        "answer": "Incolla un link TikTok pubblico in TranscriptX: lo strumento costruisce i sottotitoli partendo dall'audio del video e te li consegna come file sincronizzato da scaricare. I sottotitoli arrivano in oltre 100 lingue, con ogni riga agganciata al momento giusto del video. Non serve nessun account."
+    },
+    "sections": [
+        {
+            "h2": "Che cosa fa lo strumento per i sottotitoli TikTok",
+            "content": [
+                "Questo strumento tira fuori i sottotitoli di un video TikTok dalla clip e te li consegna come file da scaricare — i sottotitoli TikTok in un passaggio solo. Non un paragrafo di testo da leggere, ma un file in cui ogni riga porta con sé il momento esatto in cui deve comparire sullo schermo.",
+                "È proprio quel sincronismo il motivo per cui questa pagina esiste separata da quella della trascrizione. Una trascrizione è testo che leggi per conto suo; i sottotitoli sono testo costruito per scorrere sopra il video, agganciato riga per riga al parlato. Se il tuo piano è ripubblicare una clip con i sottotitoli, tradurre il testo che appare a schermo o soddisfare un requisito di accessibilità, quello che ti serve è il file di sottotitoli con i tempi, non un blocco di testo da leggere.",
+                "TranscriptX costruisce quei sottotitoli partendo dall'audio del TikTok, così ottieni un file pulito e sincronizzato anche quando l'originale non aveva nessun sottotitolo attivo."
+            ]
+        },
+        {
+            "h2": "Sottotitoli o trascrizione: cosa ti serve?",
+            "intro": [
+                "Entrambi trasformano in testo il parlato di un TikTok, ma sono fatti per due lavori diversi. Scegli in base a quello che farai dopo."
+            ],
+            "items": [
+                {
+                    "h3": "Scarica i sottotitoli quando il testo deve scorrere sul video",
+                    "content": "Se le parole devono comparire su una clip — sottotitoli su un contenuto che ripubblichi, sottotitoli tradotti per un altro pubblico, testo per l'accessibilità — allora ti serve il file sincronizzato che produce questo strumento. Sono i tempi a tenere ogni riga agganciata all'audio."
+                },
+                {
+                    "h3": "Prendi una trascrizione quando ti servono solo le parole",
+                    "content": "Se devi soltanto leggere, copiare o studiare il contenuto parlato — l'hook, una citazione, uno script — il testo semplice è più comodo. Per quello lo strumento [TikTok Transcript](/it/tiktok-transcript) ti dà le parole senza nessun timecode da ripulire."
+                }
+            ]
+        },
+        {
+            "h2": "Come scaricare i sottotitoli di TikTok",
+            "steps": [
+                {
+                    "h3": "Copia il link del TikTok",
+                    "content": "Tocca Condividi sul video e copia il link, oppure prendi l'URL da desktop. Il video deve essere pubblico."
+                },
+                {
+                    "h3": "Incollalo nello strumento",
+                    "content": "Metti il link nel campo qui sopra. Non c'è nessun caricamento e nessun passaggio di registrazione: lo strumento legge l'audio direttamente dalla clip."
+                },
+                {
+                    "h3": "TranscriptX costruisce i sottotitoli sincronizzati",
+                    "content": "Trascrive il parlato e lo divide in righe di sottotitoli, ognuna con un tempo di inizio e uno di fine, così resta in sincrono quando scorre sopra la clip."
+                },
+                {
+                    "h3": "Scarica il file di sottotitoli",
+                    "content": "Salva i sottotitoli sul tuo dispositivo, pronti da caricare in un editor, da rimettere su un contenuto che ripubblichi o da tradurre prima di pubblicare."
+                }
+            ]
+        },
+        {
+            "h2": "Cosa puoi fare con i sottotitoli TikTok scaricati",
+            "intro": [
+                "Un file di sottotitoli è una risorsa di lavoro, non solo una copia delle parole. È fatto per essere caricato, modificato e riutilizzato:"
+            ],
+            "items": [
+                {
+                    "h3": "Ripubblicare una clip con i sottotitoli",
+                    "content": "Rimetti i sottotitoli su un contenuto che stai ricaricando — sul tuo TikTok, oppure cross-postato come Reel o come Short — così chi guarda li vede senza che tu debba riscrivere una parola."
+                },
+                {
+                    "h3": "Tradurre per un altro pubblico",
+                    "content": "Siccome il file è testo modificabile e i tempi restano separati, un traduttore può riscrivere le righe in un'altra lingua mentre ogni sottotitolo continua a cadere nel momento giusto."
+                },
+                {
+                    "h3": "Sottotitolare i video guardati senza audio",
+                    "content": "La maggior parte dei TikTok viene guardata in silenzio all'inizio, ed è per questo che i sottotitoli portano il messaggio in quei primi secondi. Con un file scaricato li aggiungi in modo pulito, invece di affidarti ai sottotitoli automatici che spesso sbagliano."
+                },
+                {
+                    "h3": "Coprire le esigenze di accessibilità",
+                    "content": "I sottotitoli rendono un video utilizzabile da chi è sordo o ipoudente. Un file di sottotitoli scaricato è proprio la risorsa che alleghi per ottenere questo risultato."
+                },
+                {
+                    "h3": "Correggere o risistemare i sottotitoli",
+                    "content": "Apri il file per sistemare una parola, spezzare una riga troppo lunga o aggiustare i tempi prima che i sottotitoli finiscano online sul tuo post."
+                }
+            ]
+        },
+        {
+            "h2": "Scaricare i sottotitoli TikTok in oltre 100 lingue",
+            "content": [
+                "TranscriptX riconosce da solo la lingua parlata nel TikTok e costruisce i sottotitoli in quella lingua, tra oltre 100 disponibili — così il file che scarichi corrisponde a quello che viene davvero detto nella clip.",
+                "Da lì i sottotitoli sono tuoi da tradurre. Siccome i tempi vivono separati dalle parole, puoi sostituire il testo con un'altra lingua e i sottotitoli continuano a cadere sui fotogrammi giusti: è così che una sola clip finisce sottotitolata per più pubblici partendo da un unico download."
+            ]
+        },
+        {
+            "h2": "Domande frequenti",
+            "items": [
+                {
+                    "q": "Come faccio a scaricare i sottotitoli di un video TikTok?",
+                    "a": "Incolla in TranscriptX il link di condivisione del TikTok, lascia che costruisca i sottotitoli sincronizzati partendo dall'audio e scarica il file. Si salva direttamente sul tuo dispositivo, senza bisogno di alcun account."
+                },
+                {
+                    "q": "Lo strumento per i sottotitoli TikTok è gratuito?",
+                    "a": "Sì. Costruire e scaricare i sottotitoli TikTok è gratis, senza nessun account da creare e senza limiti al numero di video che puoi elaborare."
+                },
+                {
+                    "q": "Che differenza c'è tra i sottotitoli TikTok e una trascrizione?",
+                    "a": "I sottotitoli sono testo con i tempi, fatto per comparire sopra il video e salvato come file di sottotitoli. Una trascrizione, invece, è solo il testo, senza nessun tempo agganciato. Usa questo strumento per i sottotitoli che vuoi ripubblicare o tradurre; usa lo strumento TikTok Transcript quando ti serve soltanto leggere le parole."
+                },
+                {
+                    "q": "I sottotitoli includono i tempi?",
+                    "a": "Sì. Ogni riga di sottotitoli porta con sé un tempo di inizio e uno di fine, ed è proprio questo a tenerli in sincrono mentre scorrono sopra la clip."
+                },
+                {
+                    "q": "Posso prendere i sottotitoli se il TikTok non ne ha a schermo?",
+                    "a": "Sì. TranscriptX costruisce i sottotitoli partendo dall'audio, quindi produce un file anche per un video che non ha mai avuto i sottotitoli attivi."
+                },
+                {
+                    "q": "Posso scaricare i sottotitoli in un'altra lingua?",
+                    "a": "I sottotitoli escono nella lingua in cui è stato parlato il TikTok. Da lì puoi tradurli tu: le parole restano modificabili mentre i timecode restano fissi, così i sottotitoli continuano a cadere sui fotogrammi giusti anche nella nuova lingua."
+                },
+                {
+                    "q": "Posso usare il file quando ripubblico la clip?",
+                    "a": "Sì. È questo l'uso principale: rimetti i sottotitoli scaricati su una clip che ricarichi, oppure su un Reel o uno Short cross-postato, così esce online già sottotitolata."
+                },
+                {
+                    "q": "Posso modificare il file dei sottotitoli dopo averlo scaricato?",
+                    "a": "Sì. Il file di sottotitoli è testo modificabile, quindi puoi correggere una parola, spezzare una riga o spostare leggermente i tempi prima che finiscano online."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Scaricare i sottotitoli TikTok gratis",
+        "content": [
+            "Incolla il link di un TikTok pubblico e TranscriptX costruisce un file di sottotitoli sincronizzato da scaricare, in oltre 100 lingue, direttamente dall'audio della clip.",
+            "Rimetti i sottotitoli su un contenuto che ripubblichi, traducili per un pubblico nuovo, oppure allegali per l'accessibilità. Nessun account, nessuna installazione, nessun costo."
+        ]
+    }
+}

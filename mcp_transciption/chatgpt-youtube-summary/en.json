@@ -1,0 +1,116 @@
+{
+    "seo": {
+        "title": "Can ChatGPT Watch YouTube Videos? Summarize Any Video in ChatGPT",
+        "description": "ChatGPT can't watch YouTube on its own, but with TranscriptX it gets the full transcript. Paste a link and summarize, translate or ask about any YouTube video in ChatGPT.",
+        "schemaName": "TranscriptX for ChatGPT — YouTube Summary",
+        "schemaDescription": "TranscriptX connects to ChatGPT and turns YouTube, TikTok, Instagram and X videos into a full transcript, so ChatGPT can summarize, translate or answer questions about the video. Free to start, in over 100 languages.",
+        "ogTitle": "Summarize YouTube Videos in ChatGPT — Powered by TranscriptX",
+        "ogDescription": "Paste a YouTube link and ChatGPT gets the full transcript to summarize or ask about. Free to start."
+    },
+    "hero": {
+        "h1": "Summarize YouTube Videos in ChatGPT With TranscriptX",
+        "subtitle": "ChatGPT can't watch videos — but it can read them. Connect TranscriptX, paste a YouTube link, and ChatGPT gets the full transcript to summarize, translate or answer questions about. Works with TikTok, Instagram, X and video files too.",
+        "button": "Connect TranscriptX to ChatGPT"
+    },
+    "quickAnswer": {
+        "question": "Can ChatGPT watch YouTube videos?",
+        "answer": "Not by itself, but it can with TranscriptX. Connect TranscriptX to ChatGPT, paste a YouTube link and ask ChatGPT to transcribe or summarize it. TranscriptX turns the video into text and hands the full transcript to ChatGPT, which can then summarize the video or answer questions about it."
+    },
+    "sections": [
+        {
+            "h2": "How ChatGPT Summarizes YouTube Videos With TranscriptX",
+            "content": [
+                "ChatGPT reads text, not video. When you paste a YouTube link on its own, it cannot hear what is said in the video, so any summary is a guess.",
+                "TranscriptX solves that. It transcribes everything spoken in the video and returns the full text to ChatGPT. From there, ChatGPT summarizes the real content — not just the title and description."
+            ]
+        },
+        {
+            "h2": "Why Use TranscriptX for YouTube in ChatGPT",
+            "items": [
+                {
+                    "h3": "Summaries based on what is actually said",
+                    "content": "ChatGPT works from the full transcript, so key points, numbers and quotes come from the video itself."
+                },
+                {
+                    "h3": "Long videos, fully covered",
+                    "content": "Lectures, podcasts and hour-long tutorials are transcribed in full and read in parts."
+                },
+                {
+                    "h3": "Any language",
+                    "content": "Transcribe videos in 100+ languages, then ask ChatGPT to translate the summary."
+                },
+                {
+                    "h3": "More than YouTube",
+                    "content": "TikTok, Instagram, X, podcast links and uploaded video files work the same way."
+                }
+            ]
+        },
+        {
+            "h2": "ChatGPT Video to Text at a Glance",
+            "specs": [
+                { "label": "Powered by", "value": "TranscriptX, connected to ChatGPT" },
+                { "label": "Price", "value": "Free daily allowance — TranscriptX Pro for heavier use" },
+                { "label": "Video sources", "value": "YouTube, TikTok, Instagram, X, video files" },
+                { "label": "Languages", "value": "100+" },
+                { "label": "Export formats", "value": "TXT, SRT, VTT" },
+                { "label": "Setup", "value": "One-time — see the [Transcription MCP](/transcription-mcp) guide" }
+            ]
+        },
+        {
+            "h2": "Prompts to Summarize a YouTube Video",
+            "intro": ["Paste the link with one of these:"],
+            "items": [
+                { "h3": "Quick summary", "content": "“Summarize this video in 5 bullet points: [link]”" },
+                { "h3": "Key takeaways", "content": "“What are the main takeaways and any numbers mentioned?”" },
+                { "h3": "Ask a question", "content": "“What does the speaker say about pricing?”" },
+                { "h3": "Translate", "content": "“Summarize this video in Vietnamese.”" },
+                { "h3": "Repurpose", "content": "“Turn this video into a blog post outline.”" }
+            ]
+        },
+        {
+            "h2": "Can ChatGPT Transcribe Video?",
+            "content": [
+                "Yes, with TranscriptX. Besides links, you can attach a video file such as an MP4 and ask ChatGPT to transcribe it. You get the full video-to-text transcript in the chat, plus Copy and Export buttons for TXT, SRT and VTT."
+            ]
+        },
+        {
+            "h2": "Get Started",
+            "content": [
+                "Connecting TranscriptX to ChatGPT is a one-time setup. Follow the [Transcription MCP](/transcription-mcp) guide, then paste any YouTube link into a chat.",
+                "Only need the transcript? Use [YouTube Transcript](/youtube-transcript) directly on TranscriptX."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Can ChatGPT watch YouTube videos?",
+                    "a": "Not on its own. With TranscriptX connected, ChatGPT receives the full transcript and can summarize or answer questions about the video."
+                },
+                {
+                    "q": "Can ChatGPT summarize YouTube videos?",
+                    "a": "Yes. Paste the link and ask for a summary — TranscriptX provides the transcript, ChatGPT writes the summary."
+                },
+                {
+                    "q": "Does it work for videos without captions?",
+                    "a": "Yes. TranscriptX transcribes the audio itself, so the video does not need captions."
+                },
+                {
+                    "q": "Is it free?",
+                    "a": "TranscriptX has a free daily allowance. Private or removed videos cannot be transcribed."
+                },
+                {
+                    "q": "How do I connect TranscriptX to ChatGPT?",
+                    "a": "Follow the setup steps on the [Transcription MCP](/transcription-mcp) page."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Summarize YouTube Videos in ChatGPT",
+        "content": [
+            "Connect TranscriptX once, and any YouTube video you paste into ChatGPT can be transcribed, summarized and translated in the same chat.",
+            "Free to start. [Set up the YouTube transcript MCP](/transcription-mcp)."
+        ]
+    }
+}

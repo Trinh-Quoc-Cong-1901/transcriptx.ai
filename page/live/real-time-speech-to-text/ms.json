@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Taip Suara — Tulis dengan Suara Anda, Mula Percuma",
+        "description": "Tekan Mula, bercakap, dan perkataan anda terus muncul sebagai teks. Taip suara untuk nota, e-mel dan draf. Mula percuma, tanpa perlu daftar.",
+        "schemaName": "TranscriptX Taip Suara",
+        "schemaDescription": "Alat taip suara dalam talian untuk menulis dengan bercakap. Tekan Mula, bercakap ke mikrofon, dan perkataan anda terus muncul sebagai teks bertanda baca yang boleh disunting, dalam lebih 100 bahasa. Salin teks ke mana-mana atau eksport ke TXT, DOCX atau PDF. Berjalan dalam pelayar, tanpa perlu daftar untuk bermula.",
+        "ogTitle": "Taip Suara — Tulis dengan Suara Anda, Mula Percuma",
+        "ogDescription": "Taip guna suara. Tekan Mula, bercakap, dan lihat perkataan anda terus menjadi teks — mula percuma, dalam 100+ bahasa, tanpa perlu daftar."
+    },
+    "hero": {
+        "h1": "Taip Suara – Menaip dengan Suara Anda Secara Masa Nyata",
+        "subtitle": "Taip guna suara. Tekan Mula, bercakap, dan perkataan anda terus muncul di skrin sebagai teks bertanda baca yang boleh disunting. Sebut e-mel, nota, mesej atau draf pertama lebih pantas daripada menaipnya, kemudian salin ke mana-mana atau eksport ke TXT, DOCX atau PDF. Percuma untuk bermula, dalam lebih 100 bahasa, tanpa perlu memasang apa-apa.",
+        "placeholder": "Tekan Mula dan mula bercakap...",
+        "button": "Mula Bercakap"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara menggunakan taip suara?",
+        "answer": "Buka TranscriptX, tekan Mula dan benarkan akses mikrofon, kemudian bercakap. Perkataan anda terus muncul sebagai teks sambil anda bercakap. Sunting apa-apa yang perlu dibetulkan, kemudian salin teks ke e-mel atau dokumen anda, atau eksport. Percuma untuk bermula, tanpa perlu daftar dan tanpa perlu memasang apa-apa."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Taip Suara?",
+            "content": [
+                "Taip suara membolehkan anda menulis dengan bercakap. Anda tekan Mula, sebut apa yang mahu ditulis, dan perkataan muncul di skrin sebaik sahaja anda menyebutnya — tanpa papan kekunci, tanpa menunggu, tanpa fail untuk diproses.",
+                "Inilah menulis dengan suara dalam erti kata sebenar: perkataan di skrin ialah kata-kata anda sendiri. Anda bukan merakam orang lain untuk didengar kemudian; anda sedang mengarang e-mel, nota, mesej atau draf, menggunakan suara dan bukan jari.",
+                "Kelebihannya ialah kelajuan. Kebanyakan orang bercakap tiga hingga empat kali lebih pantas daripada menaip, jadi meluahkan idea dengan suara dan terus ke halaman jauh lebih cepat daripada menaip perkataan demi perkataan. Taip suara memberi anda kelajuan bercakap dengan hasil seperti menaip.",
+                "TranscriptX melakukannya dalam pelayar anda, percuma untuk bermula. Tekan Mula, bercakap, dan teks anda sedia untuk digunakan."
+            ]
+        },
+        {
+            "h2": "Taip Suara Secara Ringkas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma untuk bermula — pelan berbayar untuk penggunaan lebih tinggi"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak — pendaftaran adalah pilihan"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Input",
+                    "value": "Suara anda melalui mikrofon — tekan Mula dan bercakap"
+                },
+                {
+                    "label": "Output",
+                    "value": "Teks bertanda baca yang boleh disunting, muncul sambil anda bercakap"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+"
+                },
+                {
+                    "label": "Eksport",
+                    "value": "Salin ke papan keratan, atau TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan telefon mudah alih"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Guna Taip Suara: Suara ke Teks Masa Nyata",
+            "steps": [
+                {
+                    "h3": "Tekan Mula",
+                    "content": "Buka TranscriptX dan tekan Mula. Benarkan akses mikrofon kali pertama pelayar anda meminta."
+                },
+                {
+                    "h3": "Bercakap secara semula jadi",
+                    "content": "Sebut apa yang mahu ditulis pada kelajuan biasa. Tidak perlu bercakap perlahan-lahan atau berhenti antara perkataan."
+                },
+                {
+                    "h3": "Lihat perkataan anda serta-merta",
+                    "content": "Teks muncul di skrin sambil anda bercakap, dengan tanda baca ditambah secara automatik, jadi anda dapat melihat ayat anda terbentuk secara masa nyata."
+                },
+                {
+                    "h3": "Sunting dan salin",
+                    "content": "Tekan Henti, betulkan apa-apa yang perlu, kemudian salin teks ke e-mel, dokumen atau aplikasi sembang anda — atau eksport sebagai TXT, DOCX atau PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Ucapan ke Teks: Taip Guna Suara",
+            "content": [
+                "Ucapan ke teks menggantikan papan kekunci dengan suara anda. Apa sahaja yang biasanya anda taip — balasan, perenggan, senarai — anda sebut dengan kuat, dan suara ke teks masa nyata menulisnya sambil anda bercakap.",
+                "Ia sangat berguna apabila menaip terasa lambat atau janggal: di telefon, di tablet tanpa papan kekunci, ketika tangan anda sibuk, atau bagi sesiapa yang mendapati menaip memenatkan atau menyakitkan."
+            ]
+        },
+        {
+            "h2": "Teks Serta-merta, Sedia untuk Disunting",
+            "content": [
+                "Dengan taip suara, tiada apa yang perlu ditunggu — tiada rakaman dahulu dan penukaran kemudian. Perkataan sudah ada di skrin sebaik sahaja anda menyebutnya, dengan tanda baca ditambah secara automatik, jadi hasilnya dibaca seperti teks bertulis dan bukan sekadar rentetan perkataan.",
+                "Bahasa lisan memang lebih santai daripada bahasa tulisan, jadi jangkakan sedikit kemas kini ayat di sana sini. Bahagian yang paling sukar — daripada halaman kosong kepada draf lengkap — sudah selesai; sunting teks terus di tempatnya, kemudian salin ke mana-mana aplikasi atau eksport untuk disimpan."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Tulis dengan Suara",
+            "intro": [
+                "Apa sahaja yang boleh ditaip, boleh disebut. Kegunaan paling biasa untuk taip suara:"
+            ],
+            "items": [
+                {
+                    "h3": "E-mel dan balasan",
+                    "content": "Sebut e-mel anda seperti anda menerangkannya kepada seseorang, kemudian tampal ke peti masuk dan hantar. Balasan panjang siap dalam sebahagian kecil masa."
+                },
+                {
+                    "h3": "Nota dan senarai tugasan",
+                    "content": "Catat idea, peringatan atau senarai sebaik sahaja ia terlintas, tanpa perlu membuka papan kekunci."
+                },
+                {
+                    "h3": "Draf pertama",
+                    "content": "Ceritakan isi artikel, laporan atau esei untuk mendapatkan draf kasar yang lengkap dengan cepat, kemudian bentuk menjadi versi akhir."
+                },
+                {
+                    "h3": "Mesej dan hantaran",
+                    "content": "Sebut mesej panjang, kapsyen atau hantaran media sosial di telefon tanpa perlu menaip setiap perkataan dengan ibu jari."
+                },
+                {
+                    "h3": "Latihan bahasa",
+                    "content": "Bercakap dalam bahasa yang sedang anda pelajari dan lihat sama ada perkataan keluar seperti yang dimaksudkan — semakan sebutan yang pantas dan jujur."
+                },
+                {
+                    "h3": "Menulis tanpa tangan dan mudah akses",
+                    "content": "Bagi sesiapa yang mempunyai mobiliti terhad, kecederaan tekanan berulang atau kesukaran menaip, bercakap ialah cara menulis yang lebih pantas dan selesa."
+                }
+            ]
+        },
+        {
+            "h2": "Tip untuk Taip Suara yang Lebih Tepat",
+            "content": [
+                "Bercakap dengan jelas pada kelajuan biasa, dekat dengan mikrofon. Set kepala atau telefon yang dipegang dekat dengan mulut memberi hasil yang lebih bersih berbanding mikrofon komputer riba di hujung bilik.",
+                "Ruang yang sunyi lebih membantu daripada apa-apa lagi. Muzik latar, bunyi trafik atau suara orang lain boleh terselit ke dalam teks, jadi gunakan taip suara di tempat yang tenang apabila ketepatan penting.",
+                "Fikir dalam bentuk ayat, bukan perkataan tunggal. Menghabiskan satu idea sebelum berhenti membantu tanda baca diletakkan di tempat yang betul dan mengurangkan kerja mengemas selepas itu. TranscriptX menyokong lebih 100 bahasa, termasuk speech to text bahasa Melayu, jadi anda boleh menulis dengan suara dalam bahasa yang biasa anda gunakan."
+            ]
+        },
+        {
+            "h2": "Taip Suara atau Live Transcription?",
+            "intro": [
+                "Kedua-duanya menukar ucapan kepada teks ketika ia diucapkan. Bezanya ialah kata-kata siapa yang sedang anda tulis."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih taip suara untuk menulis dengan suara anda",
+                    "content": "Apabila perkataan itu milik anda sendiri — e-mel, nota atau draf yang sedang anda karang — inilah alat untuk menyebutnya dan bukan menaipnya."
+                },
+                {
+                    "h3": "Pilih Live Transcription untuk merakam kata-kata orang lain",
+                    "content": "Apabila anda mahukan rekod bertulis bagi kuliah, temu bual atau perbualan, gunakan [Live Transcription](/ms/live-transcription). Jika ucapan itu sudah dirakam, muat naik ke alat [Voice to Text](/ms/voice-to-text) sebaliknya."
+                }
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimanakah taip suara berfungsi?",
+                    "a": "Anda tekan Mula dan bercakap ke mikrofon. TranscriptX mengenal pasti pertuturan anda sambil anda bercakap dan menulisnya di skrin serta-merta, sambil menambah tanda baca."
+                },
+                {
+                    "q": "Adakah alat taip guna suara ini percuma?",
+                    "a": "Ya, anda boleh bermula secara percuma, tanpa perlu daftar dan tanpa perlu memasang apa-apa. Pendaftaran akaun adalah pilihan, dan pelan berbayar tersedia jika anda kerap menggunakannya."
+                },
+                {
+                    "q": "Adakah tanda baca ditambah, dan bolehkah saya menyunting teks?",
+                    "a": "Ya untuk kedua-duanya. Tanda baca ditambah sambil anda bercakap, jadi teks dibaca seperti tulisan biasa, dan selepas anda berhenti semuanya boleh disunting — betulkan perkataan yang tersalah dengar atau kemaskan ayat sebelum menyalinnya."
+                },
+                {
+                    "q": "Bagaimana saya memasukkan teks ke e-mel atau dokumen?",
+                    "a": "Salin dengan satu klik dan tampal ke mana-mana e-mel, dokumen atau aplikasi sembang, atau eksport sebagai TXT, DOCX atau PDF."
+                },
+                {
+                    "q": "Bahasa apakah yang boleh saya gunakan?",
+                    "a": "Lebih 100 bahasa disokong, termasuk bahasa Melayu, jadi anda boleh menaip dengan suara dalam bahasa yang anda gunakan untuk menulis."
+                },
+                {
+                    "q": "Perlukah saya memuat turun aplikasi?",
+                    "a": "Tidak. Taip suara berjalan dalam pelayar anda di desktop, tablet atau telefon. Anda hanya perlu membenarkan akses mikrofon."
+                },
+                {
+                    "q": "Apakah beza taip suara dengan Live Transcription?",
+                    "a": "Taip suara adalah untuk menyebut kata-kata anda sendiri — menulis dengan bercakap. Live Transcription pula untuk merakam apa yang dikatakan oleh orang lain, seperti kuliah atau temu bual. Kedua-duanya berjalan secara masa nyata, tetapi dibina untuk tugas yang berbeza."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Mula Taip Suara — Dapatkan Teks Serta-merta",
+        "content": [
+            "Tekan Mula, bercakap, dan TranscriptX menukar suara anda kepada teks secara masa nyata, dalam lebih 100 bahasa, terus dalam pelayar anda.",
+            "Gunakan taip suara untuk e-mel, nota, mesej atau draf pertama, kemudian sunting, salin atau eksport. Percuma untuk bermula, tanpa perlu daftar, tanpa perlu memasang apa-apa."
+        ]
+    }
+}

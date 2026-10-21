@@ -1,0 +1,244 @@
+{
+    "seo": {
+        "title": "Video transkribieren — kostenlos Video in Text umwandeln | TranscriptX",
+        "description": "Video in Text umwandeln, kostenlos und online. Lade eine MP4, MOV oder jedes Video hoch und erhalte ein genaues Transkript in über 100 Sprachen mit Sprechertrennung. Export als TXT, DOCX, PDF, SRT. Ohne Anmeldung.",
+        "schemaName": "TranscriptX Video in Text Converter",
+        "schemaDescription": "Kostenloses Online-Tool, das Videodateien in über 100 Sprachen in Text umwandelt und transkribiert — mit Sprechertrennung, optionalen Zeitstempeln und Export als TXT, DOCX, PDF, SRT und VTT. Unterstützt MP4, MOV, AVI, MKV und WebM, ganz ohne Konto.",
+        "ogTitle": "Video transkribieren — kostenlos Video in Text umwandeln | TranscriptX",
+        "ogDescription": "Mach aus jeder Videodatei Text. Lade eine MP4 oder MOV hoch und erhalte ein genaues Transkript in über 100 Sprachen — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "Video transkribieren",
+        "subtitle": "Mach aus jeder Videodatei genauen, bearbeitbaren Text. Lade eine MP4, MOV, AVI oder jedes andere gängige Format hoch — die Aufzeichnung einer Besprechung, eine Bildschirmaufnahme, Material aus der Kamera — und TranscriptX transkribiert sie in über 100 Sprachen, mit Kennzeichnung jedes Sprechers. Export als TXT, DOCX, PDF, SRT oder VTT. Kostenlos, ohne Anmeldung und ohne Limit für die Dateigröße.",
+        "placeholder": "Videodatei hochladen...",
+        "button": "In Text umwandeln"
+    },
+    "quickAnswer": {
+        "question": "Wie kann ich ein Video in Text umwandeln?",
+        "answer": "Lade deine Videodatei bei TranscriptX hoch — das Gesprochene wird in wenigen Minuten in geschriebenen Text umgewandelt, in über 100 Sprachen und mit Kennzeichnung jedes Sprechers. Anschließend kannst du das Transkript lesen, bearbeiten, kopieren oder in fünf Formaten speichern. Es ist kein Konto nötig, es gibt kein Limit für die Dateigröße und du musst nichts auf deinem Gerät installieren."
+    },
+    "sections": [
+        {
+            "h2": "Was bedeutet Video in Text umwandeln?",
+            "content": [
+                "Ein Video in Text umwandeln heißt, das Gesprochene in einem Video als lesbare Worte auszuschreiben. Du gibst dem Tool eine Datei — einen aufgezeichneten Anruf, ein Webinar, eine Vorlesung, ein Stück Filmmaterial — und statt es in Echtzeit anzusehen und mitzutippen, bekommst du das Ganze als Text zurück.",
+                "Video ist eines der unhandlichsten Formate für Informationen. Du kannst es nicht überfliegen, du kannst es nicht nach einer Formulierung durchsuchen und du kannst keinen Satz daraus herauslösen — der nützliche Inhalt bleibt hinter einem Play-Button und einer Zeitleiste eingesperrt. Sobald dieses Video zu Text wird, liest du es in einem Bruchteil der Laufzeit, findest jede Zeile in einer Sekunde und verschiebst ein Zitat direkt in ein Dokument.",
+                "Text aus Video extrahieren schaltet außerdem alles frei, was danach kommt. Sobald die Worte als Text vorliegen, kannst du sie übersetzen, zu Untertiteln machen, zusammenfassen oder einem KI-Assistenten wie ChatGPT, Claude oder Gemini geben — nichts davon erlaubt dir das rohe Video.",
+                "TranscriptX erledigt diese Umwandlung kostenlos, direkt im Browser, ohne Konto und ohne Begrenzung der Dateigröße."
+            ]
+        },
+        {
+            "h2": "Video zu Text auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine — läuft im Browser"
+                },
+                {
+                    "label": "Limit für Dateigröße",
+                    "value": "Keines"
+                },
+                {
+                    "label": "Unterstützte Formate",
+                    "value": "MP4, MOV, AVI, MKV, WebM und mehr"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Sprechertrennung",
+                    "value": "Ja — jeder Sprecher wird gekennzeichnet"
+                },
+                {
+                    "label": "Zeitstempel",
+                    "value": "Optional — pro Transkript an- oder abschaltbar"
+                },
+                {
+                    "label": "Exportformate",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Geräte",
+                    "value": "Browser auf Desktop, Tablet und Smartphone"
+                }
+            ]
+        },
+        {
+            "h2": "Videodatei in Text umwandeln – Schritt für Schritt",
+            "steps": [
+                {
+                    "h3": "Videodatei hochladen",
+                    "content": "Zieh eine MP4, MOV, AVI oder jedes andere gängige Videoformat direkt von deinem Gerät hinein, oder füge einen Link zum Video ein. Es gibt keine Obergrenze für die Länge — ein zweiminütiger Clip funktioniert genauso wie eine dreistündige Aufzeichnung."
+                },
+                {
+                    "h3": "Das Tool transkribiert das Gesprochene",
+                    "content": "TranscriptX holt die Tonspur aus dem Video, erkennt die gesprochene Sprache von selbst über 100 Sprachen hinweg, unterscheidet die Sprecher und schreibt alles mit Zeichensetzung und Satzgrenzen aus. So wird die Sprache aus dem Video in Text umgewandelt, ohne dass du etwas einstellen musst."
+                },
+                {
+                    "h3": "Transkript durchsehen",
+                    "content": "Lies den Text einmal durch und korrigiere, was die Aufnahme schwer verständlich gemacht hat — Namen, Zahlen und Fachbegriffe sind das, was einen zweiten Blick verdient, bevor du damit weiterarbeitest."
+                },
+                {
+                    "h3": "Transkript exportieren oder kopieren",
+                    "content": "Kopiere den Text direkt heraus oder lade das Transkript als TXT, DOCX, PDF, SRT oder VTT herunter. Schalte vorher die Zeitstempel an, wenn du Untertitel bauen oder ein Zitat gegen das Material prüfen willst."
+                }
+            ]
+        },
+        {
+            "h2": "Kostenlose Video Transkription online",
+            "content": [
+                "TranscriptX bietet Video Transkription kostenlos, ohne Bezahlschranke am Ende. Viele Tools lassen dich hochladen und die Transkription laufen — und fragen dann nach einer Kreditkarte, bevor sie dir das Ergebnis zeigen, oder deckeln dich nach ein paar Minuten Material. Nichts davon gibt es hier: Du kannst dein Video transkribieren, kostenlos, ohne Konto und ohne Limit dafür, wie lang oder wie groß die Datei ist.",
+                "Das Tool ist für Leute gebaut, die das Video schon haben und einfach nur die Worte wollen. Du installierst keine Desktop-Software und schließt kein Abo ab — du lädst ein Video hoch, das Tool macht seine Arbeit und du nimmst den Text mit. Manche suchen einen Video Transkriber, andere wollen ihr Video in Text umwandeln, kostenlos und ohne Umwege: Es ist in beiden Fällen dasselbe Werkzeug, und ob du einmal oder jede Woche ein Video transkribieren willst — die Grenze taucht nie auf.",
+                "Weil alles im Browser läuft, funktioniert das Tool auf dem Laptop, dem Tablet und dem Handy identisch. Ein Video online transkribieren heißt hier wirklich online: Es gibt nichts herunterzuladen und kein Plugin, das aktuell gehalten werden müsste."
+            ]
+        },
+        {
+            "h2": "Video transkribieren – präzise und zuverlässig",
+            "content": [
+                "Eine Datei umwandeln und sie transkribieren beschreiben dieselbe Handlung, aber das Wort transkribieren signalisiert meist einen höheren Anspruch: Das Ergebnis soll stimmen, nicht nur ungefähr stimmen. Genau das gilt, wenn du ein Video einer Kundenbesprechung transkribierst, aus der Aufgaben folgen, ein Interview, das du zitieren wirst, oder eine Schulung, aus der Dokumentation werden soll.",
+                "TranscriptX ist für diesen Anspruch gebaut. Wenn du ein Video transkribierst, wird nicht einfach ein Wortschwall auf die Seite gekippt — das Gesprochene wird interpunktiert, in lesbare Sätze zerlegt und jeder Sprecher gekennzeichnet. Eine Aufnahme mit mehreren Personen kommt so als klares Protokoll zurück, wer was gesagt hat, statt als ein einziger endloser Absatz. Das Ziel bleibt immer dasselbe: ein Transkript, auf das du dich verlassen kannst.",
+                "Auch schwierigere Aufnahmen sind kein Problem. Ein Video automatisch transkribieren funktioniert selbst dann, wenn Raumgeräusche, überlappende Stimmen oder ein starker Akzent im Spiel sind — auch wenn genau diese Stellen es wert sind, noch einmal geprüft zu werden. Bei einer sauberen Aufnahme mit nur einem Sprecher kommt das Transkript nahezu Wort für Wort zurück."
+            ]
+        },
+        {
+            "h2": "Unterstützte Videoformate",
+            "intro": [
+                "TranscriptX akzeptiert die Videoformate, die du am ehesten hast — du musst eine Datei also nur selten vor dem Hochladen umwandeln."
+            ],
+            "items": [
+                {
+                    "h3": "MP4",
+                    "content": "Der Standard von Handys, Kameras und den meisten Downloads, und das Format, in dem die Mehrheit der Uploads ankommt. Zieh es hinein und transkribiere es so, wie es ist: MP4 in Text umwandeln braucht keinen Zwischenschritt."
+                },
+                {
+                    "h3": "MOV",
+                    "content": "Das Format von Apple, erzeugt von iPhones, iPads und QuickTime. Lade es direkt hoch, ganz ohne Konvertierungsschritt dazwischen."
+                },
+                {
+                    "h3": "AVI und MKV",
+                    "content": "Ältere und hochwertige Containerformate, verbreitet bei längeren Aufzeichnungen und heruntergeladenem Material. Beide lassen sich wie jede andere Datei hochladen und transkribieren, ohne Größenlimit, um das du dich sorgen müsstest."
+                },
+                {
+                    "h3": "WebM",
+                    "content": "Das Format, in das viele Bildschirmrekorder und browserbasierte Tools exportieren. Lade es direkt aus dem Programm hoch, das es erzeugt hat."
+                }
+            ]
+        },
+        {
+            "h2": "Was du transkribieren kannst",
+            "intro": [
+                "Wenn im Video gesprochen wird, macht TranscriptX Text daraus. Das sind die Aufnahmen, die am häufigsten umgewandelt werden — und warum das Transkript bei jeder davon zählt:"
+            ],
+            "items": [
+                {
+                    "h3": "Zoom-, Teams- und Meet-Aufzeichnungen",
+                    "content": "Aus einem aufgezeichneten Videoanruf wird ein schriftliches Protokoll, mit jedem Teilnehmer gekennzeichnet — Entscheidungen und Aufgaben leben dann auf einer Seite statt in einer einstündigen Datei, die niemand noch einmal ansieht."
+                },
+                {
+                    "h3": "Bildschirmaufnahmen und Tutorials",
+                    "content": "Aus einem aufgezeichneten Rundgang oder einer Demo wird Text Schritt für Schritt — ein Ablauf, den jemand einmal erklärt hat, wird zu Dokumentation, die das ganze Team lesen und durchsuchen kann."
+                },
+                {
+                    "h3": "Webinare und Präsentationen",
+                    "content": "Aus einem aufgezeichneten Webinar wird ein Dokument, das du nach den wichtigen Punkten überfliegen kannst, und eine Quelle, aus der du Zitate und Erkenntnisse ziehst, ohne die Folien erneut abzuspielen."
+                },
+                {
+                    "h3": "Kamera- und Eventmaterial",
+                    "content": "Interviews, Vorträge und Material, das mit Kamera oder Handy aufgenommen wurde, werden zu zitierbarem, durchsuchbarem Text — mit getrennten Sprechern, damit die Zuordnung eindeutig bleibt."
+                },
+                {
+                    "h3": "Vorlesungen und aufgezeichneter Unterricht",
+                    "content": "Aus einer aufgezeichneten Lehrveranstaltung wird Lernmaterial, das du nach Begriffen durchsuchen, markieren und noch lange nach der Sitzung zu Notizen verdichten kannst."
+                },
+                {
+                    "h3": "Heruntergeladenes und archiviertes Video",
+                    "content": "Jede Videodatei, die du gespeichert hast — ein Vortrag, den du behalten hast, ein Clip, den dir jemand geschickt hat — wird zu Text, den du lesen und weiterverwenden kannst, statt ihn ungesehen liegen zu lassen."
+                }
+            ]
+        },
+        {
+            "h2": "Wie genau ist die Umwandlung von Video in Text?",
+            "content": [
+                "Wie nah das Transkript am Video bleibt, hängt vor allem an der Aufnahme. Deutliche Sprache, gleichmäßige Lautstärke und wenig Hintergrundgeräusch liefern die besten Ergebnisse — ein gut aufgenommenes Webinar oder ein einzelner Sprecher vor der Kamera kommt oft fast Wort für Wort zurück.",
+                "Nachlassen tut die Genauigkeit bei schwierigem Ton: mehrere Personen, die in einem Anruf durcheinanderreden, Hall in einem großen Raum, Musik unter den Dialogen oder starke Akzente in Kombination mit dichtem Fachjargon. Die Transkription läuft trotzdem durch, aber genau diese Passagen sollte man aufmerksam lesen, bevor man sich darauf stützt.",
+                "Praktisch prüfst du am besten so: Überflieg das Transkript entlang der Stellen, die dir am wichtigsten sind — die Zahlen, die Namen, die zentralen Entscheidungen — und korrigiere nur diese. Eine Handvoll Wörter zu korrigieren dauert Sekunden im Vergleich dazu, die ganze Aufnahme selbst zu verschriftlichen — und genau darum geht es beim Umwandeln von Video in Text überhaupt."
+            ]
+        },
+        {
+            "h2": "Video zu Text in über 100 Sprachen",
+            "content": [
+                "TranscriptX transkribiert Sprache in mehr als 100 Sprachen und erkennt von selbst, welche es gerade hört — du stellst vor dem Hochladen also nichts ein. Ein auf Deutsch aufgenommenes Video kommt als deutscher Text zurück, eines auf Vietnamesisch als vietnamesischer Text. Video zu Text online funktioniert gleich, egal in welcher Sprache die Aufnahme ist.",
+                "Die Sprechertrennung funktioniert in jeder Sprache, und genau das hält eine Aufnahme mit mehreren Personen lesbar statt ineinandergeschoben. Und weil das Transkript reiner Text ist, kannst du es hinterher übersetzen — transkribiere das Video in der Originalsprache und übersetze das Ergebnis dann, um denselben Inhalt mit einem Publikum zu teilen, das die Sprache nicht spricht."
+            ]
+        },
+        {
+            "h2": "Transkript in fünf Formaten exportieren",
+            "content": [
+                "Jedes Transkript lässt sich in fünf Formaten exportieren, und welches das richtige ist, hängt davon ab, wohin der Text als Nächstes geht. TXT ist reiner, unformatierter Text — am saubersten zum Lesen, Durchsuchen oder Einfügen in ein anderes Tool. DOCX öffnet sich in Word, Google Docs und Pages, wenn du aus dem Transkript ein Dokument formen willst. PDF gibt dir einen festen Stand, der bei allen gleich aussieht — richtig zum Teilen oder Ablegen von etwas, das so bleiben soll, wie es ist.",
+                "Die anderen beiden tragen die Zeitinformation. SRT ist das Untertitelformat, das praktisch jeder Player und jedes Schnittprogramm akzeptiert — schalte also die Zeitstempel an und exportiere SRT, wenn du aus dem Video Untertitel als Textdatei erstellen willst. VTT übernimmt dieselbe Aufgabe für Video, das in einer Webseite abgespielt wird.",
+                "Wenn deine Quelle in Wirklichkeit eine Audiodatei ist statt eines Videos, ist das Tool [Audio in Text umwandeln](/de/audio-to-text) genau darauf zugeschnitten. Und wenn das Video auf einer Plattform liegt statt auf deinem Gerät, transkribieren [YouTube Transkript](/de/youtube-transcript), [TikTok Transkript](/de/tiktok-transcript) und [Instagram Transkript](/de/instagram-transcript) direkt aus einem Link — dort fügst du den Link ein, statt eine Datei hochzuladen."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich ein Video kostenlos in Text umwandeln?",
+                    "a": "Lade deine Videodatei bei TranscriptX hoch — sie wird ohne Kosten in Text transkribiert. Du kannst dein Video in Text umwandeln, online und kostenlos, ohne Anmeldung, ohne Software und ohne Limit für Länge oder Größe. Sobald es fertig ist, kopierst oder exportierst du das Transkript."
+                },
+                {
+                    "q": "Welche Videoformate kann ich hochladen?",
+                    "a": "Die gängigen — MP4, MOV, AVI, MKV und WebM unter anderem — sodass du meist direkt von deinem Handy, deiner Kamera oder deinem Bildschirmrekorder hochladen kannst, ohne die Datei vorher zu konvertieren."
+                },
+                {
+                    "q": "Gibt es ein Limit für Dateigröße oder Länge?",
+                    "a": "Nein. Kurze Clips und mehrstündige Aufzeichnungen funktionieren beide. Ein längeres Video braucht in der Verarbeitung einfach etwas mehr Zeit."
+                },
+                {
+                    "q": "Ist das Video transkribieren wirklich kostenlos?",
+                    "a": "Ja. TranscriptX ist ein kostenloser Video Transkriber ohne Bezahlschranke — Video hochladen, transkribieren, Text mitnehmen, ohne Konto und ohne Kosten."
+                },
+                {
+                    "q": "Wie genau ist die Transkription?",
+                    "a": "Das hängt vor allem an der Aufnahme. Ein deutlicher Sprecher mit wenig Hintergrundgeräusch wird nahezu wortgetreu transkribiert, während überlappende Stimmen, Hall oder starke Akzente die Genauigkeit senken. Namen, Zahlen und Fachbegriffe durchzusehen, bevor du dich auf den Text verlässt, lohnt sich immer."
+                },
+                {
+                    "q": "Kann das Tool verschiedene Sprecher unterscheiden?",
+                    "a": "Ja. Jeder Sprecher wird einzeln gekennzeichnet, sodass aufgezeichnete Besprechungen, Interviews und Podiumsdiskussionen zeigen, wer was gesagt hat, statt als ein Textblock zurückzukommen."
+                },
+                {
+                    "q": "Welche Sprachen werden unterstützt?",
+                    "a": "Über 100. Die gesprochene Sprache wird automatisch erkannt, du wählst sie vor dem Hochladen also nicht aus, und das Transkript kommt in derselben Sprache zurück."
+                },
+                {
+                    "q": "Kann ich aus dem Video Untertitel bekommen?",
+                    "a": "Ja. Schalte die Zeitstempel an und exportiere SRT oder VTT — so bekommst du eine Untertiteldatei, die du in einen Player oder ein Schnittprogramm laden oder zusammen mit dem Video hochladen kannst."
+                },
+                {
+                    "q": "Muss ich Software installieren?",
+                    "a": "Nein. Alles läuft im Browser, auf dem Desktop wie auf dem Handy. Es gibt keine App, kein Plugin und keine Erweiterung, die du installieren müsstest, um Text aus einem Video zu extrahieren."
+                },
+                {
+                    "q": "Kann ich das Transkript mit einem KI-Assistenten nutzen?",
+                    "a": "Ja. Kopiere oder exportiere den Text und füge ihn in ChatGPT, Claude oder Gemini ein, um das Video zusammenzufassen, Aufgaben herauszuziehen oder daraus einen Artikel zu formen."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Video transkribieren – kostenlos und ohne Limit",
+        "content": [
+            "Lade eine MP4, MOV oder jede andere gängige Videodatei hoch — TranscriptX transkribiert sie in über 100 Sprachen, mit Sprecherkennzeichnung und optionalen Zeitstempeln. Es ist kostenlos, es gibt nichts zu installieren und kein Limit für die Datei.",
+            "Lies das Transkript, überarbeite es, übersetze es oder speichere es als TXT, DOCX, PDF, SRT oder VTT — je nachdem, was aus der Aufnahme als Nächstes werden soll."
+        ]
+    }
+}

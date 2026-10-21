@@ -1,0 +1,186 @@
+{
+    "seo": {
+        "title": "Transkrip TikTok — Ubah Video TikTok Jadi Teks Gratis | TranscriptX",
+        "description": "Buat transkrip TikTok online gratis. Tempel link TikTok untuk mengubah ucapan di video mana pun menjadi teks dalam 100+ bahasa, lalu baca, salin, edit atau terjemahkan. Tanpa daftar.",
+        "schemaName": "Alat Transkrip TikTok TranscriptX",
+        "schemaDescription": "Alat online gratis yang membuat transkrip dari video TikTok publik dalam lebih dari 100 bahasa. Tempel linknya dan semua ucapan di dalam videonya berubah menjadi teks yang bisa Anda baca, salin, edit, terjemahkan atau unduh, tanpa perlu akun.",
+        "ogTitle": "Transkrip TikTok — Ubah Video TikTok Jadi Teks Gratis | TranscriptX",
+        "ogDescription": "Ubah video TikTok apa pun jadi teks dalam hitungan detik. Tempel linknya, transkripnya keluar dalam 100+ bahasa, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Transkrip TikTok",
+        "subtitle": "Ubah video TikTok publik apa pun menjadi teks. Tempel linknya dan TranscriptX menuliskan setiap kata yang diucapkan di dalam klipnya, dalam lebih dari 100 bahasa, jadi Anda bisa membacanya, menyalin hooknya, mengeditnya atau menerjemahkannya. Tanpa akun, tanpa yang perlu dipasang.",
+        "placeholder": "Tempel URL video TikTok...",
+        "button": "Buat Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara mengambil transkrip video TikTok?",
+        "answer": "Salin link berbagi sebuah video TikTok publik lalu tempel ke TranscriptX. Alat ini membaca audionya dan membuat transkrip video TikTok itu dalam hitungan detik, dalam lebih dari 100 bahasa, siap dibaca, disalin, diedit atau diunduh. Tidak ada akun yang perlu dibuat dan tidak ada apa pun yang harus dipasang."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkrip TikTok?",
+            "content": [
+                "Transkrip TikTok adalah isi ucapan dalam sebuah video TikTok yang dituliskan menjadi teks. Semua yang dikatakan kreatornya — hooknya, langkah-langkahnya, kalimat penutupnya — berubah menjadi kata-kata yang bisa Anda baca, cari dan salin, bukan lagi sesuatu yang harus Anda putar berulang kali hanya untuk menangkapnya.",
+                "Video pendek itulah yang membuat transkrip video TikTok begitu berguna. Bagian yang berharga sering cuma satu baris yang terkubur di dalam klip yang berlari cepat: satu tips di dalam resep, satu klaim di sebuah review, satu kalimat yang membuat video itu viral. Transkripnya membekukan baris tersebut sebagai teks sebelum videonya tergulung hilang dari FYP Anda.",
+                "Halaman ini dibuat untuk melakukan satu hal dengan baik — mengeluarkan kata-kata dari sebuah TikTok. Entah Anda menyebutnya mengambil transkripnya, membuatnya, atau mengubah videonya menjadi teks, hasilnya tetap sama, jadi semuanya ada di sini, bukan terpecah ke alat-alat terpisah."
+            ]
+        },
+        {
+            "h2": "Transkrip Video TikTok Sekilas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak ada — berjalan di browser"
+                },
+                {
+                    "label": "Masukan",
+                    "value": "Link video TikTok publik apa pun"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Jalan tanpa subtitle otomatis di layar",
+                    "value": "Ya — teksnya berasal dari audio"
+                },
+                {
+                    "label": "Hasil",
+                    "value": "Teks yang bisa diedit, disalin, diterjemahkan atau diekspor"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser HP, tablet dan desktop"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mengubah Video TikTok Jadi Teks",
+            "steps": [
+                {
+                    "h3": "Salin link TikToknya",
+                    "content": "Ketuk Share pada videonya lalu salin linknya, atau salin URL dari bilah alamat kalau Anda memakai desktop. Semua TikTok publik bisa dipakai."
+                },
+                {
+                    "h3": "Tempel ke TranscriptX",
+                    "content": "Masukkan link itu ke kotak di atas. Tidak ada akun yang perlu dibuat dan tidak ada yang perlu diunggah — alat ini membaca videonya langsung dari linknya."
+                },
+                {
+                    "h3": "Transkripnya pun dibuat",
+                    "content": "TranscriptX mendengarkan audionya, mendeteksi sendiri bahasanya, lalu menuliskan kata demi kata lengkap dengan tanda baca hanya dalam beberapa detik."
+                },
+                {
+                    "h3": "Pakai teksnya",
+                    "content": "Baca, salin bagian yang Anda mau, edit, terjemahkan, atau unduh untuk disimpan."
+                }
+            ]
+        },
+        {
+            "h2": "Generator Transkrip TikTok",
+            "content": [
+                "Sebagian besar TikTok tidak punya jalur teks rapi yang bisa langsung diambil, dan subtitle otomatis yang muncul di layar pun sering salah atau tanpa tanda baca. Karena itu TranscriptX bekerja sebagai generator transkrip TikTok: teksnya dibangun dari audionya sendiri, bukan bergantung pada teks yang mungkin tidak pernah ditambahkan kreatornya.",
+                "Artinya Anda tetap bisa mentranskrip video TikTok meski tidak ada subtitle apa pun di layar. Generator ini sanggup menangani orang yang bicara cepat, suara latar dan audio yang sedang tren, serta memberi label pada pembicara yang berbeda saat sebuah video punya lebih dari satu orang — duet, stitch, atau potongan wawancara.",
+                "Sebagai alat transkripsi video TikTok, ia bisa menuliskan audio TikTok dalam bahasa apa pun yang didengarnya, jadi video berbahasa Indonesia kembali sebagai teks dalam Bahasa Indonesia, begitu pula bahasa lainnya."
+            ]
+        },
+        {
+            "h2": "Video TikTok Jadi Teks",
+            "content": [
+                "Kalau Anda tidak terbiasa dengan istilah \"transkrip\" dan hanya ingin mengubah video TikTok jadi teks, ini alat yang sama dengan nama yang lebih pas. Tempel linknya, dan isi ucapan videonya kembali sebagai teks biasa yang enak dibaca.",
+                "Mengubah suara TikTok jadi tulisan berguna jauh melampaui urusan membaca. Kreator menarik naskah video viral untuk mempelajari kenapa video itu berhasil, pelaku marketing mengambil poin-poin pembicaraan dari klip kompetitor, dan pembelajar bahasa membaca pelan-pelan video penutur asli yang bicara cepat, dengan kecepatan mereka sendiri, begitu ucapannya sudah jadi teks di halaman."
+            ]
+        },
+        {
+            "h2": "Kenapa Mengubah TikTok Pendek Jadi Teks?",
+            "intro": [
+                "Sebuah klip cuma berjalan beberapa detik, jadi wajar kalau Anda bertanya kenapa harus ditranskrip sama sekali. Karena nilai sebuah TikTok sering bertahan lebih lama daripada gulirannya — dan teks adalah cara Anda menyimpannya."
+            ],
+            "items": [
+                {
+                    "h3": "Simpan hooknya sebelum tergulung hilang",
+                    "content": "Baris yang menghentikan jempol Anda adalah bagian paling berharga dari sebuah TikTok. Sebagai teks, Anda bisa menyimpannya, mempelajarinya, dan menulis versi Anda sendiri, bukan berusaha mengingatnya."
+                },
+                {
+                    "h3": "Pelajari naskah video viral",
+                    "content": "Kreator membedah apa yang berhasil dengan membaca kata demi kata video yang meledak — ritmenya, strukturnya, ajakan bertindaknya — dan itu jauh lebih mudah dilakukan di halaman daripada sambil memutar videonya."
+                },
+                {
+                    "h3": "Ambil sebuah tips atau resep",
+                    "content": "Video masak atau tutorial sembilan detik memadatkan langkah-langkahnya dengan sangat cepat. Transkripnya mengubahnya menjadi instruksi yang bisa Anda ikuti tanpa menggeser maju-mundur."
+                },
+                {
+                    "h3": "Pakai ulang di platform lain",
+                    "content": "Ubah isi ucapan sebuah TikTok menjadi caption, sebuah utas, naskah untuk Reel atau Short, atau satu paragraf blog — semuanya berangkat dari teksnya, bukan dari menonton ulang klipnya."
+                },
+                {
+                    "h3": "Belajar bahasa dari ucapan nyata",
+                    "content": "Audio TikTok penutur asli itu cepat dan santai. Membaca transkripnya berdampingan dengan videonya adalah cara praktis menangkap slang dan gaya bicara yang akan terlewat pada kecepatan penuh."
+                },
+                {
+                    "h3": "Kutip sebuah klaim dengan akurat",
+                    "content": "Untuk sebuah review, bantahan, atau bahan riset, transkrip memberi Anda kata-kata persis milik kreatornya untuk dikutip, bukan parafrase yang kira-kira saja."
+                }
+            ]
+        },
+        {
+            "h2": "Salin, Edit, Terjemahkan, atau Unduh",
+            "content": [
+                "Begitu transkripnya muncul di layar, teks itu milik Anda untuk dipakai. Salin seluruhnya atau hooknya saja, edit teksnya untuk merapikan kata-kata mubazir, atau terjemahkan ke bahasa lain tanpa meninggalkan halaman ini.",
+                "Ingin menyimpannya, bukan sekadar melihatnya di layar? Anda bisa download transkrip TikTok itu sebagai sebuah file, atau cukup menyalinnya dari layar. Dan kalau yang sebenarnya Anda mau adalah file subtitle bertimecode — teks yang dipasang pada sebuah repost, bukan teks biasa untuk dibaca — [TikTok Caption Downloader](/id/tiktok-caption-downloader) memang dibangun untuk pekerjaan itu. Menggarap video yang lebih panjang juga? Alat [YouTube Transcript](/id/youtube-transcript) melakukan hal yang sama untuk YouTube."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara mentranskrip video TikTok secara gratis?",
+                    "a": "Tempel link berbagi TikToknya ke TranscriptX, lalu videonya ditranskrip tanpa biaya. Tidak ada akun yang perlu dibuat, tidak ada aplikasi yang perlu dipasang, dan tidak ada batasan berapa banyak video yang Anda jalankan."
+                },
+                {
+                    "q": "Apakah ini generator transkrip TikTok gratis?",
+                    "a": "Ya. TranscriptX bekerja sebagai generator transkrip TikTok gratis — teksnya dibangun dari audionya, jadi tetap jalan walaupun videonya tidak punya teks apa pun di layar."
+                },
+                {
+                    "q": "Bisakah saya mengubah video TikTok jadi teks?",
+                    "a": "Bisa. Mengubah video TikTok menjadi teks dan mengambil transkripnya adalah tindakan yang sama di sini. Tempel linknya, lalu kata-kata yang diucapkan kembali sebagai teks yang bisa diedit."
+                },
+                {
+                    "q": "Apakah tetap jalan kalau TikToknya tidak punya teks di layar?",
+                    "a": "Ya. Transkripnya berasal dari audio, bukan dari jalur teks mana pun, jadi video tanpa subtitle yang terlihat di layar tetap bisa ditranskrip seperti biasa."
+                },
+                {
+                    "q": "Bahasa apa saja yang bisa ditranskrip?",
+                    "a": "Lebih dari 100 bahasa, termasuk Bahasa Indonesia. TranscriptX mendeteksi sendiri bahasa yang diucapkan, jadi teksnya kembali dalam bahasa yang dipakai saat TikTok itu direkam."
+                },
+                {
+                    "q": "Apakah saya perlu aplikasi TikTok atau sebuah akun?",
+                    "a": "Tidak. Semuanya berjalan di browser hanya dengan link videonya. Tidak ada aplikasi yang perlu dibuka dan tidak ada akun yang perlu dimasuki."
+                },
+                {
+                    "q": "Bisakah saya mengambil transkrip dari TikTok panjang atau siaran live?",
+                    "a": "Bisa untuk video biasa berapa pun durasinya, selama sudah diposting. Siaran yang masih berlangsung belum punya rekaman yang selesai, jadi tunggu sampai siarannya berakhir dan videonya terbit."
+                },
+                {
+                    "q": "Bisakah saya download transkrip TikToknya?",
+                    "a": "Bisa. Anda bisa menyalin teksnya atau mengunduh transkripnya untuk disimpan. Kalau yang Anda butuhkan adalah file subtitle bertimecode, bukan teks biasa, pakai TikTok Caption Downloader saja."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Ambil Transkrip TikTok Anda Gratis",
+        "content": [
+            "Tempel link TikTok publik dan TranscriptX mengubah videonya menjadi teks dalam lebih dari 100 bahasa — mengambilnya, membuatnya, atau mengubah videonya jadi teks, semuanya dari satu halaman.",
+            "Baca, salin hooknya, edit, terjemahkan, atau unduh. Tanpa akun, tanpa instalasi, tanpa biaya."
+        ]
+    }
+}

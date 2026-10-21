@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "FAQ | TranscriptX AI Transcription Platform",
+        "meta_description": "Find answers to common questions about TranscriptX, including AI transcription, video to text, audio to text, YouTube transcripts, subtitles, captions, AI summaries, supported formats, privacy, and transcription accuracy."
+    },
+    "headings": {
+        "h1": "Frequently Asked Questions"
+    },
+    "faqCategories": [
+        {
+            "title": "General Questions",
+            "items": [
+                {
+                    "q": "What is TranscriptX?",
+                    "a": "TranscriptX is an AI-powered transcription platform that helps you convert video and audio into accurate, editable text. In addition to AI transcription, TranscriptX offers Video to Text, Audio to Text, YouTube Transcript, TikTok Transcript, Instagram Transcript, Facebook Transcript, AI Summarization, and Subtitle & Caption tools."
+                },
+                {
+                    "q": "How does TranscriptX work?",
+                    "a": "Simply upload your audio or video file, or use one of our supported online tools. TranscriptX automatically processes the media with AI, generates a transcript, and allows you to review, edit, copy, translate, summarize, or export the results."
+                },
+                {
+                    "q": "Do I need to install any software?",
+                    "a": "No. TranscriptX works entirely in your web browser. There is nothing to install, and you can access the platform from desktop, tablet, or mobile devices."
+                },
+                {
+                    "q": "Is TranscriptX free to use?",
+                    "a": "Yes. TranscriptX offers free AI transcription tools, with additional features and capabilities that may vary depending on the service or workflow you choose."
+                }
+            ]
+        },
+        {
+            "title": "AI Transcription",
+            "items": [
+                {
+                    "q": "How accurate are TranscriptX transcripts?",
+                    "a": "TranscriptX uses advanced AI speech recognition to generate highly accurate transcripts. Accuracy depends on factors such as audio quality, background noise, speaker clarity, accents, and the number of people speaking. For important content, we recommend reviewing the transcript before publishing."
+                },
+                {
+                    "q": "What types of media can TranscriptX transcribe?",
+                    "a": "TranscriptX supports a wide variety of audio and video content, including meetings, interviews, podcasts, lectures, webinars, voice recordings, presentations, online videos, and many other spoken-content formats."
+                },
+                {
+                    "q": "Can I edit my transcript after it is generated?",
+                    "a": "Yes. Every transcript can be reviewed and edited, allowing you to correct names, punctuation, formatting, or any AI recognition errors before exporting or sharing."
+                },
+                {
+                    "q": "Can TranscriptX generate subtitles and captions?",
+                    "a": "Yes. In addition to transcripts, TranscriptX provides AI-powered subtitle and caption generation, making it easier to create accessible and engaging video content."
+                }
+            ]
+        },
+        {
+            "title": "Supported Tools",
+            "items": [
+                {
+                    "q": "Can I get a YouTube transcript?",
+                    "a": "Yes. TranscriptX allows you to generate transcripts from supported YouTube videos, making it easy to read, search, copy, summarize, or reuse spoken content."
+                },
+                {
+                    "q": "Does TranscriptX support TikTok, Instagram, and Facebook videos?",
+                    "a": "Yes. TranscriptX includes dedicated tools for generating transcripts from supported TikTok, Instagram, and Facebook videos, helping creators and businesses work with social media content more efficiently."
+                },
+                {
+                    "q": "Can TranscriptX convert audio files into text?",
+                    "a": "Yes. Our Audio to Text tools automatically convert spoken audio into searchable and editable text using AI-powered speech recognition."
+                },
+                {
+                    "q": "Can TranscriptX summarize long recordings?",
+                    "a": "Yes. AI Summarization helps you quickly understand lengthy meetings, interviews, lectures, or podcasts by generating concise summaries and key points."
+                }
+            ]
+        },
+        {
+            "title": "Privacy & Security",
+            "items": [
+                {
+                    "q": "Who owns the content I upload?",
+                    "a": "You retain ownership of all videos, audio recordings, transcripts, subtitles, captions, and other materials you process with TranscriptX. We do not claim ownership of your content."
+                },
+                {
+                    "q": "Does TranscriptX make my files public?",
+                    "a": "No. TranscriptX is an AI transcription platform, not a public content hosting or publishing service. Uploading content does not make it publicly available through our platform."
+                },
+                {
+                    "q": "Is my data processed securely?",
+                    "a": "Yes. TranscriptX is designed with user privacy and security in mind. We continuously improve our systems and workflows to help protect user data throughout the transcription process."
+                }
+            ]
+        },
+        {
+            "title": "Compatibility & Usage",
+            "items": [
+                {
+                    "q": "Can I use TranscriptX on mobile devices?",
+                    "a": "Yes. TranscriptX works on modern web browsers across Windows, macOS, Linux, Android, iPhone, and iPad without requiring additional software."
+                },
+                {
+                    "q": "Who is TranscriptX designed for?",
+                    "a": "TranscriptX is built for content creators, students, educators, researchers, journalists, marketers, podcasters, businesses, video editors, and anyone who needs fast and accurate AI transcription."
+                },
+                {
+                    "q": "When should I use TranscriptX?",
+                    "a": "TranscriptX is ideal whenever you need to turn spoken content into searchable text, generate subtitles, create captions, summarize conversations, document meetings, analyze interviews, or repurpose video and audio into written content."
+                }
+            ]
+        }
+    ]
+}

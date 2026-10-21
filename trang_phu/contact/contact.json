@@ -1,0 +1,70 @@
+{
+  "seo": {
+    "title": "Contact TranscriptX | AI Transcription Support",
+    "meta_description": "Contact TranscriptX for support, technical assistance, feature requests, partnership opportunities, bug reports, or any questions about our AI transcription platform for video, audio, transcripts, subtitles, and summaries."
+  },
+  "headings": {
+    "h1": "Contact TranscriptX"
+  },
+  "hero": {
+    "title": "We're Here to Help",
+    "description": "Questions about AI transcription, transcripts, subtitles, or our tools? The TranscriptX team is ready to help."
+  },
+  "contact": {
+    "email": "contact.freemd.io@gmail.com",
+    "support_email": "contact.freemd.io@gmail.com",
+    "label": "Email",
+    "availability": "We review support requests regularly and aim to respond as quickly as possible."
+  },
+  "sections": {
+    "1": {
+      "tag": "p",
+      "content": [
+        "Thank you for choosing TranscriptX.",
+        "Whether you need help with AI transcription, video or audio processing, transcript generation, subtitle creation, or any of our online tools, we're always happy to hear from you.",
+        "Every question, suggestion, and bug report helps us improve TranscriptX and build a better AI transcription experience for everyone."
+      ]
+    },
+    "2": {
+      "tag": "h2",
+      "title": "How We Can Help",
+      "body": [
+        "Our team can assist with technical issues, AI transcription questions, transcript accuracy, subtitle and caption generation, account inquiries, feature requests, partnership opportunities, and bug reports.",
+        "If you're using TranscriptX to transcribe videos, convert audio to text, generate YouTube, TikTok, Instagram, or Facebook transcripts, or summarize long recordings with AI, we'll do our best to help you resolve any issues quickly."
+      ]
+    },
+    "3": {
+      "tag": "h2",
+      "title": "Get in Touch",
+      "body": [
+        "For all support requests, business inquiries, feedback, or partnership opportunities, please contact us using the email below."
+      ]
+    },
+    "4": {
+      "tag": "contact_card",
+      "title": "Support Email",
+      "items": [
+        {
+          "label": "Email",
+          "value": "contact.freemd.io@gmail.com"
+        }
+      ]
+    },
+    "5": {
+      "tag": "h2",
+      "title": "Before Contacting Us",
+      "body": [
+        "To help us investigate your issue more efficiently, please describe your question in as much detail as possible.",
+        "If you're reporting a transcription problem, including the media type, file format, browser or device you're using, and screenshots (if available) will help us identify the issue faster."
+      ]
+    },
+    "6": {
+      "tag": "h2",
+      "title": "Response Time",
+      "body": [
+        "We review every email carefully and respond as quickly as possible.",
+        "Some requests may require additional investigation, but we'll always keep you informed and work to provide a helpful solution."
+      ]
+    }
+  }
+}

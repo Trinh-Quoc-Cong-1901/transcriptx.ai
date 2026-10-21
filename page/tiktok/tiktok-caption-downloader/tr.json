@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "title": "TikTok Altyazı İndirme — Altyazıları Ücretsiz İndirin | TranscriptX",
+        "description": "Her TikTok videosunun altyazılarını ücretsiz indirin. Linki yapıştırın, altyazıları 100'den fazla dilde zaman kodlu dosya olarak kaydedin. Kayıt yok, kurulum yok.",
+        "schemaName": "TranscriptX TikTok Altyazı İndirme Aracı",
+        "schemaDescription": "Herkese açık bir TikTok videosunun altyazılarını 100'den fazla dilde zaman kodlu dosya olarak indirmeye yarayan ücretsiz araç. Linki yapıştırın; altyazıları yeniden paylaşım, çeviri veya erişilebilirlik için kaydedin — hesap gerekmez.",
+        "ogTitle": "TikTok Altyazı İndirme — Altyazıları Ücretsiz İndirin | TranscriptX",
+        "ogDescription": "Her TikTok'un altyazılarını zaman kodlu altyazı dosyası olarak indirin. Linki yapıştırın, altyazıları 100'den fazla dilde kaydedin; ücretsiz ve kayıt olmadan."
+    },
+    "hero": {
+        "h1": "TikTok Altyazı İndirme",
+        "subtitle": "Herkese açık her TikTok videosunun altyazılarını indirin. Linki yapıştırın, konuşulan sözleri 100'den fazla dilde zaman kodlu bir altyazı dosyası olarak kaydedin — yeniden paylaştığınız klibe eklemeye ya da çevirmeye hazır. Hesap yok, kurulacak hiçbir şey yok.",
+        "placeholder": "TikTok video URL'sini yapıştırın...",
+        "button": "Altyazıları İndir"
+    },
+    "quickAnswer": {
+        "question": "Bir TikTok videosunun altyazıları nasıl indirilir?",
+        "answer": "Herkese açık bir TikTok linkini TranscriptX'e yapıştırın; araç altyazıları videonun sesinden kurar ve zaman kodlu bir altyazı dosyası olarak indirmeye hazır hale getirir. Altyazılar 100'den fazla dilde çıkar, her satırı videoya göre zamanlanmış şekilde. TikTok altyazı indirme için hesap gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "TikTok Altyazı İndirme Aracı Ne Yapar?",
+            "content": [
+                "Bu araç, TikTok video altyazılarını klibin içinden çekip size indirilebilir bir dosya olarak verir — tek adımda TikTok altyazı indirme. Okuyacağınız bir metin paragrafı değil; her satırı ekranda belirmesi gereken tam anı taşıyan bir altyazı dosyası.",
+                "Bu sayfanın transkriptten ayrı var olmasının nedeni işte o zaman kodu. Transkript, kendi başına okuduğunuz metindir; altyazı ise video üzerinde akmak için kurulmuş, konuşmayla satır satır eşitlenmiş metindir. Planınız bir klibi altyazılı olarak yeniden paylaşmak, ekrandaki metni çevirmek ya da bir erişilebilirlik gereksinimini karşılamaksa, size okunacak bir metin bloğu değil zaman kodlu altyazı dosyası lazımdır.",
+                "TranscriptX bu altyazıları TikTok'un sesinden kurar; böylece orijinal videoda altyazı hiç açılmamış olsa bile temiz ve zaman kodlu bir dosya elde edersiniz."
+            ]
+        },
+        {
+            "h2": "Altyazı mı Transkript mi: Hangisi Gerekli?",
+            "intro": [
+                "İkisi de bir TikTok'taki konuşmayı metne dönüştürür ama farklı işler için yapılmışlardır. Sonrasında ne yapacağınıza göre seçin."
+            ],
+            "items": [
+                {
+                    "h3": "Metin video üzerinde akacaksa altyazıyı indirin",
+                    "content": "Kelimelerin klip üzerinde görünmesi gerekiyorsa — yeniden paylaşımda altyazı, başka bir kitle için çevrilmiş altyazı, erişilebilirlik metni — bu aracın ürettiği zaman kodlu dosya işinizi görür. Her satırı sesle eşleşmiş tutan şey o zamanlamadır."
+                },
+                {
+                    "h3": "Yalnızca sözleri istiyorsanız transkript alın",
+                    "content": "Konuşulan içeriği sadece okumak, kopyalamak veya incelemek istiyorsanız — kanca, bir alıntı, bir metin — düz metin daha pratiktir. Bunun için [TikTok Transkript](/tr/tiktok-transcript) aracı, sözleri temizlemeniz gereken hiçbir zaman kodu olmadan verir."
+                }
+            ]
+        },
+        {
+            "h2": "TikTok Altyazıları Nasıl İndirilir?",
+            "steps": [
+                {
+                    "h3": "TikTok linkini kopyalayın",
+                    "content": "Videodaki Paylaş'a dokunup linki kopyalayın ya da masaüstünde URL'yi alın. Videonun herkese açık olması gerekir."
+                },
+                {
+                    "h3": "Altyazı indirme aracına yapıştırın",
+                    "content": "Linki yukarıdaki kutuya bırakın. Dosya yükleme de hesap açma adımı da yok — araç sesi doğrudan videodan okur."
+                },
+                {
+                    "h3": "TranscriptX zaman kodlu altyazıları kursun",
+                    "content": "Konuşmayı yazıya çevirir ve altyazı satırlarına böler; her satıra bir başlangıç ve bitiş zamanı verir, böylece klip üzerinde oynatılırken eşleşmesi bozulmaz."
+                },
+                {
+                    "h3": "Altyazı dosyasını indirin",
+                    "content": "Altyazıları cihazınıza kaydedin; bir kurgu programına yüklemeye, yeniden paylaşıma eklemeye ya da yayımlamadan önce çevirmeye hazır."
+                }
+            ]
+        },
+        {
+            "h2": "İndirdiğiniz TikTok Altyazılarıyla Neler Yapabilirsiniz",
+            "intro": [
+                "Altyazı dosyası, sözlerin bir kopyasından ibaret değil, çalışan bir kaynaktır. Yüklenmek, düzenlenmek ve yeniden kullanılmak için kurulmuştur:"
+            ],
+            "items": [
+                {
+                    "h3": "Klibi altyazılı olarak yeniden paylaşın",
+                    "content": "Yeniden yüklediğiniz videoya altyazıları geri ekleyin — kendi TikTok hesabınıza ya da Reel veya Shorts olarak çapraz paylaştığınız yere — böylece izleyiciler tek kelime yeniden yazmanıza gerek kalmadan altyazıyı görür."
+                },
+                {
+                    "h3": "Başka bir kitle için çevirin",
+                    "content": "Dosya düzenlenebilir metin olduğu ve zamanlama ondan ayrı durduğu için bir çevirmen satırları başka bir dile yeniden yazabilir, her altyazı yine doğru ana denk gelir."
+                },
+                {
+                    "h3": "Videoları sessizken de anlaşılır yapın",
+                    "content": "TikTok'ların çoğu ilk anda sessiz izlenir; mesajı o ilk saniyelerde taşıyan şey ekrandaki yazılardır. İndirilmiş bir dosya, Türkçedeki ekleri ve ı/i, ğ, ş harflerini sık sık yanlış yakalayan otomatik altyazılara mahkûm kalmak yerine bu yazıları temiz biçimde eklemenizi sağlar."
+                },
+                {
+                    "h3": "Erişilebilirlik gereksinimlerini karşılayın",
+                    "content": "Altyazılar bir videoyu sağır ve işitme engelli izleyiciler için kullanılabilir kılar. İndirilen altyazı dosyası, bunu sağlamak için videoya iliştirdiğiniz kaynaktır."
+                },
+                {
+                    "h3": "Altyazıları düzeltin veya yeniden biçimlendirin",
+                    "content": "Altyazılar gönderinizde yayına girmeden önce dosyayı açıp bir kelimeyi düzeltin, uzun bir satırı bölün ya da zamanlamayı ayarlayın."
+                }
+            ]
+        },
+        {
+            "h2": "TikTok Altyazılarını 100'den Fazla Dilde İndirin",
+            "content": [
+                "TranscriptX, TikTok'ta konuşulan dili kendi başına algılar ve altyazıları 100'ü aşkın dil arasından o dilde kurar — böylece indirdiğiniz altyazı dosyası klipte gerçekten söylenenle örtüşür.",
+                "Oradan sonra altyazılar çevirmek üzere sizindir. Zamanlama sözlerden ayrı durduğu için metni başka bir dile değiştirebilirsiniz ve altyazılar yine doğru karelere denk gelir; tek bir TikTok altyazı dosyası indir işleminden birkaç kitleye altyazılanmış tek bir klip böyle çıkar."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Bir TikTok videosunun altyazılarını nasıl indiririm?",
+                    "a": "TikTok paylaşım linkini TranscriptX'e yapıştırın, zaman kodlu altyazıları sesten kurmasını bekleyin ve altyazı dosyasını indirin. Dosya doğrudan cihazınıza kaydedilir, hesap gerekmez."
+                },
+                {
+                    "q": "TikTok altyazı indirme aracı ücretsiz mi?",
+                    "a": "Evet. TikTok altyazılarını oluşturmak ve indirmek ücretsizdir; açılacak hesap yok, kaç video çalıştırabileceğinize dair bir sınır da yok."
+                },
+                {
+                    "q": "TikTok altyazıları ile transkript arasındaki fark nedir?",
+                    "a": "Altyazılar, video üzerinde görünmek için yapılmış ve altyazı dosyası olarak kaydedilen zaman kodlu metindir. Transkript ise buna karşılık hiçbir zamanlama taşımayan, yalnızca sözlerin kendisidir. Yeniden paylaşabileceğiniz veya çevirebileceğiniz altyazılar için bu aracı kullanın; sadece sözleri okumak istiyorsanız TikTok Transkript aracını kullanın."
+                },
+                {
+                    "q": "Altyazılar zaman bilgisi içeriyor mu?",
+                    "a": "Evet. Her altyazı satırı bir başlangıç ve bitiş zamanı taşır; altyazıları klip üzerinde oynatılırken eşleşmiş tutan şey de budur."
+                },
+                {
+                    "q": "TikTok'ta ekranda altyazı yoksa yine de indirebilir miyim?",
+                    "a": "Evet. TranscriptX altyazıları sesten kurar; bu yüzden altyazısı hiç açılmamış bir video için bile altyazı dosyası üretir."
+                },
+                {
+                    "q": "Altyazıları başka bir dilde indirebilir miyim?",
+                    "a": "Altyazılar, TikTok'ta hangi dilde konuşulmuşsa o dilde çıkar. Oradan kendiniz çevirebilirsiniz — sözler düzenlenebilir kalırken zaman kodları sabit durur, böylece altyazılar yeni dilde de doğru karelere denk gelmeyi sürdürür."
+                },
+                {
+                    "q": "Videoyu yeniden paylaşırken bu dosyayı kullanabilir miyim?",
+                    "a": "Evet. Asıl kullanım da budur — indirdiğiniz altyazıları yeniden yüklediğiniz klibe ya da çapraz paylaştığınız bir Reel veya Shorts'a geri ekleyin, gönderi altyazılı olarak yayımlansın."
+                },
+                {
+                    "q": "İndirdikten sonra altyazı dosyasını düzenleyebilir miyim?",
+                    "a": "Evet. Altyazı dosyası düzenlenebilir metindir; altyazılar yayına girmeden önce bir kelimeyi düzeltebilir, bir satırı bölebilir ya da zamanlamayı kaydırabilirsiniz."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "TikTok Altyazılarını Ücretsiz İndirin",
+        "content": [
+            "Herkese açık bir TikTok linkini yapıştırın; TranscriptX doğrudan videonun sesinden, 100'den fazla dilde, indirebileceğiniz zaman kodlu bir altyazı dosyası kursun.",
+            "Altyazıları yeniden paylaşımınıza ekleyin, yeni bir kitle için çevirin ya da erişilebilirlik için iliştirin. Hesap yok, kurulum yok, ücret yok."
+        ]
+    }
+}

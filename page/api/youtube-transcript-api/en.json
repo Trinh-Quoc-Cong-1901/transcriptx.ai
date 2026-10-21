@@ -1,0 +1,92 @@
+{
+    "seo": {
+        "title": "YouTube Transcript API — With or Without Captions | TranscriptX",
+        "description": "Get the transcript of any public YouTube video by API, even when it has no captions. No OAuth, no Data API quota. Timestamps, speaker labels, SRT/VTT.",
+        "schemaName": "TranscriptX YouTube Transcript API",
+        "schemaDescription": "API that returns the transcript of any public YouTube video, Short or live replay from its URL. Transcribes the audio when captions are missing, in over 100 languages, with timestamps and speaker labels. No OAuth or YouTube Data API quota needed. Exports text, SRT and VTT.",
+        "ogTitle": "YouTube Transcript API — With or Without Captions",
+        "ogDescription": "Send a YouTube URL, get the transcript back. No OAuth, no quota, works without captions."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" },
+        { "name": "YouTube Transcript API", "url": "/youtube-transcript-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, request with a YouTube URL (cURL / Python / JavaScript), sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "YouTube Transcript API – With or Without Captions",
+        "subtitle": "Send a YouTube URL, get the full transcript back. Works on any public video, Short or live replay — captioned or not — because TranscriptX transcribes the audio itself. No OAuth, no quota.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "Can the official YouTube API get transcripts?",
+        "answer": "Only for videos you own. The YouTube Data API downloads caption tracks with OAuth from the channel owner, and returns nothing when a video has no captions. TranscriptX works on any public video from its URL and transcribes the audio when captions are missing."
+    },
+    "sections": [
+        {
+            "h2": "Why Not the YouTube Data API?",
+            "content": [
+                "The Data API's captions.download only works on videos you manage, needs OAuth, counts against a daily quota, and has nothing to return if a video was never captioned.",
+                "TranscriptX starts from the public video instead. No owner permission, no quota, and every video with speech returns text."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Input", "value": "Public YouTube videos, Shorts and live replays" },
+                { "label": "Without captions", "value": "Supported — the audio is transcribed" },
+                { "label": "OAuth / Data API quota", "value": "Not needed / not used" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Timestamps and speaker labels" },
+                { "label": "Output", "value": "Text, SRT, VTT" },
+                { "label": "Long videos", "value": "About 1–2 minutes per hour; tested with 10-hour recordings" },
+                { "label": "Not supported", "value": "Private, unlisted or sign-in-only videos" }
+            ]
+        },
+        {
+            "h2": "Captions, Subtitles or Plain Text",
+            "content": [
+                "Use the timed segments as captions in your own player, export SRT or VTT files, or take the plain text for search and LLMs. Since everything comes from the audio, you get subtitles even for videos that never had any."
+            ]
+        },
+        {
+            "h2": "Compared With Open-Source Libraries",
+            "content": [
+                "Libraries like youtube-transcript-api are great for quick scripts, but they only read existing captions and are often blocked on cloud servers. A hosted API removes the proxies and the missing-caption errors. More in our guide to [youtube-transcript-api in Python](/blog/youtube-transcript-api-python)."
+            ]
+        },
+        {
+            "h2": "What Developers Build",
+            "items": [
+                { "h3": "RAG and knowledge bases", "content": "Make a channel's videos searchable, with answers that cite the timestamp." },
+                { "h3": "Brand monitoring", "content": "Catch spoken mentions of a brand or competitor in new videos." },
+                { "h3": "Content repurposing", "content": "Turn videos into articles, newsletters and short scripts." },
+                { "h3": "AI agents", "content": "Let Claude or another agent read a video through the TranscriptX MCP server." }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Does it use my YouTube API quota?", "a": "No. No YouTube API key is involved." },
+                { "q": "What if the video has no captions?", "a": "The audio is transcribed, so you still get a full transcript." },
+                { "q": "Does it work with Shorts and live replays?", "a": "Yes, if they are public. Live streams can be transcribed once the replay is available." },
+                { "q": "Can I call it from Python or JavaScript?", "a": "Yes. It is a standard HTTP API; examples are at the top of this page." },
+                { "q": "Can I just get one transcript without code?", "a": "Yes — use the free [YouTube Transcript](/youtube-transcript) tool." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Get YouTube Transcripts in Your App",
+        "content": [
+            "Any public video, captioned or not, in over 100 languages. Need other platforms or files too? See the [Transcription API](/transcription-api)."
+        ]
+    }
+}

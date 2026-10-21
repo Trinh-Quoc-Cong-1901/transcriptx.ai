@@ -1,0 +1,244 @@
+{
+    "seo": {
+        "title": "Video ke Teks — Tukar Video kepada Teks Percuma | TranscriptX",
+        "description": "Tukar video kepada teks dalam talian secara percuma. Muat naik fail MP4, MOV atau apa-apa video dan dapatkan transkrip video yang tepat dalam 100+ bahasa dengan label penutur. Eksport TXT, DOCX, PDF, SRT. Tanpa pendaftaran.",
+        "schemaName": "Penukar Video ke Teks TranscriptX",
+        "schemaDescription": "Alat dalam talian percuma yang menukar fail video kepada teks dan menghasilkan transkrip video dalam lebih 100 bahasa, dengan pengasingan penutur, cap masa pilihan dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Menyokong MP4, MOV, AVI, MKV dan WebM, tanpa perlu akaun.",
+        "ogTitle": "Video ke Teks — Tukar Video kepada Teks Percuma | TranscriptX",
+        "ogDescription": "Tukar mana-mana fail video kepada teks. Muat naik MP4 atau MOV dan dapatkan transkrip tepat dalam 100+ bahasa, percuma dan tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Video ke Teks",
+        "subtitle": "Tukar mana-mana fail video kepada teks yang tepat dan boleh disunting. Muat naik MP4, MOV, AVI atau apa-apa format biasa — rakaman mesyuarat, rakaman skrin, footage daripada kamera — dan TranscriptX akan membuat transkripnya dalam lebih 100 bahasa, dengan setiap penutur dilabel. Eksport ke TXT, DOCX, PDF, SRT atau VTT. Percuma, tanpa pendaftaran dan tanpa had saiz fail.",
+        "placeholder": "Muat naik fail video...",
+        "button": "Tukar kepada Teks"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara tukar video kepada teks?",
+        "answer": "Muat naik fail video anda ke TranscriptX dan ia akan menukar pertuturan di dalamnya kepada teks bertulis dalam beberapa minit, merentasi lebih 100 bahasa, dengan setiap penutur dilabel. Selepas itu anda boleh membaca, menyunting, menyalin atau menyimpan transkrip dalam lima format. Anda tidak perlu membuka akaun, tiada had saiz fail, dan tiada apa-apa yang perlu dipasang pada peranti anda."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Penukaran Video ke Teks?",
+            "content": [
+                "Penukaran video ke teks mengambil pertuturan yang ada di dalam sesuatu video dan menulisnya sebagai perkataan yang boleh anda baca. Anda berikan sebuah fail kepada alat ini — panggilan yang dirakam, webinar, kuliah, sekeping footage — dan anda tidak perlu lagi menontonnya semula dalam masa sebenar sambil menaip apa yang anda dengar; keseluruhannya kembali kepada anda dalam bentuk teks.",
+                "Video ialah antara bekas paling menyusahkan untuk maklumat. Anda tidak boleh mengimbasnya, anda tidak boleh mencari satu frasa di dalamnya, dan anda tidak boleh mengangkat satu ayat keluar daripadanya, maka kandungan yang berguna kekal terkunci di sebalik butang main dan satu garis masa. Sebaik sahaja video itu bertukar kepada teks, anda membacanya dalam sepersekian daripada tempohnya, mencari mana-mana baris dalam sesaat, dan memindahkan petikan terus ke dalam dokumen. Itulah sebabnya ramai orang mula-mula mencari cara untuk ekstrak teks dari video — maksudnya perkataan yang dituturkan di dalamnya.",
+                "Transkrip video juga membuka semua langkah yang datang selepasnya. Sebaik sahaja perkataan itu wujud sebagai teks, anda boleh menterjemahnya, membina sarikata daripadanya, meringkaskannya, atau menyerahkannya kepada pembantu AI seperti ChatGPT, Claude atau Gemini — tiada satu pun daripadanya dibenarkan oleh video mentah.",
+                "TranscriptX menjalankan penukaran ini secara percuma, terus di dalam pelayar, tanpa akaun dan tanpa had pada saiz fail anda."
+            ]
+        },
+        {
+            "h2": "Video ke Teks Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Had saiz fail",
+                    "value": "Tiada"
+                },
+                {
+                    "label": "Format diterima",
+                    "value": "MP4, MOV, AVI, MKV, WebM dan banyak lagi"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Pengasingan penutur",
+                    "value": "Ya — setiap penutur dilabel"
+                },
+                {
+                    "label": "Cap masa",
+                    "value": "Pilihan — buka atau tutup bagi setiap transkrip"
+                },
+                {
+                    "label": "Format eksport",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan mudah alih"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Tukar Fail Video kepada Teks",
+            "steps": [
+                {
+                    "h3": "Muat naik fail video",
+                    "content": "Lepaskan fail MP4, MOV, AVI atau apa-apa format video biasa yang lain terus daripada peranti anda, atau tampal pautan ke video itu. Tiada had pada panjangnya, maka klip dua minit dan rakaman tiga jam kedua-duanya berfungsi."
+                },
+                {
+                    "h3": "Alat ini membuat transkrip pertuturan",
+                    "content": "TranscriptX mengeluarkan audio daripada video itu, mengesan bahasa yang dituturkan dengan sendirinya merentasi lebih 100 bahasa, membezakan setiap penutur, dan menulis semuanya lengkap dengan tanda baca dan pemisahan ayat."
+                },
+                {
+                    "h3": "Semak teks",
+                    "content": "Baca transkrip itu sekali lalu dan betulkan apa-apa yang sukar ditangkap kerana keadaan rakaman. Nama, angka dan istilah teknikal ialah perkara yang berbaloi disemak sekali lagi sebelum anda menggunakannya."
+                },
+                {
+                    "h3": "Eksport atau salin transkrip",
+                    "content": "Salin teks itu keluar, atau muat turun sebagai TXT, DOCX, PDF, SRT atau VTT. Hidupkan cap masa dahulu sekiranya anda merancang untuk membina sarikata atau menyemak sesuatu petikan dengan rakaman asalnya."
+                }
+            ]
+        },
+        {
+            "h2": "Penukar Video ke Teks Percuma",
+            "content": [
+                "TranscriptX ialah penukar video ke teks percuma tanpa helah yang menanti di penghujungnya. Banyak alat lain membenarkan anda muat naik dan menjalankan kerja itu, kemudian meminta kad kredit sebelum menunjukkan hasilnya, atau memotong anda selepas beberapa minit rakaman. Di sini transkripsinya percuma, tiada akaun untuk dibuka, dan tiada had berapa panjang atau berapa besar video itu — video ke teks percuma di sini memang bermaksud percuma.",
+                "Ia dibina untuk orang yang sudah pun ada fail itu dan hanya mahukan perkataannya. Anda tidak memasang perisian desktop atau melalui corong langganan; anda muat naik satu video, alat ini melakukan kerjanya, dan anda ambil teksnya. Sesetengah orang mencari aplikasi tukar video kepada teks dan sesetengah yang lain mencari penjana transkrip video — kedua-duanya membawa kepada alat yang sama, dan sama ada anda memerlukan transkrip video percuma sekali sahaja atau setiap minggu, hadnya tidak pernah muncul.",
+                "Oleh sebab semuanya berjalan sepenuhnya dalam pelayar, penukar ini berkelakuan sama pada komputer riba, tablet atau telefon — tiada apa-apa untuk dimuat turun dan tiada apa-apa yang perlu dikemas kini."
+            ]
+        },
+        {
+            "h2": "Buat Transkrip Video ke Teks dengan Tepat",
+            "content": [
+                "Menukar sesuatu fail dan membuat transkripnya menggambarkan tindakan yang sama, tetapi orang memilih perkataan transkrip apabila hasilnya perlu boleh dipercayai, bukan sekadar hampir betul. Itulah keadaannya apabila anda menyediakan transkrip video mesyuarat pelanggan yang akan anda tindaki, temu bual yang akan anda petik, atau sesi latihan yang akan anda olah sebagai dokumentasi.",
+                "TranscriptX dibina untuk piawaian itu. Apabila anda membuat transkrip video ke teks, ia bukan sekadar menyenaraikan perkataan — ia meletakkan tanda baca pada pertuturan, memecahkannya kepada ayat yang mudah dibaca, dan melabel setiap penutur, supaya panggilan yang melibatkan beberapa orang terbaca sebagai rekod jelas siapa kata apa dan bukan satu perenggan yang berpanjangan. Matlamatnya sentiasa sama: transkrip video yang boleh anda percayai.",
+                "Ia juga mampu mengendalikan rakaman yang lebih sukar. Alat ini tetap boleh tukar suara video kepada teks walaupun ada bunyi bilik, pertuturan bertindih atau loghat yang pekat — yang dibaca ialah suara di dalam video itu, bukan tulisan yang terpapar pada skrin — cuma bahagian itulah yang berbaloi disemak sebelum anda bergantung padanya. Bagi rakaman bersih dengan seorang penutur sahaja, transkrip kembali hampir perkataan demi perkataan."
+            ]
+        },
+        {
+            "h2": "Format Video yang Disokong",
+            "intro": [
+                "TranscriptX menerima format video yang paling mungkin ada pada anda, maka anda jarang perlu menukar sesuatu fail sebelum memuat naiknya."
+            ],
+            "items": [
+                {
+                    "h3": "MP4",
+                    "content": "Format lalai bagi telefon, kamera dan kebanyakan fail yang beredar, sekali gus format yang paling kerap sampai ke alat ini. Lepaskannya masuk dan tukar mp4 ke teks sebagaimana adanya, tanpa langkah persediaan."
+                },
+                {
+                    "h3": "MOV",
+                    "content": "Format milik Apple, dihasilkan oleh iPhone, iPad dan QuickTime. Muat naik terus tanpa sebarang langkah penukaran di pertengahan."
+                },
+                {
+                    "h3": "AVI dan MKV",
+                    "content": "Format bekas lama dan berkualiti tinggi yang biasa digunakan untuk rakaman panjang serta video simpanan. Kedua-duanya dimuat naik dan ditranskripkan seperti mana-mana fail lain, tanpa had saiz yang perlu dirisaukan."
+                },
+                {
+                    "h3": "WebM",
+                    "content": "Format yang dieksport oleh banyak perakam skrin dan alat berasaskan pelayar. Muat naik terus daripada perisian yang menghasilkannya."
+                }
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkrip",
+            "intro": [
+                "Jika ada pertuturan di dalam video itu, TranscriptX boleh menukarnya kepada teks. Berikut rakaman yang paling kerap ditukar orang, dan sebab transkrip itu berbaloi bagi setiap satu:"
+            ],
+            "items": [
+                {
+                    "h3": "Rakaman Zoom, Teams dan Meet",
+                    "content": "Panggilan video yang dirakam bertukar kepada minit bertulis dengan setiap peserta dilabel, supaya keputusan dan senarai tindakan daripada transkrip mesyuarat itu tinggal pada satu halaman dan bukan di dalam fail sejam yang tiada siapa tonton semula."
+                },
+                {
+                    "h3": "Rakaman skrin dan tutorial",
+                    "content": "Panduan atau demo yang dirakam bertukar kepada teks langkah demi langkah, supaya proses yang pernah dihuraikan sekali sahaja dalam taklimat jabatan berubah kepada dokumentasi yang boleh dibaca dan dicari oleh seluruh pasukan."
+                },
+                {
+                    "h3": "Webinar dan pembentangan",
+                    "content": "Webinar atau bengkel latihan yang dirakam bertukar kepada dokumen yang boleh anda imbas untuk mencari perkara penting, sekali gus sumber untuk menarik petikan dan rumusan tanpa memainkan semula slaid."
+                },
+                {
+                    "h3": "Footage kamera dan majlis",
+                    "content": "Temu bual, ucapan dan rakaman majlis — daripada majlis perasmian sehingga ceramah yang dirakam penganjur — bertukar kepada teks yang boleh dipetik dan dicari, dengan penutur diasingkan supaya rujukannya kekal jelas. Transkrip temu bual seperti inilah yang paling kerap diperlukan pemberita."
+                },
+                {
+                    "h3": "Kuliah dan kelas yang dirakam",
+                    "content": "Rakaman kuliah dan kelas dalam talian, termasuk sesi MOOC universiti tempatan, bertukar kepada bahan ulang kaji yang boleh dicari mengikut istilah, ditanda dan diringkaskan sebagai nota lama selepas sesi itu tamat. Transkrip kuliah begini menjimatkan berjam-jam menaip."
+                },
+                {
+                    "h3": "Video simpanan dan arkib",
+                    "content": "Mana-mana fail video yang tersimpan pada peranti anda — ucapan yang anda arkibkan, klip yang dihantar rakan melalui Telegram — bertukar kepada teks yang boleh anda baca dan guna semula, dan bukan sekadar bertimbun tanpa pernah ditonton."
+                }
+            ]
+        },
+        {
+            "h2": "Sejauh Mana Tepatnya Penukaran Video ke Teks?",
+            "content": [
+                "Sejauh mana transkrip itu mengikut videonya bergantung pada rakaman tersebut. Pertuturan yang jelas, kelantangan yang stabil dan bunyi latar yang rendah memberikan hasil terbaik — webinar yang dirakam kemas atau seorang penutur di hadapan kamera selalunya kembali hampir perkataan demi perkataan.",
+                "Ketepatan menurun apabila audionya sukar: beberapa orang bercakap serentak dalam satu panggilan, gema di dalam bilik besar, muzik di sebalik dialog, atau loghat pekat yang bergabung dengan jargon padat. Alat ini tetap boleh tukar suara video kepada teks dalam keadaan begitu, tetapi bahagian itulah yang berbaloi dibaca dengan teliti sebelum anda bergantung padanya.",
+                "Cara menyemak yang cekap ialah mengimbas transkrip berbanding saat yang paling anda pentingkan — angka, nama, keputusan utama — dan membetulkan bahagian itu sahaja. Membetulkan beberapa perkataan mengambil masa beberapa saat berbanding menaip seluruh rakaman sendiri, dan itulah sebab utama untuk tukar video kepada teks sejak mula."
+            ]
+        },
+        {
+            "h2": "Video ke Teks dalam Lebih 100 Bahasa",
+            "content": [
+                "TranscriptX membuat transkrip pertuturan dalam lebih 100 bahasa dan mengenal pasti sendiri bahasa yang didengarinya, maka anda tidak perlu menetapkan apa-apa sebelum memuat naik. Video yang dirakam dalam bahasa Melayu kembali sebagai teks bahasa Melayu; video dalam bahasa Jepun kembali sebagai teks bahasa Jepun. Perkhidmatan video ke teks ini berfungsi sama rata dalam talian, apa pun bahasa rakaman anda.",
+                "Pengasingan penutur kekal merentasi setiap bahasa, dan itulah yang mengekalkan rakaman berbilang orang supaya mudah dibaca dan tidak bercampur aduk sebagai satu suara. Dan oleh sebab transkrip itu teks biasa, menterjemah ialah langkah yang boleh anda ambil kemudian — buat transkrip video dalam bahasa asalnya, kemudian terjemahkan hasilnya untuk berkongsi kandungan yang sama dengan khalayak yang tidak menuturkannya."
+            ]
+        },
+        {
+            "h2": "Eksport dalam Lima Format",
+            "content": [
+                "Setiap transkrip keluar dalam lima format, dan yang mana satu sesuai bergantung pada ke mana teks itu akan pergi. TXT ialah perkataan bersih tanpa format — paling mudah untuk dibaca, dicari atau ditampal ke tempat lain. DOCX terbuka dalam Word, Google Docs dan Pages apabila anda berhasrat mengolah transkrip itu sebagai dokumen. PDF ialah versi tetap yang kelihatan sama bagi semua orang, sesuai untuk dikongsi atau difailkan apabila sesuatu itu perlu kekal sebagaimana adanya.",
+                "Dua lagi format membawa maklumat masa. SRT ialah format sarikata yang diterima hampir setiap pemain dan penyunting video, maka hidupkan cap masa dan eksport SRT untuk memberi sarikata kepada video asal transkrip itu. VTT melakukan perkara yang sama untuk video yang dimainkan di dalam halaman web.",
+                "Jika sumber anda sebenarnya fail audio dan bukan video, alat [Transkrip Audio ke Teks](/ms/audio-to-text) memang dibentuk untuk fail bunyi seperti MP3, WAV atau M4A. Dan apabila video itu berada pada sesuatu platform dan bukan pada peranti anda, alat [Transkrip YouTube](/ms/youtube-transcript), [Transkrip TikTok](/ms/tiktok-transcript) dan [Transkrip Instagram](/ms/instagram-transcript) membuat transkrip terus daripada pautan — anda cukup tampal pautan tanpa muat naik apa-apa fail."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana saya boleh tukar video kepada teks secara percuma?",
+                    "a": "Muat naik fail video anda ke TranscriptX dan ia akan membuat transkripnya kepada teks tanpa sebarang kos — video ke teks percuma, tanpa pendaftaran, tanpa perisian dan tanpa had pada panjang atau saiz. Setelah siap, salin atau eksport transkrip itu. Cara yang sama berlaku sekiranya anda mahu tukar video ke tulisan untuk nota atau laporan."
+                },
+                {
+                    "q": "Format video apa yang boleh saya muat naik?",
+                    "a": "Format yang biasa — antaranya MP4, MOV, AVI, MKV dan WebM — maka kebiasaannya anda boleh muat naik terus daripada telefon, kamera atau perakam skrin anda tanpa perlu menukar failnya dahulu."
+                },
+                {
+                    "q": "Adakah had pada saiz atau panjang fail?",
+                    "a": "Tiada. Klip pendek dan rakaman berjam-jam kedua-duanya berfungsi apabila anda tukar video ke teks; video yang lebih panjang cuma mengambil sedikit masa tambahan untuk diproses."
+                },
+                {
+                    "q": "Adakah ini penukar video ke teks yang percuma?",
+                    "a": "Ya. TranscriptX ialah penukar video ke teks percuma tanpa dinding bayaran — muat naik video, buat transkripnya, dan ambil teksnya, tanpa akaun dan tanpa kos. Transkrip video percuma di sini tiada syarat tersembunyi."
+                },
+                {
+                    "q": "Sejauh mana tepatnya transkripsi ini?",
+                    "a": "Ia bergantung terutamanya pada rakaman itu. Penutur yang jelas dengan bunyi latar yang rendah ditranskripkan hampir tepat, manakala pertuturan bertindih, gema atau loghat pekat akan menurunkan ketepatannya. Menyemak nama, nombor dan istilah khusus sebelum anda bergantung pada teks itu sentiasa berbaloi."
+                },
+                {
+                    "q": "Bolehkah ia membezakan penutur yang berlainan?",
+                    "a": "Boleh. Setiap penutur dilabel secara berasingan, maka mesyuarat yang dirakam, temu bual dan sesi panel kembali dengan menunjukkan siapa kata apa dan bukan sebagai satu blok teks."
+                },
+                {
+                    "q": "Bahasa apa yang disokong?",
+                    "a": "Lebih 100, termasuk bahasa Melayu. Bahasa yang dituturkan dikesan secara automatik, maka anda tidak perlu memilihnya sebelum memuat naik, dan transkrip kembali dalam bahasa yang sama."
+                },
+                {
+                    "q": "Bolehkah saya dapatkan sarikata daripada video itu?",
+                    "a": "Boleh. Hidupkan cap masa dan eksport SRT atau VTT untuk mendapatkan fail sarikata yang boleh anda muatkan ke dalam pemain atau penyunting video, atau anda sertakan bersama video itu."
+                },
+                {
+                    "q": "Perlukah saya memasang apa-apa perisian?",
+                    "a": "Tidak. Semuanya berjalan dalam pelayar, sama ada pada desktop atau telefon. Tiada aplikasi, pemalam atau sambungan yang perlu dipasang sebelum anda ekstrak teks dari video — yang diambil ialah pertuturan di dalamnya."
+                },
+                {
+                    "q": "Bolehkah saya guna transkrip ini dengan pembantu AI?",
+                    "a": "Boleh. Salin atau eksport teks itu dan tampalkannya ke dalam ChatGPT, Claude atau Gemini untuk meringkaskan video, mengeluarkan senarai tindakan, atau mengolahnya semula sebagai artikel."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tukar Video Anda kepada Teks Secara Percuma",
+        "content": [
+            "Muat naik MP4, MOV atau apa-apa fail video biasa dan TranscriptX akan membuat transkripnya kepada teks dalam lebih 100 bahasa, dengan label penutur dan cap masa pilihan. Ia percuma, tiada apa-apa untuk dipasang dan tiada had pada fail.",
+            "Baca transkrip itu, perhalusinya, terjemahkannya, atau simpan sebagai TXT, DOCX, PDF, SRT atau VTT — apa sahaja yang perlu dihasilkan oleh rakaman itu seterusnya."
+        ]
+    }
+}

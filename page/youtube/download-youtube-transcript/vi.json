@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Tải transcript YouTube — Miễn phí TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "Tải transcript YouTube miễn phí dưới dạng TXT, DOCX, PDF hoặc SRT. Dán link, lấy bản transcript rồi lưu file về máy để đọc offline. Không cần đăng ký.",
+        "schemaName": "TranscriptX — Công cụ tải transcript YouTube",
+        "schemaDescription": "Công cụ miễn phí giúp tải bản transcript của video YouTube công khai về máy dưới dạng file TXT, DOCX, PDF hoặc SRT. Chỉ cần dán link là lưu được transcript vào thiết bị, không cần tài khoản.",
+        "ogTitle": "Tải transcript YouTube — Miễn phí TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Lưu transcript của mọi video YouTube về máy bạn. Tải dưới dạng TXT, DOCX, PDF hoặc SRT, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Tải transcript YouTube",
+        "subtitle": "Lưu bản transcript của bất kỳ video YouTube công khai nào về thiết bị của bạn. Dán link, rồi tải phần chữ xuống dưới dạng TXT, DOCX, PDF hoặc SRT để đọc offline, lưu trữ hoặc đưa thẳng vào tài liệu. Không cần tài khoản, không phải cài gì.",
+        "placeholder": "Dán link video YouTube...",
+        "button": "Lấy & tải transcript"
+    },
+    "quickAnswer": {
+        "question": "Cách tải transcript YouTube như thế nào?",
+        "answer": "Dán link YouTube công khai vào TranscriptX, đợi bản transcript hoàn tất rồi chọn định dạng và tải xuống. Bạn có thể lưu thành TXT, DOCX, PDF hoặc SRT vào máy tính hay điện thoại. Không cần đăng ký, và cũng không phải cài đặt gì trước."
+    },
+    "sections": [
+        {
+            "h2": "Tải transcript về máy để làm gì",
+            "content": [
+                "Đọc transcript ngay trên màn hình là đủ khi bạn đang ngồi ở bàn làm việc và có mạng. Nhưng khi phần chữ cần sống lâu hơn cái tab trình duyệt — khi bạn cần một file thuộc về mình, nằm trong máy mình, mở được dù có mạng hay không — thì thứ bạn cần là tải transcript YouTube xuống.",
+                "Một bản transcript đã tải về là một tài liệu thật. Bạn bỏ nó vào thư mục tài liệu nghiên cứu, đính kèm vào email, đưa lên ổ đĩa chung, hay in ra. Nó thôi là thứ bạn liếc qua một lần và trở thành một phần trong kho tài liệu của bạn. Nói cách khác, bạn tải văn bản video YouTube về để giữ lại bản chép lời của những gì đã được nói.",
+                "TranscriptX dựng bản transcript rồi trao cho bạn phần tải xuống. Video vẫn nằm nguyên trên YouTube; thứ về máy bạn chỉ là phần chữ, đúng định dạng bạn chọn."
+            ]
+        },
+        {
+            "h2": "Nên tải định dạng nào?",
+            "intro": [
+                "File phù hợp phụ thuộc hoàn toàn vào việc bạn sẽ làm gì tiếp với bản transcript. Bốn định dạng phủ gần hết mọi trường hợp."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — văn bản thuần",
+                    "content": "Nhẹ nhất và dễ mang đi nhất. File .txt mở được ở mọi nơi, không mang định dạng gì gây vướng, và là thứ sạch nhất để dán sang công cụ khác hoặc đưa vào trợ lý AI. Chọn tải transcript YouTube txt khi bạn chỉ cần phần chữ — cũng là cách tải phụ đề YouTube dạng text gọn nhất."
+                },
+                {
+                    "h3": "DOCX — tài liệu sửa được",
+                    "content": "Mở bằng Word, Google Docs và Pages. Chọn DOCX khi bạn định làm việc trên bản transcript — thêm tiêu đề, bôi vàng, ghi chú, theo dõi chỉnh sửa — và coi nó như một tài liệu đang soạn chứ không phải chữ thô."
+                },
+                {
+                    "h3": "PDF — bản cố định để chia sẻ",
+                    "content": "Hiển thị giống hệt nhau trên mọi thiết bị và không nhằm để sửa. Chọn PDF khi bạn gửi bản transcript cho ai đó, lưu làm hồ sơ, hoặc in ra, và muốn bố cục giữ nguyên như vậy."
+                },
+                {
+                    "h3": "SRT — transcript kèm mốc thời gian",
+                    "content": "Mỗi dòng đều mang một mốc thời gian. Chọn SRT khi bạn cần bản transcript gắn với từng thời điểm trong video — để làm phụ đề, để đối chiếu một câu trích với phần âm thanh, hoặc cho công cụ nào đó yêu cầu chữ có kèm thời gian."
+                }
+            ]
+        },
+        {
+            "h2": "Cách tải transcript YouTube",
+            "steps": [
+                {
+                    "h3": "Dán link YouTube",
+                    "content": "Sao chép URL của video công khai bạn cần rồi dán vào ô phía trên. Không có bước tạo tài khoản và cũng không phải tải file nào lên trước."
+                },
+                {
+                    "h3": "Đợi bản transcript dựng xong",
+                    "content": "TranscriptX đọc phần âm thanh và viết ra toàn bộ bản transcript với hơn 100 ngôn ngữ, gán nhãn từng người nói và thêm dấu câu đầy đủ."
+                },
+                {
+                    "h3": "Chọn định dạng",
+                    "content": "Chọn TXT, DOCX, PDF hoặc SRT tùy theo việc bạn sắp làm với nó. Bật mốc thời gian trước nếu bạn tải SRT hoặc muốn có sẵn mốc giờ bên trong file."
+                },
+                {
+                    "h3": "Tải file về",
+                    "content": "Lưu vào máy tính hoặc điện thoại. Việc tải transcript video YouTube kết thúc ở đây: bản transcript giờ là một file thuộc về bạn, sẵn sàng mở offline, chia sẻ hoặc lưu trữ."
+                }
+            ]
+        },
+        {
+            "h2": "Khi bạn cần cả file, không chỉ chữ trên màn hình",
+            "intro": [
+                "Việc tải xuống quan trọng nhất khi bản transcript phải rời khỏi trình duyệt để đi vào một quy trình làm việc thật. Vài trường hợp điển hình:"
+            ],
+            "items": [
+                {
+                    "h3": "Dựng kho tư liệu nghiên cứu",
+                    "content": "Người làm nghiên cứu lưu transcript YouTube của các buổi phỏng vấn, bài nói và phim tài liệu vào một thư mục đề tài, để nguồn tư liệu nằm cùng chỗ, tìm được và trích dẫn được rất lâu sau khi đã xem xong video."
+                },
+                {
+                    "h3": "Nộp bài hoặc lưu hồ sơ",
+                    "content": "Khi bản transcript phải nộp lên, đính kèm hay lưu vào hồ sơ — cho một môn học, một ghi chú pháp lý hay một báo cáo — thì bản PDF hoặc DOCX đã tải về mới là bản đi được."
+                },
+                {
+                    "h3": "Làm việc offline",
+                    "content": "File TXT hoặc DOCX đã tải mở được trên máy bay, trên tàu, hay bất cứ nơi nào mất sóng, nên việc đọc và chỉnh sửa không dừng lại chỉ vì mạng dừng lại."
+                },
+                {
+                    "h3": "Đưa sang công cụ khác",
+                    "content": "Có phần mềm chỉ nhận file chứ không nhận chữ dán vào. Tải xuống cho bạn thứ để tải lên chỗ khác — một công cụ dịch, một hệ thống quản lý tài liệu hay một trình soạn thảo."
+                },
+                {
+                    "h3": "Giữ một bản riêng cho mình",
+                    "content": "Video bị gỡ, bị chuyển sang riêng tư hoặc bị sửa. Tải bản chép lời video YouTube về là cách bạn giữ bản riêng của những gì đã được nói, bất kể chuyện gì xảy ra với bản gốc."
+                }
+            ]
+        },
+        {
+            "h2": "Tải transcript với hơn 100 ngôn ngữ",
+            "content": [
+                "Việc tải xuống không giới hạn ở tiếng Anh. TranscriptX nhận dạng lời nói ở hơn 100 ngôn ngữ và tự phát hiện ngôn ngữ, nên file bạn lưu về ra đúng thứ tiếng mà video đã nói. Video tiếng Việt trả về bản transcript tiếng Việt, có dấu đầy đủ; video tiếng Anh hay tiếng Nhật cũng vậy.",
+                "Mọi định dạng đều mang toàn bộ bản transcript và giữ nguyên phần gán nhãn người nói, nên một buổi phỏng vấn hay tọa đàm đã tải về đọc ra thành bản ghi rõ ai nói gì chứ không phải một khối chữ dính liền — dù bạn chọn định dạng nào trong bốn định dạng. Và tải transcript YouTube miễn phí ở đây áp dụng cho mọi ngôn ngữ như nhau."
+            ]
+        },
+        {
+            "h2": "Khi nào nên dùng công cụ khác",
+            "content": [
+                "Tải bản transcript thành file chỉ là một lựa chọn trong nhiều lựa chọn, và mỗi công cụ của TranscriptX được dựng quanh một nhu cầu riêng. Nếu mục đích của bạn hơi khác, một trong những công cụ dưới đây sẽ hợp hơn.",
+                "Nếu bạn chỉ muốn đọc và sao chép bản transcript mà không cần lưu file nào cả, công cụ [YouTube Transcript](/vi/youtube-transcript) giữ mọi thứ ngay trên màn hình. Còn nếu thứ bạn thật sự cần là tải phụ đề YouTube thành file khớp thời gian để đưa vào phần mềm dựng phim chứ không phải một tài liệu để đọc, thì [YouTube Subtitle Downloader](/vi/youtube-subtitle-downloader) xuất SRT và VTT đúng cho việc đó. Và nếu toàn văn là nhiều hơn mức bạn cần, [YouTube Video Summarizer](/vi/youtube-video-summarizer) rút video xuống còn những ý chính."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để tải transcript từ một video YouTube?",
+                    "a": "Dán link video vào TranscriptX, đợi bản transcript dựng xong, chọn TXT, DOCX, PDF hoặc SRT rồi tải xuống. File lưu thẳng vào thiết bị của bạn và không cần tài khoản nào."
+                },
+                {
+                    "q": "Tải transcript YouTube có miễn phí không?",
+                    "a": "Có. Cả việc lấy bản transcript lẫn việc tải nó về đều miễn phí, không phải tạo tài khoản và không giới hạn độ dài video."
+                },
+                {
+                    "q": "Tôi tải được những định dạng nào?",
+                    "a": "Bốn định dạng: TXT cho văn bản thuần, DOCX cho tài liệu sửa được, PDF cho bản cố định, và SRT cho bản transcript kèm mốc thời gian."
+                },
+                {
+                    "q": "Tôi tải transcript kèm mốc thời gian được không?",
+                    "a": "Được. Bật mốc thời gian trước khi xuất, rồi tải SRT để giữ phần thời gian, hoặc để mốc giờ nằm luôn bên trong file TXT hay DOCX."
+                },
+                {
+                    "q": "File lưu vào đâu?",
+                    "a": "Vào nơi trình duyệt của bạn lưu các file tải xuống — thư mục Downloads trên máy tính hoặc bộ nhớ điện thoại. Từ đó bạn có thể di chuyển, mở offline hoặc chia sẻ."
+                },
+                {
+                    "q": "Video dài thì tải transcript được không?",
+                    "a": "Được. Không có giới hạn độ dài. Toàn bộ bản transcript của một video vài tiếng vẫn tải về thành một file duy nhất, dù bạn chọn định dạng nào."
+                },
+                {
+                    "q": "Tôi có phải cài gì để tải không?",
+                    "a": "Không. Mọi thứ chạy trong trình duyệt. Không có phần mềm, tiện ích mở rộng hay ứng dụng nào phải cài trước khi bạn tải transcript YouTube txt hay bất kỳ định dạng nào khác."
+                },
+                {
+                    "q": "Định dạng nào hợp nhất để sửa về sau?",
+                    "a": "DOCX. Nó mở bằng Word, Google Docs và Pages, giữ được định dạng nên dễ viết lại nhất. Chọn TXT nếu bạn chỉ cần phần chữ thô, hoặc PDF cho bản không nên thay đổi."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tải transcript YouTube miễn phí",
+        "content": [
+            "Dán link một video YouTube công khai, để TranscriptX dựng bản transcript với hơn 100 ngôn ngữ, rồi tải xuống dưới dạng TXT, DOCX, PDF hoặc SRT.",
+            "Bản transcript trở thành một file thuộc về bạn — sẵn sàng để đọc offline, lưu trữ, in ra hay chia sẻ. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

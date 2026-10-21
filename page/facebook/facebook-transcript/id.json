@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Transkrip Video Facebook — Ubah Video Jadi Teks Gratis | TranscriptX",
+        "description": "Buat transkrip video Facebook gratis dan online. Tempel link video Facebook untuk mengubah video Facebook menjadi teks dalam 100+ bahasa: postingan, Reels, atau siaran langsung tersimpan. Tanpa akun.",
+        "schemaName": "Alat Transkrip Video Facebook TranscriptX",
+        "schemaDescription": "Alat online gratis yang membuat transkrip dari video Facebook publik — postingan video, Reels, video Watch, dan siaran langsung Facebook Live yang tersimpan — dalam lebih dari 100 bahasa. Tempel link videonya dan semua ucapan di dalamnya berubah menjadi teks yang bisa Anda baca, salin, edit, terjemahkan, atau ekspor, tanpa perlu membuat akun.",
+        "ogTitle": "Transkrip Video Facebook — Ubah Video Jadi Teks Gratis | TranscriptX",
+        "ogDescription": "Ubah video Facebook apa pun jadi teks. Tempel link-nya dan dapatkan transkrip dalam 100+ bahasa, gratis dan tanpa akun."
+    },
+    "hero": {
+        "h1": "Transkrip Video Facebook",
+        "subtitle": "Ubah video Facebook publik apa pun jadi teks. Tempel link postingan video, Reel, atau siaran langsung Facebook Live yang tersimpan, lalu TranscriptX membuat transkrip lengkapnya dalam lebih dari 100 bahasa, dengan setiap pembicara diberi label. Baca, salin, edit, atau terjemahkan. Tanpa akun, tanpa instalasi.",
+        "placeholder": "Tempel URL video Facebook...",
+        "button": "Buat Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara transkrip video Facebook?",
+        "answer": "Salin link video Facebook publik lalu tempel ke TranscriptX. Alat ini mengambil audionya dan menghasilkan transkrip lengkap dalam hitungan detik, dalam lebih dari 100 bahasa, siap Anda baca, salin, edit, atau ekspor. Cara mengubah video Facebook menjadi teks memang sesederhana itu: tidak perlu mendaftar dan tidak ada yang perlu diinstal."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkrip Video Facebook?",
+            "content": [
+                "Transkrip video Facebook adalah semua isi ucapan dalam sebuah video Facebook yang dituliskan menjadi teks. Semua yang diucapkan di klip itu — host yang menjawab pertanyaan di siaran langsung, kreator yang menarasikan Reel, pembicara di acara yang direkam — berubah menjadi kata-kata yang bisa Anda baca, cari, dan salin, bukan lagi sesuatu yang harus Anda putar maju-mundur di timeline video.",
+                "Facebook termasuk tempat yang sulit untuk mengambil kembali informasi. Videonya tersebar di beranda, di dalam grup, di halaman, dan di siaran langsung lama yang bisa berdurasi satu jam, sementara platformnya tidak menyediakan cara yang rapi untuk membaca isi pembicaraannya. Transkripsi video Facebook menyelesaikan persis masalah itu: ia mengubah video yang terkubur dan tidak bisa dicari menjadi teks yang benar-benar bisa Anda olah. Begitu Anda ekstrak teks dari video Facebook, isinya jadi bisa dicari seperti dokumen biasa.",
+                "Halaman ini dibuat untuk melakukan satu hal dengan baik — mengeluarkan kata-kata dari sebuah video Facebook. Entah Anda menyebutnya mengambil transkrip, membuatnya dengan AI, atau mengubah video Facebook jadi teks, hasilnya tetap sama, jadi semuanya ada di satu alat, bukan terpecah ke halaman-halaman kembar.",
+                "TranscriptX membuat transkripnya gratis, langsung di browser, tanpa akun."
+            ]
+        },
+        {
+            "h2": "Transkrip Video Facebook Sekilas",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak ada — berjalan di browser"
+                },
+                {
+                    "label": "Masukan",
+                    "value": "Link video Facebook publik apa pun"
+                },
+                {
+                    "label": "Mendukung",
+                    "value": "Postingan video, Reels, video Watch, siaran langsung Facebook Live tersimpan"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Pemisahan pembicara",
+                    "value": "Ya — setiap pembicara diberi label"
+                },
+                {
+                    "label": "Jalan tanpa subtitle di layar",
+                    "value": "Ya — teksnya berasal dari audio"
+                },
+                {
+                    "label": "Format ekspor",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser desktop, tablet, dan HP"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mengubah Video Facebook Menjadi Teks",
+            "steps": [
+                {
+                    "h3": "Salin link video Facebook",
+                    "content": "Buka videonya di Facebook, ketuk menu tiga titik atau tanggal unggahnya, lalu salin link-nya — atau salin URL dari bilah alamat kalau Anda memakai desktop. Videonya harus publik."
+                },
+                {
+                    "h3": "Tempel ke TranscriptX",
+                    "content": "Masukkan link itu ke kotak di atas. Tidak ada akun yang perlu dibuat dan tidak ada file yang perlu diunggah; alat ini membaca videonya langsung dari link."
+                },
+                {
+                    "h3": "Transkrip pun dibuat",
+                    "content": "TranscriptX mendengarkan audionya, mendeteksi sendiri bahasa yang diucapkan dari lebih dari 100 bahasa, memisahkan setiap pembicara, lalu menuliskan kata demi kata lengkap dengan tanda baca."
+                },
+                {
+                    "h3": "Pakai teksnya",
+                    "content": "Baca di layar, salin seluruhnya atau satu kutipan saja, edit, terjemahkan, atau unduh transkripnya untuk disimpan."
+                }
+            ]
+        },
+        {
+            "h2": "Generator Transkrip Facebook AI yang Bekerja Tanpa Subtitle",
+            "content": [
+                "Sebagian besar video Facebook tidak punya jalur subtitle yang bisa diandalkan, dan subtitle otomatis yang sesekali muncul pun sering tidak lengkap atau salah. Karena itu TranscriptX bekerja sebagai generator transkrip Facebook: teksnya dibangun dari audio itu sendiri, bukan bergantung pada subtitle yang mungkin tidak pernah ditambahkan kreatornya.",
+                "Artinya Anda tetap bisa ubah suara video Facebook jadi teks meski tidak ada apa pun di layar untuk disalin — termasuk video yang dulunya hanya tayang sebagai siaran langsung. Generator bertenaga AI ini sanggup menangani satu narator, wawancara dua orang, atau satu ruangan penuh suara di siaran langsung yang direkam, sambil memberi label pada setiap pembicara. Karena transkrip video Facebook AI ini bekerja dari audio, hasilnya biasanya lebih bersih daripada subtitle bawaan Facebook, terutama untuk aksen dan istilah teknis.",
+                "Transkripsi video Facebook berjalan sama persis di semua bahasa yang didengarnya — siaran langsung berbahasa Indonesia atau Reel berbahasa Jawa kembali sebagai teks dalam bahasa itu juga, terdeteksi otomatis."
+            ]
+        },
+        {
+            "h2": "Video Facebook ke Teks",
+            "content": [
+                "Kalau Anda tidak terbiasa dengan istilah transkrip dan hanya ingin mengubah video Facebook jadi teks, ini alat yang sama dengan nama yang lebih pas. Tempel link-nya, dan semua yang diucapkan di video itu kembali sebagai teks yang rapi dan enak dibaca.",
+                "Mengubah video Facebook ke teks berguna jauh melampaui sekadar membacanya sekali. Siaran langsung yang direkam berubah jadi dokumen yang bisa Anda cari untuk menemukan satu jawaban yang Anda butuhkan, rapat komunitas yang panjang berubah jadi notulen yang bisa dibagikan ke orang yang tidak sempat hadir, dan video seorang kreator berubah jadi bahan yang bisa Anda kutip atau olah ulang — semuanya dari teksnya, bukan dari timeline videonya."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditranskrip di Facebook",
+            "intro": [
+                "Facebook menampung lebih banyak jenis video daripada kebanyakan platform, dan transkrip membantu untuk semuanya. Yang paling sering diubah orang:"
+            ],
+            "items": [
+                {
+                    "h3": "Siaran langsung Facebook Live tersimpan",
+                    "content": "Siaran langsung biasanya jadi video terpanjang dan paling padat informasi di Facebook — webinar, sesi tanya jawab, kajian, kelas online, rapat komunitas. Mengubah live Facebook jadi teks membuat siaran satu jam berubah jadi bacaan beberapa menit yang bisa Anda cari sampai ketemu bagian yang penting."
+                },
+                {
+                    "h3": "Postingan video",
+                    "content": "Video berbicara di depan kamera, pengumuman, atau video penjelasan yang diunggah ke beranda berubah jadi teks yang bisa dikutip dan dicari, bukan klip yang harus diputar ulang setiap kali Anda mau merujuknya."
+                },
+                {
+                    "h3": "Reels",
+                    "content": "Reels Facebook berdurasi pendek dan bergerak cepat, dan bagian yang berguna sering cuma satu kalimat. Transkrip Reel Facebook menangkap kalimat itu sebagai teks sebelum ia hilang tergulung dari beranda."
+                },
+                {
+                    "h3": "Video grup dan halaman",
+                    "content": "Konten edukasi, tutorial, dan diskusi yang diunggah di dalam grup atau di halaman berubah jadi catatan dan rujukan yang bisa Anda simpan di luar platform."
+                },
+                {
+                    "h3": "Rekaman acara dan wawancara",
+                    "content": "Diskusi panel, seminar, dan wawancara yang disiarkan atau diunggah di Facebook berubah jadi transkrip dengan setiap pembicara diberi label, jadi Anda bisa mengambil kutipan persis dan menyebut sumbernya dengan benar."
+                }
+            ]
+        },
+        {
+            "h2": "Salin, Edit, Terjemahkan, atau Unduh",
+            "content": [
+                "Begitu transkripnya muncul di layar, teks itu sepenuhnya milik Anda untuk dipakai sesuai kebutuhan berikutnya. Salin semuanya atau satu kutipan saja, edit teksnya untuk membetulkan sebuah nama atau memangkas kata-kata mubazir, atau terjemahkan ke bahasa lain tanpa meninggalkan halaman ini.",
+                "Kalau Anda ingin menyimpannya, bukan sekadar membacanya di layar, ekspor transkrip itu sebagai TXT, DOCX, PDF, SRT, atau VTT — teks polos untuk dibaca dan ditempel, dokumen untuk diedit, file tetap untuk dibagikan, atau file subtitle bertanda waktu kalau videonya memang butuh subtitle.",
+                "Bekerja lintas platform juga? Alat [YouTube Transcript](/id/youtube-transcript) dan [TikTok Transcript](/id/tiktok-transcript) melakukan pekerjaan yang sama untuk kedua situs itu, dan kalau sumber Anda berupa file audio dan bukan video, alat [Audio ke Teks](/id/audio-to-text) dibuat khusus untuk itu."
+            ]
+        },
+        {
+            "h2": "Akurasi dan Bahasa",
+            "content": [
+                "Seberapa dekat transkripnya dengan isi video sangat bergantung pada audionya. Pembicara yang jelas di siaran langsung dengan rekaman bagus atau Reel yang bernaskah kembali nyaris kata per kata, sedangkan ruangan berisik, orang yang bicara bersahutan, atau siaran seadanya dari kamera HP akan butuh lebih banyak pemeriksaan.",
+                "Bagian yang layak dicek selalu itu-itu saja — nama orang, angka, dan istilah teknis atau khusus — dan membetulkannya sambil melihat videonya hanya makan waktu beberapa detik dibandingkan mengetik ulang seluruh isinya sendiri.",
+                "TranscriptX mengenali ucapan dalam lebih dari 100 bahasa dan mendeteksi sendiri bahasa yang sedang didengarnya, jadi transkripsi video Facebook berbahasa Indonesia kembali dalam Bahasa Indonesia, lengkap dengan campuran istilah sehari-hari yang biasa dipakai, begitu pula untuk bahasa Inggris, Melayu, atau bahasa lain, dengan pembicara yang tetap terpisah dari awal sampai akhir."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara transkrip video Facebook gratis?",
+                    "a": "Salin link video Facebook publik, tempel ke TranscriptX, dan transkrip video Facebook gratis itu langsung dibuat tanpa biaya. Tidak ada akun yang perlu dibuat, tidak ada software yang perlu diinstal, dan tidak ada batas durasi video."
+                },
+                {
+                    "q": "Apakah ini generator transkrip Facebook gratis?",
+                    "a": "Ya. TranscriptX bekerja sebagai generator transkrip Facebook gratis dan online — teksnya dibangun dari audio memakai AI, jadi transkrip video Facebook online ini tetap jalan walaupun videonya tidak punya subtitle."
+                },
+                {
+                    "q": "Bisakah saya membuat transkrip dari siaran langsung Facebook?",
+                    "a": "Bisa, setelah siaran langsungnya berakhir dan rekamannya tersimpan serta bersifat publik. Tempel link siaran tersimpan itu dan seluruh isinya ditranskrip, dengan setiap pembicara diberi label."
+                },
+                {
+                    "q": "Bisakah saya mengubah video Facebook ke teks?",
+                    "a": "Bisa. Mengubah video Facebook jadi teks dan mengambil transkripnya adalah tindakan yang sama di sini — tempel link-nya, lalu ekstrak teks dari video Facebook itu langsung terjadi dan hasilnya bisa langsung diedit."
+                },
+                {
+                    "q": "Apakah tetap jalan kalau videonya tidak punya subtitle?",
+                    "a": "Ya. Transkripnya berasal dari audio, bukan dari jalur subtitle mana pun, jadi video Facebook tanpa subtitle di layar tetap bisa ditranskrip seperti biasa."
+                },
+                {
+                    "q": "Bahasa apa saja yang bisa ditranskrip?",
+                    "a": "Lebih dari 100 bahasa, termasuk Bahasa Indonesia. Bahasa yang diucapkan dideteksi otomatis, jadi transkripnya kembali dalam bahasa yang dipakai di video Facebook itu."
+                },
+                {
+                    "q": "Apakah saya perlu akun Facebook atau aplikasinya?",
+                    "a": "Tidak. Semuanya berjalan di browser hanya dengan link video publik — tidak butuh aplikasi Facebook dan tidak perlu login dalam bentuk apa pun."
+                },
+                {
+                    "q": "Bisakah alat ini memisahkan pembicara yang berbeda?",
+                    "a": "Bisa. Setiap pembicara diberi label terpisah, jadi rekaman siaran langsung, wawancara, atau diskusi grup terbaca sebagai percakapan bolak-balik yang jelas, bukan satu blok teks."
+                },
+                {
+                    "q": "Bisakah saya mengunduh atau mengekspor transkripnya?",
+                    "a": "Bisa. Salin teksnya atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT — teks polos, dokumen yang bisa diedit, file tetap, atau file subtitle bertanda waktu. Alat transkrip video Facebook ini tidak menambahkan tanda apa pun pada teksnya."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Buat Transkrip Video Facebook Anda Gratis",
+        "content": [
+            "Tempel link video Facebook publik apa pun — postingan, Reel, atau siaran langsung yang tersimpan — dan TranscriptX membuat transkrip lengkapnya dalam lebih dari 100 bahasa, dengan setiap pembicara diberi label.",
+            "Baca, salin bagian yang Anda butuhkan, edit, terjemahkan, atau ekspor sebagai TXT, DOCX, PDF, SRT, atau VTT. Mengubah video Facebook menjadi teks tidak dipungut biaya sama sekali: tanpa akun, tanpa instalasi, gratis."
+        ]
+    }
+}

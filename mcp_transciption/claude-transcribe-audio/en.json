@@ -1,0 +1,127 @@
+{
+    "seo": {
+        "title": "Claude Transcribe Audio — Audio to Text in Claude with TranscriptX",
+        "description": "Can Claude transcribe audio? Yes, with TranscriptX. Upload a recording or paste a podcast link and Claude gets the full transcript to summarize, translate or turn into notes.",
+        "schemaName": "TranscriptX for Claude — Audio Transcription",
+        "schemaDescription": "TranscriptX connects to Claude and turns audio files, podcasts and media links into a full transcript in over 100 languages. Claude can then summarize, translate or answer questions about the transcript in the same chat. Export to TXT, SRT or VTT.",
+        "ogTitle": "Claude Transcribe Audio — Powered by TranscriptX",
+        "ogDescription": "Upload a recording, and TranscriptX gives Claude the full transcript to summarize, translate or ask about. Free to start."
+    },
+    "hero": {
+        "h1": "Claude Transcribe Audio – Turn Audio Into Text in Claude With TranscriptX",
+        "subtitle": "Connect TranscriptX to Claude, then upload any recording or paste a podcast link. TranscriptX transcribes the speech and hands the full text to Claude, so you can summarize, translate, quote or turn it into notes without leaving the chat. Free to start, in over 100 languages.",
+        "button": "Connect TranscriptX to Claude"
+    },
+    "quickAnswer": {
+        "question": "Can Claude transcribe audio?",
+        "answer": "Yes, with TranscriptX. Add TranscriptX to Claude as a custom connector, upload an audio file or paste a link, and ask Claude to transcribe it. TranscriptX turns the speech into text and returns the full transcript to the chat, where Claude can summarize, translate or answer questions about it. Setup takes about a minute — see the Transcription MCP guide."
+    },
+    "sections": [
+        {
+            "h2": "How Claude Transcribes Audio With TranscriptX",
+            "content": [
+                "Claude is excellent at reading and working with text, but it is not built to listen to audio files on its own. TranscriptX fills that gap.",
+                "Once TranscriptX is connected, the work is split in two. TranscriptX listens to the recording and turns the speech into text. Claude receives that transcript and does what it does best — summarizing, translating, analyzing and rewriting.",
+                "You stay in one chat the whole time: upload the file, ask for a transcript, and continue with your next question."
+            ]
+        },
+        {
+            "h2": "Why Use TranscriptX to Transcribe Audio in Claude",
+            "items": [
+                {
+                    "h3": "Claude can finally “listen” to audio",
+                    "content": "Recordings Claude cannot open on its own become text it can read, quote and analyze."
+                },
+                {
+                    "h3": "No more copy and paste",
+                    "content": "The transcript lands directly in the conversation instead of being moved between tools."
+                },
+                {
+                    "h3": "Full transcripts of long recordings",
+                    "content": "Meetings, lectures and podcast episodes are transcribed in full and read in parts, so Claude works with the whole recording."
+                },
+                {
+                    "h3": "Speech to text in 100+ languages",
+                    "content": "Transcribe in the language that was spoken, then ask Claude to translate it."
+                },
+                {
+                    "h3": "Private by design",
+                    "content": "TranscriptX only receives the file or link you ask it to transcribe. Uploaded files are deleted within 12 hours."
+                }
+            ]
+        },
+        {
+            "h2": "Claude Audio to Text at a Glance",
+            "specs": [
+                { "label": "Powered by", "value": "TranscriptX, connected to Claude" },
+                { "label": "Works in", "value": "claude.ai and Claude Desktop" },
+                { "label": "Price", "value": "Free daily allowance — TranscriptX Pro for heavier use" },
+                { "label": "Account required", "value": "No — sign in with Google is optional" },
+                { "label": "Input", "value": "Audio and video files via the upload box, or media links" },
+                { "label": "Languages", "value": "100+" },
+                { "label": "Export formats", "value": "TXT, SRT, VTT" },
+                { "label": "Setup", "value": "One-time — see the [Transcription MCP](/transcription-mcp) guide" }
+            ]
+        },
+        {
+            "h2": "What You Can Do With the Transcript in Claude",
+            "intro": ["Once the transcript is in the chat, try prompts like these:"],
+            "items": [
+                { "h3": "Summarize", "content": "“Summarize this recording in 5 bullet points.”" },
+                { "h3": "Meeting minutes", "content": "“Turn this into minutes with decisions and action items.”" },
+                { "h3": "Translate", "content": "“Translate the transcript into Spanish.”" },
+                { "h3": "Analyze an interview", "content": "“What are the main themes, with supporting quotes?”" },
+                { "h3": "Study notes", "content": "“Make study notes and quiz questions from this lecture.”" }
+            ]
+        },
+        {
+            "h2": "Popular Uses",
+            "items": [
+                { "h3": "Voice memos", "content": "Turn spoken ideas into organized notes." },
+                { "h3": "Meetings and calls", "content": "Get the full transcript, then minutes and follow-ups." },
+                { "h3": "Interviews and research", "content": "Keep exact wording and let Claude find patterns across answers." },
+                { "h3": "Lectures", "content": "Turn a whole class into searchable study material." },
+                { "h3": "Podcasts", "content": "Paste an episode link to transcribe, summarize or translate it." }
+            ]
+        },
+        {
+            "h2": "Get Started",
+            "content": [
+                "Adding TranscriptX to Claude is a one-time setup as a custom connector. Follow the steps on the [Transcription MCP](/transcription-mcp) page, then open any chat, upload a recording and ask Claude to transcribe it.",
+                "Just need a transcript file? Use [Audio to Text](/audio-to-text) directly on TranscriptX."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Can Claude transcribe audio files?",
+                    "a": "Yes, when TranscriptX is connected. TranscriptX transcribes the file and returns the full transcript to Claude."
+                },
+                {
+                    "q": "Can Claude listen to audio?",
+                    "a": "Not on its own. With TranscriptX connected, the audio is turned into text that Claude can read and work with."
+                },
+                {
+                    "q": "How do I upload an audio file to Claude?",
+                    "a": "With TranscriptX connected, ask Claude to transcribe a file and an upload box opens so you can pick the recording from your device."
+                },
+                {
+                    "q": "Is it free?",
+                    "a": "TranscriptX has a free daily allowance for guests and free accounts. TranscriptX Pro lifts most limits."
+                },
+                {
+                    "q": "How do I connect TranscriptX to Claude?",
+                    "a": "Add it as a custom connector — follow the steps on the [Transcription MCP](/transcription-mcp) page."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Audio in Claude With TranscriptX",
+        "content": [
+            "Connect TranscriptX once, and every recording you share in Claude can be transcribed, summarized and translated in the same chat — in over 100 languages.",
+            "Free to start. [Set up TranscriptX in Claude](/transcription-mcp)."
+        ]
+    }
+}

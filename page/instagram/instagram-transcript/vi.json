@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Chuyển video Instagram thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "description": "Chuyển video Instagram thành văn bản online miễn phí. Dán link một Reel hay video để tạo transcript với hơn 100 ngôn ngữ, rồi đọc, sao chép, chỉnh sửa hoặc dịch. Không đăng ký, không cài đặt.",
+        "schemaName": "Công cụ chuyển video Instagram thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp tạo transcript cho mọi video hay Reel Instagram công khai với hơn 100 ngôn ngữ. Bạn chỉ cần dán link Reel hoặc video, toàn bộ lời nói trong clip sẽ thành văn bản để đọc, sao chép, chỉnh sửa, dịch hoặc xuất file, không cần tạo tài khoản.",
+        "ogTitle": "Chuyển video Instagram thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "ogDescription": "Biến mọi Reel hay video Instagram thành văn bản. Dán link và nhận bản transcript với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển video Instagram thành văn bản",
+        "subtitle": "Biến mọi Reel hay video Instagram công khai thành văn bản. Dán link vào là TranscriptX tạo transcript Instagram đầy đủ với hơn 100 ngôn ngữ, gán nhãn từng người nói, để bạn đọc, sao chép câu hook, chỉnh sửa hoặc dịch. Không cần tài khoản, không phải cài đặt gì.",
+        "placeholder": "Dán link Reel hoặc video Instagram...",
+        "button": "Lấy bản transcript"
+    },
+    "quickAnswer": {
+        "question": "Cách lấy transcript của một video Instagram như thế nào?",
+        "answer": "Bạn sao chép link của một Reel hay video Instagram công khai rồi dán vào TranscriptX. Công cụ sẽ nghe phần âm thanh và tạo bản transcript chỉ trong vài giây, hỗ trợ hơn 100 ngôn ngữ, sẵn sàng để bạn đọc, sao chép, chỉnh sửa hoặc xuất file. Chuyển video Instagram thành chữ từ link như vậy không cần đăng ký và cũng không phải cài đặt gì lên máy."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển video Instagram thành văn bản là gì?",
+            "content": [
+                "Chuyển video Instagram thành văn bản là viết ra thành chữ toàn bộ lời nói trong một Reel hay video. Bất cứ điều gì người sáng tạo nói trước máy quay — câu hook mở đầu, các bước hướng dẫn, câu chuyện họ kể — đều trở thành chữ để bạn đọc, tìm kiếm và sao chép, thay vì phải chạm vào clip xem lại lần nữa chỉ để nghe rõ một câu vừa lướt qua.",
+                "Chính đặc thù video ngắn khiến việc này đáng giá trên Instagram. Một Reel được thiết kế để xem một lần rồi lướt qua, mà phần hữu ích lại thường chỉ nằm gọn trong một câu: mẹo trong đoạn hướng dẫn 15 giây, lời khẳng định trong một bài review sản phẩm, câu nói làm cả Reel viral. Lấy text từ video Instagram giúp bạn chốt đúng câu đó lại thành chữ trước khi nó trôi khỏi bảng tin. Chuyển Reels thành văn bản cũng là cách duy nhất để bạn đọc lại nội dung một cách bình tĩnh, thay vì tua đi tua lại một clip vài chục giây.",
+                "Trang này chỉ làm một việc và làm cho tốt — lấy phần lời nói ra khỏi video Instagram. Dù bạn gọi đó là lấy bản transcript, tạo transcript Instagram bằng AI hay chuyển Reel thành chữ, kết quả vẫn như nhau, nên tất cả gom về một công cụ duy nhất thay vì chia nhỏ ra nhiều trang gần như trùng lặp.",
+                "TranscriptX làm việc này miễn phí, chạy ngay trên trình duyệt và không cần đăng ký ở bất kỳ bước nào."
+            ]
+        },
+        {
+            "h2": "Chuyển video Instagram thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Link của bất kỳ Reel hay video Instagram công khai nào"
+                },
+                {
+                    "label": "Hỗ trợ",
+                    "value": "Reels, bài đăng video, IGTV và Instagram Live đã lưu"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "100+, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — gán nhãn riêng cho từng người"
+                },
+                {
+                    "label": "Chạy được khi video không có phụ đề",
+                    "value": "Có — văn bản được dựng từ âm thanh"
+                },
+                {
+                    "label": "Định dạng xuất file",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách lấy văn bản từ một video hay Reel Instagram",
+            "steps": [
+                {
+                    "h3": "Sao chép link Instagram",
+                    "content": "Mở Reel hoặc video, chạm vào menu ba chấm rồi chọn Sao chép liên kết, hoặc chép thẳng URL trên thanh địa chỉ nếu bạn dùng máy tính. Bài đăng cần ở chế độ công khai."
+                },
+                {
+                    "h3": "Dán vào TranscriptX",
+                    "content": "Bỏ link vào ô phía trên. Chuyển video Instagram thành chữ từ link không phải tải gì lên và cũng không cần tài khoản — công cụ đọc clip trực tiếp từ đường link bạn dán."
+                },
+                {
+                    "h3": "Bản transcript được tạo ra",
+                    "content": "TranscriptX nghe phần âm thanh, tự nhận diện ngôn ngữ đang được nói trong hơn 100 ngôn ngữ, tách lời của từng người và viết ra thành câu có dấu câu đầy đủ."
+                },
+                {
+                    "h3": "Dùng phần văn bản",
+                    "content": "Bạn đọc ngay trên màn hình, sao chép toàn bộ hoặc chỉ một câu, chỉnh sửa, dịch sang ngôn ngữ khác, hoặc tải bản transcript về máy để giữ lại."
+                }
+            ]
+        },
+        {
+            "h2": "Công cụ tạo transcript Instagram bằng AI, chạy được cả khi Reel không có phụ đề",
+            "content": [
+                "Phần lớn Reel không có sẵn một luồng phụ đề sạch sẽ để lấy ra, còn phần chữ tự động hiện trên màn hình thì thường sai hoặc thiếu hẳn dấu câu. Vì vậy TranscriptX hoạt động như một công cụ tạo transcript Instagram bằng AI: nó dựng văn bản từ chính phần âm thanh, thay vì phụ thuộc vào phụ đề mà người sáng tạo có thể chưa bao giờ thêm vào.",
+                "Nghĩa là bạn vẫn chuyển giọng nói Instagram thành văn bản được ngay cả khi trên màn hình không có chữ nào để chép lại. Công cụ xử lý tốt cả khi người ta nói rất nhanh, khi có nhạc nền đang trending đè lên tiếng nói, và nó gán nhãn từng người nói riêng khi Reel là một màn duet, một bài collab hay một đoạn cắt từ phỏng vấn. Nếu bạn cần lấy phụ đề video Instagram theo đúng nghĩa một file khớp thời gian, thì bản transcript này chính là nguyên liệu để xuất ra SRT hoặc VTT. Việc nhận dạng chạy giống hệt nhau ở mọi ngôn ngữ công cụ nghe được, nên một Reel tiếng Bồ Đào Nha hay tiếng Ả Rập đều quay về thành văn bản đúng ngôn ngữ đó, được nhận diện tự động.",
+                "Vì mọi thứ đi ra từ âm thanh, kết quả thường sạch hơn phần chữ tự động của chính Instagram, nhất là với giọng vùng miền và lối nói nhanh, tự nhiên như trò chuyện."
+            ]
+        },
+        {
+            "h2": "Chuyển video Instagram sang text",
+            "content": [
+                "Nếu bạn không quen với chữ transcript và chỉ đơn giản muốn chuyển video Instagram sang text, thì đây vẫn là công cụ đó với cái tên hợp tai bạn hơn. Dán link vào, và mọi lời nói trong clip quay về dưới dạng chữ sạch sẽ, dễ đọc.",
+                "Công cụ đọc phần tiếng của clip, nên chuyển âm thanh Instagram thành text vẫn chạy được dù video là một người nói thẳng vào máy quay, một giọng thuyết minh trên đoạn hướng dẫn, hay lời dẫn chồng lên các cảnh quay minh họa. Người sáng tạo lấy text từ video Instagram của một Reel viral để mổ xẻ vì sao nó hiệu quả, dân marketing rút ra các luận điểm chính trong video của đối thủ, còn người học ngoại ngữ thì đọc chậm lại một Reel mà người bản xứ nói nhanh đến mức nghe không kịp."
+            ]
+        },
+        {
+            "h2": "Bạn có thể bóc tách lời nói từ những gì trên Instagram",
+            "intro": [
+                "Chỉ cần trong đó có tiếng người nói là TranscriptX chuyển được thành chữ. Dưới đây là những dạng nội dung người dùng chuyển nhiều nhất, và bản transcript giúp được gì cho từng dạng:"
+            ],
+            "items": [
+                {
+                    "h3": "Reels",
+                    "content": "Ngắn và nhanh, giá trị thường dồn hết vào một câu. Chuyển Reels Instagram thành text giữ lại đúng câu hook hay cái mẹo đó trước khi Reel trôi khỏi bảng tin, để bạn lưu lại, nghiên cứu nó, hoặc viết một phiên bản của riêng mình."
+                },
+                {
+                    "h3": "Bài đăng video",
+                    "content": "Một video cập nhật nói trực tiếp trước máy quay hay một clip giải thích đăng lên trang cá nhân sẽ thành chữ trích dẫn được và tìm kiếm được, thay vì một clip bạn phải mở lại mỗi lần muốn tra một chi tiết."
+                },
+                {
+                    "h3": "IGTV và video dài",
+                    "content": "Video Instagram dạng dài — phỏng vấn, hướng dẫn chi tiết, các buổi ngồi nói chuyện — trở thành một tài liệu bạn lướt mắt tìm đúng đoạn mình cần, thay vì kéo qua kéo lại trên thanh thời gian."
+                },
+                {
+                    "h3": "Instagram Live đã lưu",
+                    "content": "Một buổi Instagram Live được lưu lại và đăng lên sẽ thành chữ đọc được, có gán nhãn từng người nói, nên khi bạn lấy lời thoại video Instagram của một phiên hỏi đáp hay một buổi có hai người cùng dẫn, nội dung đọc lên rõ ràng như một cuộc đối thoại."
+                },
+                {
+                    "h3": "Nội dung dạy và hướng dẫn",
+                    "content": "Công thức nấu ăn, bài tập thể dục và các hướng dẫn bị nén vào một Reel ngắn sẽ thành văn bản từng bước để bạn làm theo, không phải dừng lại và tua ngược sau mỗi vài giây."
+                }
+            ]
+        },
+        {
+            "h2": "Sao chép, chỉnh sửa, dịch hoặc tải bản transcript về",
+            "content": [
+                "Ngay khi bản transcript hiện ra là bạn dùng được luôn. Lấy trọn cả bài hoặc chỉ rút ra một câu trích, dọn bớt những từ đệm thừa, hoặc dịch sang ngôn ngữ khác ngay tại chỗ mà không cần rời khỏi trang.",
+                "Khi muốn giữ lại thay vì chỉ đọc trên màn hình, bạn tải bản transcript về dưới dạng TXT, DOCX, PDF, SRT hoặc VTT — văn bản thuần để đọc và dán, file DOCX để mở bằng Word mà chỉnh sửa, file PDF cố định để chia sẻ, còn SRT và VTT là file phụ đề đã có sẵn dấu thời gian nếu Reel của bạn cần phụ đề khớp thời gian.",
+                "Bạn đang tìm phần caption mà người sáng tạo tự viết dưới Reel, chứ không phải lời họ nói trong clip? Đó lại là việc khác — công cụ [Instagram Caption Downloader](/vi/instagram-caption-downloader) mới là thứ lấy phần mô tả bài đăng đó. Còn nếu bạn làm với cả các nền tảng khác, thì [TikTok Transcript](/vi/tiktok-transcript) và [YouTube Transcript](/vi/youtube-transcript) làm đúng việc của trang này cho hai nền tảng đó."
+            ]
+        },
+        {
+            "h2": "Độ chính xác và ngôn ngữ",
+            "content": [
+                "Bản transcript bám sát Reel đến đâu phụ thuộc chủ yếu vào chất lượng âm thanh. Một người sáng tạo nói rõ ràng trước máy quay sẽ cho kết quả gần như đúng từng chữ, còn nhạc nền quá to, nhiều người nói chồng lên nhau, hay lối nói cực nhanh và lí nhí thì sẽ cần bạn dò lại nhiều hơn.",
+                "Những chỗ đáng kiểm tra là tên riêng, con số, tên thương hiệu và các hashtag được đọc thành lời — mà sửa lại theo video chỉ mất vài giây, so với việc bạn tự ngồi gõ lại toàn bộ.",
+                "TranscriptX nhận dạng lời nói ở hơn 100 ngôn ngữ và tự phát hiện mình đang nghe ngôn ngữ nào, nên khi bạn lấy lời thoại video Instagram của một Reel nói tiếng Việt, văn bản quay về là tiếng Việt có dấu đầy đủ, kể cả với giọng Bắc, Trung hay Nam, và tương tự với mọi ngôn ngữ khác, luôn giữ các người nói tách bạch từ đầu đến cuối."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao bóc tách lời nói video Instagram miễn phí?",
+                    "a": "Bạn sao chép link của một Reel hay video Instagram công khai, dán vào TranscriptX là công cụ sẽ chuyển clip đó thành chữ mà không tính phí. Không có tài khoản nào phải tạo, không ứng dụng nào phải cài và không giới hạn số lần bạn chạy."
+                },
+                {
+                    "q": "Đây có phải công cụ tạo transcript Instagram miễn phí không?",
+                    "a": "Đúng vậy. TranscriptX là công cụ tạo transcript Instagram miễn phí — nó dựng văn bản từ âm thanh bằng AI, nên vẫn chạy được cả khi Reel không có chữ nào hiện trên màn hình."
+                },
+                {
+                    "q": "Tôi có chuyển Reels Instagram thành text được không?",
+                    "a": "Được. Chuyển một Reel thành text và lấy bản transcript của nó ở đây là cùng một thao tác. Bạn dán link vào, còn mọi lời nói trong Reel quay về thành chữ chỉnh sửa được ngay."
+                },
+                {
+                    "q": "Reel không có phụ đề thì có chạy được không?",
+                    "a": "Có. Bản transcript được dựng từ âm thanh chứ không lấy từ luồng phụ đề nào, nên một Reel không hiện chữ trên màn hình vẫn được chuyển thành văn bản bình thường."
+                },
+                {
+                    "q": "Tôi có lấy được bản transcript thẳng từ một link Instagram không?",
+                    "a": "Có. Bạn dán URL của bài đăng công khai và TranscriptX chuyển video Instagram thành chữ từ link chỉ trong vài giây — không phải tải gì lên và cũng không phải chuẩn bị file nào trước."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ, trong đó có tiếng Việt. Ngôn ngữ được nói sẽ tự động nhận diện, nên bản transcript quay về đúng ngôn ngữ mà video Instagram được ghi."
+                },
+                {
+                    "q": "Tôi có cần tài khoản Instagram hay ứng dụng Instagram không?",
+                    "a": "Không. Mọi thứ chạy trên trình duyệt và chỉ cần link công khai của clip — không cần mở ứng dụng và không phải đăng nhập bất cứ đâu."
+                },
+                {
+                    "q": "Việc này có giống với tải caption Instagram không?",
+                    "a": "Không. Công cụ này viết ra thành chữ những lời được nói bên trong video. Nếu bạn muốn phần caption mà người sáng tạo tự gõ dưới bài đăng, hãy dùng công cụ Instagram Caption Downloader thay cho trang này."
+                },
+                {
+                    "q": "Tôi có tải hoặc xuất bản transcript ra file được không?",
+                    "a": "Được. Bạn sao chép phần chữ ra thẳng, hoặc xuất theo năm định dạng — TXT và PDF để đọc, DOCX để chỉnh sửa, còn SRT hay VTT khi Reel cần file phụ đề khớp thời gian."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển video Instagram thành văn bản miễn phí",
+        "content": [
+            "Dán link của bất kỳ Reel hay video Instagram công khai nào và TranscriptX sẽ tạo bản transcript đầy đủ với hơn 100 ngôn ngữ — lấy transcript Instagram miễn phí, tạo bằng AI hay chuyển Reel thành chữ, tất cả làm gọn trong một trang.",
+            "Bạn đọc nó, sao chép câu hook, chỉnh sửa, dịch, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

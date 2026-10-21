@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Download YouTube Transcript — Free TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "Download a YouTube transcript free as TXT, DOCX, PDF or SRT. Paste a link, get the transcript, and save the file to your device for offline use. No sign-up.",
+        "schemaName": "TranscriptX Download YouTube Transcript Tool",
+        "schemaDescription": "Free tool to download the transcript of a public YouTube video as a TXT, DOCX, PDF or SRT file. Paste a link and save the transcript to your device with no account required.",
+        "ogTitle": "Download YouTube Transcript — Free TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Save any YouTube transcript to your device. Download as TXT, DOCX, PDF or SRT, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "Download YouTube Transcript",
+        "subtitle": "Save the transcript of any public YouTube video to your device. Paste a link, then download the text as TXT, DOCX, PDF or SRT to read offline, archive or drop into a document. No account, no install.",
+        "placeholder": "Paste a YouTube video URL...",
+        "button": "Get & Download Transcript"
+    },
+    "quickAnswer": {
+        "question": "How do I download a YouTube transcript?",
+        "answer": "Paste a public YouTube link into TranscriptX, and once the transcript is ready, choose a format and download it. You can save it as TXT, DOCX, PDF or SRT to your computer or phone. No sign-up, and nothing to download or install first."
+    },
+    "sections": [
+        {
+            "h2": "What Downloading a Transcript Gives You",
+            "content": [
+                "Reading a transcript on screen is fine while you are at your desk with a connection. A YouTube transcript download is what you reach for when the text has to outlive the browser tab — when you need a file you own, sitting on your own device, that opens with or without internet.",
+                "A downloaded transcript is a real document. You can drop it into a folder of research, attach it to an email, add it to a shared drive, or print it. It stops being something you looked at once and becomes part of your files.",
+                "TranscriptX prepares the transcript and hands you the download. The video itself stays on YouTube; what lands on your device is just the text, in the format you picked."
+            ]
+        },
+        {
+            "h2": "Which Format Should You Download?",
+            "intro": [
+                "The right file depends entirely on what happens to the transcript next. Four formats cover almost every case."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — plain text",
+                    "content": "The lightest, most portable option. A .txt file opens anywhere, holds no formatting to get in the way, and is the cleanest thing to paste into another tool or an AI assistant. Download TXT when you just want the words."
+                },
+                {
+                    "h3": "DOCX — editable document",
+                    "content": "Opens in Word, Google Docs and Pages. Download DOCX when you plan to rework the transcript — headings, highlights, comments, tracked changes — and treat it as a working document rather than raw text."
+                },
+                {
+                    "h3": "PDF — fixed, shareable record",
+                    "content": "Looks identical on every device and is not meant to be edited. Download PDF when you are sending the transcript to someone, filing it as a record, or printing it, and you want the layout to stay exactly as it is."
+                },
+                {
+                    "h3": "SRT — transcript with timing",
+                    "content": "Carries a timestamp on every line. Download SRT when you need the transcript tied to moments in the video — for captioning, for checking a quote against the audio, or for any tool that expects timed text."
+                }
+            ]
+        },
+        {
+            "h2": "How to Download a YouTube Transcript",
+            "steps": [
+                {
+                    "h3": "Paste the YouTube link",
+                    "content": "Copy the URL of the public video you want and paste it into the box above. There is no account step and no file to upload first."
+                },
+                {
+                    "h3": "Let the transcript build",
+                    "content": "TranscriptX reads the audio and writes out the full transcript in over 100 languages, with each speaker labelled and punctuation added."
+                },
+                {
+                    "h3": "Pick your format",
+                    "content": "Choose TXT, DOCX, PDF or SRT depending on what you are going to do with it. Turn timestamps on first if you are downloading SRT or want them inside the file."
+                },
+                {
+                    "h3": "Download the file",
+                    "content": "Save it to your computer or phone. The transcript is now a file you own, ready to open offline, share or archive."
+                }
+            ]
+        },
+        {
+            "h2": "When You Need the File, Not Just the Text",
+            "intro": [
+                "Downloading matters most when the transcript has to leave the browser and go into a real workflow. A few examples:"
+            ],
+            "items": [
+                {
+                    "h3": "Building a research archive",
+                    "content": "Researchers save transcripts of interviews, talks and documentaries into a project folder, so the sources stay together, searchable and citable long after the videos are watched."
+                },
+                {
+                    "h3": "Submitting or filing a record",
+                    "content": "When a transcript has to be handed in, attached or kept on file — for a class, a legal note or a report — a downloaded PDF or DOCX is the version that travels."
+                },
+                {
+                    "h3": "Working offline",
+                    "content": "A downloaded TXT or DOCX opens on a flight, on a train or anywhere the connection drops, so the reading and editing does not stop when the internet does."
+                },
+                {
+                    "h3": "Handing it to another tool",
+                    "content": "Some software wants a file, not pasted text. Downloading gives you something to upload — into a translation tool, a document system or an editor."
+                },
+                {
+                    "h3": "Keeping a personal copy",
+                    "content": "Videos get taken down, set to private or edited. A downloaded transcript is your own copy of what was said, kept regardless of what happens to the original."
+                }
+            ]
+        },
+        {
+            "h2": "Download Transcripts in Over 100 Languages",
+            "content": [
+                "The download is not limited to English. TranscriptX transcribes speech in over 100 languages and detects the language on its own, so the file you save comes out in whatever language the video was spoken in.",
+                "Every format carries the full transcript, with speakers kept separate, so a downloaded interview or panel reads as a clear record of who said what rather than one merged block — whichever of the four formats you choose."
+            ]
+        },
+        {
+            "h2": "When a Different Tool Fits Better",
+            "content": [
+                "Downloading a transcript file is one option among several, and each TranscriptX tool is shaped around a distinct need. If your goal is a little different, one of these is a closer match.",
+                "To simply read and copy the transcript without saving a file at all, the [YouTube Transcript](/youtube-transcript) tool keeps everything on screen. If what you really need is a timed caption file for a video editor rather than a document, the [YouTube Subtitle Downloader](/youtube-subtitle-downloader) exports SRT and VTT instead. And if the full text is more than you want, the [YouTube Video Summarizer](/youtube-video-summarizer) condenses the video down to its key points."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I download a transcript from a YouTube video?",
+                    "a": "Paste the video link into TranscriptX, wait for the transcript to build, choose TXT, DOCX, PDF or SRT, and download it. The file saves straight to your device with no account required."
+                },
+                {
+                    "q": "Is it free to download a YouTube transcript?",
+                    "a": "Yes. Both getting the transcript and downloading it are free, with no account to create and no limit on how long the video can be."
+                },
+                {
+                    "q": "What formats can I download?",
+                    "a": "Four: TXT for plain text, DOCX for an editable document, PDF for a fixed record, and SRT for a transcript with timestamps."
+                },
+                {
+                    "q": "Can I download the transcript with timestamps?",
+                    "a": "Yes. Turn timestamps on before you export, then download SRT to keep the timing, or include them inside a TXT or DOCX file."
+                },
+                {
+                    "q": "Where does the file save?",
+                    "a": "To wherever your browser saves downloads — your computer's downloads folder or your phone's storage. From there you can move it, open it offline or share it."
+                },
+                {
+                    "q": "Can I download transcripts from long videos?",
+                    "a": "Yes. There is no length limit. The full transcript of a multi-hour video downloads as a single file, whichever format you choose."
+                },
+                {
+                    "q": "Do I need to install anything to download?",
+                    "a": "No. Everything runs in the browser. There is no software, extension or app to install before you can download the transcript."
+                },
+                {
+                    "q": "Which format is best for editing later?",
+                    "a": "DOCX. It opens in Word, Google Docs and Pages and keeps formatting, so it is the easiest to rewrite. Choose TXT if you only need the raw words, or PDF for a version that should not change."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download Your YouTube Transcript Free",
+        "content": [
+            "Paste a public YouTube link, let TranscriptX build the transcript in over 100 languages, and download it as TXT, DOCX, PDF or SRT.",
+            "The transcript becomes a file you own — ready to read offline, archive, print or share. No account, no install, no cost."
+        ]
+    }
+}

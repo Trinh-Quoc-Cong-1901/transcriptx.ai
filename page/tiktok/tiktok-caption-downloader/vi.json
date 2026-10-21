@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "title": "Tải phụ đề TikTok — File phụ đề miễn phí | TranscriptX",
+        "description": "Tải phụ đề TikTok từ mọi video công khai, miễn phí. Dán link để lưu phụ đề thành file có timecode với hơn 100 ngôn ngữ. Không cần đăng ký, không cần cài đặt.",
+        "schemaName": "TranscriptX — Công cụ tải phụ đề TikTok",
+        "schemaDescription": "Công cụ miễn phí giúp tải phụ đề của video TikTok công khai về dưới dạng file có mốc thời gian, hỗ trợ hơn 100 ngôn ngữ. Chỉ cần dán link là lưu được phụ đề để đăng lại, dịch sang ngôn ngữ khác hoặc phục vụ người khiếm thính, không cần tài khoản.",
+        "ogTitle": "Tải phụ đề TikTok — File phụ đề miễn phí | TranscriptX",
+        "ogDescription": "Tải phụ đề của mọi video TikTok về dạng file có timecode. Dán link, lưu phụ đề với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Tải phụ đề TikTok",
+        "subtitle": "Tải phụ đề của bất kỳ video TikTok công khai nào. Dán link và lưu lời nói trong video thành file phụ đề có mốc thời gian, hỗ trợ hơn 100 ngôn ngữ, sẵn sàng để gắn lại lên bài đăng lại hoặc đem đi dịch. Không cần tài khoản, không phải cài gì.",
+        "placeholder": "Dán link video TikTok...",
+        "button": "Tải phụ đề"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để tải phụ đề từ một video TikTok?",
+        "answer": "Dán link TikTok công khai vào TranscriptX, công cụ sẽ dựng phụ đề từ chính âm thanh của video và cho bạn tải về dưới dạng file phụ đề có mốc thời gian. Phụ đề hỗ trợ hơn 100 ngôn ngữ, mỗi dòng đều khớp thời gian với video. Bạn không cần tài khoản nào cả."
+    },
+    "sections": [
+        {
+            "h2": "Công cụ tải phụ đề TikTok này làm gì",
+            "content": [
+                "Công cụ này bóc phụ đề TikTok ra khỏi clip và đưa cho bạn dưới dạng một file tải về được — chỉ một bước là có phụ đề trong tay. Không phải một đoạn văn để đọc, mà là file phụ đề trong đó mỗi dòng mang đúng thời điểm nó cần hiện lên màn hình.",
+                "Chính phần mốc thời gian là lý do trang này tách riêng khỏi trang transcript. Bản transcript là chữ để bạn đọc; còn phụ đề là chữ được dựng để chạy đè lên video, khớp từng dòng với lời nói. Nếu bạn định đăng lại một clip kèm phụ đề, dịch phần chữ trên màn hình, hay đáp ứng yêu cầu về khả năng tiếp cận, thứ bạn cần là file phụ đề có timecode chứ không phải một khối chữ để đọc.",
+                "TranscriptX dựng phụ đề từ âm thanh của video TikTok, nên bạn vẫn có file phụ đề sạch và khớp giờ ngay cả khi bản gốc chưa từng bật phụ đề."
+            ]
+        },
+        {
+            "h2": "Phụ đề hay bản transcript: bạn cần cái nào?",
+            "intro": [
+                "Cả hai đều biến lời nói trong TikTok thành chữ, nhưng chúng sinh ra cho hai việc khác nhau. Hãy chọn theo việc bạn sẽ làm tiếp."
+            ],
+            "items": [
+                {
+                    "h3": "Tải phụ đề khi chữ cần chạy trên video",
+                    "content": "Nếu chữ phải hiển thị trên clip — phụ đề cho bài đăng lại, phụ đề đã dịch cho nhóm khán giả khác, chữ phục vụ người khiếm thính — thì thứ bạn cần là file có timecode mà công cụ này tạo ra. Phần mốc thời gian chính là cái giữ cho từng dòng khớp với âm thanh."
+                },
+                {
+                    "h3": "Lấy bản transcript khi bạn chỉ cần chữ",
+                    "content": "Nếu bạn chỉ cần đọc, sao chép hay nghiên cứu nội dung được nói ra — câu hook, một câu trích, một kịch bản — thì chữ thuần đơn giản hơn. Việc đó thì công cụ [TikTok Transcript](/vi/tiktok-transcript) đưa cho bạn phần chữ mà không kèm timecode phải gỡ bỏ."
+                }
+            ]
+        },
+        {
+            "h2": "Cách tải phụ đề TikTok",
+            "steps": [
+                {
+                    "h3": "Sao chép link TikTok",
+                    "content": "Bấm Chia sẻ trên video rồi sao chép link, hoặc lấy URL trên máy tính. Video cần ở chế độ công khai."
+                },
+                {
+                    "h3": "Dán vào công cụ tải phụ đề",
+                    "content": "Thả link vào ô phía trên. Không phải tải file lên, cũng không có bước tạo tài khoản — công cụ đọc thẳng âm thanh từ video."
+                },
+                {
+                    "h3": "TranscriptX dựng phụ đề khớp giờ",
+                    "content": "Công cụ nhận dạng lời nói rồi cắt thành từng dòng phụ đề, mỗi dòng có thời điểm bắt đầu và kết thúc để luôn khớp khi chạy đè lên clip."
+                },
+                {
+                    "h3": "Tải file phụ đề về",
+                    "content": "Lưu phụ đề về máy, sẵn sàng để nạp vào phần mềm dựng phim, gắn lên bài đăng lại, hoặc đem đi dịch trước khi đăng."
+                }
+            ]
+        },
+        {
+            "h2": "Bạn làm được gì với file phụ đề TikTok đã tải",
+            "intro": [
+                "File phụ đề là một tài nguyên để làm việc, không chỉ là bản sao của lời nói. Nó được dựng ra để nạp vào, sửa lại và dùng tiếp:"
+            ],
+            "items": [
+                {
+                    "h3": "Đăng lại clip kèm phụ đề",
+                    "content": "Gắn phụ đề trở lại lên video bạn đăng lại — lên TikTok của chính bạn, hoặc cross-post thành Reel hay Shorts — để người xem có phụ đề mà bạn không phải gõ lại chữ nào. Đây cũng là cách nhanh nhất để tạo phụ đề cho video TikTok mà không phải ngồi căn từng dòng."
+                },
+                {
+                    "h3": "Dịch cho nhóm khán giả khác",
+                    "content": "Vì file là chữ sửa được và phần thời gian nằm tách riêng, người dịch có thể viết lại các dòng sang ngôn ngữ khác mà mọi dòng phụ đề vẫn rơi đúng khoảnh khắc của nó."
+                },
+                {
+                    "h3": "Làm phụ đề cho người xem tắt tiếng",
+                    "content": "Phần lớn video TikTok ban đầu được xem ở chế độ tắt tiếng, nên phụ đề chính là thứ truyền tải thông điệp trong vài giây đầu. Có file tải về, bạn gắn phụ đề gọn gàng thay vì phụ thuộc vào phụ đề tự động vốn hay sai chính tả và mất dấu tiếng Việt."
+                },
+                {
+                    "h3": "Đáp ứng nhu cầu tiếp cận",
+                    "content": "Phụ đề giúp video dùng được với người điếc và người nghe kém. File phụ đề tải về chính là thứ bạn đính kèm để làm được điều đó."
+                },
+                {
+                    "h3": "Sửa hoặc chỉnh lại phụ đề",
+                    "content": "Mở file ra để sửa một từ, tách một dòng quá dài, hoặc chỉnh lại thời gian trước khi phụ đề lên sóng trên bài đăng của bạn."
+                }
+            ]
+        },
+        {
+            "h2": "Tải phụ đề TikTok với hơn 100 ngôn ngữ",
+            "content": [
+                "TranscriptX tự nhận diện ngôn ngữ được nói trong video TikTok và dựng phụ đề bằng chính ngôn ngữ đó, trong hơn 100 ngôn ngữ — nên file bạn tải về khớp với những gì thực sự được nói trong clip.",
+                "Từ đó, phụ đề là của bạn để đem đi dịch. Vì phần thời gian nằm tách khỏi phần chữ, bạn có thể thay chữ sang ngôn ngữ khác mà phụ đề vẫn rơi đúng khung hình — và đó là cách một clip duy nhất có phụ đề cho nhiều nhóm khán giả chỉ từ một lần tải. Việc dịch phụ đề TikTok vì thế nhanh hơn hẳn so với gõ lại từ đầu."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để tải phụ đề từ một video TikTok?",
+                    "a": "Dán link chia sẻ của TikTok vào TranscriptX, để công cụ dựng phụ đề khớp giờ từ âm thanh, rồi tải file phụ đề về. File lưu thẳng vào máy bạn và không cần tài khoản nào."
+                },
+                {
+                    "q": "Công cụ tải phụ đề TikTok này có miễn phí không?",
+                    "a": "Có. Việc dựng và tải phụ đề TikTok là miễn phí, không phải tạo tài khoản và không giới hạn số video bạn chạy."
+                },
+                {
+                    "q": "Phụ đề TikTok khác bản transcript ở chỗ nào?",
+                    "a": "Phụ đề là chữ có mốc thời gian, được làm ra để hiển thị đè lên video và lưu thành file phụ đề. Còn bản transcript chỉ là phần chữ, không kèm thời gian. Hãy dùng công cụ này khi bạn cần phụ đề để đăng lại hoặc để dịch; dùng công cụ TikTok Transcript khi bạn chỉ muốn đọc phần chữ."
+                },
+                {
+                    "q": "Phụ đề có kèm thời gian không?",
+                    "a": "Có. Mỗi dòng phụ đề đều mang thời điểm bắt đầu và kết thúc, và đó chính là thứ giữ cho phụ đề khớp giờ khi chạy đè lên clip."
+                },
+                {
+                    "q": "Video TikTok không có phụ đề trên màn hình thì tải được không?",
+                    "a": "Được. TranscriptX dựng phụ đề từ âm thanh, nên vẫn tạo ra file phụ đề cho cả video chưa từng bật phụ đề."
+                },
+                {
+                    "q": "Tôi tải phụ đề bằng ngôn ngữ khác được không?",
+                    "a": "Phụ đề sẽ ra đúng ngôn ngữ được nói trong video TikTok. Từ đó bạn có thể tự dịch — phần chữ vẫn sửa được trong khi timecode giữ nguyên, nên phụ đề vẫn rơi đúng khung hình ở ngôn ngữ mới."
+                },
+                {
+                    "q": "Tôi dùng file này khi đăng lại video được không?",
+                    "a": "Được. Đó chính là công dụng chính — gắn phụ đề đã tải trở lại lên clip đăng lại, hoặc lên Reel, Shorts khi cross-post, để bài đăng lên sóng là đã có phụ đề."
+                },
+                {
+                    "q": "Tải xong tôi sửa file phụ đề được không?",
+                    "a": "Được. File phụ đề là chữ sửa được, nên bạn có thể chữa một từ, tách một dòng hoặc xê dịch thời gian trước khi phụ đề lên sóng."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tải phụ đề TikTok miễn phí",
+        "content": [
+            "Dán link một video TikTok công khai và TranscriptX dựng cho bạn file phụ đề khớp giờ để tải về, hỗ trợ hơn 100 ngôn ngữ, lấy thẳng từ âm thanh của video.",
+            "Gắn phụ đề lên bài đăng lại, dịch cho nhóm khán giả mới, hoặc đính kèm để phục vụ người khiếm thính. Không cần tài khoản, không phải cài đặt, không mất phí."
+        ]
+    }
+}

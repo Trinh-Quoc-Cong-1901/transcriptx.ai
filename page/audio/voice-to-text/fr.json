@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Voix en texte — Convertir la voix et vos enregistrements en texte gratuitement | TranscriptX",
+        "description": "Convertir la voix en texte en ligne et gratuitement. Enregistrez directement dans le navigateur ou importez un enregistrement vocal, et obtenez un texte précis dans plus de 100 langues. Export TXT, DOCX, PDF. Sans inscription.",
+        "schemaName": "TranscriptX — Convertisseur voix en texte",
+        "schemaDescription": "Outil gratuit en ligne pour convertir la voix en texte, qui transforme la parole et vos enregistrements vocaux en texte écrit dans plus de 100 langues, avec identification des locuteurs et export en TXT, DOCX, PDF, SRT et VTT. Enregistrez directement dans le navigateur ou importez un enregistrement, sans aucun compte requis.",
+        "ogTitle": "Voix en texte — Convertir la voix et vos enregistrements en texte gratuitement | TranscriptX",
+        "ogDescription": "Transformez votre voix en texte. Enregistrez dans le navigateur ou importez un enregistrement vocal et obtenez un texte précis dans plus de 100 langues, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Voix en texte",
+        "subtitle": "Transformez la parole en mots écrits. Enregistrez directement dans le navigateur ou importez un enregistrement vocal : TranscriptX le met par écrit dans plus de 100 langues, en identifiant chaque locuteur. Dictez une note, transcrivez un mémo, ou convertissez une conversation enregistrée — puis exportez en TXT, DOCX, PDF, SRT ou VTT. Sans compte, sans rien à installer.",
+        "placeholder": "Enregistrez votre voix ou importez un enregistrement...",
+        "button": "Convertir la voix en texte"
+    },
+    "quickAnswer": {
+        "question": "Comment convertir la voix en texte ?",
+        "answer": "Enregistrez votre voix directement dans TranscriptX ou importez un enregistrement vocal : la parole est transformée en texte écrit en quelques secondes, dans plus de 100 langues. Vous pouvez ensuite lire, modifier, copier ou exporter le texte. Aucune inscription n'est nécessaire et il n'y a rien à installer."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la voix en texte ?",
+            "content": [
+                "La voix en texte transforme les mots prononcés en mots écrits. Vous parlez — ou vous faites écouter l'enregistrement de quelqu'un qui parle — et au lieu de taper, vous récupérez les mots sous forme de texte que vous pouvez lire, modifier et conserver. C'est le même principe que la dictée vocale de votre téléphone, mais appliqué à des enregistrements entiers, dans le navigateur, sans limite de durée et sans compte.",
+                "Ce qui change par rapport au travail sur un fichier audio, c'est le point de départ. La voix en texte est pensée autour de la parole telle qu'elle se produit ou telle que vous l'avez captée : un mémo vocal dicté en marchant, une réunion que vous avez enregistrée avec votre téléphone, une idée que vous avez formulée à voix haute parce que parler allait plus vite que taper. L'entrée, c'est votre voix ou un enregistrement vocal, pas un fichier multimédia que vous avez téléchargé.",
+                "Tout l'intérêt tient à ceci : parler est plus rapide que taper, mais le texte est plus utile que le son. La reconnaissance vocale se place entre les deux — vous gagnez la vitesse de la parole et la forme cherchable, modifiable et partageable de l'écrit, sans avoir à transcrire vous-même.",
+                "TranscriptX fait cela gratuitement, directement dans le navigateur, que vous enregistriez sur le moment ou que vous importiez un enregistrement que vous avez déjà."
+            ]
+        },
+        {
+            "h2": "La voix en texte en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Prix",
+                    "value": "Gratuit"
+                },
+                {
+                    "label": "Compte requis",
+                    "value": "Non"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Aucune — tout se passe dans le navigateur"
+                },
+                {
+                    "label": "Entrée",
+                    "value": "Enregistrement en direct dans le navigateur ou import d'un enregistrement vocal"
+                },
+                {
+                    "label": "Limite de durée d'enregistrement",
+                    "value": "Aucune"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, détectées automatiquement"
+                },
+                {
+                    "label": "Séparation des locuteurs",
+                    "value": "Oui — chaque locuteur est identifié"
+                },
+                {
+                    "label": "Horodatages",
+                    "value": "Optionnels — activés ou non pour chaque transcription"
+                },
+                {
+                    "label": "Formats d'export",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Appareils",
+                    "value": "Navigateurs sur ordinateur, tablette et mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Comment convertir la voix en texte",
+            "steps": [
+                {
+                    "h3": "Enregistrez ou importez",
+                    "content": "Lancez l'enregistrement et parlez directement dans le navigateur, ou importez un enregistrement vocal réalisé plus tôt avec votre téléphone ou un dictaphone. Il n'y a aucune limite de durée de parole."
+                },
+                {
+                    "h3": "L'outil écoute et met par écrit",
+                    "content": "TranscriptX détecte tout seul la langue parlée parmi plus de 100 langues, et convertit la parole en texte ponctué, en identifiant chaque locuteur lorsqu'il y en a plusieurs."
+                },
+                {
+                    "h3": "Lisez et modifiez le texte",
+                    "content": "Les mots apparaissent sous forme de texte que vous pouvez nettoyer sur le champ — supprimer un faux départ, corriger un nom, ou resserrer une phrase qui part dans tous les sens."
+                },
+                {
+                    "h3": "Copiez ou exportez",
+                    "content": "Copiez le texte dans une note, un document ou un message, ou exportez-le en TXT, DOCX, PDF, SRT ou VTT pour le conserver ou le partager."
+                }
+            ]
+        },
+        {
+            "h2": "Enregistrer en direct ou importer un enregistrement vocal",
+            "content": [
+                "La voix en texte fonctionne de deux façons, et les deux partent de votre voix plutôt que d'un fichier téléchargé.",
+                "Enregistrez en direct quand les mots n'existent pas encore. Ouvrez l'outil, lancez l'enregistrement et parlez — une idée que vous voulez coucher par écrit, une note pour vous-même, un brouillon que vous préférez dire plutôt que taper. Dès que vous arrêtez, la parole est devenue un texte que vous pouvez modifier et conserver. C'est la voie rapide quand vous réfléchissez à voix haute et que vous voulez capter la pensée sans passer par un clavier.",
+                "Importez un enregistrement quand la voix est déjà captée. Un mémo vocal de votre téléphone, une note audio d'une messagerie, une conversation que vous avez enregistrée plus tôt — importez-la et TranscriptX en fait la transcription intégrale. Dans les deux cas, il n'y a aucun plafond de durée : un rappel de dix secondes et une discussion enregistrée d'une heure sont traités de la même façon."
+            ]
+        },
+        {
+            "h2": "Transcrire un enregistrement vocal",
+            "content": [
+                "Un enregistrement vocal contient tout ce qui a été dit, mais sous une forme que vous ne pouvez ni chercher, ni citer, ni modifier. Le transcrire convertit cet enregistrement vocal en texte — l'enregistrement vocal devient une transcription en une seule étape, un texte avec lequel vous pouvez réellement travailler.",
+                "La transcription d'enregistrement vocal est surtout utile quand l'enregistrement porte une information dont vous aurez besoin plus tard. Un entretien enregistré devient un texte citable avec chaque locuteur identifié. Une réunion enregistrée devient une trace écrite de ce qui a été décidé. Un cours enregistré devient des notes que vous pouvez chercher par mot-clé. Que vous appeliez le résultat la transcription d'un enregistrement vocal ou simplement les mots sur une page, c'est ce qui vous permet d'utiliser le contenu au lieu de simplement stocker du son.",
+                "TranscriptX transcrit un enregistrement vocal qu'il y ait une seule personne ou plusieurs. Quand plusieurs voix sont présentes, chaque locuteur est identifié, si bien qu'une conversation enregistrée se lit comme un véritable échange plutôt que comme un flux de mots ininterrompu."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez transformer en texte",
+            "intro": [
+                "Partout où votre voix porte quelque chose qui mérite d'être gardé, la voix en texte en fait une trace exploitable. Les usages les plus courants :"
+            ],
+            "items": [
+                {
+                    "h3": "Mémos vocaux et notes",
+                    "content": "Captez une idée, un rappel ou un brouillon en le disant, et obtenez un texte modifiable au lieu d'un enregistrement qu'il faut réécouter pour se rappeler ce que vous aviez dit."
+                },
+                {
+                    "h3": "Réunions et appels",
+                    "content": "Enregistrez une réunion avec votre téléphone et transformez-la en compte rendu écrit, avec chaque participant identifié, pour que les décisions et les actions à mener soient sur le papier plutôt que dans la mémoire de quelqu'un."
+                },
+                {
+                    "h3": "Entretiens",
+                    "content": "Transcrivez un entretien enregistré en un texte citable, avec les locuteurs séparés, pour reprendre la formulation exacte plutôt que de paraphraser de mémoire."
+                },
+                {
+                    "h3": "Dicter des documents",
+                    "content": "Dictez un premier jet d'e-mail, de rapport ou d'article et laissez la voix en texte l'écrire, puis retouchez le texte au lieu de taper chaque mot depuis zéro."
+                },
+                {
+                    "h3": "Cours et révisions",
+                    "content": "Enregistrez un cours ou une session de travail et convertissez-le en texte que vous pourrez chercher, surligner et réviser plus tard."
+                },
+                {
+                    "h3": "Accessibilité et usage mains libres",
+                    "content": "Pour toute personne qui trouve la frappe lente ou difficile, parler et récupérer un texte propre est une manière d'écrire plus rapide et plus confortable."
+                }
+            ]
+        },
+        {
+            "h2": "La voix en texte pour la dictée",
+            "content": [
+                "La plupart des gens parlent bien plus vite qu'ils ne tapent, et c'est pour cela que la dictée vocale se marie si naturellement avec la voix en texte. Quand vous avez un premier jet en tête, le dire à voix haute et récupérer le texte va plus vite que de le construire mot à mot au clavier.",
+                "La particularité de la dictée, c'est que la langue parlée est plus lâche que la langue écrite — il y a des faux départs, des mots de remplissage et des phrases qui s'égarent. Comme la voix en texte vous remet un texte modifiable et non un document fini, c'est facile à corriger : posez les mots bruts à la vitesse de la parole, puis passez une minute à les resserrer. Le plus dur, passer de la page blanche à un brouillon complet, est déjà fait.",
+                "Cela fonctionne pour tout ce que vous taperiez autrement : e-mails, notes, plans, entrées de journal, ou la trame approximative d'un article que vous retravaillerez ensuite."
+            ]
+        },
+        {
+            "h2": "Précision et langues",
+            "content": [
+                "La fidélité du texte à ce que vous avez dit dépend avant tout de l'enregistrement. Parler clairement, à un rythme régulier, près du micro et loin des bruits de fond donne le résultat le plus propre — et comme la voix en texte sert souvent à enregistrer sa propre voix, cela reste généralement sous votre contrôle.",
+                "La précision baisse dans un environnement bruyant, quand les gens se coupent la parole, ou face à une élocution très rapide et marmonnée. Ces passages méritent une relecture rapide, mais pour une note vocale claire ou une conversation bien enregistrée, le texte revient presque mot pour mot.",
+                "TranscriptX reconnaît la parole dans plus de 100 langues et détecte automatiquement celle que vous parlez : vous pouvez donc dicter ou transcrire dans votre propre langue sans rien régler au préalable."
+            ]
+        },
+        {
+            "h2": "Voix en texte ou transcription audio ?",
+            "intro": [
+                "Les deux transforment la parole en texte, mais chacun est conçu autour d'un point de départ différent. Choisissez selon l'origine de vos mots."
+            ],
+            "items": [
+                {
+                    "h3": "Choisissez la voix en texte pour vos propres paroles",
+                    "content": "Quand vous voulez enregistrer votre voix en direct, dicter un brouillon, ou transcrire un mémo vocal ou un enregistrement que vous avez fait vous-même, c'est le convertisseur voix en texte qu'il vous faut — enregistrement direct dans le navigateur inclus."
+                },
+                {
+                    "h3": "Choisissez la transcription audio pour les fichiers audio existants",
+                    "content": "Quand vous avez déjà un fichier audio — un podcast, un entretien téléchargé, un MP3 de réunion — l'outil [Transcription audio](/fr/audio-to-text) est pensé pour l'import et la transcription de fichiers multimédias. Et si votre enregistrement est en réalité la bande son d'une vidéo, l'outil [Transcription YouTube](/fr/youtube-transcript) traite cette source directement."
+                }
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment convertir la voix en texte gratuitement ?",
+                    "a": "Enregistrez votre voix dans TranscriptX ou importez un enregistrement vocal : la parole est convertie en texte sans aucun frais. La voix en texte est disponible en ligne, sans compte à créer, sans rien à installer et sans limite de durée d'enregistrement."
+                },
+                {
+                    "q": "Puis-je enregistrer directement dans l'outil ?",
+                    "a": "Oui. Vous pouvez enregistrer en direct dans le navigateur et obtenir le texte dès que vous arrêtez, ou importer un enregistrement réalisé plus tôt. Les deux fonctionnent de la même manière."
+                },
+                {
+                    "q": "Puis-je transcrire un enregistrement vocal que j'ai déjà ?",
+                    "a": "Oui. Importez l'enregistrement — un mémo vocal, une note audio, une conversation enregistrée — et TranscriptX le transcrit intégralement en texte, avec les locuteurs identifiés lorsqu'il y en a plusieurs. Vous pouvez ainsi transcrire un enregistrement de n'importe quelle durée."
+                },
+                {
+                    "q": "La voix en texte convient-elle à la dictée ?",
+                    "a": "Oui. Parler est plus rapide que taper, et la dictée vocale est donc l'un des usages les plus répandus. Vous récupérez un texte modifiable, ce qui permet de dicter un brouillon approximatif puis de le retoucher au lieu de tout taper depuis zéro."
+                },
+                {
+                    "q": "Quelles langues sont prises en charge ?",
+                    "a": "Plus de 100. La langue parlée est détectée automatiquement, vous pouvez donc dicter ou transcrire dans votre propre langue sans la sélectionner au préalable."
+                },
+                {
+                    "q": "L'outil peut-il séparer les différents locuteurs ?",
+                    "a": "Oui. Quand un enregistrement comporte plusieurs voix, chaque locuteur est identifié, si bien qu'une conversation ou une réunion enregistrée se lit comme un échange clair."
+                },
+                {
+                    "q": "Y a-t-il une limite de durée d'enregistrement ?",
+                    "a": "Non. Une courte note vocale et une longue séance enregistrée fonctionnent aussi bien l'une que l'autre ; un enregistrement plus long demande simplement un peu plus de temps de traitement."
+                },
+                {
+                    "q": "Dois-je installer une application ?",
+                    "a": "Non. La voix en texte fonctionne dans le navigateur, sur ordinateur comme sur mobile, sans aucun logiciel de transcription voix texte à installer, sans extension et sans compte."
+                },
+                {
+                    "q": "Quelle est la précision de la voix en texte ?",
+                    "a": "Cela dépend surtout de l'enregistrement. Une parole claire, près du micro et à l'écart du bruit, revient presque mot pour mot, tandis qu'une parole bruyante ou entrecoupée mérite une relecture rapide avant que vous vous y fiiez."
+                },
+                {
+                    "q": "Quelle est la différence entre la voix en texte et la transcription audio ?",
+                    "a": "La voix en texte est conçue pour la parole que vous captez vous-même — enregistrement en direct ou transcription d'un mémo vocal. La transcription audio est conçue pour les fichiers audio existants comme les podcasts et les MP3. Si vous avez un fichier multimédia plutôt qu'un enregistrement vocal, utilisez l'outil de transcription audio."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Convertissez votre voix en texte gratuitement",
+        "content": [
+            "Enregistrez directement dans le navigateur ou importez un enregistrement vocal : TranscriptX transforme vos paroles en texte dans plus de 100 langues, avec les locuteurs identifiés et les horodatages en option.",
+            "Dictez un brouillon, transcrivez un mémo, ou mettez au propre une conversation enregistrée — puis lisez, modifiez, copiez ou exportez le résultat en TXT, DOCX, PDF, SRT ou VTT. Sans compte, sans installation, sans frais."
+        ]
+    }
+}

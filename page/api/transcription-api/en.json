@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Transcription API for Audio, Video & Video Links | TranscriptX",
+        "description": "One transcription API for files and links: send audio, video or a YouTube, TikTok, Instagram or Facebook URL and get text back with speakers and timestamps.",
+        "schemaName": "TranscriptX Transcription API",
+        "schemaDescription": "Transcription API that turns audio files, video files and public video links into text, in over 100 languages, with speaker labels and timestamps. Exports text, SRT and VTT. About 1–2 minutes per hour of audio. Also available as an MCP server for AI agents.",
+        "ogTitle": "Transcription API for Audio, Video & Video Links",
+        "ogDescription": "Files or links in, transcripts out. 100+ languages, speaker labels, timestamps and an MCP server for AI agents."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, one request for a file and one for a URL (cURL / Python / JavaScript), sample JSON response, link to docs. To be added by the dev team."
+    },
+    "pricingBlock": {
+        "status": "pending",
+        "note": "Short API pricing summary (free tier, price, plans). Do not publish numbers until the team confirms them."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Transcription API for Audio, Video and Links",
+        "subtitle": "Send a recording or a link to one, get clean text back. TranscriptX handles audio files, video files and public videos from YouTube, TikTok, Instagram, Facebook and more — with speaker labels, timestamps and over 100 languages.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "What is a transcription API?",
+        "answer": "It is a service your code calls to turn speech into text. You send audio, video or a media link, and it returns the transcript as data, usually split into timed segments. TranscriptX accepts files and links in the same API and transcribes an hour of audio in about 1–2 minutes."
+    },
+    "sections": [
+        {
+            "h2": "One API for Files and Links",
+            "content": [
+                "Most speech APIs only take files. If your users paste a YouTube or TikTok link, you end up building a downloader before transcription even starts.",
+                "TranscriptX takes either. Upload a file, or pass a URL and the API fetches the media itself. The response looks the same both ways, so you write the handling code once."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Input", "value": "Audio and video files, public video links, Google Drive, Dropbox, OneDrive and direct media URLs" },
+                { "label": "Captions needed", "value": "No — the audio itself is transcribed" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Speaker labels and per-segment timestamps" },
+                { "label": "Output", "value": "Text, SRT, VTT" },
+                { "label": "Speed", "value": "About 1–2 minutes per hour of audio; tested with 10-hour recordings" },
+                { "label": "Accuracy", "value": "Around 95% on clear audio in our internal tests" },
+                { "label": "AI agents", "value": "MCP server for Claude and other MCP clients" },
+                { "label": "Privacy", "value": "Files deleted after a few days, never used to train AI" }
+            ]
+        },
+        {
+            "h2": "Pick Your Source",
+            "items": [
+                { "h3": "Audio and video files", "content": "MP3, WAV, M4A, MP4, MOV and more, with no file size limit. See the [Speech to Text API](/speech-to-text-api)." },
+                { "h3": "YouTube", "content": "Any public video, with or without captions, no OAuth. See the [YouTube Transcript API](/youtube-transcript-api)." },
+                { "h3": "TikTok", "content": "The spoken script of public TikToks, for research and social listening. See the [TikTok Transcript API](/tiktok-transcript-api)." },
+                { "h3": "Facebook", "content": "Videos, Reels and saved Live broadcasts, including long streams. See the [Facebook Transcript API](/facebook-transcript-api)." },
+                { "h3": "Instagram", "content": "Public Reels and videos, which rarely have captions. See the [Instagram Transcript API](/instagram-transcript-api)." }
+            ]
+        },
+        {
+            "h2": "What People Build With It",
+            "items": [
+                { "h3": "Meeting and call notes", "content": "Transcribe, label speakers, then summarise with an LLM." },
+                { "h3": "Media monitoring", "content": "Track what creators say about a brand across social video." },
+                { "h3": "AI knowledge bases", "content": "Turn courses and webinars into text an assistant can cite by timestamp." },
+                { "h3": "Subtitles", "content": "Generate SRT or VTT, then translate for other markets." }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Is a transcription API the same as a speech to text API?", "a": "Mostly, yes — both turn speech into text. For uploading recordings, see the [Speech to Text API](/speech-to-text-api)." },
+                { "q": "Does it work on videos without captions?", "a": "Yes. The audio is transcribed, so captions are not required." },
+                { "q": "Is there a file size limit?", "a": "No. Long recordings do not need to be split first." },
+                { "q": "Can AI agents use it?", "a": "Yes, through the TranscriptX MCP server." },
+                { "q": "Can I transcribe private videos?", "a": "No, only public ones. For a private recording, upload the file instead." },
+                { "q": "How do I contact the team?", "a": "Email contact.transcriptx@gmail.com." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Start Transcribing From Your App",
+        "content": [
+            "One API for files and links, in over 100 languages, with speakers and timestamps included. Get your API key to start."
+        ]
+    }
+}

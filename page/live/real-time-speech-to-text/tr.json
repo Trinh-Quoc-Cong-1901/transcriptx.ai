@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Sesle Yazma — Konuşarak Yazın, Ücretsiz Başlayın",
+        "description": "Başlat'a basın, konuşun; sözleriniz anında düzenlenebilir metne dönüşsün. Not, e-posta ve taslaklar için sesle yazma. Ücretsiz başlayın, kayıt gerekmez.",
+        "schemaName": "TranscriptX Sesle Yazma",
+        "schemaDescription": "Dikte için online sesle yazma aracı. Başlat'a basın, mikrofona konuşun; sözleriniz 100'den fazla dilde anında noktalama işaretli, düzenlenebilir metin olarak belirsin. Metni istediğiniz yere kopyalayın ya da TXT, DOCX veya PDF olarak dışa aktarın. Tarayıcıda çalışır, başlamak için kayıt gerekmez.",
+        "ogTitle": "Sesle Yazma — Konuşarak Yazın, Ücretsiz Başlayın",
+        "ogDescription": "Sesinizle yazın. Başlat'a basın, konuşun ve sözlerinizin anında metne dönüştüğünü görün — ücretsiz başlayın, 100+ dilde, kayıt gerekmez."
+    },
+    "hero": {
+        "h1": "Sesle Yazma – Klavye Yerine Sesinizle Yazın",
+        "subtitle": "Sesinizle yazın. Başlat'a basın, konuşun; sözleriniz ekranda anında, düzenleyebileceğiniz noktalama işaretli bir metin olarak belirsin. Bir e-postayı, notu, mesajı ya da ilk taslağı klavyeyle yazabileceğinizden daha hızlı dikte edin, ardından istediğiniz yere kopyalayın ya da TXT, DOCX veya PDF olarak dışa aktarın. Ücretsiz başlayın, 100'den fazla dilde, hiçbir şey kurmadan.",
+        "placeholder": "Başlat'a basın ve konuşmaya başlayın...",
+        "button": "Konuşmaya Başla"
+    },
+    "quickAnswer": {
+        "question": "Sesle yazma nasıl kullanılır?",
+        "answer": "TranscriptX'i açın, Başlat'a basın, mikrofon erişimine izin verin ve konuşun. Siz konuştukça sözleriniz anında metin olarak belirir. Düzeltilmesi gereken yerleri düzenleyin, ardından metni e-postanıza ya da belgenize kopyalayın veya dışa aktarın. Ücretsiz başlayabilirsiniz; kayıt gerekmez, kurulum gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "Sesle Yazma Nedir?",
+            "content": [
+                "Sesle yazma, konuşarak yazmanızı sağlar. Başlat'a basarsınız, yazmak istediğinizi söylersiniz ve kelimeler siz söyledikçe ekranda belirir — klavye yok, bekleme yok, işlenecek dosya yok.",
+                "Bu bir dikte işidir: ekrandaki kelimeler sizin kendi sözlerinizdir. Başka birini sonra dinlemek için kaydetmiyorsunuz; parmaklarınız yerine sesinizi kullanarak bir e-posta, not, mesaj ya da taslak yazıyorsunuz.",
+                "Asıl cazibesi hızdır. Çoğu insan klavyeyle yazdığından üç ila dört kat daha hızlı konuşur; bu yüzden bir düşünceyi yüksek sesle söyleyip sayfaya aktarmak, onu kelime kelime yazmaktan çok daha çabuktur. Sesle yazma size konuşmanın hızını, klavyeyle yazmanın sonucuyla birlikte sunar.",
+                "TranscriptX bunu tarayıcınızda yapar ve ücretsiz başlayabilirsiniz. Başlat'a basın, konuşun; metniniz kullanıma hazır."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Sesle Yazma",
+            "specs": [
+                {
+                    "label": "Fiyat",
+                    "value": "Ücretsiz başlayın — yoğun kullanım için ücretli planlar"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır — kayıt olmak isteğe bağlı"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Giriş",
+                    "value": "Mikrofon üzerinden sesiniz — Başlat'a basın ve konuşun"
+                },
+                {
+                    "label": "Çıktı",
+                    "value": "Siz konuştukça beliren, noktalama işaretli ve düzenlenebilir metin"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+"
+                },
+                {
+                    "label": "Dışa aktarma",
+                    "value": "Panoya kopyalama veya TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                }
+            ]
+        },
+        {
+            "h2": "Sesli Yazma Nasıl Kullanılır?",
+            "steps": [
+                {
+                    "h3": "Başlat'a basın",
+                    "content": "TranscriptX'i açın ve Başlat'a basın. Tarayıcınız ilk kez sorduğunda mikrofon erişimine izin verin."
+                },
+                {
+                    "h3": "Doğal konuşun",
+                    "content": "Yazmak istediğinizi normal hızınızda söyleyin. Yavaş konuşmanıza ya da kelimeler arasında durmanıza gerek yok."
+                },
+                {
+                    "h3": "Sözlerinizi anında görün",
+                    "content": "Metin siz konuştukça ekranda belirir ve noktalama işaretleri otomatik eklenir; böylece cümlenizin gerçek zamanlı olarak şekillendiğini görürsünüz."
+                },
+                {
+                    "h3": "Düzenleyin ve kopyalayın",
+                    "content": "Durdur'a basın, gereken yerleri düzeltin ve metni e-postanıza, belgenize ya da sohbetinize kopyalayın — veya TXT, DOCX ya da PDF olarak dışa aktarın."
+                }
+            ]
+        },
+        {
+            "h2": "Konuşarak Yazma: Klavyenin Yerini Sesiniz Alsın",
+            "content": [
+                "Konuşarak yazma, klavyenin yerine sesinizi koyar. Normalde yazacağınız her şeyi — bir yanıtı, bir paragrafı, bir listeyi — yüksek sesle söylersiniz ve sesle yazma siz konuştukça hepsini yazıya geçirir.",
+                "Özellikle klavyeyle yazmanın yavaş ya da zahmetli olduğu durumlarda işe yarar: telefonda, klavyesi olmayan bir tablette, elleriniz meşgulken ya da yazmayı yorucu veya acı verici bulan herkes için."
+            ]
+        },
+        {
+            "h2": "Anlık Sesi Yazıya Çevirme, Düzenlemeye Hazır",
+            "content": [
+                "Anlık sesi yazıya çevirme, hiçbir şey beklemeniz gerekmediği anlamına gelir — önce kaydedip sonra dönüştürmek yok. Kelimeler siz söylediğiniz anda ekrandadır ve noktalama işaretleri otomatik eklenir; böylece sonuç bir kelime yığını değil, yazılmış bir metin gibi okunur.",
+                "Konuşma dili doğası gereği yazı dilinden daha serbesttir; bu yüzden orada burada bir cümleyi toparlamanız gerekebilir. En zor kısım — boş sayfadan eksiksiz bir taslağa ulaşmak — zaten tamamdır; metni yerinde düzenleyin, ardından istediğiniz uygulamaya kopyalayın ya da saklamak için dışa aktarın."
+            ]
+        },
+        {
+            "h2": "Sesinizle Neler Yazabilirsiniz?",
+            "intro": [
+                "Klavyeyle yazacağınız her şeyi dikte edebilirsiniz. Sesle yazmanın en yaygın kullanım alanları:"
+            ],
+            "items": [
+                {
+                    "h3": "E-postalar ve yanıtlar",
+                    "content": "E-postanızı birine anlatır gibi söyleyin, ardından gelen kutunuza yapıştırıp gönderin. Uzun yanıtlar çok daha kısa sürede hazır olur."
+                },
+                {
+                    "h3": "Notlar ve yapılacaklar listeleri",
+                    "content": "Bir fikri, hatırlatmayı ya da listeyi aklınıza geldiği anda, klavye açmadan kaydedin."
+                },
+                {
+                    "h3": "İlk taslaklar",
+                    "content": "Bir makaleyi, raporu ya da denemeyi anlatarak hızla eksiksiz bir ham taslak çıkarın, ardından son haline getirin."
+                },
+                {
+                    "h3": "Mesajlar ve paylaşımlar",
+                    "content": "Uzun bir mesajı, bir altyazıyı ya da sosyal medya paylaşımını telefonunuzda her kelimeyi başparmağınızla yazmadan dikte edin."
+                },
+                {
+                    "h3": "Dil pratiği",
+                    "content": "Öğrendiğiniz dilde konuşun ve kelimelerin istediğiniz gibi çıkıp çıkmadığını görün — telaffuzunuzu hızlı ve dürüst bir şekilde kontrol etmenin yolu."
+                },
+                {
+                    "h3": "Eller serbest ve erişilebilir yazma",
+                    "content": "Hareket kısıtlılığı, tekrarlayan zorlanma sakatlığı ya da klavye kullanmakta güçlüğü olan herkes için konuşmak, yazmanın daha hızlı ve rahat bir yoludur."
+                }
+            ]
+        },
+        {
+            "h2": "Daha İyi Sesli Dikte İçin İpuçları",
+            "content": [
+                "Normal hızınızda, net ve mikrofona yakın konuşun. Kulaklıklı mikrofon ya da ağzınıza yakın tuttuğunuz bir telefon, odanın öbür ucundaki dizüstü bilgisayar mikrofonundan çok daha temiz sonuç verir.",
+                "Sessiz bir ortam her şeyden daha çok işe yarar. Arka plandaki müzik, trafik ya da başka sesler metne karışabilir; doğruluğun önemli olduğu durumlarda sakin bir yerde dikte edin.",
+                "Tek tek kelimeler yerine cümleler halinde düşünün. Durmadan önce bir düşünceyi tamamlamak, noktalama işaretlerinin doğru yere düşmesine yardımcı olur ve sonradan toparlamanız gereken şeyleri azaltır. TranscriptX 100'den fazla dili destekler; hangi dilde yazıyorsanız o dilde sesli dikte yapabilirsiniz."
+            ]
+        },
+        {
+            "h2": "Sesle Yazma mı, Live Transcription mı?",
+            "intro": [
+                "İkisi de konuşmayı söylendiği anda metne dönüştürür. Fark, kimin sözlerini yazıya geçirdiğinizdedir."
+            ],
+            "items": [
+                {
+                    "h3": "Kendi sesinizle yazmak için sesle yazmayı seçin",
+                    "content": "Sözler size aitse — yazmakta olduğunuz bir e-posta, not ya da taslak — bu araç onları klavyeyle yazmak yerine dikte etmeniz içindir."
+                },
+                {
+                    "h3": "Başkalarının söylediklerini kaydetmek için Live Transcription'ı seçin",
+                    "content": "Bir dersin, röportajın ya da sohbetin yazılı kaydını istediğinizde [Live Transcription](/tr/live-transcription) aracını kullanın. Konuşma zaten kaydedildiyse, dosyayı bunun yerine [Voice to Text](/tr/voice-to-text) aracına yükleyin."
+                }
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Sesle yazma nasıl çalışır?",
+                    "a": "Başlat'a basar ve mikrofona konuşursunuz. TranscriptX siz konuştukça sesinizi tanır ve noktalama işaretlerini ekleyerek anında ekrana yazar."
+                },
+                {
+                    "q": "Bu sesli yazma aracı ücretsiz mi?",
+                    "a": "Evet, ücretsiz başlayabilirsiniz; kayıt gerekmez, kurulum gerekmez. Hesap oluşturmak isteğe bağlıdır ve çok dikte ediyorsanız ücretli planlar mevcuttur."
+                },
+                {
+                    "q": "Noktalama işaretleri ekleniyor mu, metni düzenleyebilir miyim?",
+                    "a": "İkisine de evet. Noktalama işaretleri siz konuşurken eklenir, böylece metin normal bir yazı gibi okunur; durdurduktan sonra her şey düzenlenebilir — kopyalamadan önce yanlış anlaşılan bir kelimeyi düzeltin ya da bir cümleyi toparlayın."
+                },
+                {
+                    "q": "Metni e-postama ya da belgeme nasıl aktarırım?",
+                    "a": "Tek tıkla kopyalayın ve herhangi bir e-postaya, belgeye ya da mesajlaşma uygulamasına yapıştırın; veya TXT, DOCX ya da PDF olarak dışa aktarın."
+                },
+                {
+                    "q": "Hangi dillerde konuşabilirim?",
+                    "a": "100'den fazla dil desteklenir; böylece hangi dilde yazıyorsanız o dilde dikte edebilirsiniz."
+                },
+                {
+                    "q": "Bir uygulama indirmem gerekiyor mu?",
+                    "a": "Hayır. Sesle yazma masaüstü, tablet veya mobil tarayıcınızda çalışır. Yalnızca mikrofon erişimine izin vermeniz yeterlidir."
+                },
+                {
+                    "q": "Sesle yazma ile Live Transcription arasındaki fark nedir?",
+                    "a": "Sesle yazma, kendi sözlerinizi dikte etmek — yani konuşarak yazmak — içindir. Live Transcription ise ders ya da röportaj gibi başkalarının söylediklerini kaydetmek içindir. İkisi de gerçek zamanlı çalışır; ancak farklı işler için tasarlanmıştır."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Sesle Yazmaya Başlayın — Metniniz Anında Hazır",
+        "content": [
+            "Başlat'a basın, konuşun; TranscriptX sesinizi gerçek zamanlı olarak metne dönüştürsün — 100'den fazla dilde, doğrudan tarayıcınızda.",
+            "Bir e-postayı, notu, mesajı ya da ilk taslağı dikte edin, ardından düzenleyin, kopyalayın veya dışa aktarın. Ücretsiz başlayın, kayıt gerekmez, kurulum gerekmez."
+        ]
+    }
+}

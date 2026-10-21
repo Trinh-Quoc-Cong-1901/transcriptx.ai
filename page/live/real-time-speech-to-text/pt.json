@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Digitação por Voz — Escreva Falando, Grátis para Começar",
+        "description": "Clique em Iniciar, fale e suas palavras viram texto editável na hora. Digitação por voz para notas, e-mails e rascunhos. Grátis para começar, sem cadastro.",
+        "schemaName": "TranscriptX Digitação por Voz",
+        "schemaDescription": "Ferramenta online de digitação por voz para ditar textos. Clique em Iniciar, fale no microfone e suas palavras aparecem na hora como texto pontuado e editável, em mais de 100 idiomas. Copie o texto para qualquer lugar ou exporte em TXT, DOCX ou PDF. Funciona no navegador, sem precisar de cadastro para começar.",
+        "ogTitle": "Digitação por Voz — Escreva Falando, Grátis para Começar",
+        "ogDescription": "Digite falando. Clique em Iniciar, fale e veja suas palavras virarem texto na hora — grátis para começar, em mais de 100 idiomas e sem cadastro."
+    },
+    "hero": {
+        "h1": "Digitação por Voz – Escreva com a Sua Voz em Tempo Real",
+        "subtitle": "Digite falando. Clique em Iniciar, fale e suas palavras aparecem na tela na hora, como texto pontuado e editável. Dite um e-mail, uma anotação, uma mensagem ou um primeiro rascunho mais rápido do que conseguiria digitar, depois copie para onde quiser ou exporte em TXT, DOCX ou PDF. Grátis para começar, em mais de 100 idiomas, sem instalar nada.",
+        "placeholder": "Clique em Iniciar e comece a falar...",
+        "button": "Começar a Falar"
+    },
+    "quickAnswer": {
+        "question": "Como usar a digitação por voz?",
+        "answer": "Abra o TranscriptX, clique em Iniciar, permita o acesso ao microfone e fale. Suas palavras aparecem como texto na hora, enquanto você fala. Corrija o que for preciso e depois copie o texto para o seu e-mail ou documento, ou exporte. É grátis para começar, sem cadastro e sem instalar nada."
+    },
+    "sections": [
+        {
+            "h2": "O Que É Digitação por Voz?",
+            "content": [
+                "A digitação por voz permite escrever falando. Você clica em Iniciar, diz o que quer escrever e as palavras aparecem na tela enquanto você fala — sem teclado, sem espera, sem arquivo para processar.",
+                "É ditado: as palavras na tela são suas. Você não está gravando outra pessoa para ouvir depois; está escrevendo um e-mail, uma anotação, uma mensagem ou um rascunho, usando a voz em vez dos dedos.",
+                "A grande vantagem é a velocidade. A maioria das pessoas fala de três a quatro vezes mais rápido do que digita, então colocar uma ideia em voz alta direto na tela é muito mais rápido do que digitá-la palavra por palavra. A digitação por voz junta a rapidez da fala com o resultado da digitação.",
+                "O TranscriptX faz isso no seu navegador, grátis para começar. Clique em Iniciar, fale e seu texto está pronto para usar."
+            ]
+        },
+        {
+            "h2": "Digitação por Voz em Resumo",
+            "specs": [
+                {
+                    "label": "Preço",
+                    "value": "Grátis para começar — planos pagos para uso intenso"
+                },
+                {
+                    "label": "Conta obrigatória",
+                    "value": "Não — o cadastro é opcional"
+                },
+                {
+                    "label": "Instalação",
+                    "value": "Nenhuma — funciona no navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Sua voz pelo microfone — clique em Iniciar e fale"
+                },
+                {
+                    "label": "Saída",
+                    "value": "Texto pontuado e editável que aparece enquanto você fala"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "100+"
+                },
+                {
+                    "label": "Exportação",
+                    "value": "Copiar para a área de transferência, ou TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de computador, tablet e celular"
+                }
+            ]
+        },
+        {
+            "h2": "Como Usar a Voz para Texto em Tempo Real",
+            "steps": [
+                {
+                    "h3": "Clique em Iniciar",
+                    "content": "Abra o TranscriptX e clique em Iniciar. Permita o acesso ao microfone na primeira vez que o navegador pedir."
+                },
+                {
+                    "h3": "Fale naturalmente",
+                    "content": "Diga o que quer escrever no seu ritmo normal. Não é preciso falar devagar nem fazer pausas entre as palavras."
+                },
+                {
+                    "h3": "Veja suas palavras na hora",
+                    "content": "O texto aparece na tela enquanto você fala, com pontuação automática, para você ver a frase tomando forma em tempo real."
+                },
+                {
+                    "h3": "Edite e copie",
+                    "content": "Clique em Parar, ajuste o que for preciso e copie o texto para o seu e-mail, documento ou chat — ou exporte em TXT, DOCX ou PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Fala para Texto: Digite com a Sua Voz",
+            "content": [
+                "A conversão de fala para texto troca o teclado pela sua voz. Tudo o que você normalmente digitaria — uma resposta, um parágrafo, uma lista — você diz em voz alta, e a voz para texto em tempo real vai escrevendo enquanto você fala.",
+                "É especialmente útil quando digitar é lento ou desconfortável: no celular, num tablet sem teclado, quando suas mãos estão ocupadas ou para quem acha cansativo ou doloroso digitar."
+            ]
+        },
+        {
+            "h2": "Digitar Falando: Texto na Hora, Pronto para Editar",
+            "content": [
+                "Digitar falando significa não ter nada para esperar — nada de gravar primeiro e converter depois. As palavras estão na tela no momento em que você as diz, com pontuação automática, então o resultado parece texto escrito, e não uma sequência solta de palavras.",
+                "A linguagem falada é naturalmente mais solta do que a escrita, então conte com ajustar uma frase aqui e ali. A parte difícil — sair da página em branco para um rascunho completo — já está feita; edite o texto ali mesmo e depois copie para qualquer aplicativo ou exporte para guardar."
+            ]
+        },
+        {
+            "h2": "O Que Você Pode Escrever com a Sua Voz",
+            "intro": [
+                "Tudo o que você digitaria, pode ditar. Os usos mais comuns da digitação por voz:"
+            ],
+            "items": [
+                {
+                    "h3": "E-mails e respostas",
+                    "content": "Fale o seu e-mail como se estivesse explicando para alguém, depois cole na caixa de entrada e envie. Respostas longas levam uma fração do tempo."
+                },
+                {
+                    "h3": "Anotações e listas de tarefas",
+                    "content": "Registre uma ideia, um lembrete ou uma lista no momento em que surgir, sem precisar abrir o teclado."
+                },
+                {
+                    "h3": "Primeiros rascunhos",
+                    "content": "Fale sobre um artigo, um relatório ou uma redação para ter rapidamente um rascunho completo e depois lapidá-lo até a versão final."
+                },
+                {
+                    "h3": "Mensagens e posts",
+                    "content": "Dite uma mensagem longa, uma legenda ou um post para as redes sociais no celular, sem digitar cada palavra com o polegar."
+                },
+                {
+                    "h3": "Prática de idiomas",
+                    "content": "Fale no idioma que você está aprendendo e veja se as palavras saem como você queria — um teste rápido e sincero da sua pronúncia."
+                },
+                {
+                    "h3": "Escrita sem as mãos e acessível",
+                    "content": "Para quem tem mobilidade reduzida, lesão por esforço repetitivo ou dificuldade para digitar, falar é uma forma mais rápida e confortável de escrever."
+                }
+            ]
+        },
+        {
+            "h2": "Dicas para um Ditado por Voz Mais Preciso",
+            "content": [
+                "Fale com clareza, no seu ritmo normal, perto do microfone. Um headset ou o celular perto da boca dá resultados mais limpos do que o microfone de um notebook do outro lado da sala.",
+                "Um ambiente silencioso ajuda mais do que qualquer outra coisa. Música de fundo, trânsito ou outras vozes podem aparecer no texto, então dite num lugar calmo quando a precisão importar.",
+                "Pense em frases, não em palavras soltas. Terminar uma ideia antes de pausar ajuda a pontuação a cair no lugar certo e deixa menos coisa para ajustar depois. O TranscriptX oferece ditado por voz online em mais de 100 idiomas, então você pode ditar no idioma em que escreve."
+            ]
+        },
+        {
+            "h2": "Digitação por Voz ou Live Transcription?",
+            "intro": [
+                "Os dois transformam fala em texto enquanto ela acontece. A diferença está em de quem são as palavras que você está escrevendo."
+            ],
+            "items": [
+                {
+                    "h3": "Escolha a digitação por voz para escrever com a sua voz",
+                    "content": "Quando as palavras são suas — um e-mail, uma anotação, um rascunho que você está compondo —, esta é a ferramenta para ditá-las em vez de digitar."
+                },
+                {
+                    "h3": "Escolha Live Transcription para registrar o que os outros dizem",
+                    "content": "Quando você quer um registro por escrito de uma aula, uma entrevista ou uma conversa, use o [Live Transcription](/pt/live-transcription). Se a fala já estiver gravada, envie o arquivo para a ferramenta [Voice to Text](/pt/voice-to-text)."
+                }
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como funciona a digitação por voz?",
+                    "a": "Você clica em Iniciar e fala no microfone. O TranscriptX reconhece sua fala enquanto você fala e escreve tudo na tela na hora, adicionando a pontuação."
+                },
+                {
+                    "q": "Esta ferramenta de ditado por voz online é grátis?",
+                    "a": "Sim, você pode começar de graça, sem cadastro e sem instalar nada. Criar uma conta é opcional, e há planos pagos se você dita muito."
+                },
+                {
+                    "q": "A pontuação é adicionada e posso editar o texto?",
+                    "a": "Sim para as duas coisas. A pontuação é adicionada enquanto você fala, então o texto fica parecido com uma escrita normal, e depois que você para, tudo pode ser editado — corrija uma palavra mal entendida ou ajuste uma frase antes de copiar."
+                },
+                {
+                    "q": "Como levo o texto para o meu e-mail ou documento?",
+                    "a": "Copie com um clique e cole em qualquer e-mail, documento ou aplicativo de mensagens, ou exporte em TXT, DOCX ou PDF."
+                },
+                {
+                    "q": "Em quais idiomas posso falar?",
+                    "a": "Mais de 100 idiomas são suportados, então você pode ditar no idioma em que escreve."
+                },
+                {
+                    "q": "Preciso baixar algum aplicativo?",
+                    "a": "Não. A digitação por voz funciona no navegador do computador, tablet ou celular. Você só precisa permitir o acesso ao microfone."
+                },
+                {
+                    "q": "Qual é a diferença entre digitação por voz e Live Transcription?",
+                    "a": "A digitação por voz serve para ditar as suas próprias palavras — escrever falando. O Live Transcription serve para registrar o que outras pessoas dizem, como uma aula ou uma entrevista. Os dois funcionam em tempo real, mas foram pensados para tarefas diferentes."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Comece a Digitação por Voz — Texto na Hora",
+        "content": [
+            "Clique em Iniciar, fale e o TranscriptX transforma sua voz em texto em tempo real, em mais de 100 idiomas, direto no navegador.",
+            "Dite um e-mail, uma anotação, uma mensagem ou um primeiro rascunho, depois edite, copie ou exporte. Grátis para começar, sem cadastro, sem instalar nada."
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "title": "Sprache zu Text in Echtzeit — Gratis Spracheingabe online",
+        "description": "Auf Start tippen, sprechen – Ihre Worte erscheinen sofort als bearbeitbarer Text. Sprache zu Text in Echtzeit für Notizen, E-Mails und Entwürfe. Ohne Anmeldung.",
+        "schemaName": "TranscriptX Sprache zu Text in Echtzeit",
+        "schemaDescription": "Online-Tool für Sprache zu Text in Echtzeit zum Diktieren. Tippen Sie auf Start, sprechen Sie ins Mikrofon, und Ihre Worte erscheinen sofort als bearbeitbarer Text mit Satzzeichen – in über 100 Sprachen. Kopieren Sie den Text überallhin oder exportieren Sie ihn als TXT, DOCX oder PDF. Läuft im Browser, für den Start ist keine Anmeldung nötig.",
+        "ogTitle": "Sprache zu Text in Echtzeit — Gratis Spracheingabe online",
+        "ogDescription": "Schreiben mit der Stimme: Auf Start tippen, sprechen und zusehen, wie Ihre Worte sofort zu Text werden – kostenlos starten, in 100+ Sprachen, ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "Sprache zu Text in Echtzeit – Mit der Stimme schreiben",
+        "subtitle": "Schreiben Sie mit Ihrer Stimme. Tippen Sie auf Start, sprechen Sie, und Ihre Worte erscheinen sofort als Text mit Satzzeichen, den Sie bearbeiten können. Diktieren Sie eine E-Mail, eine Notiz, eine Nachricht oder einen ersten Entwurf schneller, als Sie tippen könnten – dann kopieren Sie den Text oder exportieren ihn als TXT, DOCX oder PDF. Kostenlos starten, in über 100 Sprachen, ohne Installation.",
+        "placeholder": "Auf Start tippen und lossprechen...",
+        "button": "Jetzt sprechen"
+    },
+    "quickAnswer": {
+        "question": "Wie nutze ich Sprache zu Text in Echtzeit?",
+        "answer": "Öffnen Sie TranscriptX, tippen Sie auf Start, erlauben Sie den Mikrofonzugriff und sprechen Sie los. Ihre Worte erscheinen sofort als Text, während Sie reden. Korrigieren Sie, was nötig ist, und kopieren Sie den Text in Ihre E-Mail oder Ihr Dokument – oder exportieren Sie ihn. Kostenlos starten, ohne Anmeldung und ohne Installation."
+    },
+    "sections": [
+        {
+            "h2": "Was ist Sprache zu Text in Echtzeit?",
+            "content": [
+                "Mit Sprache zu Text in Echtzeit schreiben Sie, indem Sie sprechen. Sie tippen auf Start, sagen, was Sie schreiben möchten, und die Worte erscheinen auf dem Bildschirm, während Sie sie aussprechen – ohne Tastatur, ohne Warten, ohne Datei, die erst verarbeitet werden muss.",
+                "Es ist Diktieren: Die Worte auf der Seite sind Ihre eigenen. Sie nehmen nicht jemand anderen für später auf, sondern verfassen eine E-Mail, eine Notiz, eine Nachricht oder einen Entwurf – mit der Stimme statt mit den Fingern.",
+                "Der große Vorteil ist das Tempo. Die meisten Menschen sprechen drei- bis viermal schneller, als sie tippen. Einen Gedanken laut auszusprechen und ihn direkt auf der Seite zu sehen, geht deshalb viel schneller, als ihn Wort für Wort einzutippen. Sprache zu Text in Echtzeit verbindet die Geschwindigkeit des Sprechens mit dem Ergebnis des Tippens.",
+                "TranscriptX erledigt das in Ihrem Browser – kostenlos starten. Auf Start tippen, sprechen, und Ihr Text ist einsatzbereit."
+            ]
+        },
+        {
+            "h2": "Sprache zu Text in Echtzeit auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos starten – Bezahlpläne für intensivere Nutzung"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein – Anmeldung ist optional"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine – läuft im Browser"
+                },
+                {
+                    "label": "Eingabe",
+                    "value": "Ihre Stimme über das Mikrofon – auf Start tippen und sprechen"
+                },
+                {
+                    "label": "Ausgabe",
+                    "value": "Bearbeitbarer Text mit Satzzeichen, der beim Sprechen erscheint"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+"
+                },
+                {
+                    "label": "Export",
+                    "value": "In die Zwischenablage kopieren oder als TXT, DOCX, PDF"
+                },
+                {
+                    "label": "Geräte",
+                    "value": "Browser auf Desktop, Tablet und Smartphone"
+                }
+            ]
+        },
+        {
+            "h2": "So funktioniert die Spracheingabe online",
+            "steps": [
+                {
+                    "h3": "Auf Start tippen",
+                    "content": "Öffnen Sie TranscriptX und tippen Sie auf Start. Erlauben Sie den Mikrofonzugriff, wenn Ihr Browser beim ersten Mal danach fragt."
+                },
+                {
+                    "h3": "Natürlich sprechen",
+                    "content": "Sagen Sie in normalem Tempo, was Sie schreiben möchten. Sie müssen weder langsam sprechen noch Pausen zwischen den Wörtern machen."
+                },
+                {
+                    "h3": "Ihre Worte sofort sehen",
+                    "content": "Der Text erscheint auf dem Bildschirm, während Sie sprechen, und Satzzeichen werden automatisch gesetzt – so sehen Sie in Echtzeit, wie Ihr Satz Gestalt annimmt."
+                },
+                {
+                    "h3": "Bearbeiten und kopieren",
+                    "content": "Tippen Sie auf Stopp, korrigieren Sie, was nötig ist, und kopieren Sie den Text in Ihre E-Mail, Ihr Dokument oder Ihren Chat – oder exportieren Sie ihn als TXT, DOCX oder PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Diktieren online: Mit der Stimme statt mit der Tastatur",
+            "content": [
+                "Beim Diktieren online ersetzt Ihre Stimme die Tastatur. Alles, was Sie sonst tippen würden – eine Antwort, einen Absatz, eine Liste –, sprechen Sie laut aus, und das Tool wandelt Ihre Sprache in Text live um, während Sie reden.",
+                "Das ist besonders praktisch, wenn Tippen langsam oder umständlich ist: auf dem Smartphone, auf einem Tablet ohne Tastatur, wenn Sie die Hände nicht frei haben, oder für alle, denen das Tippen anstrengend oder schmerzhaft fällt."
+            ]
+        },
+        {
+            "h2": "Diktierfunktion online – Text sofort bearbeitbar",
+            "content": [
+                "Mit der Diktierfunktion online gibt es nichts zu warten – kein Aufnehmen und späteres Umwandeln. Die Worte stehen auf dem Bildschirm, sobald Sie sie sagen, Satzzeichen inklusive, sodass sich das Ergebnis wie geschriebener Text liest und nicht wie eine Aneinanderreihung von Wörtern.",
+                "Gesprochene Sprache ist von Natur aus lockerer als geschriebene, rechnen Sie also damit, hier und da einen Satz zu glätten. Der schwierige Teil – vom leeren Blatt zum vollständigen Entwurf – ist bereits erledigt: Bearbeiten Sie den Text direkt, kopieren Sie ihn in jede beliebige App oder exportieren Sie ihn zum Aufbewahren."
+            ]
+        },
+        {
+            "h2": "Was Sie mit Ihrer Stimme schreiben können",
+            "intro": [
+                "Alles, was Sie tippen würden, können Sie auch diktieren. Die häufigsten Einsatzbereiche für Sprache zu Text in Echtzeit:"
+            ],
+            "items": [
+                {
+                    "h3": "E-Mails und Antworten",
+                    "content": "Sprechen Sie Ihre E-Mail so, wie Sie es jemandem erklären würden, fügen Sie sie in Ihr Postfach ein und senden Sie sie ab. Lange Antworten kosten nur einen Bruchteil der Zeit."
+                },
+                {
+                    "h3": "Notizen und To-do-Listen",
+                    "content": "Halten Sie eine Idee, eine Erinnerung oder eine Liste fest, sobald sie Ihnen einfällt – ohne die Tastatur zu öffnen."
+                },
+                {
+                    "h3": "Erste Entwürfe",
+                    "content": "Sprechen Sie einen Artikel, einen Bericht oder einen Aufsatz einfach durch, um schnell einen vollständigen Rohentwurf zu haben, und bringen Sie ihn danach in Form."
+                },
+                {
+                    "h3": "Nachrichten und Posts",
+                    "content": "Diktieren Sie eine lange Nachricht, eine Bildunterschrift oder einen Social-Media-Post auf dem Smartphone, ohne jedes Wort mit dem Daumen zu tippen."
+                },
+                {
+                    "h3": "Sprachen üben",
+                    "content": "Sprechen Sie in der Sprache, die Sie lernen, und sehen Sie, ob die Wörter so ankommen, wie Sie es wollten – ein schneller, ehrlicher Test Ihrer Aussprache."
+                },
+                {
+                    "h3": "Freihändig und barrierefrei schreiben",
+                    "content": "Für Menschen mit eingeschränkter Beweglichkeit, Sehnenscheidenentzündung oder Schwierigkeiten beim Tippen ist Sprechen eine schnellere und angenehmere Art zu schreiben."
+                }
+            ]
+        },
+        {
+            "h2": "Tipps für besseres Diktieren",
+            "content": [
+                "Sprechen Sie deutlich, in Ihrem normalen Tempo und nah am Mikrofon. Ein Headset oder das Smartphone nah am Mund liefert sauberere Ergebnisse als ein Laptop-Mikrofon am anderen Ende des Raums.",
+                "Eine ruhige Umgebung hilft mehr als alles andere. Hintergrundmusik, Verkehrslärm oder andere Stimmen können in den Text rutschen – diktieren Sie also an einem ruhigen Ort, wenn es auf Genauigkeit ankommt.",
+                "Denken Sie in Sätzen statt in einzelnen Wörtern. Wenn Sie einen Gedanken zu Ende sprechen, bevor Sie pausieren, landen die Satzzeichen an der richtigen Stelle, und Sie müssen hinterher weniger nachbessern. TranscriptX unterstützt über 100 Sprachen, sodass Sie in der Sprache diktieren können, in der Sie schreiben."
+            ]
+        },
+        {
+            "h2": "Selbst mit der Stimme schreiben – oder mitschreiben, was andere sagen?",
+            "intro": [
+                "Beide verwandeln Gesprochenes in Text, während gesprochen wird. Der Unterschied liegt darin, wessen Worte Sie festhalten."
+            ],
+            "items": [
+                {
+                    "h3": "Sprache zu Text in Echtzeit, um mit der Stimme zu schreiben",
+                    "content": "Wenn es Ihre eigenen Worte sind – eine E-Mail, eine Notiz, ein Entwurf, den Sie gerade verfassen –, ist dies das Tool, um sie zu diktieren statt zu tippen."
+                },
+                {
+                    "h3": "Live-Transkription, um festzuhalten, was andere sagen",
+                    "content": "Wenn Sie ein schriftliches Protokoll einer Vorlesung, eines Interviews oder eines Gesprächs brauchen, nutzen Sie [Live Transcription](/de/live-transcription). Liegt die Aufnahme bereits vor, laden Sie sie stattdessen im Tool [Voice to Text](/de/voice-to-text) hoch."
+                }
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie funktioniert Sprache zu Text in Echtzeit?",
+                    "a": "Sie tippen auf Start und sprechen ins Mikrofon. TranscriptX erkennt Ihre Sprache, während Sie reden, schreibt sie sofort auf den Bildschirm und setzt dabei die Satzzeichen."
+                },
+                {
+                    "q": "Ist diese Spracheingabe online kostenlos?",
+                    "a": "Ja, Sie können kostenlos starten – ohne Anmeldung und ohne Installation. Ein Konto ist optional, und wenn Sie viel diktieren, stehen Bezahlpläne zur Verfügung."
+                },
+                {
+                    "q": "Werden Satzzeichen gesetzt, und kann ich den Text bearbeiten?",
+                    "a": "Beides ja. Satzzeichen werden beim Sprechen eingefügt, sodass sich der Text wie normal geschrieben liest, und nach dem Stopp ist alles bearbeitbar – korrigieren Sie ein falsch verstandenes Wort oder glätten Sie einen Satz, bevor Sie ihn kopieren."
+                },
+                {
+                    "q": "Wie bekomme ich den Text in meine E-Mail oder mein Dokument?",
+                    "a": "Kopieren Sie ihn mit einem Klick und fügen Sie ihn in jede E-Mail, jedes Dokument oder jede Chat-App ein – oder exportieren Sie ihn als TXT, DOCX oder PDF."
+                },
+                {
+                    "q": "In welchen Sprachen kann ich sprechen?",
+                    "a": "Über 100 Sprachen werden unterstützt, Sie können also in der Sprache diktieren, in der Sie schreiben."
+                },
+                {
+                    "q": "Muss ich eine App herunterladen?",
+                    "a": "Nein. Sprache zu Text in Echtzeit läuft im Browser auf Desktop, Tablet oder Smartphone. Sie müssen nur den Mikrofonzugriff erlauben."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen Spracheingabe und Live-Transkription?",
+                    "a": "Sprache zu Text in Echtzeit ist zum Diktieren Ihrer eigenen Worte da – Schreiben durch Sprechen. Live-Transkription dient dazu, festzuhalten, was andere sagen, etwa in einer Vorlesung oder einem Interview. Beide arbeiten in Echtzeit, sind aber auf unterschiedliche Aufgaben zugeschnitten."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Jetzt lossprechen – Sprache zu Text in Echtzeit",
+        "content": [
+            "Tippen Sie auf Start, sprechen Sie, und TranscriptX verwandelt Ihre Stimme in Echtzeit in Text – in über 100 Sprachen, direkt im Browser.",
+            "Diktieren Sie eine E-Mail, eine Notiz, eine Nachricht oder einen ersten Entwurf, und bearbeiten, kopieren oder exportieren Sie ihn anschließend. Kostenlos starten, ohne Anmeldung, ohne Installation."
+        ]
+    }
+}

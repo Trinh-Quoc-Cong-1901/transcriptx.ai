@@ -1,0 +1,248 @@
+{
+    "seo": {
+        "title": "Chuyển âm thanh thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "description": "Chuyển âm thanh thành văn bản online miễn phí. Tải lên file MP3, WAV hay M4A và nhận bản ghi chính xác với hơn 100 ngôn ngữ, có phân biệt người nói. Xuất TXT, DOCX, PDF, SRT.",
+        "schemaName": "Công cụ chuyển âm thanh thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí giúp chuyển đổi và bóc băng file âm thanh thành văn bản với hơn 100 ngôn ngữ, có phân biệt người nói, tùy chọn dấu thời gian và xuất ra TXT, DOCX, PDF, SRT, VTT. Hỗ trợ MP3, WAV, M4A, AAC và nhiều định dạng khác, không cần tạo tài khoản.",
+        "ogTitle": "Chuyển âm thanh thành văn bản — Miễn phí, không cần đăng ký | TranscriptX",
+        "ogDescription": "Biến mọi file âm thanh thành văn bản. Tải lên MP3, WAV hay M4A và nhận bản ghi chính xác với hơn 100 ngôn ngữ, miễn phí và không cần đăng ký."
+    },
+    "hero": {
+        "h1": "Chuyển âm thanh thành văn bản",
+        "subtitle": "Biến mọi file âm thanh thành văn bản chính xác, chỉnh sửa được. Tải lên file MP3, WAV, M4A hay bất kỳ định dạng phổ biến nào, TranscriptX sẽ chuyển thành văn bản với hơn 100 ngôn ngữ, gán nhãn từng người nói và thêm dấu thời gian nếu bạn cần. Xuất ra TXT, DOCX, PDF, SRT hoặc VTT. Không cần tài khoản, không giới hạn dung lượng, không phải cài đặt gì.",
+        "placeholder": "Tải lên file âm thanh...",
+        "button": "Chuyển thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Cách chuyển file ghi âm thành văn bản như thế nào?",
+        "answer": "Tải file âm thanh của bạn lên TranscriptX, công cụ sẽ chuyển lời nói trong file thành văn bản chỉ trong vài giây, hỗ trợ hơn 100 ngôn ngữ và gán nhãn từng người nói. Sau đó bạn có thể đọc, sao chép, chỉnh sửa hoặc xuất bản ghi ra TXT, DOCX, PDF, SRT hay VTT. Không cần tài khoản, không giới hạn dung lượng file và không phải cài đặt phần mềm nào."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển âm thanh thành văn bản là gì?",
+            "content": [
+                "Chuyển âm thanh thành văn bản là biến lời nói bên trong một bản ghi âm thành chữ viết. Bạn đưa cho công cụ một file — một tập podcast, một buổi phỏng vấn, một cuộc họp đã ghi âm, một bài giảng — và thay vì phải nghe hết từ đầu đến cuối rồi gõ lại từng câu, bạn nhận về toàn bộ nội dung dưới dạng văn bản.",
+                "Điều này quan trọng vì âm thanh là một vật chứa rất tệ cho thông tin mà bạn thực sự cần dùng. Bạn không thể lướt nhanh một bản ghi âm, không thể tìm kiếm đúng một câu bạn cần, và cũng không thể sao chép một đoạn trích ra khỏi nó. Một giờ âm thanh giấu toàn bộ nội dung sau sáu mươi phút bạn buộc phải ngồi nghe theo thời gian thực. Cũng một giờ đó ở dạng văn bản là thứ bạn đọc xong trong một phần nhỏ thời gian, tìm kiếm trong tích tắc và dán vào bất cứ đâu bạn cần.",
+                "Chuyển đổi âm thanh thành văn bản còn mở khóa mọi thứ phía sau. Khi bản ghi đã thành chữ, bạn có thể dịch nó, biến thành phụ đề, tóm tắt, trích dẫn chính xác, hoặc đưa cho một trợ lý AI như ChatGPT, Claude hay Gemini để phân tích — những việc không thể làm được khi câu chữ còn bị khóa trong file âm thanh.",
+                "TranscriptX thực hiện việc chuyển đổi này miễn phí, chạy trực tiếp trên trình duyệt, không cần tài khoản và không giới hạn dung lượng file."
+            ]
+        },
+        {
+            "h2": "Chuyển âm thanh thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí"
+                },
+                {
+                    "label": "Yêu cầu tài khoản",
+                    "value": "Không"
+                },
+                {
+                    "label": "Cài đặt",
+                    "value": "Không — chạy ngay trên trình duyệt"
+                },
+                {
+                    "label": "Giới hạn dung lượng",
+                    "value": "Không giới hạn"
+                },
+                {
+                    "label": "Định dạng hỗ trợ",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG và nhiều định dạng khác"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Phân biệt người nói",
+                    "value": "Có — gán nhãn riêng cho từng người"
+                },
+                {
+                    "label": "Dấu thời gian",
+                    "value": "Tùy chọn — bật hoặc tắt cho từng bản ghi"
+                },
+                {
+                    "label": "Định dạng xuất",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Thiết bị",
+                    "value": "Trình duyệt trên máy tính, máy tính bảng và điện thoại"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển file âm thanh thành văn bản",
+            "steps": [
+                {
+                    "h3": "Tải file âm thanh lên",
+                    "content": "Thả vào file MP3, WAV, M4A hay bất kỳ định dạng âm thanh phổ biến nào, hoặc dán link dẫn tới bản ghi. Không có giới hạn độ dài file, nên một tin nhắn thoại hai phút và một buổi tọa đàm ba tiếng đều xử lý được."
+                },
+                {
+                    "h3": "Công cụ bóc băng lời nói",
+                    "content": "TranscriptX tự nhận diện ngôn ngữ đang nói trong hơn 100 ngôn ngữ, tách giọng người ra khỏi tiếng ồn nền, xác định từng người nói và viết lại câu chữ kèm dấu câu, ngắt câu rõ ràng."
+                },
+                {
+                    "h3": "Kiểm tra lại bản ghi",
+                    "content": "Đọc qua một lượt và sửa những chỗ mà bản thu khiến máy khó nghe rõ. Tên riêng, con số, từ viết tắt và thuật ngữ chuyên ngành là những thứ đáng liếc lại lần nữa trước khi bạn dùng đến văn bản."
+                },
+                {
+                    "h3": "Xuất hoặc sao chép văn bản",
+                    "content": "Sao chép thẳng bản ghi ra, hoặc tải về dưới dạng TXT, DOCX, PDF, SRT hay VTT. Hãy bật dấu thời gian trước nếu bạn cần làm phụ đề hoặc muốn đối chiếu một câu trích với đoạn âm thanh gốc."
+                }
+            ]
+        },
+        {
+            "h2": "Công cụ chuyển âm thanh thành văn bản miễn phí",
+            "content": [
+                "TranscriptX là công cụ chuyển âm thanh thành văn bản miễn phí, không có bức tường thu phí chờ sẵn ở cuối — miễn phí đúng nghĩa, không mẹo vặt. Rất nhiều công cụ cho bạn tải file lên, chạy xong quá trình bóc băng, rồi mới hỏi thẻ tín dụng trước khi cho xem kết quả, hoặc chỉ cho bạn vài phút âm thanh. Ở đây không có chuyện đó — việc chuyển đổi là miễn phí, không phải tạo tài khoản, và không giới hạn file dài hay nặng đến đâu.",
+                "Công cụ được làm cho những người đã có sẵn file âm thanh và chỉ muốn lấy phần chữ. Bạn không phải đăng ký gói thuê bao hay học cách dùng một phần mềm nào; bạn tải file lên, chuyển file âm thanh thành văn bản, rồi lấy kết quả. Dù bạn cần chuyển audio thành văn bản một lần duy nhất hay tuần nào cũng làm, quy trình vẫn y như vậy và giới hạn không bao giờ xuất hiện.",
+                "Vì mọi thứ chạy trên trình duyệt, việc chuyển âm thanh thành văn bản online hoạt động giống hệt nhau trên điện thoại, máy tính bảng hay laptop — không có gì để tải về và không có plugin nào phải cập nhật."
+            ]
+        },
+        {
+            "h2": "Bóc băng ghi âm chính xác",
+            "content": [
+                "Chuyển đổi một file và bóc băng nó ở đây là cùng một thao tác, nhưng từ \"bóc băng\" thường hàm ý một tiêu chuẩn cao hơn: bạn cần bản ghi đúng, chứ không phải đại khái là đúng. Đó là trường hợp của những buổi phỏng vấn bạn sẽ trích dẫn, những cuộc họp bạn sẽ căn cứ vào để hành động, và những nghiên cứu bạn sẽ dẫn nguồn.",
+                "TranscriptX được xây dựng cho tiêu chuẩn đó. Khi bạn chuyển bản ghi âm thành văn bản, công cụ làm nhiều hơn là đổ chữ ra trang — nó thêm dấu câu, ngắt thành các câu dễ đọc và gán nhãn từng người nói, nên một bản thu có ba người sẽ trả về thành một biên bản rõ ràng ai nói gì thay vì một khối chữ liền mạch.",
+                "Công cụ cũng xử lý được những bản thu khó nhằn. Nó vẫn có thể chuyển ghi âm thành văn bản ngay cả khi có tiếng ồn nền, nhiều người nói chồng lên nhau hay giọng vùng miền nặng, dù đó chính là những đoạn đáng đọc lại trước khi bạn công bố. Với một bản thu sạch chỉ có một người nói, bản ghi trả về gần như đúng từng chữ."
+            ]
+        },
+        {
+            "h2": "Các định dạng âm thanh được hỗ trợ",
+            "intro": [
+                "TranscriptX nhận những định dạng mà bạn nhiều khả năng đang có sẵn, nên hiếm khi bạn phải chuyển đổi file trước khi tải lên."
+            ],
+            "items": [
+                {
+                    "h3": "MP3",
+                    "content": "Định dạng âm thanh phổ biến nhất, được dùng bởi hầu hết podcast, máy ghi âm và file tải về. Tải thẳng lên và chuyển MP3 thành văn bản luôn, không cần xử lý gì thêm."
+                },
+                {
+                    "h3": "WAV",
+                    "content": "Định dạng chất lượng cao, không nén, do các máy ghi âm chuyên nghiệp và phần mềm âm thanh tạo ra. File nặng hơn, nhưng bạn không phải lo vì không có giới hạn dung lượng."
+                },
+                {
+                    "h3": "M4A và AAC",
+                    "content": "Định dạng mặc định của iPhone, các ứng dụng ghi âm và nhiều thiết bị thu âm. Tải thẳng từ máy của bạn lên, bỏ qua bước chuyển đổi định dạng."
+                },
+                {
+                    "h3": "FLAC và OGG",
+                    "content": "Định dạng nén không mất dữ liệu và định dạng mã nguồn mở, được dùng bởi giới lưu trữ và một số ứng dụng ghi âm. Cả hai đều tải lên và bóc băng bình thường như mọi file khác."
+                }
+            ]
+        },
+        {
+            "h2": "Bạn có thể chuyển những loại bản ghi nào",
+            "intro": [
+                "Chỉ cần trong bản thu có tiếng nói, TranscriptX đều biến được thành văn bản. Dưới đây là những loại bản ghi người dùng chuyển nhiều nhất, và lý do bản chữ quan trọng với từng loại:"
+            ],
+            "items": [
+                {
+                    "h3": "Podcast",
+                    "content": "Một tập podcast trở thành ghi chú chương trình, một bản tin, một bài viết, các câu trích cho mạng xã hội và một kho lưu trữ tìm kiếm được — tất cả từ một bản ghi duy nhất, không cần tua lại audio để tìm từng đoạn."
+                },
+                {
+                    "h3": "Phỏng vấn",
+                    "content": "Nhà báo và nhà nghiên cứu có được nguyên văn lời nói, kèm nhãn người nói và dấu thời gian tùy chọn, nên bóc băng phỏng vấn xong là trích dẫn được chính xác và đối chiếu lại đúng thời điểm câu đó được nói."
+                },
+                {
+                    "h3": "Cuộc họp và cuộc gọi",
+                    "content": "Một cuộc họp đã ghi âm trở thành biên bản viết ghi lại các quyết định và đầu việc, có gán nhãn từng người tham dự, nên đọc vào là ra một biên bản thật sự chứ không phải một bức tường chữ."
+                },
+                {
+                    "h3": "Bài giảng và khóa học",
+                    "content": "Sinh viên biến các buổi học đã ghi âm thành tài liệu ôn tập có thể tìm theo từ khóa, tô đậm và cô đọng lại thành ghi chú, kể cả rất lâu sau khi lớp học kết thúc."
+                },
+                {
+                    "h3": "Bản ghi pháp lý và y tế",
+                    "content": "Lời khai, bản đọc chính tả và các buổi tư vấn trở thành tài liệu có thể rà soát, lưu hồ sơ và tra cứu — kèm lưu ý phải kiểm tra kỹ tên riêng và thuật ngữ trước khi dùng cho việc chính thức."
+                },
+                {
+                    "h3": "Tin nhắn thoại và ghi chú nhanh",
+                    "content": "Một ý tưởng nói vội lúc đang di chuyển trở thành văn bản chỉnh sửa được, nên suy nghĩ đó được ghi lại mà bạn không phải dừng lại để gõ ra."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển âm thanh thành văn bản chính xác đến đâu?",
+            "content": [
+                "Độ chính xác của một bản ghi phụ thuộc chủ yếu vào chính bản thu. Lời nói rõ ràng, âm lượng đều và ít tiếng ồn nền cho kết quả tốt nhất — một buổi phỏng vấn thu tốt hay một podcast thu trong phòng thu thường trả về gần như đúng từng chữ.",
+                "Độ chính xác giảm khi âm thanh lộn xộn: nhiều người nói chồng lên nhau, tiếng vọng nặng, nhạc nền lấn át lời nói, hay giọng vùng miền nặng đi kèm thuật ngữ dày đặc. Việc bóc băng vẫn chạy, nhưng đó là những đoạn đáng đọc kỹ trước khi bạn dựa vào chúng.",
+                "Một cách rà soát thực tế là lướt bản ghi đối chiếu với đúng những phần bạn quan tâm nhất — các con số, tên riêng, những nhận định then chốt — rồi sửa tay những chỗ đó. Sửa vài chữ chỉ mất mấy giây so với việc tự gõ lại toàn bộ bản thu, và đó mới là ý nghĩa thật sự của việc chuyển đổi âm thanh thành văn bản."
+            ]
+        },
+        {
+            "h2": "Chuyển âm thanh sang văn bản với hơn 100 ngôn ngữ",
+            "content": [
+                "TranscriptX bóc băng lời nói ở hơn 100 ngôn ngữ và tự nhận diện ngôn ngữ mà nó đang nghe, nên bạn không phải chọn gì trước khi tải file lên. Một bản thu tiếng Việt trả về văn bản tiếng Việt có dấu đầy đủ, một bản thu tiếng Anh trả về văn bản tiếng Anh.",
+                "Việc phân biệt người nói hoạt động ở mọi ngôn ngữ, và đó là thứ giữ cho một bản thu nhiều người vẫn đọc được thay vì bị trộn thành một khối. Và vì bản ghi là văn bản thuần, bạn có thể dịch sau — bóc băng âm thanh ở ngôn ngữ gốc, rồi dịch kết quả để chia sẻ cùng nội dung đó với những người không nói ngôn ngữ ấy."
+            ]
+        },
+        {
+            "h2": "Xuất bản ghi ra năm định dạng",
+            "content": [
+                "Mọi bản ghi đều xuất được ở năm định dạng, và chọn định dạng nào tùy vào việc bạn sẽ làm gì tiếp với văn bản. TXT là văn bản thuần, không định dạng — gọn nhất để đọc, tìm kiếm hay dán sang công cụ khác. DOCX mở được bằng Word, Google Docs và Pages khi bạn cần biên tập lại bản ghi thành một tài liệu hoàn chỉnh. PDF cho bạn một bản cố định hiển thị giống nhau với mọi người, lý tưởng để chia sẻ hoặc lưu hồ sơ những thứ không nên bị chỉnh sửa.",
+                "Hai định dạng còn lại mang theo thông tin thời gian. SRT là định dạng phụ đề mà gần như mọi nền tảng và phần mềm dựng phim đều chấp nhận, nên hãy bật dấu thời gian và xuất SRT nếu đoạn âm thanh thuộc về một video bạn muốn gắn phụ đề. VTT làm đúng việc đó cho các trình phát video trên web.",
+                "Nếu bản thu của bạn khởi đầu là lời nói trực tiếp chứ không phải một file có sẵn — một tin nhắn thoại, một đoạn đọc chính tả, một bản thu bạn tự ghi — thì công cụ [Voice to Text](/vi/voice-to-text) được thiết kế riêng cho việc chuyển đổi giọng nói thành văn bản, kèm tùy chọn ghi âm thẳng trong trình duyệt. Còn khi nguồn là video chứ không phải file âm thanh, công cụ [YouTube Transcript](/vi/youtube-transcript) và [TikTok Transcript](/vi/tiktok-transcript) xử lý trực tiếp các nền tảng đó."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao chuyển âm thanh thành văn bản miễn phí?",
+                    "a": "Tải file âm thanh của bạn lên TranscriptX, công cụ sẽ bóc băng thành văn bản mà không tính phí. Không phải tạo tài khoản, không phải cài phần mềm và không giới hạn dung lượng hay độ dài file. Xong xuôi, bạn có thể sao chép hoặc xuất bản ghi ra."
+                },
+                {
+                    "q": "Tôi tải lên được những định dạng âm thanh nào?",
+                    "a": "Các định dạng phổ biến — MP3, WAV, M4A, AAC, FLAC và OGG cùng nhiều loại khác — nên bạn thường tải thẳng file từ máy ghi âm hay điện thoại lên được mà không phải chuyển đổi trước."
+                },
+                {
+                    "q": "Có giới hạn dung lượng hay độ dài file không?",
+                    "a": "Không. Tin nhắn thoại ngắn và bản thu dài nhiều giờ đều xử lý được. File dài hơn chỉ đơn giản là mất thêm chút thời gian xử lý."
+                },
+                {
+                    "q": "Bản ghi chính xác đến mức nào?",
+                    "a": "Độ chính xác phụ thuộc chủ yếu vào bản thu. Lời nói rõ và ít tiếng ồn nền cho kết quả gần như đúng từng chữ, còn người nói chồng lời, tiếng vọng hay giọng vùng miền nặng sẽ làm giảm độ chính xác. Rà lại tên riêng, con số và thuật ngữ chuyên ngành trước khi dùng đến văn bản luôn là việc đáng làm."
+                },
+                {
+                    "q": "Công cụ có phân biệt được những người nói khác nhau không?",
+                    "a": "Có. TranscriptX gán nhãn riêng cho từng người nói, nên phỏng vấn, cuộc họp và các bản thu nhiều người trả về dưới dạng ai nói gì rõ ràng chứ không phải một khối chữ liền."
+                },
+                {
+                    "q": "Công cụ hỗ trợ những ngôn ngữ nào?",
+                    "a": "Hơn 100 ngôn ngữ, trong đó có tiếng Việt. Ngôn ngữ đang nói được nhận diện tự động nên bạn không cần chọn trước khi tải lên, và bản ghi trả về đúng bằng ngôn ngữ đó."
+                },
+                {
+                    "q": "Tôi có lấy được dấu thời gian trong bản ghi không?",
+                    "a": "Có, và đó là tùy chọn. Bật lên khi bạn cần file phụ đề hoặc muốn nhảy về đúng một điểm trong bản thu; tắt đi khi bạn muốn một bản văn bản sạch để đọc."
+                },
+                {
+                    "q": "Tôi xuất được ra những định dạng nào?",
+                    "a": "Năm định dạng — TXT, DOCX và PDF để đọc và chỉnh sửa, cùng SRT và VTT để làm phụ đề. Bạn cũng có thể sao chép thẳng phần văn bản."
+                },
+                {
+                    "q": "Tôi có phải cài phần mềm nào không?",
+                    "a": "Không. Mọi thứ chạy trên trình duyệt, cả trên máy tính lẫn điện thoại. Không có ứng dụng, plugin hay tiện ích mở rộng nào phải cài trước khi bạn bóc băng."
+                },
+                {
+                    "q": "Chuyển âm thanh thành văn bản và chuyển giọng nói thành văn bản khác nhau thế nào?",
+                    "a": "Chuyển âm thanh thành văn bản dành cho các file có sẵn — một tập podcast, một buổi phỏng vấn, một cuộc họp đã ghi âm. Còn chuyển giọng nói thành văn bản là để bắt lời nói ngay lúc bạn đang nói, kể cả tự ghi âm giọng mình trực tiếp. Nếu bạn muốn đọc chính tả hay bóc băng một tin nhắn thoại, hãy dùng công cụ Voice to Text."
+                },
+                {
+                    "q": "Tôi dán được bản ghi vào ChatGPT hay Claude không?",
+                    "a": "Được. Khi âm thanh đã thành văn bản, hãy sao chép hoặc xuất ra rồi thả vào bất kỳ trợ lý AI nào để tóm tắt bản thu, rút ra các đầu việc, hoặc viết lại thành một bài viết."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển âm thanh thành văn bản miễn phí ngay",
+        "content": [
+            "Tải lên file MP3, WAV, M4A hay bất kỳ file âm thanh phổ biến nào, TranscriptX sẽ chuyển thành văn bản với hơn 100 ngôn ngữ, có nhãn người nói và dấu thời gian tùy chọn. Không cần tài khoản, không giới hạn dung lượng và hoàn toàn miễn phí.",
+            "Đọc, sao chép, chỉnh sửa, dịch, hoặc xuất ra TXT, DOCX, PDF, SRT hay VTT — tùy vào việc bạn cần làm tiếp theo với bản ghi."
+        ]
+    }
+}

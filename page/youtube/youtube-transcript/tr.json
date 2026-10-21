@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "YouTube Transkript — Ücretsiz Alın, Oluşturun, Çıkarın | TranscriptX",
+        "description": "YouTube transkript ücretsiz alın. Bir YouTube bağlantısı yapıştırın; transkripti oluşturun, çıkarın, okuyun, kopyalayın, düzenleyin ve 100+ dilde çevirin. Üyelik yok.",
+        "schemaName": "TranscriptX YouTube Transkript Aracı",
+        "schemaDescription": "Herkese açık her YouTube videosunun transkriptini 100'den fazla dilde oluşturan ve çıkaran ücretsiz online araç. Metni hesap açmadan okuyun, kopyalayın, düzenleyin, çevirin ve dışa aktarın.",
+        "ogTitle": "YouTube Transkript — Ücretsiz Alın, Oluşturun, Çıkarın | TranscriptX",
+        "ogDescription": "Bir YouTube bağlantısı yapıştırın, tam transkripti saniyeler içinde alın. Herkese açık her videonun metnini 100+ dilde, ücretsiz ve üyeliksiz oluşturun ya da çıkarın."
+    },
+    "hero": {
+        "h1": "YouTube Transkript",
+        "subtitle": "Herkese açık her YouTube videosunun tam transkriptini saniyeler içinde alın. Bir bağlantı yapıştırarak konuşulanları 100'den fazla dilde metin olarak oluşturun veya çıkarın; sonra okuyun, kopyalayın, düzenleyin ya da çevirin. Hesap yok, kurulacak program yok.",
+        "placeholder": "YouTube video bağlantısını yapıştırın...",
+        "button": "Transkript Al"
+    },
+    "quickAnswer": {
+        "question": "YouTube transkript nasıl alınır?",
+        "answer": "Herkese açık bir YouTube videosunun bağlantısını kopyalayıp TranscriptX'e bırakın. Araç sesi okur, transkripti 100'den fazla dilde oluşturur ve okuyabileceğiniz, kopyalayabileceğiniz, düzenleyebileceğiniz, çevirebileceğiniz ya da dışa aktarabileceğiniz bir metin döndürür. Hesap gerekmez ve kurulacak hiçbir şey yoktur."
+    },
+    "sections": [
+        {
+            "h2": "YouTube Transkript Nedir?",
+            "content": [
+                "YouTube transkript — bir YouTube videosunda söylenen her şeyin tam metni — videodaki konuşmanın yazıya dökülmüş hâlidir. İki saatlik bir dersi ya da röportajı tek bir cümle için yeniden izlemek yerine transkripti okur, içinde arama yapar ve doğrudan ihtiyacınız olan yere atlarsınız.",
+                "Değer, metnin önünüze açtığı şeylerde. Video, bilgisini zaman çizelgesinin içinde kilitli tutar — ses olarak kaldığı sürece içinde arama yapamaz, birebir alıntılayamaz ya da başka bir araca yapıştıramazsınız. Transkripte dönüştüğünde aynı video, saniyeler içinde göz gezdirdiğiniz, birebir alıntı çektiğiniz, çevirdiğiniz, nota dönüştürdüğünüz ya da analiz için ChatGPT, Gemini veya Claude'a verdiğiniz bir metin olur.",
+                "TranscriptX, bir YouTube videosunun transkriptini ücretsiz olarak, tarayıcıda ve hesap açmadan alır."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta YouTube Transkript",
+            "specs": [
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz"
+                },
+                {
+                    "label": "Hesap gerekli mi",
+                    "value": "Hayır"
+                },
+                {
+                    "label": "Kurulum",
+                    "value": "Yok — tarayıcıda çalışır"
+                },
+                {
+                    "label": "Girdi",
+                    "value": "Herkese açık her YouTube video bağlantısı"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik olarak algılanır"
+                },
+                {
+                    "label": "Konuşmacı ayrımı",
+                    "value": "Evet — her konuşmacı etiketlenir"
+                },
+                {
+                    "label": "Zaman damgaları",
+                    "value": "İsteğe bağlı — her transkript için açılıp kapatılabilir"
+                },
+                {
+                    "label": "Altyazısı olmayan videolarda çalışır mı",
+                    "value": "Evet — transkript ses kaydından oluşturulur"
+                },
+                {
+                    "label": "Cihazlar",
+                    "value": "Masaüstü, tablet ve mobil tarayıcılar"
+                },
+                {
+                    "label": "Dışa aktarma formatları",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "YouTube Videosundan Transkript Nasıl Alınır?",
+            "steps": [
+                {
+                    "h3": "YouTube video bağlantısını kopyalayın",
+                    "content": "Yazıya dökmek istediğiniz videoyu açın ve bağlantısını adres çubuğundan ya da Paylaş düğmesinden kopyalayın. Herkese açık her YouTube videosu çalışır."
+                },
+                {
+                    "h3": "Bağlantıyı TranscriptX'e yapıştırın",
+                    "content": "Bağlantıyı bu sayfanın üstündeki kutuya yapıştırın. Açılacak bir hesap ve önce kaydedilecek bir dosya yok."
+                },
+                {
+                    "h3": "Transkripti oluşturun",
+                    "content": "TranscriptX sesi okur, konuşulan dili 100'den fazla dil arasından otomatik algılar, her konuşmacıyı ayırır ve sözcükleri noktalama işaretleri ve cümle bölünmeleriyle yazar."
+                },
+                {
+                    "h3": "Transkripti kullanın",
+                    "content": "Ekranda okuyun, tamamını ya da tek bir alıntıyı kopyalayın, metni düzenleyin, çevirin veya TXT, DOCX, PDF, SRT ya da VTT olarak dışa aktarın — zaman damgaları açık ya da kapalı."
+                }
+            ]
+        },
+        {
+            "h2": "YouTube Transkript Oluşturma",
+            "content": [
+                "Her video altyazıyla gelmez ve otomatik altyazılar çoğu zaman hatalıdır. Çıkarılacak kullanışlı bir metin olmadığında TranscriptX bir YouTube transkript oluşturma aracı gibi çalışır — yayıncının hiç eklememiş olabileceği altyazılara bağlı kalmak yerine metni doğrudan sesin kendisinden kurar.",
+                "Yani altyazı düğmesi hiç yokken bile bir YouTube videosundan transkript oluşturabilirsiniz: canlı bir kayıt, eski bir yükleme, YouTube'un kötü altyazıladığı bir konuşma. Oluşturucu konuşmayı dinler ve 100'den fazla dilde temiz, noktalama işaretli bir metin üretir; her konuşmacı da etiketlenir.",
+                "Sesten çalıştığı için sonuç, özellikle aksanlarda, teknik sözcüklerde ve çok konuşmacılı kayıtlarda YouTube'un kendi otomatik altyazılarından genellikle daha doğrudur."
+            ]
+        },
+        {
+            "h2": "YouTube'dan Metin Alma ve Metin Çıkarma",
+            "content": [
+                "Video zaten altyazılıysa TranscriptX bir metin çıkarma aracı gibi davranır — var olan konuşma içeriğini çeker ve tek adımda temiz, okunabilir bir metin olarak size verir; videoyu baştan sona taramanıza ya da satır satır kopyalamanıza gerek kalmaz. YouTube altyazı metin çıkarma işini de, doğrudan YouTube'dan metin alma işini de aynı yerde yapar.",
+                "Bu, yalnızca ham metne ihtiyaç duyan geliştiriciler, araştırmacılar ve analistler için kısa yoldur. Bağlantıyı yapıştırın, metni çıkarın ve doğrudan iş akışınıza taşıyın: bir veri kümesine, bir araştırma belgesine, bir yapay zekâ istemine ya da bir içerik brifingine. YouTube betik çıkarma aracı tam metni döndürür, böylece video ne kadar uzun olursa olsun hiçbir yeri kesilmez."
+            ]
+        },
+        {
+            "h2": "YouTube Transkriptini Nerelerde Kullanabilirsiniz",
+            "intro": [
+                "Bir videoyu yazı hâline getirme, konuşulan içeriği aranabilir, düzenlenebilir ve yeniden kullanılabilir metne dönüştürür. Videoyu tekrar tekrar oynatmak yerine doğrudan bilginin kendisiyle çalışırsınız."
+            ],
+            "items": [
+                {
+                    "h3": "Derslerden ve eğitimlerden çalışın",
+                    "content": "Öğrenciler ve online öğrenenler dersleri, kursları ve eğitimleri çalışma notuna çevirir. Transkript sayesinde anahtar terimleri aramak, önemli fikirleri tekrar etmek ve sınavlara hazırlanmak zaman çizelgesini taramadan mümkün olur."
+                },
+                {
+                    "h3": "Röportajları, podcast'leri ve konuşmaları inceleyin",
+                    "content": "Araştırmacılar ve gazeteciler röportajlardan, podcast'lerden, belgesellerden ve panellerden konuşulan bilgiyi çıkarır. Konuşmacı etiketleri ve isteğe bağlı zaman damgaları, bir alıntıyı bulmayı ve söylendiği ana karşı doğrulamayı kolaylaştırır."
+                },
+                {
+                    "h3": "Makale, bülten ve senaryo yazın",
+                    "content": "Yazarlar ve içerik üreticileri tek bir videoyu blog yazısına, bültene, sosyal medya metnine ya da yeni bir senaryoya dönüştürür. Transkript, boş sayfa yerine sağlam bir başlangıç noktası verir."
+                },
+                {
+                    "h3": "Uzun bir videoyu özetleyin",
+                    "content": "Bir video yeniden izlemek için fazla uzunsa transkript ana fikirleri, önemli noktaları ve yapılacakları hızla görmenizi sağlar — ya da özet için bir yapay zekâ asistanına yapıştırırsınız."
+                },
+                {
+                    "h3": "Video içeriğini çevirin",
+                    "content": "Transkripti özgün dilinde alın, sonra içeriği anlamak ya da başka bir kitle için yeniden yayımlamak üzere çevirin."
+                },
+                {
+                    "h3": "İçeriği erişilebilir kılın",
+                    "content": "Transkript, işitme engelli ve az işiten izleyicilere içeriğin tamamını metin olarak verir; sesi açamayan herkese de videonun okunabilir bir sürümünü sunar."
+                }
+            ]
+        },
+        {
+            "h2": "Her Dilde YouTube Deşifre",
+            "content": [
+                "TranscriptX, YouTube deşifre işini 100'den fazla dilde yapar ve konuşulan dili otomatik olarak algılar — başlamadan önce siz seçmezsiniz. Ses ister bir ders, ister bir podcast, ister bir röportaj olsun YouTube'dan deşifre edebilir ve bu dillerin herhangi birinde YouTube videoları için transkript oluşturur. Türkçe, İngilizce, İspanyolca, Hintçe, Arapça ya da Japonca bir video yapıştırın; deşifre aynı dilde geri gelir.",
+                "Konuşmacı ayrımı bunların hepsinde çalışır; böylece bir röportaj ya da panel, kesintisiz tek bir metin bloğu yerine kimin ne söylediğini gösterecek şekilde yazılır. Uzun ve çok kişili bir videoyu yalnızca okunabilir değil, gerçekten kullanılabilir kılan da budur."
+            ]
+        },
+        {
+            "h2": "TranscriptX ile YouTube'un Yerleşik Transkripti",
+            "intro": [
+                "YouTube bazı videolarda yerleşik bir transkript paneli gösterir, ama bu panel siz izlerken altyazıları okumak için tasarlanmıştır — metni başka bir yere taşımak için değil. Amacınız kopyalamak, düzenlemek, çevirmek, özetlemek ya da dışa aktarmaksa özel bir araç çok daha temiz olur."
+            ],
+            "items": [
+                {
+                    "h3": "YouTube'un yerleşik transkripti",
+                    "content": "Oynatma sırasında altyazılara göz atmak için kullanışlıdır ve yalnızca yayıncı eklediyse vardır. Metin, araya karışmış zaman damgalarıyla gelir, YouTube arayüzünün içinde durur ve temizlemesi ya da başka bir araca taşıması zahmetlidir."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Transkriptle metin olarak çalışmak için yapılmıştır. Video altyazısız olsa bile transkripti oluşturur, konuşmacıları etiketlenmiş temiz ve noktalama işaretli bir metin döndürür; kopyalamanıza, düzenlemenize, çevirmenize, özetlemenize ya da beş formata aktarmanıza izin verir — zaman damgaları isteğe bağlı."
+                }
+            ]
+        },
+        {
+            "h2": "Doğruluk ve Onu Etkileyen Etkenler",
+            "content": [
+                "TranscriptX transkripti videonun sesinden oluşturur, dolayısıyla en çok o sesin kalitesi önemlidir. Net konuşma, dengeli ses düzeyi ve düşük arka plan gürültüsü en temiz sonucu verir.",
+                "Konuşmacılar birbirinin sözünü kestiğinde, ağır yankı ya da yüksek müzik olduğunda, çok belirgin aksanlarda ve yoğun teknik sözcüklerde doğruluk düşebilir. Çok konuşmacılı kayıtlar yine konuşmacıya göre etiketlenir, ama üst üste binen konuşma her aracın en çok yanılabileceği yerdir.",
+                "Önemli alıntılar, teknik terimler, isimler, hukuki göndermeler ya da akademik kaynaklar için ilgili satırları yayımlamadan veya alıntılamadan önce gözden geçirin. Zaman damgalarını açmak bunu hızlandırır — videodaki ana doğrudan atlayıp sesle karşılaştırabilirsiniz."
+            ]
+        },
+        {
+            "h2": "YouTube Transkript Ne Zaman Çalışmayabilir",
+            "intro": [
+                "TranscriptX sesten yazıya döktüğü için eksik bir altyazı dosyası sorun değildir — ama yine de birkaç durum transkriptin üretilmesini engelleyebilir. Bunların neredeyse hepsi, aracın videonun sesine hiç ulaşıp ulaşamadığına dayanır."
+            ],
+            "items": [
+                {
+                    "h3": "Video gizli ya da silinmiş",
+                    "content": "Transkript yalnızca herkese açık şekilde izlenebilen bir videodan çıkarılabilir. Gizli ve silinmiş videolara erişilemez."
+                },
+                {
+                    "h3": "Videoda yaş ya da bölge kısıtlaması var",
+                    "content": "Yaş doğrulaması isteyen ya da bölgesel olarak engellenen videolar online bir araç üzerinden erişilebilir olmayabilir, çünkü sesleri açık şekilde sunulmaz."
+                },
+                {
+                    "h3": "Videoda konuşma yok",
+                    "content": "Müzik videolarında, sessiz kliplerde ve konuşma içermeyen görüntülerde yazıya dökülecek bir şey yoktur. Seste konuşulan sözcükler bulunması gerekir."
+                },
+                {
+                    "h3": "Canlı yayın hâlâ sürüyor",
+                    "content": "Hâlâ canlı olan bir yayının henüz tamamlanmış bir kaydı yoktur. Bitmesini ve videonun yayımlanmasını bekleyin, sonra bağlantıyı yapıştırın."
+                },
+                {
+                    "h3": "Ses alışılmadık ölçüde kötü",
+                    "content": "Aşırı düşük ses düzeyi, sürekli gürültü ya da ileri derecede bozulmuş ses, güvenilir biçimde yazıya dökülecek kadar net konuşma bırakmayabilir."
+                }
+            ]
+        },
+        {
+            "h2": "Kopyalayın, Düzenleyin, Çevirin veya Kaydedin",
+            "content": [
+                "Transkript sizindir; bir sonraki adım ne gerektiriyorsa öyle kullanın. Tamamını ya da tek bir satırı doğrudan ekrandan kopyalayın. Yayımlamadan veya alıntılamadan önce bir ismi düzeltmek ya da dolgu sözcükleri kırpmak için yerinde düzenleyin. Araçtan çıkmadan başka bir dile çevirin.",
+                "Ekrandaki metin yerine bir dosyaya ihtiyacınız olduğunda dışa aktarın — ve asıl amacınız dosyayı kaydetmekse [YouTube Transkript İndirme](/tr/download-youtube-transcript) aracı tam olarak TXT, DOCX, PDF ve SRT çıktısı almak üzere kurulmuştur. Özellikle altyazı dosyası gerekiyorsa SRT ve VTT için [YouTube Altyazı İndirici](/tr/youtube-subtitle-downloader) aracını kullanın. [YouTube Video Özetleyici](/tr/youtube-video-summarizer) ise tam transkript yerine ana noktaları verir."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "YouTube videosunun transkripti nasıl alınır?",
+                    "a": "Herkese açık bir YouTube videosunun bağlantısını kopyalayıp TranscriptX'e yapıştırın. Transkript saniyeler içinde oluşturulur ve ekranda belirir; okumaya, kopyalamaya, düzenlemeye, çevirmeye ya da dışa aktarmaya hazırdır. Hesap da program da gerekmez."
+                },
+                {
+                    "q": "Bu YouTube transkript aracı ücretsiz mi?",
+                    "a": "Evet. TranscriptX'te YouTube transkript almak ücretsizdir; açılacak hesap yoktur ve video süresinde sınır yoktur."
+                },
+                {
+                    "q": "Videoda hazır bir metin yoksa transkript oluşturabilir miyim?",
+                    "a": "Evet. TranscriptX bir YouTube transkript oluşturma aracı olarak çalışır — transkripti videonun sesinden üretir, dolayısıyla yayıncı hiç altyazı eklememişken ya da otomatik altyazılar yokken bile işe yarar."
+                },
+                {
+                    "q": "Transkript oluşturmakla çıkarmak arasındaki fark nedir?",
+                    "a": "Çıkarmak, videonun zaten sahip olduğu altyazılardaki metni dışarı alır. Oluşturmak, kullanılabilir altyazı olmadığında transkripti sesten üretir. TranscriptX ikisini de otomatik yapar — siz yalnızca bağlantıyı yapıştırırsınız ve her iki durumda da metni alırsınız."
+                },
+                {
+                    "q": "Her YouTube videosundan transkript alabilir miyim?",
+                    "a": "İçinde konuşma olan herkese açık her YouTube videosunu yazıya dökebilirsiniz. Gizli, silinmiş, yaş kısıtlamalı ya da bölge engelli videolara erişilemez; konuşma içermeyen videolarda ise yazıya dökülecek bir şey yoktur."
+                },
+                {
+                    "q": "Hangi diller destekleniyor?",
+                    "a": "100'den fazla dil. TranscriptX konuşulan dili otomatik algılar, bu yüzden bağlantıyı yapıştırmadan önce dil seçmenize gerek yoktur."
+                },
+                {
+                    "q": "Konuşmacıları birbirinden ayırabiliyor mu?",
+                    "a": "Evet. Her konuşmacı ayrı ayrı etiketlenir; böylece röportajlar, paneller ve çok kişili videolar tek bir metin bloğu yerine kimin ne söylediğini gösterecek şekilde geri gelir."
+                },
+                {
+                    "q": "Transkriptte zaman damgası alabilir miyim?",
+                    "a": "Evet ve isteğe bağlıdır. Videodaki bir ana geri dönmeniz ya da altyazı dosyası oluşturmanız gerektiğinde açın; temiz bir okuma metni için kapalı bırakın."
+                },
+                {
+                    "q": "Transkripti kopyalayabilir, düzenleyebilir ve çevirebilir miyim?",
+                    "a": "Evet. Transkriptin tamamını ya da seçtiğiniz satırları kopyalayın, metni yerinde düzenleyin ve başka bir dile çevirin — hepsi dışa aktarmadan ya da başka bir araca yapıştırmadan önce."
+                },
+                {
+                    "q": "YouTube transkripti ile altyazı arasındaki fark nedir?",
+                    "a": "Transkript, konuşulan içeriğin tek başına okuduğunuz metin hâlidir. Altyazı ise oynatma sırasında gösterilen, genellikle SRT ya da VTT olarak kaydedilen zamanlanmış metindir. Düz bir transkript yerine altyazı gerekiyorsa zaman damgalarını açıp SRT ya da VTT olarak dışa aktarın."
+                },
+                {
+                    "q": "Transkript ne kadar doğru?",
+                    "a": "Doğruluk en çok sese bağlıdır. Net konuşma ve düşük arka plan gürültüsü en iyi sonucu verir; üst üste binen konuşmacılar, yankı ya da yüksek müzik ise doğruluğu düşürür. İsimleri, sayıları ve teknik terimleri yayımlamadan önce gözden geçirmek her zaman değer."
+                },
+                {
+                    "q": "YouTube transkriptini ChatGPT veya Claude ile kullanabilir miyim?",
+                    "a": "Evet. Metni kopyalayın ya da dışa aktarın ve videoyu özetlemek, yapılacakları çıkarmak veya bir makaleye dönüştürmek için herhangi bir yapay zekâ asistanına yapıştırın."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Transkriptinizi Ücretsiz Alın",
+        "content": [
+            "Herkese açık bir YouTube bağlantısı yapıştırın; TranscriptX tam transkripti 100'den fazla dilde, konuşmacı etiketleri ve isteğe bağlı zaman damgalarıyla döndürür — ister var olan altyazıları çıkarsın, ister metni sesten oluştursun.",
+            "Okuyun, kopyalayın, düzenleyin, çevirin ya da TXT, DOCX, PDF, SRT veya VTT olarak dışa aktarın. Hesap yok, kurulum yok, ücret yok.",
+            "YouTube videolarını çalışması, aranması, alıntılanması ve yeniden kullanılması daha kolay hâle gelsin diye TranscriptX'i kullanın."
+        ]
+    }
+}

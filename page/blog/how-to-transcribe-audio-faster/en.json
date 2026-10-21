@@ -1,0 +1,218 @@
+{
+    "seo": {
+        "title": "How to Transcribe Audio Faster: 1 Hour of Audio in 79 Seconds (Tested)",
+        "description": "We timed it: a 4:53 recording transcribed in 4.19 seconds, an hour of audio in 1 minute 19 seconds, at around 95% word accuracy. What really affects speed, and how to quickly transcribe audio and video.",
+        "schemaName": "How to Transcribe Audio Faster: What We Learned Timing Real Transcriptions",
+        "schemaDescription": "A tested guide to fast audio and video transcription. Speed tests run on October 6, 2026 by Tori Trinh: a 4 minute 53 second recording transcribed in 4.19 seconds and a one-hour recording in 1 minute 19 seconds, at around 95% word accuracy. Covers what affects transcription speed (and what does not), why accuracy matters more than raw speed, and step-by-step ways to transcribe audio and video faster.",
+        "ogTitle": "How to Transcribe Audio Faster: 1 Hour of Audio in 79 Seconds (Tested)",
+        "ogDescription": "Real timings, not estimates: 4:53 of audio in 4.19 seconds, an hour in 79 seconds, ~95% accuracy. Here is what actually makes transcription fast."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "How to Transcribe Audio Faster: What We Learned Timing Real Transcriptions",
+        "subtitle": "Typing up an hour of audio by hand takes four to six hours. We wanted to know how fast it can really be done, so we timed it. A 4 minute 53 second recording came back as text in 4.19 seconds. A full hour took 1 minute 19 seconds, at around 95% word accuracy. Here is what actually controls transcription speed, what does not, and the quickest way to go from a recording to text you can use.",
+        "placeholder": "Upload a file or paste a link...",
+        "button": "Try It on Your File"
+    },
+    "quickAnswer": {
+        "question": "How do you transcribe audio faster?",
+        "answer": "Stop typing and let an accurate AI transcription tool write the draft, then review only names, numbers and key quotes. In our tests on TranscriptX, a 4:53 recording was transcribed in 4.19 seconds and a one-hour recording in 1 minute 19 seconds, at around 95% word accuracy. Upload the file as it is or paste a link — there is no need to convert, compress or split it."
+    },
+    "sections": [
+        {
+            "h2": "Why Transcription Feels Slow",
+            "content": [
+                "People speak at around 130 to 150 words a minute, while most of us type 40 to 80. Add the pauses to rewind and catch a word you missed, and one hour of audio becomes four to six hours of typing. That is the first bottleneck, and the obvious one.",
+                "The second bottleneck is less obvious: fixing the result. A transcript that arrives in seconds but gets one word in ten wrong is not fast. You will spend longer correcting it than you saved, and if you are making subtitles, every wrong word is on screen for your viewers to see.",
+                "So the real question is not just \"how fast can a tool transcribe?\" but \"how fast can I get to text I can actually use?\" That is what we set out to measure."
+            ]
+        },
+        {
+            "h2": "Our Speed Test: The Numbers",
+            "specs": [
+                {
+                    "label": "Tested by",
+                    "value": "Tori Trinh, October 6, 2026"
+                },
+                {
+                    "label": "4 min 53 s recording",
+                    "value": "Transcribed in 4.19 seconds"
+                },
+                {
+                    "label": "4–5 minute files (repeated runs)",
+                    "value": "4–6 seconds each"
+                },
+                {
+                    "label": "1 hour recording",
+                    "value": "Transcribed in 1 minute 19 seconds"
+                },
+                {
+                    "label": "1 hour at peak server load",
+                    "value": "Up to about 2 minutes"
+                },
+                {
+                    "label": "10 hour recording",
+                    "value": "Transcribed in about 10 minutes, in one piece"
+                },
+                {
+                    "label": "Upload vs pasted link",
+                    "value": "No meaningful difference — 4–6 seconds either way for short files"
+                },
+                {
+                    "label": "Different languages",
+                    "value": "No effect on speed"
+                },
+                {
+                    "label": "Word accuracy",
+                    "value": "Around 95% on our test recordings"
+                }
+            ]
+        },
+        {
+            "h2": "What Actually Affects Transcription Speed",
+            "content": [
+                "The single thing that decides how long a transcription takes is the length of the recording. Processing is measured by the duration of the audio or video, not by anything else about the file.",
+                "That means several things people worry about turn out not to matter. An MP3 and an MP4 of the same length take about the same time. A file of a few megabytes and one of several gigabytes take about the same time if they run for the same number of minutes. Uploading a file and pasting a YouTube or TikTok link gave us results within a second or two of each other. And language makes no difference: English, Vietnamese or any of the more than 100 supported languages are transcribed at the same pace.",
+                "The one variable outside your control is server load. At busy times, an hour of audio took up to about two minutes instead of a little over one. Even then, that is roughly 30 to 45 times faster than real time, and more than 100 times faster than typing it yourself.",
+                "Longer recordings simply scale up. Files of two, three hours or more are processed the same way, taking proportionally a little longer, with no file size limit and no need to split them first. Our longest test the same day, a single 10-hour audio file, was transcribed in about 10 minutes. See [Transcribe Large Audio Files](/transcribe-large-audio-files)."
+            ]
+        },
+        {
+            "h2": "Fast Audio Transcription Is Only Fast If It Is Accurate",
+            "content": [
+                "Most speed comparisons stop at the stopwatch. In practice, what you spend afterwards matters just as much: re-listening, correcting misheard words, fixing speaker turns. A tool that is two seconds quicker but less accurate costs you minutes later.",
+                "On our test recordings, TranscriptX reached around 95% word accuracy. Part of the reason is what happens before recognition: background noise and music are separated from the voice first, so the model works on the speech itself instead of guessing through a soundtrack. The model is also trained on a wide range of content, so the topic of a video — a lecture, a vlog, a product demo — does not throw it off.",
+                "At 95% accuracy, reviewing an hour-long transcript is a skim for names, numbers and specialist terms, not a rewrite. That is where most of the real time saving comes from."
+            ]
+        },
+        {
+            "h2": "How to Quickly Transcribe Audio",
+            "steps": [
+                {
+                    "h3": "Upload the file as it is",
+                    "content": "MP3, WAV, M4A, MP4 or another common format, of any size. Do not convert, compress or trim it first — none of that makes transcription faster, because speed depends only on the recording's length."
+                },
+                {
+                    "h3": "Or paste a link",
+                    "content": "If the recording is on YouTube, TikTok, Google Drive or Dropbox, paste the link instead of downloading it. In our tests the transcription time was the same, and you skip the download entirely."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "A five-minute file comes back in about five seconds, an hour in one to two minutes, with punctuation and timestamps in place."
+                },
+                {
+                    "h3": "Review only what matters",
+                    "content": "Check names, numbers and key quotes against the audio. At around 95% accuracy, the rest rarely needs touching."
+                }
+            ]
+        },
+        {
+            "h2": "How to Quickly Transcribe a Video",
+            "content": [
+                "The fastest way to transcribe a video that is already online is not to download it. Paste the link and the transcript comes back in the same time an uploaded file would take — a few seconds for a short clip.",
+                "For a video file on your computer, upload the MP4, MOV or other file directly, however large. There is no need to extract the audio first: an MP4 is processed as quickly as an MP3 of the same length.",
+                "This is what instant video transcription looks like in practice: one or two actions — upload or paste, then export — and you have the text."
+            ]
+        },
+        {
+            "h2": "Choose the Output for Your Goal",
+            "intro": [
+                "The fastest workflow depends on what the transcript is for. Picking the right output up front saves a round of reformatting later."
+            ],
+            "items": [
+                {
+                    "h3": "Subtitles for your video",
+                    "content": "This is where accuracy and timestamps pay off most. Every line comes with its matching time, so export SRT or VTT and upload the file straight to YouTube, TikTok or your editor — the transcript is your subtitle track, with no separate captioning step."
+                },
+                {
+                    "h3": "Summaries and notes",
+                    "content": "Many people copy the transcript to summarise a video. A summary is only as good as its source: with around 95% accuracy, the key points, names and figures you pull out are the ones that were actually said."
+                },
+                {
+                    "h3": "Quotes and research",
+                    "content": "Use timestamps to jump to the exact moment in the recording and confirm a quote before you publish it."
+                },
+                {
+                    "h3": "Documents and minutes",
+                    "content": "Export DOCX or PDF and edit in place instead of copying text between apps."
+                }
+            ]
+        },
+        {
+            "h2": "6 Ways to Transcribe Audio Faster",
+            "intro": [
+                "Whatever you are transcribing, these are how to transcribe audio to text faster — based on what made a difference in our tests and what did not:"
+            ],
+            "items": [
+                {
+                    "h3": "Stop typing by hand",
+                    "content": "Reviewing an accurate draft is many times faster than producing one. This alone turns hours into minutes."
+                },
+                {
+                    "h3": "Do not convert or compress files",
+                    "content": "Speed depends on recording length, not file format or size. Converting an MP4 to MP3 first only adds a step."
+                },
+                {
+                    "h3": "Do not split long recordings",
+                    "content": "One upload gives one continuous transcript. Splitting means stitching pieces back together afterwards."
+                },
+                {
+                    "h3": "Paste links instead of downloading",
+                    "content": "For online videos and cloud files, a link skips the download and upload with no difference in processing time."
+                },
+                {
+                    "h3": "Choose accuracy over a few seconds",
+                    "content": "Editing time is where most of the hours go. A more accurate transcript is the faster one overall."
+                },
+                {
+                    "h3": "Export in the final format",
+                    "content": "SRT or VTT for subtitles, DOCX or PDF for documents — straight from the transcript, with no reformatting."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How fast is AI transcription?",
+                    "a": "In our tests on TranscriptX, a 4 minute 53 second recording took 4.19 seconds and a one-hour recording took 1 minute 19 seconds. At peak server load, an hour can take up to about two minutes."
+                },
+                {
+                    "q": "Does file size or format affect transcription speed?",
+                    "a": "No. Speed depends on the length of the recording. An MP3 and an MP4, or a small file and a multi-gigabyte one, take about the same time if they run for the same duration."
+                },
+                {
+                    "q": "Is it faster to paste a link or upload a file?",
+                    "a": "The transcription itself takes about the same time — 4 to 6 seconds for a short file in our tests. Pasting a link saves you the download and upload, so it is the quicker route overall for online videos."
+                },
+                {
+                    "q": "Does the language affect how fast audio is transcribed?",
+                    "a": "No. Over 100 languages are supported, and in our tests the language made no difference to speed."
+                },
+                {
+                    "q": "Does faster transcription mean lower accuracy?",
+                    "a": "Not necessarily. On our test recordings, TranscriptX reached around 95% word accuracy while transcribing an hour in under a minute and a half. Separating noise and music from the voice before recognition is a large part of that."
+                },
+                {
+                    "q": "How does TranscriptX compare with Otter or TurboScribe on speed?",
+                    "a": "In our experience the speed is in the same range as other leading tools. Where we focus our effort is accuracy, because that is what decides how long you spend editing afterwards."
+                },
+                {
+                    "q": "How long does it take to transcribe one hour of audio by hand?",
+                    "a": "Typically four to six hours. See [How Long Does It Take to Transcribe 1 Hour of Audio?](/blog/how-long-to-transcribe-1-hour-of-audio) for a full breakdown."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "The Fastest Transcript Is the One You Do Not Have to Fix",
+        "content": [
+            "Speed comes down to two things: a tool that processes the recording in seconds rather than hours, and a transcript accurate enough that you barely need to edit it. In our tests, an hour of audio took 1 minute 19 seconds at around 95% word accuracy.",
+            "Upload a file or paste a link to try it on your own recording. Have a very long file? See [Transcribe Large Audio Files](/transcribe-large-audio-files)."
+        ]
+    }
+}

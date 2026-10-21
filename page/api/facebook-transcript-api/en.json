@@ -1,0 +1,78 @@
+{
+    "seo": {
+        "title": "Facebook Transcript API — Videos, Reels & Live | TranscriptX",
+        "description": "Get the transcript of public Facebook videos, Reels and saved Live broadcasts by API, even without captions. Long streams supported. 100+ languages, SRT/VTT.",
+        "schemaName": "TranscriptX Facebook Transcript API",
+        "schemaDescription": "API that returns the transcript of public Facebook video posts, Reels, Watch videos and saved Live broadcasts from their links, by transcribing the audio. Over 100 languages, speaker labels and timestamps; tested with 10-hour recordings. Exports text, SRT and VTT.",
+        "ogTitle": "Facebook Transcript API — Videos, Reels & Live",
+        "ogDescription": "Send a public Facebook video link, get the transcript back. Reels, Watch and saved Live."
+    },
+    "breadcrumb": [
+        { "name": "Home", "url": "/" },
+        { "name": "Transcription API", "url": "/transcription-api" },
+        { "name": "Facebook Transcript API", "url": "/facebook-transcript-api" }
+    ],
+    "apiGuide": {
+        "status": "pending",
+        "note": "Get an API key, request with a Facebook video URL (cURL / Python / JavaScript), sample JSON response. To be added by the dev team."
+    },
+    "author": {
+        "name": "TranscriptX.ai Team",
+        "role": "The team that builds and develops TranscriptX",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Facebook Transcript API for Videos, Reels and Live",
+        "subtitle": "Send a link to a public Facebook video, Reel or saved Live broadcast and get the transcript back, with speakers labelled and segments timestamped. No captions needed, no Meta app review.",
+        "button": "Get API Key"
+    },
+    "quickAnswer": {
+        "question": "Can I get Facebook video transcripts through the Graph API?",
+        "answer": "Not for public videos in general. The Graph API is built for managing your own Pages and content. TranscriptX works from the public video link and transcribes the audio, so you get text even when the video has no captions."
+    },
+    "sections": [
+        {
+            "h2": "Made for Long Live Broadcasts",
+            "content": [
+                "Facebook Live is where the platform's longest recordings sit: webinars, weekly shows, town halls, sermons. They are too long to transcribe by hand and too long for many APIs.",
+                "TranscriptX handles an hour of audio in about 1–2 minutes and has been tested with 10-hour recordings, so a full broadcast comes back as one transcript. Speaker labels separate the host from guests, and timestamps let you jump to any topic."
+            ]
+        },
+        {
+            "h2": "At a Glance",
+            "specs": [
+                { "label": "Works with", "value": "Video posts, Reels, Watch videos, saved Live" },
+                { "label": "Without captions", "value": "Supported — the audio is transcribed" },
+                { "label": "Meta app or Page access", "value": "Not needed" },
+                { "label": "Languages", "value": "100+, detected automatically" },
+                { "label": "Included", "value": "Speaker labels and timestamps" },
+                { "label": "Output", "value": "Text, SRT, VTT" },
+                { "label": "Not supported", "value": "Private videos, friends-only posts, closed groups" }
+            ]
+        },
+        {
+            "h2": "What Developers Build",
+            "items": [
+                { "h3": "Broadcast archives", "content": "Make every saved Live searchable for Pages that stream weekly." },
+                { "h3": "Webinar recaps", "content": "Turn streamed events into summaries, posts and FAQs." },
+                { "h3": "Media monitoring", "content": "Track what public figures and news Pages say on video." },
+                { "h3": "Accessibility", "content": "Publish full transcripts for viewers who are Deaf or hard of hearing." }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                { "q": "Can I transcribe a Facebook Live?", "a": "Yes, once it has ended and the replay is public." },
+                { "q": "Does it work with Reels?", "a": "Yes. Speech is separated from background music before transcription." },
+                { "q": "What about private groups?", "a": "Only public videos are supported. For a private recording, upload the file to the [Speech to Text API](/speech-to-text-api)." },
+                { "q": "Is there a version without code?", "a": "Yes — the free [Facebook Transcript](/facebook-transcript) tool." }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn Facebook Videos Into Text",
+        "content": [
+            "Videos, Reels and full Live broadcasts, in over 100 languages. See the [Transcription API](/transcription-api) for other platforms and files."
+        ]
+    }
+}

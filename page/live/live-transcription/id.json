@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Transkripsi Real Time — Ubah Ucapan Jadi Teks Seketika",
+        "description": "Tekan Mulai untuk transkripsi real time kuliah, wawancara, dan percakapan. Gratis untuk mulai, tanpa perlu daftar. Ekspor ke TXT, DOCX, atau PDF.",
+        "schemaName": "TranscriptX Transkripsi Real Time",
+        "schemaDescription": "Alat transkripsi real time online yang merekam dari mikrofon Anda dan mentranskripsikan ucapan saat itu juga, dalam lebih dari 100 bahasa. Tekan Mulai untuk merekam kuliah, wawancara, dan percakapan selagi berlangsung, lalu salin atau ekspor transkrip ke TXT, DOCX, PDF, SRT, atau VTT. Berjalan di browser, tanpa perlu daftar untuk mulai.",
+        "ogTitle": "Transkripsi Real Time — Ubah Ucapan Jadi Teks Seketika",
+        "ogDescription": "Tekan Mulai dan lihat ucapan berubah jadi transkrip secara real time. Transkripsi langsung kuliah, wawancara, dan percakapan — gratis untuk mulai, tanpa daftar."
+    },
+    "hero": {
+        "h1": "Transkripsi Real Time – Ubah Ucapan Jadi Teks Saat Itu Juga",
+        "subtitle": "Tekan Mulai, dan TranscriptX mendengarkan lewat mikrofon Anda lalu mengubah apa yang sedang diucapkan menjadi teks secara real time. Transkripsikan kuliah, wawancara, atau percakapan selagi berlangsung, lalu tekan Berhenti dan simpan transkrip lengkapnya — salin atau ekspor ke TXT, DOCX, PDF, SRT, atau VTT. Gratis untuk mulai, dalam lebih dari 100 bahasa, tanpa perlu instal apa pun.",
+        "placeholder": "Tekan Mulai untuk memulai transkripsi langsung...",
+        "button": "Mulai Transkripsi Real Time"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara melakukan transkripsi real time?",
+        "answer": "Buka TranscriptX, tekan Mulai, dan izinkan akses mikrofon. Semua yang diucapkan di dekat mikrofon langsung ditranskripsikan secara real time dan muncul di layar saat diucapkan. Tekan Berhenti setelah selesai untuk membaca, mengedit, menyalin, atau mengekspor transkrip lengkap. Transkripsi real time ini gratis untuk mulai, tanpa perlu daftar dan tanpa instal apa pun."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkripsi Real Time?",
+            "content": [
+                "Transkripsi real time mengubah ucapan menjadi teks selagi ucapan itu masih berlangsung. Alih-alih merekam kuliah atau wawancara lalu mentranskripsikannya belakangan, Anda cukup menekan Mulai, kata-kata muncul di layar saat orang berbicara, dan begitu sesi selesai transkripnya sudah jadi.",
+                "Tujuannya adalah menangkap apa yang dikatakan orang lain, saat itu juga. Dosen yang menjelaskan materi, narasumber yang menjawab pertanyaan Anda, tim yang membahas rencana — transkripsi real time mengikuti dan mencatat semuanya, sehingga Anda bisa fokus pada pembicaraan alih-alih sibuk mencatat.",
+                "Inilah yang membedakannya dari mentranskripsikan file. Tidak ada rekaman yang perlu diunggah dan tidak perlu menunggu proses di akhir: transkripsi berjalan langsung, dan catatannya terbentuk secara real time.",
+                "TranscriptX melakukan semua ini langsung di browser, gratis untuk mulai. Tekan Mulai, biarkan mendengarkan, dan simpan transkripnya setelah selesai."
+            ]
+        },
+        {
+            "h2": "Sekilas tentang Transkripsi Real Time",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Gratis untuk mulai — paket berbayar untuk pemakaian lebih banyak"
+                },
+                {
+                    "label": "Perlu akun",
+                    "value": "Tidak — pendaftaran opsional"
+                },
+                {
+                    "label": "Instalasi",
+                    "value": "Tidak perlu — berjalan di browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Mikrofon Anda, secara langsung — tekan Mulai untuk memulai"
+                },
+                {
+                    "label": "Output",
+                    "value": "Teks yang muncul secara real time saat orang berbicara"
+                },
+                {
+                    "label": "Durasi sesi",
+                    "value": "Bisa dipakai sepanjang kuliah atau wawancara"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+"
+                },
+                {
+                    "label": "Format ekspor",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Perangkat",
+                    "value": "Browser di desktop, tablet, dan ponsel"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Melakukan Transkripsi Langsung",
+            "steps": [
+                {
+                    "h3": "Tekan Mulai",
+                    "content": "Buka TranscriptX dan tekan Mulai. Browser akan meminta izin mikrofon satu kali — izinkan, dan transkripsi langsung dimulai seketika."
+                },
+                {
+                    "h3": "Biarkan mendengarkan",
+                    "content": "Letakkan perangkat di tempat yang bisa mendengar pembicara dengan jelas — di meja saat kuliah, di antara Anda dan narasumber saat wawancara, atau di tengah meja rapat."
+                },
+                {
+                    "h3": "Lihat transkrip terbentuk",
+                    "content": "Kata-kata muncul di layar saat diucapkan, lengkap dengan tanda baca, sehingga Anda bisa mengikuti atau melirik kembali apa yang baru saja dikatakan."
+                },
+                {
+                    "h3": "Tekan Berhenti dan simpan",
+                    "content": "Saat sesi selesai, tekan Berhenti. Transkrip lengkap siap dibaca, diedit, disalin, atau diekspor sebagai TXT, DOCX, PDF, SRT, atau VTT."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Waktu Nyata, Langsung di Browser Anda",
+            "content": [
+                "Transkripsi waktu nyata berarti tidak ada jeda antara seseorang berbicara dan kata-katanya tertulis. Teks mengikuti laju percakapan, sehingga transkrip di layar Anda selalu terkini.",
+                "Hal ini mengubah cara Anda bekerja. Saat kuliah, Anda bisa melihat lagi definisi yang disebut dosen semenit lalu. Saat wawancara, Anda melihat kutipan muncul di halaman begitu diucapkan dan bisa menandainya untuk nanti. Dalam diskusi yang cepat, Anda bisa mengecek angka atau nama tanpa meminta siapa pun mengulang."
+            ]
+        },
+        {
+            "h2": "Ubah Audio ke Teks Langsung dari Mikrofon",
+            "content": [
+                "Transkripsi audio secara langsung bekerja dari apa pun yang bisa didengar mikrofon Anda. Tekan Mulai dan TranscriptX terus mengubah audio ke teks langsung — satu pembicara atau beberapa, di kantor yang tenang maupun ruang kuliah.",
+                "Jika audionya sudah direkam, Anda tidak perlu memutarnya ulang ke mikrofon. Unggah saja filenya ke alat [Audio to Text](/id/audio-to-text) atau [Voice to Text](/id/voice-to-text) dan file akan langsung ditranskripsikan."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditranskripsikan Secara Langsung",
+            "intro": [
+                "Transkripsi real time dibuat untuk momen ketika seseorang sedang berbicara dan Anda butuh catatan tertulisnya. Penggunaan yang paling umum:"
+            ],
+            "items": [
+                {
+                    "h3": "Kuliah dan kelas",
+                    "content": "Biarkan transkrip yang mencatat selagi Anda mendengarkan. Setelahnya, setiap penjelasan, contoh, dan definisi tersedia dalam teks yang bisa dicari dan dipakai untuk belajar."
+                },
+                {
+                    "h3": "Wawancara",
+                    "content": "Tetap jaga kontak mata dengan narasumber alih-alih menulis. Jawabannya ditranskripsikan secara langsung, jadi kutipan persisnya ada di halaman begitu diucapkan."
+                },
+                {
+                    "h3": "Percakapan dan diskusi",
+                    "content": "Tangkap sesi brainstorming, perencanaan, atau percakapan penting selagi berlangsung, sehingga tak ada yang perlu mengandalkan ingatan soal apa yang sudah disepakati."
+                },
+                {
+                    "h3": "Presentasi, seminar, dan acara",
+                    "content": "Transkripsikan pembicara secara langsung dari kursi penonton dan pulang dengan catatan tertulis lengkap dari presentasinya, bukan hanya slide."
+                },
+                {
+                    "h3": "Rapat tatap muka",
+                    "content": "Letakkan laptop atau ponsel di meja, tekan Mulai, dan diskusi tertulis seiring berjalannya — transkripsi otomatis real time rapat yang siap dijadikan notulen begitu rapat selesai."
+                },
+                {
+                    "h3": "Mengikuti ucapan yang sulit didengar",
+                    "content": "Bagi teman Tuli atau yang memiliki gangguan pendengaran, atau yang mendengarkan dalam bahasa kedua, membaca kata-kata secara real time membuat percakapan atau kuliah jauh lebih mudah diikuti."
+                }
+            ]
+        },
+        {
+            "h2": "Tips Transkripsi Real Time yang Akurat",
+            "content": [
+                "Transkripsi real time hanya sebaik apa yang didengar mikrofon. Semakin dekat perangkat ke orang yang berbicara, semakin bersih teksnya — saat kuliah, duduklah di depan; saat wawancara, letakkan ponsel atau laptop di antara Anda dan narasumber.",
+                "Kebisingan latar dan orang yang berbicara bersamaan adalah penyebab utama turunnya akurasi. Tempat yang lebih tenang dan satu suara dalam satu waktu membuat perbedaan nyata, dan jika ada bagian yang bising, Anda bisa memperbaiki satu-dua kata di transkrip setelah menekan Berhenti.",
+                "TranscriptX mendukung lebih dari 100 bahasa, termasuk live transcription bahasa Indonesia, jadi Anda bisa mentranskripsikan dalam bahasa yang benar-benar diucapkan tanpa harus menerjemahkan di kepala sambil mencatat."
+            ]
+        },
+        {
+            "h2": "Transkrip Live Gratis secara Online",
+            "content": [
+                "Anda bisa langsung membuat transkrip secara online — tanpa perlu daftar dan tanpa instal apa pun. Paket gratis memungkinkan Anda mulai mentranskripsikan seketika; membuat akun bersifat opsional, dan paket berbayar tersedia jika Anda butuh pemakaian lebih banyak. Transkrip live gratis ini bekerja sama baiknya di Windows, Mac, Chromebook, Android, dan iPhone, selama browser Anda bisa menggunakan mikrofon."
+            ]
+        },
+        {
+            "h2": "Transkripsi Real Time atau Speech to Text?",
+            "intro": [
+                "Keduanya mengubah ucapan menjadi teks saat diucapkan, tetapi dibuat untuk kebutuhan yang berbeda. Pilih berdasarkan kata-kata siapa yang ingin Anda tuliskan."
+            ],
+            "items": [
+                {
+                    "h3": "Pilih transkripsi real time untuk mencatat ucapan orang lain",
+                    "content": "Saat Anda butuh catatan tertulis dari kuliah, wawancara, percakapan, atau presentasi — ucapan yang Anda dengarkan, bukan yang Anda susun sendiri — transkripsi real time memang dibuat untuk itu."
+                },
+                {
+                    "h3": "Pilih speech to text untuk menulis dengan suara Anda",
+                    "content": "Saat Anda ingin mendiktekan email, catatan, atau draf sendiri alih-alih mengetiknya, gunakan [Real-Time Speech to Text](/id/real-time-speech-to-text). Dan jika ucapannya sudah direkam, alat [Voice to Text](/id/voice-to-text) dan [Audio to Text](/id/audio-to-text) akan mentranskripsikan filenya secara langsung."
+                }
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Apa itu transkripsi real time?",
+                    "a": "Transkripsi real time mengubah ucapan menjadi teks saat itu juga, selagi diucapkan. Anda menekan Mulai, mikrofon mendengarkan, dan kata-kata muncul di layar saat orang berbicara, sehingga transkrip sudah siap begitu sesi berakhir."
+                },
+                {
+                    "q": "Bagaimana cara memulai transkripsi langsung?",
+                    "a": "Buka TranscriptX, tekan Mulai, dan izinkan akses mikrofon saat browser meminta. Transkripsi langsung dimulai. Tekan Berhenti setelah selesai."
+                },
+                {
+                    "q": "Apakah transkripsi real time gratis?",
+                    "a": "Ya, Anda bisa mulai secara gratis. Transkripsi real time berjalan di browser desktop, tablet, atau ponsel tanpa instal apa pun, dan bisa digunakan tanpa daftar. Jika Anda sering mentranskripsikan, paket berbayar menyediakan pemakaian lebih banyak."
+                },
+                {
+                    "q": "Bisakah saya mengunduh transkrip setelah menekan Berhenti?",
+                    "a": "Bisa. Setelah berhenti, Anda dapat membaca dan mengedit transkrip, menyalinnya, atau mengekspornya sebagai TXT, DOCX, PDF, SRT, atau VTT."
+                },
+                {
+                    "q": "Seberapa akurat transkripsi waktu nyata?",
+                    "a": "Sebagian besar tergantung pada apa yang didengar mikrofon. Ucapan yang jelas dan dekat dengan perangkat hasilnya hampir kata per kata; ruangan bising atau orang yang berbicara bersamaan sebaiknya dicek sekilas setelah Anda berhenti."
+                },
+                {
+                    "q": "Bahasa apa saja yang bisa ditranskripsikan secara langsung?",
+                    "a": "Lebih dari 100 bahasa didukung, termasuk bahasa Indonesia, jadi Anda bisa mentranskripsikan dalam bahasa yang sedang diucapkan."
+                },
+                {
+                    "q": "Bagaimana jika saya sudah punya rekaman?",
+                    "a": "Tidak perlu memutarnya ulang ke mikrofon. Unggah ke alat Voice to Text atau Audio to Text dan filenya akan langsung ditranskripsikan."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Mulai Transkripsi Real Time Gratis",
+        "content": [
+            "Tekan Mulai dan TranscriptX mentranskripsikan apa yang diucapkan secara real time — kuliah, wawancara, percakapan, atau presentasi — dalam lebih dari 100 bahasa, langsung di browser Anda.",
+            "Tekan Berhenti dan transkrip lengkap siap dibaca, diedit, disalin, atau diekspor sebagai TXT, DOCX, PDF, SRT, atau VTT. Gratis untuk mulai, tanpa perlu daftar, tanpa instal apa pun."
+        ]
+    }
+}

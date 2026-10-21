@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "title": "Rangkum Video YouTube AI — Ringkasan Gratis | TranscriptX",
+        "description": "Rangkum video YouTube gratis dengan AI. Tempel link, lalu baca poin utama dan inti isinya dalam hitungan detik, dalam 100+ bahasa. Tanpa daftar, tanpa instalasi.",
+        "schemaName": "TranscriptX — Alat Rangkum Video YouTube",
+        "schemaDescription": "Alat AI gratis yang meringkas video YouTube publik menjadi poin-poin utama dan satu ringkasan singkat, dalam lebih dari 100 bahasa. Cukup tempel link dan baca inti isinya dalam hitungan detik, tanpa perlu akun.",
+        "ogTitle": "Rangkum Video YouTube AI — Ringkasan Gratis | TranscriptX",
+        "ogDescription": "Dapatkan poin utama video YouTube apa pun dalam hitungan detik. Tempel link dan biarkan AI merangkumnya, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Rangkum Video YouTube",
+        "subtitle": "Pahami inti sebuah video YouTube tanpa menontonnya sampai habis. Tempel link, lalu AI membaca seluruh isinya dan menyerahkan poin-poin utama dalam satu ringkasan singkat yang mudah dilewati mata — dalam lebih dari 100 bahasa. Tanpa akun, tanpa instalasi.",
+        "placeholder": "Tempel URL video YouTube...",
+        "button": "Rangkum Video"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara meringkas video YouTube?",
+        "answer": "Tempel link YouTube publik ke TranscriptX, lalu alat ini membaca video sepenuhnya dan menulis ringkasan singkat berisi poin-poin utamanya dalam hitungan detik. Ringkasannya tersedia dalam lebih dari 100 bahasa, jadi Anda bisa menangkap isi video panjang tanpa menontonnya dari awal sampai akhir. Tidak perlu akun."
+    },
+    "sections": [
+        {
+            "h2": "Apa yang Anda Dapat dari Sebuah Ringkasan Video",
+            "content": [
+                "Sebuah ringkasan bukan seluruh video yang dikecilkan — ia adalah beberapa hal yang benar-benar penting, ditarik keluar dan ditulis dengan lugas. Alih-alih empat puluh menit pembuka, selingan dan pengulangan, Anda menerima segelintir gagasan yang sebenarnya menjadi isi video itu.",
+                "AI membaca semua yang diucapkan, memilah bagian mana yang membawa makna dan mana yang sekadar pengisi, lalu mengembalikan kesimpulan, argumen utama serta detail yang berguna — dalam waktu yang cukup untuk membaca beberapa paragraf pendek. Begitulah cara meringkas video YouTube tanpa kehilangan bagian intinya.",
+                "Ini pekerjaan yang berbeda dari transkrip video. Transkrip video menyerahkan setiap kata kepada Anda; sebuah ringkasan memutuskan kata mana yang layak atas waktu Anda. Sebagai alat rangkum video YouTube, TranscriptX dibangun untuk memangkas video sampai tersisa bagian yang berarti — pakailah saat Anda ingin intinya, bukan teks lengkapnya."
+            ]
+        },
+        {
+            "h2": "Kenapa Merangkum Lebih Baik daripada Menonton Semuanya",
+            "content": [
+                "Sebagian besar video panjang sebenarnya bisa singkat. Ulasan dua puluh menit sering kali berisi dua menit kesimpulan yang dibungkus delapan belas menit pengantar. Ceramah satu jam biasanya berputar pada tiga atau empat poin saja. Menonton semuanya demi menemukan poin-poin itu adalah cara yang paling lambat.",
+                "Ringkasan video YouTube membuat Anda bisa memutuskan dalam waktu kurang dari satu menit apakah sebuah video layak mendapat perhatian penuh. Kadang intinya sudah cukup dan Anda melanjutkan ke hal lain. Kadang ia justru menunjukkan bagian mana yang perlu Anda tonton dengan benar. Bagaimanapun juga, Anda hanya membuang satu menit, bukan satu jam, untuk mengetahuinya.",
+                "Pertukaran itulah seluruh nilainya: Anda menyimpan informasinya dan mengembalikan waktunya."
+            ]
+        },
+        {
+            "h2": "Cara Meringkas Video YouTube dengan AI",
+            "steps": [
+                {
+                    "h3": "Tempel link videonya",
+                    "content": "Ambil link video YouTube publik itu lalu jatuhkan ke kotak di atas. Tanpa daftar, tanpa apa pun yang perlu dipasang."
+                },
+                {
+                    "h3": "AI membaca seluruh video",
+                    "content": "TranscriptX memproses semua yang diucapkan dari awal sampai akhir — bukan hanya deskripsi atau beberapa menit pertama — sehingga ringkasan yang disusun AI mencerminkan keseluruhan isinya."
+                },
+                {
+                    "h3": "Baca ringkasannya",
+                    "content": "Dalam hitungan detik Anda mendapat satu ringkasan singkat beserta poin-poin utamanya, ditulis dengan lugas dalam lebih dari 100 bahasa. Lewati dengan mata dalam waktu yang dulu hanya cukup untuk satu adegan."
+                },
+                {
+                    "h3": "Gali lebih dalam kalau perlu",
+                    "content": "Kalau ringkasannya menunjukkan video itu layak mendapat waktu lebih dari Anda, kembalilah ke bagian yang penting — atau ambil transkrip video lengkapnya saat Anda membutuhkan setiap kata."
+                }
+            ]
+        },
+        {
+            "h2": "Isi Sebuah Ringkasan yang Baik",
+            "intro": [
+                "Ringkasan yang berguna bukan sekadar satu kalimat samar. TranscriptX menarik keluar bagian-bagian yang membuat Anda benar-benar bisa memakai videonya:"
+            ],
+            "items": [
+                {
+                    "h3": "Inti utamanya",
+                    "content": "Satu kesimpulan atau jawaban yang menjadi tumpuan seluruh video, dinyatakan di depan supaya Anda langsung menangkapnya."
+                },
+                {
+                    "h3": "Poin-poin utama",
+                    "content": "Segelintir gagasan, argumen atau langkah yang memikul isi videonya, dijejer berurutan supaya bisa Anda lewati dengan cepat."
+                },
+                {
+                    "h3": "Detail konkret yang berguna",
+                    "content": "Angka, nama, alat atau rekomendasi yang layak diingat — bagian yang spesifik, bukan sekadar tema umumnya."
+                },
+                {
+                    "h3": "Alur videonya",
+                    "content": "Gambaran bagaimana video bergerak dari satu gagasan ke gagasan berikutnya, supaya Anda tahu bagian mana yang perlu dikunjungi lagi kalau ingin versi utuhnya."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Butuh Ringkasan",
+            "intro": [
+                "Siapa pun yang menonton video lebih banyak daripada waktu yang dimilikinya akan terbantu oleh sebuah ringkasan. Beberapa yang paling umum:"
+            ],
+            "items": [
+                {
+                    "h3": "Mahasiswa dan pelajar",
+                    "content": "Menentukan apakah sebuah kuliah daring atau video tutorial memuat materi yang Anda butuhkan sebelum menghabiskan satu jam, lalu mengubah poin-poin utamanya langsung menjadi catatan belajar."
+                },
+                {
+                    "h3": "Pekerja kantoran yang ingin tetap update",
+                    "content": "Menangkap isi sebuah seminar, paparan kinerja atau podcast bisnis berbahasa Indonesia di sela-sela rapat, tanpa menyisihkan durasi penuhnya."
+                },
+                {
+                    "h3": "Peneliti yang menyisir sumber",
+                    "content": "Merangkum setumpuk video dengan cepat untuk memilah beberapa yang benar-benar layak ditonton utuh dan dikutip dengan benar."
+                },
+                {
+                    "h3": "Kreator konten dan marketer",
+                    "content": "Menarik pesan inti dari sebuah video panjang untuk dibentuk ulang menjadi utas, naskah atau sekumpulan bahan bicara."
+                }
+            ]
+        },
+        {
+            "h2": "Rangkum Video dalam Lebih dari 100 Bahasa",
+            "content": [
+                "Alat ini bekerja di lebih dari 100 bahasa dan mengenali sendiri bahasa yang diucapkan, jadi video berbahasa Indonesia kembali sebagai ringkasan bahasa Indonesia yang rapi, sementara video berbahasa Jerman atau Jepang pun menjadi ringkasan yang bisa Anda baca. Karena itu rangkum video YouTube online di sini tidak bergantung pada bahasa apa yang terdengar di dalam klipnya.",
+                "Itu juga berarti ringkasannya bisa menjembatani bahasa: sebuah video yang diucapkan dalam satu bahasa tetap bisa dipahami lewat ringkasan yang jernih, sehingga rekaman panjang dalam bahasa yang masih Anda pelajari berubah menjadi sesuatu yang bisa Anda tangkap hanya dalam satu paragraf."
+            ]
+        },
+        {
+            "h2": "Saat Anda Butuh Lebih dari Sekadar Ringkasan",
+            "content": [
+                "Ringkasan adalah jalan masuk tercepat ke sebuah video, tetapi kadang Anda butuh detail yang duduk di belakangnya. TranscriptX punya alat terpisah untuk masing-masing kebutuhan itu, jadi Anda bisa turun sedalam yang pekerjaannya minta.",
+                "Ketika ringkasannya menunjukkan sebuah video layak dibaca utuh, alat [YouTube Transcript](/id/youtube-transcript) menyerahkan setiap kata kepada Anda, dan alat [Download Transkrip YouTube](/id/download-youtube-transcript) menyimpan teks tersebut sebagai file untuk Anda simpan."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara merangkum video YouTube secara gratis?",
+                    "a": "Tempel link YouTube ke TranscriptX dan alat ini merangkum videonya tanpa biaya. Sepenuhnya gratis, tanpa daftar, tanpa apa pun yang perlu dipasang, dan tanpa batasan berapa panjang videonya."
+                },
+                {
+                    "q": "Apakah alat ini membaca seluruh video atau hanya deskripsinya?",
+                    "a": "Seluruh video. TranscriptX memproses semua yang diucapkan dari awal sampai akhir, jadi ringkasannya mencerminkan isi lengkapnya, bukan judul atau beberapa menit pertama."
+                },
+                {
+                    "q": "Seberapa panjang ringkasannya?",
+                    "a": "Cukup pendek untuk dibaca dalam waktu jauh di bawah satu menit — satu ringkasan singkat ditambah poin-poin utamanya, bukan satu halaman penuh teks. Tujuannya menghemat waktu Anda, bukan menambah bacaan."
+                },
+                {
+                    "q": "Apa bedanya ringkasan dan transkrip video?",
+                    "a": "Transkrip video adalah setiap kata yang diucapkan, ditulis lengkap. Ringkasan hanya poin-poin utamanya, sudah dipadatkan. Pakai alat rangkum untuk mendapat intinya, dan alat transkrip saat Anda butuh teks selengkapnya."
+                },
+                {
+                    "q": "Bahasa apa saja yang didukung?",
+                    "a": "Lebih dari 100. TranscriptX mengenali bahasa yang diucapkan secara otomatis lalu menulis ringkasannya supaya Anda bisa membacanya, dalam bahasa apa pun videonya."
+                },
+                {
+                    "q": "Bisakah saya merangkum video panjang atau podcast?",
+                    "a": "Bisa. Anda bisa meringkas video YouTube berapa pun panjangnya, dan video panjang serta podcast justru di situlah alat ini paling terasa gunanya — rekaman berjam-jam tetap kembali sebagai sekumpulan poin utama yang pendek."
+                },
+                {
+                    "q": "Apakah saya perlu akun atau perangkat lunak?",
+                    "a": "Tidak. Aplikasi rangkum video YouTube ini berjalan di dalam browser, tanpa akun dan tanpa instalasi. Tempel link, lalu baca ringkasannya."
+                },
+                {
+                    "q": "Kalau ringkasannya belum cukup, bisakah saya mendapat transkrip lengkapnya?",
+                    "a": "Bisa. Saat Anda butuh setiap kata alih-alih sekadar sorotannya, gunakan alat transkrip YouTube untuk mengambil teks lengkap dari video yang sama."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Rangkum Video YouTube Gratis",
+        "content": [
+            "Tempel link video YouTube publik dan TranscriptX membaca seluruh videonya, lalu menyerahkan poin-poin utamanya dalam satu ringkasan singkat — dalam lebih dari 100 bahasa, hanya dalam hitungan detik.",
+            "Dapatkan intinya, tentukan apa yang layak ditonton utuh, dan simpan informasinya tanpa menghabiskan waktu. Inilah cara tercepat untuk ringkas video YouTube otomatis — tanpa akun, tanpa instalasi, tanpa biaya."
+        ]
+    }
+}

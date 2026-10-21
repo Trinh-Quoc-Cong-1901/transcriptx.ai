@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Transcrever Vídeo do Instagram — Reel em Texto Grátis | TranscriptX",
+        "description": "Transcrição de vídeo do Instagram online e grátis. Cole o link de um Reel ou vídeo e gere o texto em mais de 100 idiomas para ler, copiar, editar ou traduzir. Sem cadastro, sem instalar nada.",
+        "schemaName": "Ferramenta TranscriptX de Transcrição de Vídeo do Instagram",
+        "schemaDescription": "Ferramenta online gratuita que gera a transcrição de qualquer vídeo ou Reel público do Instagram em mais de 100 idiomas. Cole o link do Reel ou do vídeo e tudo o que foi falado vira texto que você pode ler, copiar, editar, traduzir ou exportar, sem precisar de conta.",
+        "ogTitle": "Transcrever Vídeo do Instagram — Reel em Texto Grátis | TranscriptX",
+        "ogDescription": "Transforme qualquer Reel ou vídeo do Instagram em texto. Cole o link e gere a transcrição em mais de 100 idiomas, grátis e sem cadastro."
+    },
+    "hero": {
+        "h1": "Transcrever Vídeo do Instagram",
+        "subtitle": "Transforme qualquer Reel ou vídeo público do Instagram em texto. Cole o link e o TranscriptX gera a transcrição completa em mais de 100 idiomas, com cada participante identificado, para você ler, copiar o gancho, editar ou traduzir. Sem conta e sem instalar nada.",
+        "placeholder": "Cole a URL de um Reel ou vídeo do Instagram...",
+        "button": "Obter Transcrição"
+    },
+    "quickAnswer": {
+        "question": "Como transcrever vídeo do Instagram?",
+        "answer": "Copie o link de um Reel ou vídeo público do Instagram e cole no TranscriptX. Ele escuta o áudio e faz a transcrição automática em segundos, em mais de 100 idiomas, pronta para ler, copiar, editar ou exportar. Você nunca precisa se cadastrar e não há nada para baixar no seu aparelho."
+    },
+    "sections": [
+        {
+            "h2": "O Que É a Transcrição de Vídeo do Instagram?",
+            "content": [
+                "A transcrição de vídeo do Instagram é todo o conteúdo falado de um Reel ou vídeo escrito em forma de texto. Tudo o que o criador diz na frente da câmera — o gancho, o passo a passo, a história — vira palavras que você pode ler, pesquisar e copiar, em vez de voltar o clipe mais uma vez para pegar aquela frase que passou rápido demais.",
+                "O vídeo curto é o que torna isso tão útil no Instagram. Um Reel é feito para ser visto uma vez e deslizado para cima, e a parte que interessa quase sempre é uma única frase: a dica dentro de um tutorial de 15 segundos, a afirmação de um review de produto, a linha que fez o Reel viralizar. Uma transcrição de vídeo do Instagram prende essa frase como texto antes que ela suma do seu feed.",
+                "Esta página existe para fazer uma coisa bem feita — tirar as palavras de dentro de um vídeo do Instagram. Seja obtendo a transcrição do Instagram, gerando ela com IA ou convertendo o Reel em texto, o resultado é exatamente o mesmo, então tudo isso vive em uma única ferramenta em vez de ficar espalhado por páginas quase duplicadas.",
+                "O TranscriptX gera a transcrição grátis, direto no navegador e sem cadastro em nenhuma etapa."
+            ]
+        },
+        {
+            "h2": "Transcrição de Vídeo do Instagram em Resumo",
+            "specs": [
+                {
+                    "label": "Preço",
+                    "value": "Grátis"
+                },
+                {
+                    "label": "Precisa de conta",
+                    "value": "Não"
+                },
+                {
+                    "label": "Instalação",
+                    "value": "Nenhuma — funciona no navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "Qualquer link de Reel ou vídeo público do Instagram"
+                },
+                {
+                    "label": "Funciona com",
+                    "value": "Reels, postagens de vídeo, IGTV e lives salvas"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, detectados automaticamente"
+                },
+                {
+                    "label": "Separação de participantes",
+                    "value": "Sim — cada participante é identificado"
+                },
+                {
+                    "label": "Funciona sem legendas no vídeo",
+                    "value": "Sim — o texto vem do áudio"
+                },
+                {
+                    "label": "Formatos de exportação",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de celular, tablet e computador"
+                }
+            ]
+        },
+        {
+            "h2": "Como Transcrever um Vídeo ou Reel do Instagram",
+            "steps": [
+                {
+                    "h3": "Copie o link do Instagram",
+                    "content": "Abra o Reel ou o vídeo, toque no menu de três pontos e escolha Copiar link — ou copie a URL da barra de endereços no computador. A publicação precisa ser pública."
+                },
+                {
+                    "h3": "Cole no TranscriptX",
+                    "content": "Jogue o link na caixa acima. Obter a transcrição do Instagram pelo link não exige envio de arquivo nem conta: a ferramenta lê o vídeo direto da URL."
+                },
+                {
+                    "h3": "A transcrição é gerada",
+                    "content": "O TranscriptX escuta o áudio, detecta sozinho o idioma entre mais de 100 idiomas, separa cada participante e escreve as palavras com pontuação. Transcrever um Reel do Instagram leva segundos."
+                },
+                {
+                    "h3": "Use o texto",
+                    "content": "Leia na tela, copie tudo ou apenas uma frase, edite, traduza ou baixe o arquivo para guardar."
+                }
+            ]
+        },
+        {
+            "h2": "Um Gerador de Transcrição do Instagram Que Funciona Sem Legendas na Tela",
+            "content": [
+                "A maioria dos Reels não tem uma faixa de legendas limpa para copiar, e as legendas automáticas que aparecem na tela costumam vir erradas ou sem pontuação. Por isso o TranscriptX funciona como um gerador de transcrição do Instagram: ele constrói o texto a partir do próprio áudio, em vez de depender de legendas que o criador talvez nunca tenha adicionado.",
+                "Isso significa que você consegue transcrever o áudio de um vídeo do Instagram mesmo quando não há nada escrito na tela para copiar — e transcrever vídeo Instagram grátis, quantas vezes quiser. O gerador dá conta de fala rápida, de áudios em alta e de música de fundo, e identifica participantes diferentes quando o Reel é um dueto, uma collab ou um trecho de entrevista. A transcrição funciona da mesma forma em todo idioma que ela escuta, então um Reel em português ou em árabe volta como texto naquele mesmo idioma, detectado automaticamente.",
+                "Como parte do áudio, o resultado costuma sair mais limpo que as próprias legendas automáticas do Instagram, especialmente com sotaques e com fala rápida e informal."
+            ]
+        },
+        {
+            "h2": "Vídeo do Instagram em Texto",
+            "content": [
+                "Se você não pensa na palavra transcrição e só quer transformar um vídeo do Instagram em texto, esta é a mesma ferramenta com um nome que combina mais. Cole o link e converter um vídeo do Instagram em texto acontece na hora: o conteúdo falado volta como texto limpo e fácil de ler.",
+                "Ela lê o som do clipe, então passar o áudio do Instagram em texto funciona tanto quando o vídeo é uma pessoa falando para a câmera quanto quando é uma narração sobre um tutorial ou um comentário em cima de imagens de apoio. Criadores usam para extrair texto de vídeo do Instagram e estudar o roteiro de um Reel que viralizou, profissionais de marketing tiram os argumentos do vídeo de um concorrente, e quem está aprendendo um idioma lê com calma um Reel de nativo falando rápido depois que ele vira texto na página."
+            ]
+        },
+        {
+            "h2": "O Que Você Pode Transcrever no Instagram",
+            "intro": [
+                "Se tem fala, o TranscriptX transforma em texto. Os formatos que as pessoas mais convertem, e por que a transcrição ajuda em cada um:"
+            ],
+            "items": [
+                {
+                    "h3": "Reels",
+                    "content": "Curtos e acelerados, com o valor quase sempre em uma única linha. Converter um Reel do Instagram em texto captura o gancho ou a dica antes que o Reel escorra para fora do feed, então você guarda, estuda ou escreve a sua própria versão."
+                },
+                {
+                    "h3": "Postagens de vídeo",
+                    "content": "Um recado gravado ou um vídeo explicativo publicado no feed vira texto citável e pesquisável, em vez de um clipe que você reproduz de novo toda vez que quer consultar um ponto."
+                },
+                {
+                    "h3": "IGTV e vídeos mais longos",
+                    "content": "Vídeos longos do Instagram — entrevistas, tutoriais, conversas sentadas — viram um documento que você percorre atrás da parte que importa, sem ficar arrastando a linha do tempo."
+                },
+                {
+                    "h3": "Lives salvas",
+                    "content": "Uma live do Instagram que foi salva e publicada vira texto legível, com cada participante identificado, então um bate-papo de perguntas e respostas ou uma transmissão com convidado se lê como um diálogo claro."
+                },
+                {
+                    "h3": "Conteúdo educativo e tutoriais",
+                    "content": "Receitas, treinos e tutoriais espremidos dentro de um Reel curto viram um texto em passos que você acompanha sem precisar pausar e voltar a cada poucos segundos."
+                }
+            ]
+        },
+        {
+            "h2": "Copie, Edite, Traduza ou Baixe",
+            "content": [
+                "Assim que a transcrição aparece, ela já está pronta para uso. Leve o texto inteiro ou puxe só uma citação, limpe as repetições, ou traduza para outro idioma ali mesmo onde você está.",
+                "Quando quiser guardar em vez de deixar na tela, dá para baixar a transcrição do Instagram como TXT, DOCX, PDF, SRT ou VTT — texto puro para ler e colar, um documento para editar, um arquivo fixo para compartilhar, ou um arquivo de legenda sincronizada, se o Reel precisar de legendas na tela.",
+                "Está atrás da legenda escrita que o criador publicou embaixo do Reel, e não das palavras faladas? Esse é outro trabalho — o [Instagram Caption Downloader](/pt/instagram-caption-downloader) pega a descrição do post no lugar disso. E entre plataformas, as ferramentas [TikTok Transcript](/pt/tiktok-transcript) e [YouTube Transcript](/pt/youtube-transcript) fazem o mesmo que esta nesses sites."
+            ]
+        },
+        {
+            "h2": "Precisão e Idiomas",
+            "content": [
+                "O quanto a transcrição corresponde ao Reel depende principalmente do áudio. Um criador falando com clareza para a câmera volta quase palavra por palavra, enquanto música de fundo alta, várias pessoas falando ao mesmo tempo ou uma fala muito rápida e enrolada vão exigir mais revisão.",
+                "Os trechos que valem conferir são nomes, números, marcas e hashtags lidas em voz alta — rápidos de corrigir junto ao vídeo, comparado a transcrever tudo você mesmo na mão.",
+                "O TranscriptX reconhece fala em mais de 100 idiomas e detecta automaticamente qual está ouvindo, então extrair texto de vídeo do Instagram em português, inglês ou qualquer outro idioma devolve a transcrição naquele mesmo idioma, com os participantes separados do começo ao fim."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como transcrever um vídeo do Instagram de graça?",
+                    "a": "Copie o link de um Reel ou vídeo público do Instagram, cole no TranscriptX e ele transcreve o clipe sem nenhum custo. Não há conta para criar, aplicativo para instalar nem limite de quantos você pode rodar."
+                },
+                {
+                    "q": "Este é um gerador de transcrição do Instagram gratuito?",
+                    "a": "Sim. O TranscriptX funciona como um gerador de transcrição do Instagram gratuito — ele constrói o texto a partir do áudio usando IA, então funciona mesmo quando o Reel não tem legendas na tela."
+                },
+                {
+                    "q": "Dá para converter um Reel do Instagram em texto?",
+                    "a": "Sim. Converter um Reel em texto e obter a transcrição dele são a mesma ação aqui. Cole o link e tudo o que foi falado no Reel volta como texto editável."
+                },
+                {
+                    "q": "Funciona se o Reel não tiver legendas na tela?",
+                    "a": "Sim. A transcrição vem do áudio, e não de alguma faixa de legendas, então um Reel sem legendas visíveis na tela é transcrito normalmente."
+                },
+                {
+                    "q": "Consigo a transcrição direto de um link do Instagram?",
+                    "a": "Sim. Cole a URL da publicação pública e o TranscriptX faz a transcrição do Instagram pelo link em segundos — não há nada para baixar nem enviar antes."
+                },
+                {
+                    "q": "Quais idiomas ele consegue transcrever?",
+                    "a": "Mais de 100, incluindo o português. O idioma falado é detectado automaticamente, então a transcrição volta no idioma em que o vídeo do Instagram foi gravado."
+                },
+                {
+                    "q": "Preciso de conta no Instagram ou do aplicativo?",
+                    "a": "Não. Tudo roda no navegador só com o link público do vídeo — sem aplicativo para abrir e sem login de nenhum tipo."
+                },
+                {
+                    "q": "Isso é a mesma coisa que baixar a legenda do Instagram?",
+                    "a": "Não. Esta ferramenta transcreve as palavras faladas dentro do vídeo. Se você quer a legenda escrita que o criador digitou embaixo da publicação, use o Instagram Caption Downloader no lugar disso."
+                },
+                {
+                    "q": "Posso baixar ou exportar a transcrição?",
+                    "a": "Sim. Faça a transcrição do Instagram grátis e copie o texto direto, ou exporte em cinco formatos — TXT e PDF para ler, DOCX para editar, e SRT ou VTT quando o Reel precisar de legendas sincronizadas."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcreva Seu Vídeo do Instagram Grátis",
+        "content": [
+            "Cole o link de qualquer Reel ou vídeo público do Instagram e o TranscriptX gera a transcrição completa em mais de 100 idiomas — obtenha, gere com IA ou converta o Reel em texto, tudo em uma página só.",
+            "Leia, copie o gancho, edite, traduza ou exporte como TXT, DOCX, PDF, SRT ou VTT. Sem conta, sem instalação e sem custo."
+        ]
+    }
+}

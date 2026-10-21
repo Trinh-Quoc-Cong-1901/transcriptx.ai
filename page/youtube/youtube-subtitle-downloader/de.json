@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "YouTube Untertitel herunterladen — SRT & VTT kostenlos | TranscriptX",
+        "description": "Untertitel von YouTube herunterladen, kostenlos. Link einfügen und die Untertiteldatei als SRT oder VTT mit Zeitstempeln speichern, in über 100 Sprachen. Ohne Anmeldung, ohne Installation.",
+        "schemaName": "TranscriptX YouTube Untertitel Downloader",
+        "schemaDescription": "Kostenloses Tool, um Untertitel aus öffentlichen YouTube-Videos als SRT- oder VTT-Datei mit Zeitstempeln zu speichern, in über 100 Sprachen. Link einfügen und die Datei sichern — ganz ohne Konto.",
+        "ogTitle": "YouTube Untertitel herunterladen — SRT & VTT kostenlos | TranscriptX",
+        "ogDescription": "Lade YouTube Untertitel als SRT oder VTT mit exakten Zeiten. Link einfügen, Untertiteldatei in über 100 Sprachen speichern — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "YouTube Untertitel herunterladen",
+        "subtitle": "Sichere dir die Untertitel jedes öffentlichen YouTube-Videos als zeitgenaue Untertiteldatei. Füge einen Link ein und speichere SRT oder VTT in über 100 Sprachen, fertig zum Laden in ein Schnittprogramm oder zum Hochladen auf eine andere Plattform. Kein Konto, keine Installation.",
+        "placeholder": "YouTube-Video-URL einfügen...",
+        "button": "Untertitel herunterladen"
+    },
+    "quickAnswer": {
+        "question": "Wie kann ich aus einem YouTube-Video die Untertitel herunterladen?",
+        "answer": "Füge einen öffentlichen YouTube-Link in TranscriptX ein, und es entsteht eine zeitgenaue Untertiteldatei, die du als SRT oder VTT herunterladen kannst. Die Untertitel gibt es in über 100 Sprachen, mit einem Zeitstempel in jeder Zeile, direkt bereit zum Bearbeiten oder erneuten Hochladen. Ein Konto brauchst du dafür nicht."
+    },
+    "sections": [
+        {
+            "h2": "Was eine Untertiteldatei wirklich ist",
+            "content": [
+                "Eine Untertiteldatei enthält nicht nur die Wörter aus einem Video — sie enthält die Wörter plus den exakten Moment, in dem jede Zeile erscheint und wieder verschwindet. Öffne eine solche Datei, und du siehst Textblöcke, die mit Zeitcodes wie 00:01:12 bis 00:01:15 gepaart sind. Genau um diese Zeitangaben geht es: Sie sagen einem Videoplayer, wann er welchen Untertitel einblenden soll.",
+                "Das ist der Unterschied zwischen einer Untertiteldatei und einem einfachen Transkript. Ein Transkript ist Text, den du für sich liest; eine Untertiteldatei ist Text, der neben dem Video mitlaufen soll, Bild für Bild synchron zum Gesprochenen.",
+                "TranscriptX erzeugt diese zeitgenaue Datei aus dem Ton eines YouTube-Videos und stellt sie dir zum Speichern bereit. Als YouTube Untertitel Downloader gibt es dir Untertitel, die du direkt in ein Schnittprogramm oder einen Player ziehst — keine Textwand, die du von Hand takten müsstest, und nichts, was du Zeile für Zeile kopieren musst."
+            ]
+        },
+        {
+            "h2": "SRT oder VTT: Welches Untertitel-Format herunterladen?",
+            "intro": [
+                "TranscriptX exportiert beide Standard-Formate für Untertitel. Welches du nimmst, hängt davon ab, wohin die Untertitel gehen."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — die universelle Untertiteldatei",
+                    "content": "SubRip (.srt) ist das Format, das fast alles akzeptiert: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve und die meisten Player. Wenn du Untertitel auf eine Plattform hochlädst oder in ein Schnittprogramm holst, solltest du die YouTube Untertitel als SRT herunterladen — das ist die sichere Standardwahl."
+                },
+                {
+                    "h3": "VTT — Untertitel fürs Web",
+                    "content": "WebVTT (.vtt) ist das Format für HTML5-Video im Browser und unterstützt Extras wie Positionierung und Gestaltung. Nimm VTT, wenn die Untertitel für eine Website oder eine Web-App gedacht sind statt für eine soziale Plattform oder ein Schnittprogramm."
+                }
+            ]
+        },
+        {
+            "h2": "So lädst du Untertitel von YouTube herunter",
+            "steps": [
+                {
+                    "h3": "Den Link zum Video einfügen",
+                    "content": "Kopiere die URL des öffentlichen YouTube-Videos und füge sie oben in das Feld ein. Es gibt kein Konto anzulegen und nichts hochzuladen."
+                },
+                {
+                    "h3": "TranscriptX erstellt die zeitgenauen Untertitel",
+                    "content": "Es liest den Ton, erkennt die Sprache und schreibt jede Zeile mit Start- und Endzeit heraus — genau die Zeitangaben, die eine Untertiteldatei braucht, um synchron zu bleiben."
+                },
+                {
+                    "h3": "SRT oder VTT wählen",
+                    "content": "Nimm SRT für ein Schnittprogramm oder eine soziale Plattform, VTT für Web-Video. Beide Untertitel lassen sich bei YouTube gleich schnell downloaden und tragen dieselben Zeilen mit derselben Zeitsteuerung."
+                },
+                {
+                    "h3": "Die Untertiteldatei herunterladen",
+                    "content": "Speichere sie auf deinem Gerät: Sobald du die YouTube Untertitel Datei heruntergeladen hast, kannst du sie in dein Schnittprogramm laden, sie zusammen mit einem erneut geposteten Video hochladen oder sie vor der Veröffentlichung übersetzen."
+                }
+            ]
+        },
+        {
+            "h2": "Was du mit einer heruntergeladenen Untertiteldatei machen kannst",
+            "intro": [
+                "Eine Untertiteldatei ist ein Arbeitsmittel, nicht bloß ein Nachschlagewerk. Sie ist dafür gebaut, geladen, bearbeitet und weiterverwendet zu werden:"
+            ],
+            "items": [
+                {
+                    "h3": "Untertitel in den eigenen Schnitt einbauen",
+                    "content": "Videoeditoren laden die SRT-Datei in Premiere, Final Cut oder Resolve, um eine Fassung zu untertiteln, passen die Zeiten an ihren Schnitt an und gestalten den Text passend zum Video."
+                },
+                {
+                    "h3": "Ein Video mit Untertiteln erneut hochladen",
+                    "content": "Wenn du etwas auf deinem eigenen Kanal neu postest und vorher aus dem YouTube-Video die Untertitel heruntergeladen hast, bekommen deine Zuschauer Untertitel, ohne dass du ein einziges Wort neu tippen musst."
+                },
+                {
+                    "h3": "Für internationales Publikum übersetzen",
+                    "content": "Weil eine Untertiteldatei schlichter, bearbeitbarer Text mit Zeitangaben ist, können Übersetzer die Zeilen in eine andere Sprache umschreiben, während die Zeitcodes unangetastet bleiben — der schnellste Weg, ein Video für einen neuen Markt zu untertiteln."
+                },
+                {
+                    "h3": "Die Untertitel korrigieren oder aufräumen",
+                    "content": "Öffne die Datei in einem beliebigen Texteditor, um einen Namen zu berichtigen, eine zu lange Zeile zu teilen oder einen Zeitcode zu verschieben, bevor die Untertitel live gehen."
+                },
+                {
+                    "h3": "Vorgaben zur Barrierefreiheit erfüllen",
+                    "content": "Untertitel sind oft Pflicht, nicht Kür. Eine heruntergeladene SRT- oder VTT-Datei ist genau die Datei, die du anhängst, um ein Video für gehörlose und schwerhörige Zuschauer zugänglich zu machen."
+                }
+            ]
+        },
+        {
+            "h2": "Untertitel in über 100 Sprachen herunterladen",
+            "content": [
+                "TranscriptX erkennt die gesprochene Sprache automatisch und baut die Untertitel in dieser Sprache, über 100 davon werden unterstützt — Deutsch mit österreichischem oder Schweizer Einschlag eingeschlossen, sodass die Untertiteldatei zu dem passt, was im Video tatsächlich gesagt wird.",
+                "Ab da gehört die Datei dir zum Übersetzen. Weil die Zeitsteuerung getrennt von den Wörtern liegt, kannst du den Text durch eine andere Sprache ersetzen und die Untertitel landen trotzdem auf den richtigen Bildern — genau so wird aus einem einzigen Download ein Video, das für mehrere Zielgruppen untertitelt ist."
+            ]
+        },
+        {
+            "h2": "Untertitel, Transkript oder Zusammenfassung?",
+            "content": [
+                "Eine Untertiteldatei ist der richtige Download, wenn du zeitgenaue Untertitel brauchst, die über einem Video laufen. Wenn du etwas anderes aus demselben Video brauchst, ist dafür ein eigenes Tool von TranscriptX gebaut.",
+                "Für reinen Text, den du für sich liest — ohne Zeitcodes, ohne irgendetwas, das sich mit der Wiedergabe synchronisiert — ist das Tool [YouTube Transcript](/de/youtube-transcript) das richtige, und [YouTube Transkript herunterladen](/de/download-youtube-transcript) speichert genau diesen Text als TXT-, DOCX- oder PDF-Dokument. Wenn du nur wissen willst, worum es in einem Video geht, statt jede einzelne Zeile zu untertiteln, gibt dir der [YouTube Video Summarizer](/de/youtube-video-summarizer) die Kernpunkte in wenigen Sätzen."
+            ]
+        },
+        {
+            "h2": "Häufige Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich bei YouTube Captions herunterladen?",
+                    "a": "Füge den Link in TranscriptX ein, lass die zeitgenauen Untertitel erstellen, wähle SRT oder VTT und lade die Datei herunter. Mehr braucht es nicht, um Captions von YouTube zu holen — oder die Untertiteldatei in einem der beiden Formate zu sichern — und ein Konto ist dafür nicht nötig."
+                },
+                {
+                    "q": "Ist der YouTube Untertitel Downloader kostenlos?",
+                    "a": "Ja. Untertiteldateien zu erstellen und herunterzuladen ist kostenlos, ohne Konto und ohne Begrenzung der Videolänge."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen SRT und VTT?",
+                    "a": "Beides sind zeitgenaue Untertiteldateien. SRT ist das universelle Format, das Plattformen und Schnittprogramme akzeptieren; VTT ist für HTML5-Web-Video gebaut und unterstützt zusätzliche Positionierung und Gestaltung. Nimm SRT, außer du brauchst ausdrücklich Web-Video."
+                },
+                {
+                    "q": "Enthalten die Untertitel Zeitstempel?",
+                    "a": "Ja. Jede Zeile in einer SRT- oder VTT-Datei trägt eine Start- und eine Endzeit — diese Zeitsteuerung hält die Untertitel synchron, wenn die Datei über einem Video läuft."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen Untertiteln und einem Transkript?",
+                    "a": "Ein Transkript ist reiner Text, den du für sich liest. Untertitel sind zeitgenauer Text, der über dem Video eingeblendet wird. Wenn du Wörter zum Lesen willst statt Untertitel zum Einblenden, nimm stattdessen das Transkript-Tool."
+                },
+                {
+                    "q": "Kann ich Untertitel in einer anderen Sprache herunterladen?",
+                    "a": "Die Untertitel entstehen in der Sprache, die im Video gesprochen wird. Weil die Datei bearbeitbarer Text mit separat gehaltener Zeitsteuerung ist, kannst du die Zeilen in eine andere Sprache übersetzen, während die Zeitcodes an ihrem Platz bleiben."
+                },
+                {
+                    "q": "Kann ich die Untertiteldatei nach dem Herunterladen bearbeiten?",
+                    "a": "Ja. Eine SRT- oder VTT-Datei öffnet sich in jedem Texteditor, du kannst also ein Wort korrigieren, eine Zeile teilen oder einen Zeitcode anpassen, bevor die Untertitel live gehen."
+                },
+                {
+                    "q": "Funktioniert die Datei in meinem Schnittprogramm?",
+                    "a": "Ja. SRT lädt in Premiere, Final Cut, DaVinci Resolve und die meisten anderen Schnittprogramme und Player, und genau deshalb ist es die Standardwahl für die Arbeit im Schnitt."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Untertitel kostenlos herunterladen",
+        "content": [
+            "Füge einen öffentlichen YouTube-Link ein, und TranscriptX baut eine zeitgenaue Untertiteldatei, die du als SRT oder VTT sichern kannst, in über 100 Sprachen.",
+            "Lade sie in ein Schnittprogramm, gib sie einem erneut geposteten Video mit oder übersetze sie für ein neues Publikum. Kein Konto, keine Installation, keine Kosten."
+        ]
+    }
+}

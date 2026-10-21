@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Twitter Spaces Transcript — Transcribe Twitter Spaces to Text Free | TranscriptX",
+        "description": "Transcribe recorded Twitter Spaces to text free. Paste the Space link to get a full transcript with speaker labels and timestamps — a 2-hour Space in about 2–4 minutes.",
+        "schemaName": "TranscriptX Twitter Spaces Transcript Tool",
+        "schemaDescription": "Free online tool that transcribes recorded Twitter Spaces. Paste the link to a recorded Space and get the full conversation as text, with each speaker labelled and optional timestamps, in over 100 languages. An hour of audio takes about 1–2 minutes. Up to 5 hours free per day with no account; no daily cap on paid plans. Export to TXT, DOCX, PDF, SRT or VTT.",
+        "ogTitle": "Twitter Spaces Transcript — Transcribe Twitter Spaces to Text Free",
+        "ogDescription": "Paste a recorded Space link, get the full transcript with every speaker labelled. A 2-hour Twitter Space in about 2–4 minutes, free, no Twitter account."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "Twitter Spaces Transcript – Turn Any Recorded Space Into Text",
+        "subtitle": "Missed a Space, or need to quote one? Paste the link to a recorded Twitter Space and TranscriptX transcribes the whole conversation — hosts, co-hosts and every speaker labelled, with timestamps so you can find any moment. A two-hour Space comes back in about 2–4 minutes, in over 100 languages. No Twitter account, no sign-up.",
+        "placeholder": "Paste a Twitter Space URL...",
+        "button": "Transcribe Space"
+    },
+    "quickAnswer": {
+        "question": "How do I get a transcript of a Twitter Space?",
+        "answer": "Copy the link to a recorded Space and paste it into TranscriptX. The full audio is transcribed with each speaker labelled and optional timestamps, in about 1–2 minutes per hour of audio. It needs no Twitter account and is free for up to 5 hours a day. The Space must have been recorded by the host and be public; a Space that is still live needs to end first."
+    },
+    "sections": [
+        {
+            "h2": "What Is a Twitter Spaces Transcript?",
+            "content": [
+                "A Twitter Spaces transcript is the full text of a Space — the live audio conversations hosted on Twitter — written out speaker by speaker. Instead of replaying two hours of audio to find one answer, you read, search and quote the conversation as text.",
+                "Spaces are where a lot of important talk on Twitter happens: founder AMAs, project announcements, panels, community calls and talk shows. They are also long, audio-only and full of voices, which makes them hard to skim, and Twitter does not give you a downloadable transcript you can edit, search across or export.",
+                "TranscriptX does. Paste the link to a recorded Space and the whole conversation comes back as text, ready to read, quote or turn into show notes. For video and audio in regular tweets, see [Twitter to Text](/twitter-transcript)."
+            ]
+        },
+        {
+            "h2": "Twitter Spaces Transcript at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free — up to 5 hours of transcription a day"
+                },
+                {
+                    "label": "Longer Spaces",
+                    "value": "No daily cap on paid plans — tested with 10-hour recordings"
+                },
+                {
+                    "label": "Twitter account required",
+                    "value": "No"
+                },
+                {
+                    "label": "Input",
+                    "value": "Link to a recorded, public Twitter Space"
+                },
+                {
+                    "label": "Speed",
+                    "value": "1–2 minutes per hour of audio; a 2-hour Space in about 2–4 minutes"
+                },
+                {
+                    "label": "Speaker labels",
+                    "value": "Yes — hosts, co-hosts and speakers are separated"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Optional, aligned to the recording"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% in our internal tests on clear audio"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe Twitter Spaces",
+            "steps": [
+                {
+                    "h3": "Find the recorded Space",
+                    "content": "Open the Space from the host's profile or the tweet that shared it. Recorded Spaces show a play button for the replay."
+                },
+                {
+                    "h3": "Copy the Space link",
+                    "content": "Tap the share icon and choose Copy link, or copy the URL from your browser."
+                },
+                {
+                    "h3": "Paste it into TranscriptX",
+                    "content": "Drop the link into the box above. TranscriptX fetches the recording itself — nothing to download, no Twitter account to connect. While a long Space processes, you can play our built-in mini-game."
+                },
+                {
+                    "h3": "Read, search and export",
+                    "content": "The full conversation comes back with each speaker labelled. Turn on timestamps, search for a name or topic, and export as TXT, DOCX or PDF."
+                }
+            ]
+        },
+        {
+            "h2": "Built for Long, Multi-Speaker Conversations",
+            "content": [
+                "A Space is not a 30-second clip. It is often one to three hours long, with a host, co-hosts and a rotating cast of speakers who interrupt, agree and talk over each other. That is exactly where most transcription tools give up — they cap file length, cut off after the first hour, or merge every voice into one block of text.",
+                "TranscriptX transcribes the whole Space in one go. An hour of audio takes about 1–2 minutes, so a two-hour Space is ready in roughly 2–4 minutes. Up to 5 hours a day is free, which covers most Spaces; for marathon sessions, a paid plan removes the daily cap — we have tested single 10-hour recordings. More detail on very long recordings is on [Transcribe Large Audio Files](/transcribe-large-audio-files).",
+                "Each speaker is labelled from start to finish, and timestamps stay aligned with the recording, so you can see who said what and jump back to the exact moment to check a quote."
+            ]
+        },
+        {
+            "h2": "What You Can Do With a Space Transcript",
+            "intro": [
+                "A transcript turns a Space from something you had to be there for into something you can use:"
+            ],
+            "items": [
+                {
+                    "h3": "Recaps and show notes",
+                    "content": "Hosts can turn every Space into a written recap, a thread or show notes for listeners who missed it — starting from the text instead of relistening."
+                },
+                {
+                    "h3": "AMAs and announcements",
+                    "content": "Founders and project teams often share roadmap details, dates and numbers in Spaces. A transcript gives the community a written record to refer back to."
+                },
+                {
+                    "h3": "Accurate quotes",
+                    "content": "Journalists and analysts can quote speakers word for word and use timestamps to point to exactly when something was said."
+                },
+                {
+                    "h3": "Catch up in minutes",
+                    "content": "Missed a two-hour Space? Search the transcript for the topic you care about and read just that part."
+                }
+            ]
+        },
+        {
+            "h2": "Which Spaces Can Be Transcribed",
+            "content": [
+                "TranscriptX can transcribe any public Space that has a recording. A few cases are worth knowing before you paste a link:",
+                "Recorded Spaces: if the host recorded the Space, the replay is available from its link and can be transcribed in full.",
+                "Spaces that are still live: there is no finished recording yet. Wait until the Space ends and the replay is available, then paste the link.",
+                "Spaces that were not recorded: once an unrecorded Space ends, its audio is not available anywhere, so there is nothing to transcribe. If you are the host, turn on recording before you start.",
+                "Private or restricted Spaces: if a Space is not publicly accessible, TranscriptX has no permission to fetch it."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Can I transcribe Twitter Spaces for free?",
+                    "a": "Yes. Up to 5 hours of transcription a day is free with no account and no card, which covers most Spaces. The allowance resets at the start of each new day, Pacific Time (PT)."
+                },
+                {
+                    "q": "How long does it take to transcribe a Space?",
+                    "a": "About 1–2 minutes per hour of audio, depending on how busy the service is. A two-hour Space takes roughly 2–4 minutes."
+                },
+                {
+                    "q": "Can I transcribe a Space that is still live?",
+                    "a": "Not while it is live. Wait until the Space ends and the recording is available, then paste the link."
+                },
+                {
+                    "q": "What if the Space was not recorded?",
+                    "a": "An unrecorded Space has no audio available after it ends, so it cannot be transcribed. Hosts should turn on recording when starting a Space they want to keep."
+                },
+                {
+                    "q": "Will the transcript show who is speaking?",
+                    "a": "Yes. Each speaker is labelled throughout the transcript, so you can follow the conversation between hosts, co-hosts and speakers."
+                },
+                {
+                    "q": "Do I need a Twitter account?",
+                    "a": "No. TranscriptX fetches the recording from the public Space link, so you do not need to log in to Twitter."
+                },
+                {
+                    "q": "What happens to the recording after transcription?",
+                    "a": "Files and transcripts are kept for a few days so you can come back to them, then deleted automatically. We do not use your content to train AI models."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Read the Space Instead of Replaying It",
+        "content": [
+            "Paste a recorded Space link and TranscriptX returns the full conversation as text, with every speaker labelled and timestamps you can jump to — in over 100 languages, with no Twitter account.",
+            "Free for up to 5 hours a day, no sign-up needed. Transcribing a video from a regular tweet? See [Twitter to Text](/twitter-transcript)."
+        ]
+    }
+}

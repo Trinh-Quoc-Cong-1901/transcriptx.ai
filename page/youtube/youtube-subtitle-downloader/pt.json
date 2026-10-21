@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "Baixar Legendas do YouTube — SRT e VTT Grátis | TranscriptX",
+        "description": "Baixe legendas de qualquer vídeo do YouTube grátis. Cole um link e salve as legendas em SRT ou VTT com marcação de tempo, em mais de 100 idiomas. Sem cadastro, sem instalar.",
+        "schemaName": "TranscriptX — Ferramenta para Baixar Legendas do YouTube",
+        "schemaDescription": "Ferramenta gratuita para baixar arquivos de legenda de vídeos públicos do YouTube em SRT ou VTT, com marcação de tempo em cada linha e suporte a mais de 100 idiomas. Cole um link e salve o arquivo sem precisar de conta.",
+        "ogTitle": "Baixar Legendas do YouTube — SRT e VTT Grátis | TranscriptX",
+        "ogDescription": "Baixe legendas do YouTube em SRT ou VTT com marcação de tempo. Cole um link e salve o arquivo de legenda em mais de 100 idiomas, grátis e sem cadastro."
+    },
+    "hero": {
+        "h1": "Baixar Legendas do YouTube",
+        "subtitle": "Baixe as legendas de qualquer vídeo público do YouTube como um arquivo de legenda com marcação de tempo. Cole um link e salve em SRT ou VTT, em mais de 100 idiomas, pronto para carregar num editor de vídeo ou subir em outra plataforma. Sem conta, sem instalação.",
+        "placeholder": "Cole o link de um vídeo do YouTube...",
+        "button": "Baixar Legendas"
+    },
+    "quickAnswer": {
+        "question": "Como baixar legendas do YouTube?",
+        "answer": "Cole um link público do YouTube no TranscriptX e ele monta um arquivo de legenda com marcação de tempo que você baixa em SRT ou VTT. As legendas saem em mais de 100 idiomas, com marcação de tempo em cada linha, prontas para editar ou subir de novo. Não é preciso conta."
+    },
+    "sections": [
+        {
+            "h2": "O Que É de Fato um Arquivo de Legenda",
+            "content": [
+                "Um arquivo de legenda não traz só as palavras ditas no vídeo — traz as palavras mais o momento exato em que cada linha aparece e some. Abra um deles e você vê blocos de texto emparelhados com marcações de tempo como 00:01:12 até 00:01:15. Essa marcação é o ponto inteiro da coisa: é ela que avisa ao reprodutor de vídeo quando exibir cada legenda.",
+                "É isso que separa um arquivo de legenda de uma transcrição simples. Uma transcrição é um texto que você lê por conta própria; um arquivo de legenda é um texto feito para correr junto com o vídeo, sincronizado quadro a quadro com a fala.",
+                "O TranscriptX gera esse arquivo com marcação de tempo a partir do áudio de um vídeo do YouTube e deixa você baixar. Funcionando como ferramenta para extrair legendas do YouTube, ele entrega legendas prontas para jogar direto num editor ou num reprodutor — e é assim que sai um baixar arquivo de legenda YouTube de verdade, não um bloco de texto que você teria que sincronizar na mão, nem linhas para copiar uma a uma."
+            ]
+        },
+        {
+            "h2": "SRT ou VTT: Qual Formato de Legenda Baixar",
+            "intro": [
+                "O TranscriptX exporta os dois formatos padrão de legenda. Qual deles você baixa depende de para onde as legendas vão."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — o arquivo de legenda universal",
+                    "content": "O SubRip (.srt) é o formato que quase tudo aceita: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve e a maior parte dos reprodutores. Escolha baixar legenda YouTube SRT quando for subir as legendas numa plataforma ou carregá-las num editor de vídeo — é o padrão seguro."
+                },
+                {
+                    "h3": "VTT — legenda para a web",
+                    "content": "O WebVTT (.vtt) é o formato feito para vídeo HTML5 rodando no navegador, e aceita extras como posicionamento e estilo. Baixe em VTT quando a legenda for para um site ou um aplicativo web, e não para uma rede social ou um editor."
+                }
+            ]
+        },
+        {
+            "h2": "Como Baixar Legendas do YouTube",
+            "steps": [
+                {
+                    "h3": "Cole o link do vídeo",
+                    "content": "Copie a URL do vídeo público do YouTube e cole na caixa acima. Não há conta para criar e nada para enviar antes."
+                },
+                {
+                    "h3": "O TranscriptX monta as legendas com tempo",
+                    "content": "Ele lê o áudio, detecta o idioma e escreve cada linha com hora de início e de fim — a marcação de tempo de que um arquivo de legenda precisa para não sair do lugar."
+                },
+                {
+                    "h3": "Escolha SRT ou VTT",
+                    "content": "Pegue SRT para editor de vídeo ou rede social, ou VTT para vídeo na web. Os dois carregam as mesmas legendas com a mesma sincronia."
+                },
+                {
+                    "h3": "Baixe o arquivo de legenda",
+                    "content": "Salve no seu aparelho e o download de legendas YouTube está feito: pronto para carregar no editor, subir junto com um vídeo repostado ou traduzir antes de publicar. Como tudo roda no navegador, é um baixar legendas do YouTube online do começo ao fim."
+                }
+            ]
+        },
+        {
+            "h2": "O Que Fazer com o Arquivo de Legenda Baixado",
+            "intro": [
+                "Um arquivo de legenda é material de trabalho, não só material de consulta. Ele foi feito para ser carregado, editado e reaproveitado:"
+            ],
+            "items": [
+                {
+                    "h3": "Colocar legenda na sua própria edição",
+                    "content": "Editores carregam o SRT no Premiere, no Final Cut ou no Resolve para legendar um corte, ajustam a sincronia à edição deles e estilizam o texto para combinar com o vídeo."
+                },
+                {
+                    "h3": "Repostar um vídeo já legendado",
+                    "content": "Se você está repostando um vídeo no seu próprio canal, baixar legenda de vídeo do YouTube e subir o arquivo junto entrega legendas ao público sem você redigitar uma palavra."
+                },
+                {
+                    "h3": "Traduzir para um público internacional",
+                    "content": "Como um arquivo de legenda é texto puro e editável com a marcação de tempo à parte, tradutores podem reescrever as linhas em outro idioma enquanto os tempos ficam intactos — é o caminho mais rápido para legendar um vídeo em um novo mercado."
+                },
+                {
+                    "h3": "Corrigir ou limpar as legendas",
+                    "content": "Abra o arquivo em qualquer editor de texto para acertar um nome, quebrar uma linha comprida ou empurrar uma marcação de tempo antes de as legendas irem ao ar."
+                },
+                {
+                    "h3": "Atender exigências de acessibilidade",
+                    "content": "Legenda costuma ser obrigação, não opção. Um SRT ou VTT vindo de um baixar arquivo de legenda YouTube é justamente o arquivo que você anexa para tornar um vídeo acessível a quem é surdo ou tem perda auditiva."
+                }
+            ]
+        },
+        {
+            "h2": "Baixe Legendas em Mais de 100 Idiomas",
+            "content": [
+                "O TranscriptX detecta sozinho o idioma falado e monta as legendas nesse idioma, entre mais de 100 deles — então o arquivo de legenda que você baixa bate com o que é dito de fato no vídeo. Um vídeo em português volta com legenda em português, com os acentos no lugar; um vídeo em espanhol ou japonês, do mesmo jeito.",
+                "Dali em diante o arquivo é seu para traduzir. Como a marcação de tempo fica separada das palavras, você troca o texto por outro idioma e as legendas continuam caindo nos quadros certos — é exatamente assim que um vídeo acaba legendado para vários públicos a partir de um único baixar legendas YouTube grátis."
+            ]
+        },
+        {
+            "h2": "Legenda, Transcrição ou Resumo?",
+            "content": [
+                "O arquivo de legenda é o download certo quando você precisa de legendas com tempo correndo por cima de um vídeo. Quando o que você quer do mesmo vídeo é outra coisa, existe uma ferramenta do TranscriptX feita para isso.",
+                "Para texto puro que você lê por conta própria — sem marcação de tempo, sem nada sincronizado à reprodução — a ferramenta [Transcrição do YouTube](/pt/youtube-transcript) é a sua, e a ferramenta [Baixar Transcrição do YouTube](/pt/download-youtube-transcript) salva esse texto como documento em TXT, DOCX ou PDF. Se você só precisa saber o que o vídeo aborda, em vez de legendar cada linha dele, o [Resumo de Vídeo do YouTube](/pt/youtube-video-summarizer) entrega os pontos principais em poucas frases."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como extrair legendas do YouTube?",
+                    "a": "Cole o link do vídeo no TranscriptX, deixe as legendas com tempo serem montadas, escolha SRT ou VTT e baixe o arquivo. É só isso para extrair as legendas de um vídeo do YouTube — ou para pegar o arquivo de legenda nos dois formatos — sem precisar de conta."
+                },
+                {
+                    "q": "É grátis baixar legendas do YouTube online?",
+                    "a": "Sim. Montar e baixar arquivos de legenda é grátis, sem conta para criar e sem limite de duração do vídeo."
+                },
+                {
+                    "q": "Qual a diferença entre SRT e VTT?",
+                    "a": "Os dois são arquivos de legenda com tempo. O SRT é o formato universal que plataformas e editores de vídeo aceitam; o VTT foi feito para vídeo HTML5 na web e aceita posicionamento e estilo a mais. Baixe SRT, a não ser que você precise mesmo de vídeo na web."
+                },
+                {
+                    "q": "As legendas vêm com marcação de tempo?",
+                    "a": "Sim. Cada linha de um arquivo SRT ou VTT carrega hora de início e de fim — é essa marcação que mantém as legendas sincronizadas quando o arquivo roda por cima do vídeo."
+                },
+                {
+                    "q": "Qual a diferença entre legenda e transcrição?",
+                    "a": "Uma transcrição é texto puro que você lê por conta própria. Legenda é texto com tempo, feito para aparecer sobre o vídeo. Se você quer palavras para ler, e não legendas para exibir, use a ferramenta de transcrição."
+                },
+                {
+                    "q": "Dá para baixar legendas em outro idioma?",
+                    "a": "As legendas são montadas no idioma falado no vídeo. Como o arquivo é texto editável com a marcação de tempo à parte, você pode traduzir as linhas para outro idioma e os tempos continuam no lugar."
+                },
+                {
+                    "q": "Dá para editar o arquivo de legenda depois de baixar?",
+                    "a": "Sim. Um arquivo SRT ou VTT abre em qualquer editor de texto, então você pode corrigir uma palavra, quebrar uma linha ou ajustar uma marcação de tempo antes de as legendas irem ao ar."
+                },
+                {
+                    "q": "O arquivo vai funcionar no meu editor de vídeo?",
+                    "a": "Sim. O SRT carrega no Premiere, no Final Cut, no DaVinci Resolve e na maioria dos outros editores e reprodutores, e é por isso que ele é a escolha padrão para trabalho de edição."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Baixe Legendas do YouTube Grátis",
+        "content": [
+            "Cole um link público do YouTube e o TranscriptX monta um arquivo de legenda com marcação de tempo que você baixa em SRT ou VTT, em mais de 100 idiomas.",
+            "Carregue num editor, suba junto com um vídeo repostado ou traduza para um novo público. Sem conta, sem instalação, sem custo."
+        ]
+    }
+}

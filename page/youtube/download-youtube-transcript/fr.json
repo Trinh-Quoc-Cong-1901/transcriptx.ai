@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Télécharger une transcription YouTube — TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "Télécharger une transcription YouTube gratuitement en TXT, DOCX, PDF ou SRT. Collez un lien, récupérez la transcription et enregistrez le fichier sur votre appareil pour le lire hors ligne. Sans inscription.",
+        "schemaName": "TranscriptX — Outil pour télécharger une transcription YouTube",
+        "schemaDescription": "Outil gratuit pour télécharger la transcription d'une vidéo YouTube publique sous forme de fichier TXT, DOCX, PDF ou SRT. Collez un lien et enregistrez la transcription sur votre appareil, sans création de compte.",
+        "ogTitle": "Télécharger une transcription YouTube — TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Enregistrez la transcription de n'importe quelle vidéo YouTube sur votre appareil. Téléchargez-la en TXT, DOCX, PDF ou SRT, gratuitement et sans inscription."
+    },
+    "hero": {
+        "h1": "Télécharger une transcription YouTube",
+        "subtitle": "Enregistrez sur votre appareil la transcription de n'importe quelle vidéo YouTube publique. Collez un lien, puis téléchargez le texte en TXT, DOCX, PDF ou SRT pour le lire hors ligne, l'archiver ou le déposer dans un document. Aucun compte, aucune installation.",
+        "placeholder": "Collez l'URL d'une vidéo YouTube...",
+        "button": "Obtenir et télécharger la transcription"
+    },
+    "quickAnswer": {
+        "question": "Comment télécharger une transcription YouTube ?",
+        "answer": "Collez un lien YouTube public dans TranscriptX puis, une fois la transcription prête, choisissez un format et téléchargez-la. Vous pouvez l'enregistrer en TXT, DOCX, PDF ou SRT sur votre ordinateur ou votre téléphone. Aucune inscription, et rien à installer au préalable."
+    },
+    "sections": [
+        {
+            "h2": "Ce que le téléchargement d'une transcription vous apporte",
+            "content": [
+                "Lire une transcription à l'écran suffit tant que vous êtes à votre bureau avec une connexion. Télécharger une transcription YouTube devient nécessaire dès que le texte doit survivre à l'onglet du navigateur — quand il vous faut un fichier qui vous appartient, posé sur votre propre appareil, et qui s'ouvre avec ou sans internet.",
+                "Une transcription téléchargée est un vrai document. Vous pouvez la déposer dans un dossier de recherche, la joindre à un e-mail, l'ajouter à un disque partagé ou l'imprimer. Elle cesse d'être une page consultée une fois pour devenir une pièce de vos archives : télécharger le texte d'une vidéo YouTube, c'est garder par écrit ce qui a été dit.",
+                "TranscriptX prépare la transcription et vous remet le téléchargement — certains parlent de transcript, c'est la même chose. La vidéo, elle, reste sur YouTube ; ce qui arrive sur votre appareil, c'est uniquement le texte, dans le format que vous avez choisi."
+            ]
+        },
+        {
+            "h2": "Quel format télécharger ?",
+            "intro": [
+                "Le bon fichier dépend entièrement de ce que la transcription doit devenir ensuite. Quatre formats couvrent presque tous les cas."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — texte brut",
+                    "content": "L'option la plus légère et la plus portable. Un fichier .txt s'ouvre partout, ne traîne aucune mise en forme encombrante et reste ce qu'il y a de plus propre à coller dans un autre outil ou dans un assistant IA. Choisissez de télécharger la transcription YouTube en txt quand vous voulez seulement les mots — c'est aussi la façon la plus directe de télécharger les sous-titres YouTube en texte lisible."
+                },
+                {
+                    "h3": "DOCX — document modifiable",
+                    "content": "S'ouvre dans Word, Google Docs et Pages. Téléchargez le DOCX quand vous comptez retravailler la transcription — titres, surlignages, commentaires, suivi des modifications — et la traiter comme un document de travail plutôt que comme du texte brut."
+                },
+                {
+                    "h3": "PDF — version figée, prête à partager",
+                    "content": "Identique sur tous les appareils, et pas conçue pour être modifiée. Télécharger la transcription YouTube en pdf s'impose quand vous l'envoyez à quelqu'un, la classez comme pièce justificative ou l'imprimez, et que la mise en page doit rester exactement en l'état."
+                },
+                {
+                    "h3": "SRT — transcription horodatée",
+                    "content": "Chaque ligne porte un horodatage. Téléchargez le SRT quand la transcription doit rester rattachée aux moments de la vidéo — pour vérifier une citation par rapport à l'audio, ou pour tout logiciel qui attend un fichier de sous-titres synchronisés."
+                }
+            ]
+        },
+        {
+            "h2": "Comment télécharger une transcription YouTube",
+            "steps": [
+                {
+                    "h3": "Collez le lien YouTube",
+                    "content": "Copiez l'URL de la vidéo publique qui vous intéresse et collez-la dans le champ ci-dessus. Aucune étape d'inscription, et aucun fichier à importer au préalable."
+                },
+                {
+                    "h3": "Laissez la transcription se construire",
+                    "content": "TranscriptX écoute la piste audio et rédige la transcription complète dans plus de 100 langues, avec chaque locuteur identifié et la ponctuation ajoutée."
+                },
+                {
+                    "h3": "Choisissez votre format",
+                    "content": "Sélectionnez TXT, DOCX, PDF ou SRT selon ce que vous allez en faire. Activez d'abord les horodatages si vous téléchargez le SRT ou si vous les voulez à l'intérieur du fichier."
+                },
+                {
+                    "h3": "Téléchargez le fichier",
+                    "content": "Enregistrez-le sur votre ordinateur ou votre téléphone. Télécharger la transcription d'une vidéo YouTube s'arrête ici : le texte est désormais un fichier qui vous appartient, prêt à être ouvert hors ligne, partagé ou archivé."
+                }
+            ]
+        },
+        {
+            "h2": "Quand il vous faut le fichier, pas seulement le texte",
+            "intro": [
+                "Le téléchargement compte surtout lorsque la transcription doit quitter le navigateur pour entrer dans un vrai flux de travail. Quelques exemples :"
+            ],
+            "items": [
+                {
+                    "h3": "Constituer un fonds documentaire",
+                    "content": "Les chercheurs enregistrent la transcription YouTube d'entretiens, de conférences et de documentaires dans un dossier de projet, pour que les sources restent réunies, consultables et citables longtemps après le visionnage des vidéos."
+                },
+                {
+                    "h3": "Rendre un travail ou classer une pièce",
+                    "content": "Quand une transcription doit être rendue, jointe ou conservée au dossier — pour un cours, une note juridique ou un rapport — c'est le PDF ou le DOCX téléchargé qui circule."
+                },
+                {
+                    "h3": "Travailler hors ligne",
+                    "content": "Un TXT ou un DOCX téléchargé s'ouvre en avion, dans un train ou partout où la connexion lâche : la lecture et les corrections ne s'arrêtent pas quand internet s'arrête."
+                },
+                {
+                    "h3": "La confier à un autre outil",
+                    "content": "Certains logiciels réclament un fichier, pas du texte collé. Le téléchargement vous donne quelque chose à importer — dans un outil de traduction, une gestion documentaire ou un éditeur."
+                },
+                {
+                    "h3": "Garder votre propre copie",
+                    "content": "Les vidéos sont retirées, passées en privé ou remontées. Récupérer la transcription YouTube et l'enregistrer chez vous, c'est conserver votre exemplaire de ce qui a été dit, quoi qu'il advienne de l'original."
+                }
+            ]
+        },
+        {
+            "h2": "Télécharger des transcriptions dans plus de 100 langues",
+            "content": [
+                "Le téléchargement ne se limite pas à l'anglais. TranscriptX transcrit la parole dans plus de 100 langues et reconnaît tout seul celle qu'il entend : le fichier que vous enregistrez sort dans la langue effectivement parlée dans la vidéo. Une vidéo en français revient en texte français, accents et ponctuation compris, et télécharger la transcription YouTube gratuitement vaut de la même façon pour toutes les langues.",
+                "Chaque format porte la transcription intégrale, locuteurs séparés, si bien qu'un entretien ou une table ronde téléchargé se lit comme un compte rendu clair de qui a dit quoi, et non comme un bloc unique — quel que soit celui des quatre formats que vous choisissez."
+            ]
+        },
+        {
+            "h2": "Quand un autre outil convient mieux",
+            "content": [
+                "Télécharger un fichier de transcription n'est qu'une option parmi plusieurs, et chaque outil TranscriptX est construit autour d'un besoin distinct. Si votre objectif est un peu différent, l'un de ceux-ci vous conviendra mieux.",
+                "Pour simplement lire et copier la transcription sans enregistrer le moindre fichier, l'outil [Transcription YouTube](/fr/youtube-transcript) garde tout à l'écran. Si ce qu'il vous faut vraiment, c'est télécharger les sous-titres YouTube sous forme de fichier de sous-titres synchronisés pour un logiciel de montage plutôt qu'un document à lire, le [Téléchargeur de sous-titres YouTube](/fr/youtube-subtitle-downloader) exporte en SRT et en VTT. Et si le texte intégral dépasse ce dont vous avez besoin, le [Résumeur de vidéos YouTube](/fr/youtube-video-summarizer) ramène la vidéo à ses idées principales."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment télécharger la transcription d'une vidéo YouTube ?",
+                    "a": "Collez le lien de la vidéo dans TranscriptX, attendez que la transcription se construise, choisissez TXT, DOCX, PDF ou SRT, puis téléchargez-la. Le fichier s'enregistre directement sur votre appareil, sans compte requis."
+                },
+                {
+                    "q": "Est-ce gratuit de télécharger une transcription YouTube ?",
+                    "a": "Oui. Obtenir la transcription comme la télécharger est gratuit, sans compte à créer et sans limite de durée pour la vidéo."
+                },
+                {
+                    "q": "Quels formats puis-je télécharger ?",
+                    "a": "Quatre : TXT pour du texte brut, DOCX pour un document modifiable, PDF pour une version figée, et SRT pour une transcription horodatée."
+                },
+                {
+                    "q": "Puis-je télécharger la transcription avec les horodatages ?",
+                    "a": "Oui. Activez les horodatages avant d'exporter la transcription YouTube, puis téléchargez le SRT pour conserver la synchronisation, ou intégrez-les à l'intérieur d'un fichier TXT ou DOCX."
+                },
+                {
+                    "q": "Où le fichier est-il enregistré ?",
+                    "a": "Là où votre navigateur range ses téléchargements — le dossier Téléchargements de votre ordinateur ou la mémoire de votre téléphone. De là, vous pouvez le déplacer, l'ouvrir hors ligne ou le partager."
+                },
+                {
+                    "q": "Puis-je télécharger la transcription de vidéos longues ?",
+                    "a": "Oui. Il n'y a aucune limite de durée. La transcription complète d'une vidéo de plusieurs heures se télécharge en un seul fichier, quel que soit le format choisi."
+                },
+                {
+                    "q": "Dois-je installer quelque chose pour télécharger ?",
+                    "a": "Non. Tout se passe dans le navigateur. Aucun logiciel, aucune extension et aucune application à installer avant de télécharger la transcription YouTube en txt ou dans n'importe quel autre format."
+                },
+                {
+                    "q": "Quel format choisir pour modifier le texte ensuite ?",
+                    "a": "Le DOCX. Il s'ouvre dans Word, Google Docs et Pages et conserve la mise en forme, ce qui en fait le plus facile à réécrire. Prenez le TXT si vous ne voulez que les mots bruts, ou le PDF pour une version qui ne doit pas bouger."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Télécharger votre transcription YouTube gratuitement",
+        "content": [
+            "Collez le lien d'une vidéo YouTube publique, laissez TranscriptX construire la transcription dans plus de 100 langues, puis téléchargez-la en TXT, DOCX, PDF ou SRT.",
+            "La transcription devient un fichier qui vous appartient — prêt à être lu hors ligne, archivé, imprimé ou partagé. Sans compte, sans installation, sans frais."
+        ]
+    }
+}

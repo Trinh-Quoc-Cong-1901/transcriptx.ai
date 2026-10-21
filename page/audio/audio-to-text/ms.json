@@ -1,0 +1,248 @@
+{
+    "seo": {
+        "title": "Transkrip Audio ke Teks — Tukar Fail Audio Percuma | TranscriptX",
+        "description": "Buat transkrip audio ke teks dalam talian secara percuma. Muat naik fail MP3, WAV atau M4A dan dapatkan transkrip tepat dalam 100+ bahasa dengan label penutur. Eksport TXT, DOCX, PDF, SRT. Tanpa pendaftaran.",
+        "schemaName": "Penukar Transkrip Audio ke Teks TranscriptX",
+        "schemaDescription": "Alat dalam talian percuma yang menukar fail audio kepada teks dalam lebih 100 bahasa, dengan pengasingan penutur, cap masa pilihan dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Menyokong MP3, WAV, M4A, AAC dan banyak lagi, tanpa perlu akaun.",
+        "ogTitle": "Transkrip Audio ke Teks — Tukar Fail Audio Percuma | TranscriptX",
+        "ogDescription": "Jadikan mana-mana fail audio sebagai teks. Muat naik MP3, WAV atau M4A dan dapatkan transkrip tepat dalam 100+ bahasa, percuma dan tanpa pendaftaran."
+    },
+    "hero": {
+        "h1": "Transkrip Audio ke Teks",
+        "subtitle": "Tukar mana-mana fail audio kepada teks yang tepat dan boleh disunting. Muat naik MP3, WAV, M4A atau apa-apa format biasa dan TranscriptX akan membuat transkripnya dalam lebih 100 bahasa, dengan setiap penutur dilabel dan cap masa jika anda mahukannya. Eksport ke TXT, DOCX, PDF, SRT atau VTT. Tanpa akaun, tanpa had saiz fail, tiada apa-apa untuk dipasang.",
+        "placeholder": "Muat naik fail audio...",
+        "button": "Tukar kepada Teks"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara saya tukar fail audio kepada teks?",
+        "answer": "Muat naik fail audio anda ke TranscriptX dan ia akan menukar pertuturan itu kepada teks bertulis dalam beberapa saat, dalam lebih 100 bahasa, dengan setiap penutur dilabel. Selepas itu anda boleh membaca, menyalin, menyunting atau mengeksport transkrip sebagai TXT, DOCX, PDF, SRT atau VTT. Tiada akaun diperlukan, tiada had saiz fail, dan tiada apa-apa yang perlu dipasang."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Transkrip Audio ke Teks?",
+            "content": [
+                "Transkrip audio ke teks menukar pertuturan di dalam sesuatu rakaman kepada perkataan bertulis. Anda berikan alat ini sebuah fail — episod podcast, temu bual, rakaman mesyuarat, kuliah — dan anda tidak perlu lagi mendengarnya dari mula hingga habis sambil menaip apa yang anda dengar; keseluruhannya dikembalikan kepada anda dalam bentuk teks.",
+                "Sebabnya penting ialah audio merupakan bekas yang lemah untuk maklumat yang anda perlu gunakan. Anda tidak boleh mengimbas rakaman, anda tidak boleh mencari satu ayat yang anda hajati, dan anda tidak boleh menyalin petikan daripadanya. Satu jam audio menyembunyikan kandungannya di dalam enam puluh minit yang terpaksa anda lalui dalam masa sebenar. Jam yang sama dalam bentuk teks ialah sesuatu yang anda baca dalam sepersekian masa, cari dalam sekelip mata, dan tampal ke mana-mana sahaja ia diperlukan.",
+                "Transkripsi audio juga membuka semua langkah seterusnya. Sebaik sahaja rakaman menjadi teks, anda boleh menterjemahnya, menjadikannya sarikata, meringkaskannya, memetiknya dengan tepat, atau menyerahkannya kepada pembantu AI seperti ChatGPT, Claude atau Gemini untuk dianalisis — tiada satu pun daripadanya mungkin selagi perkataan itu terkunci di dalam audio.",
+                "TranscriptX menjalankan penukaran ini secara percuma, terus di dalam pelayar, tanpa akaun dan tanpa had berapa besar fail itu boleh jadi."
+            ]
+        },
+        {
+            "h2": "Transkrip Audio Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Harga",
+                    "value": "Percuma"
+                },
+                {
+                    "label": "Akaun diperlukan",
+                    "value": "Tidak"
+                },
+                {
+                    "label": "Pemasangan",
+                    "value": "Tiada — berjalan dalam pelayar"
+                },
+                {
+                    "label": "Had saiz fail",
+                    "value": "Tiada"
+                },
+                {
+                    "label": "Format diterima",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG dan banyak lagi"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Pengasingan penutur",
+                    "value": "Ya — setiap penutur dilabel"
+                },
+                {
+                    "label": "Cap masa",
+                    "value": "Pilihan — buka atau tutup bagi setiap transkrip"
+                },
+                {
+                    "label": "Format eksport",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Peranti",
+                    "value": "Pelayar desktop, tablet dan mudah alih"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Tukar Fail Audio kepada Teks",
+            "steps": [
+                {
+                    "h3": "Muat naik fail audio",
+                    "content": "Lepaskan fail MP3, WAV, M4A atau apa-apa format audio biasa yang lain, atau tampal pautan ke rakaman itu. Tiada had pada panjang fail, jadi nota suara dua minit dan panel tiga jam kedua-duanya berfungsi."
+                },
+                {
+                    "h3": "Alat ini membuat transkrip pertuturan",
+                    "content": "TranscriptX mengesan bahasa yang dituturkan dengan sendirinya merentasi lebih 100 bahasa, mengasingkan suara daripada bunyi latar, mengenal pasti setiap penutur, dan menulis perkataannya lengkap dengan tanda baca dan pemisahan ayat."
+                },
+                {
+                    "h3": "Semak transkrip",
+                    "content": "Bacanya sekali lalu dan betulkan apa-apa yang sukar ditangkap kerana keadaan rakaman. Nama, nombor, akronim dan istilah teknikal ialah perkara yang berbaloi disemak sekali lagi sebelum anda bergantung pada teks itu."
+                },
+                {
+                    "h3": "Eksport atau salin teks",
+                    "content": "Salin transkrip terus, atau muat turun sebagai TXT, DOCX, PDF, SRT atau VTT. Hidupkan cap masa dahulu jika anda memerlukannya untuk sarikata atau untuk menyemak sesuatu petikan dengan audio asal."
+                }
+            ]
+        },
+        {
+            "h2": "Penukar Audio ke Teks Percuma",
+            "content": [
+                "TranscriptX ialah penukar audio ke teks percuma yang tidak menyorokkan dinding bayaran di penghujungnya — satu alat yang bebas daripada helah biasa. Banyak alat lain membenarkan anda muat naik, menjalankan transkripsi, kemudian meminta kad kredit sebelum menunjukkan hasilnya, atau mengehadkan anda kepada beberapa minit audio sahaja. Tiada semua itu di sini — penukaran adalah percuma, tiada akaun untuk dibuka, dan tiada had berapa panjang atau berapa besar fail itu.",
+                "Ia dibina untuk orang yang sudah pun ada audio dan hanya mahukan teks. Anda tidak mendaftar langganan atau belajar menggunakan sesuatu perisian; anda muat naik satu fail, convert audio ke teks, dan ambil hasilnya. Sama ada anda perlu jadikan audio sebagai teks sekali sahaja atau setiap minggu, aliran kerjanya sama dan hadnya tidak pernah muncul.",
+                "Oleh sebab semuanya berjalan dalam pelayar, penukar audio ke teks percuma ini berfungsi sama rata pada telefon, tablet atau komputer riba — tiada apa-apa untuk dimuat turun dan tiada pemalam yang perlu dikemas kini."
+            ]
+        },
+        {
+            "h2": "Buat Transkrip Audio dengan Tepat",
+            "content": [
+                "Menukar sesuatu fail dan membuat transkripnya ialah tindakan yang sama di sini, tetapi perkataan transkrip biasanya menandakan piawaian yang lebih tinggi: anda perlukan transkrip audio ke teks yang betul, bukan sekadar lebih kurang betul. Itulah keadaannya untuk temu bual yang akan anda petik, mesyuarat yang akan anda tindaki, dan penyelidikan yang akan anda rujuk.",
+                "TranscriptX dibina untuk piawaian itu. Apabila anda membuat transkrip audio ke teks, ia bukan sekadar mencurahkan perkataan pada halaman — ia meletakkan tanda baca pada pertuturan, memecahkannya kepada ayat yang mudah dibaca, dan melabel setiap penutur, supaya rakaman yang melibatkan tiga orang kembali sebagai rekod jelas siapa kata apa dan bukan satu blok yang tidak berpenghujung.",
+                "Ia juga mampu mengendalikan rakaman yang lebih mencabar. Alat ini boleh tukar rakaman kepada teks walaupun ada bunyi latar, pertuturan bertindih atau loghat yang pekat, cuma itulah bahagian yang berbaloi disemak sebelum anda menerbitkannya. Bagi rakaman bersih dengan seorang penutur sahaja, transkrip kembali hampir perkataan demi perkataan."
+            ]
+        },
+        {
+            "h2": "Format Audio yang Disokong",
+            "intro": [
+                "TranscriptX menerima format yang paling mungkin ada pada anda, jadi anda jarang perlu menukar sesuatu fail sebelum memuat naiknya."
+            ],
+            "items": [
+                {
+                    "h3": "MP3",
+                    "content": "Format audio paling biasa, digunakan oleh kebanyakan podcast, perakam suara dan fail muat turun. Muat naik terus untuk tukar MP3 kepada teks tanpa langkah tambahan."
+                },
+                {
+                    "h3": "WAV",
+                    "content": "Format berkualiti tinggi tanpa mampatan yang dihasilkan oleh perakam profesional dan perisian audio. Failnya lebih besar, tetapi tiada had saiz yang perlu dirisaukan."
+                },
+                {
+                    "h3": "M4A dan AAC",
+                    "content": "Format yang disimpan secara lalai oleh iPhone, aplikasi nota suara dan banyak alat rakaman. Muat naik terus daripada peranti anda tanpa langkah penukaran."
+                },
+                {
+                    "h3": "FLAC dan OGG",
+                    "content": "Format lossless dan sumber terbuka yang digunakan oleh arkivis dan sesetengah aplikasi rakaman. Kedua-duanya dimuat naik dan ditranskripkan seperti mana-mana fail lain."
+                }
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkrip",
+            "intro": [
+                "Jika ada pertuturan dalam rakaman itu, TranscriptX boleh menjadikannya teks. Berikut antara rakaman yang paling kerap ditukar orang, dan sebab transkrip itu penting bagi setiap satu:"
+            ],
+            "items": [
+                {
+                    "h3": "Podcast",
+                    "content": "Satu episod menjadi nota rancangan, surat berita, artikel, petikan untuk media sosial, dan arkib yang boleh dicari — semuanya daripada satu transkrip, tanpa perlu memainkan semula audio untuk mencari setiap detik."
+                },
+                {
+                    "h3": "Temu bual",
+                    "content": "Wartawan dan penyelidik mendapat perkataan yang tepat, lengkap dengan label penutur dan cap masa pilihan, supaya sesuatu petikan boleh diambil dengan tepat dan disemak dengan saat ia diucapkan."
+                },
+                {
+                    "h3": "Mesyuarat dan panggilan",
+                    "content": "Rakaman mesyuarat menjadi rekod bertulis tentang keputusan dan tindakan susulan, dengan setiap peserta dilabel, supaya ia terbaca sebagai minit sebenar dan bukan sekadar dinding teks."
+                },
+                {
+                    "h3": "Kuliah dan kursus",
+                    "content": "Pelajar menjadikan rakaman pelajaran sebagai bahan ulang kaji yang boleh dicari mengikut istilah, ditanda dan diringkaskan menjadi nota lama selepas kelas berakhir."
+                },
+                {
+                    "h3": "Rakaman guaman dan perubatan",
+                    "content": "Pengambilan keterangan, imlak dan sesi perundingan menjadi dokumen yang boleh disemak, difailkan dan dicari — dengan peringatan supaya nama dan istilah disemak dengan teliti sebelum apa-apa urusan rasmi."
+                },
+                {
+                    "h3": "Nota dan memo suara",
+                    "content": "Idea yang dirakam sambil bergerak menjadi teks yang boleh disunting, jadi buah fikiran itu tercatat tanpa anda perlu berhenti untuk menaipnya."
+                }
+            ]
+        },
+        {
+            "h2": "Sejauh Mana Tepatnya Transkrip Audio?",
+            "content": [
+                "Ketepatan sesuatu transkrip audio bergantung terutamanya pada rakaman itu sendiri. Pertuturan yang jelas, kelantangan yang stabil dan bunyi latar yang rendah menghasilkan keputusan terbaik — temu bual yang dirakam dengan baik atau podcast studio selalunya kembali hampir perkataan demi perkataan.",
+                "Ketepatan menurun apabila audionya kelam-kabut: beberapa orang bercakap serentak, gema yang kuat, muzik kuat di sebalik pertuturan, atau loghat pekat yang bergabung dengan jargon padat. Transkripsi tetap berjalan, tetapi itulah bahagian yang berbaloi dibaca dengan teliti sebelum anda bergantung padanya.",
+                "Cara praktikal untuk menyemak ialah mengimbas transkrip berbanding bahagian rakaman yang paling anda pentingkan — nombor, nama, dakwaan utama — dan membetulkan mana-mana daripadanya secara manual. Membetulkan segelintir perkataan mengambil masa beberapa saat sahaja berbanding menaip seluruh rakaman sendiri, dan itulah tujuan sebenar tukar audio kepada teks sejak mula."
+            ]
+        },
+        {
+            "h2": "Transkrip Audio dalam Lebih 100 Bahasa",
+            "content": [
+                "TranscriptX membuat transkrip pertuturan dalam lebih 100 bahasa dan mengesan sendiri bahasa yang didengarinya, jadi anda tidak perlu memilih apa-apa sebelum memuat naik. Rakaman dalam bahasa Melayu kembali sebagai teks bahasa Melayu, rakaman dalam bahasa Jepun kembali sebagai teks bahasa Jepun.",
+                "Pengasingan penutur berfungsi merentasi setiap bahasa, dan itulah yang mengekalkan rakaman berbilang orang supaya kekal mudah dibaca dan tidak bercampur aduk. Dan oleh sebab transkrip itu teks biasa, anda boleh menterjemahnya kemudian — buat transkrip audio dalam bahasa asalnya, kemudian terjemahkan hasilnya untuk berkongsi kandungan yang sama dengan khalayak yang tidak menuturkannya."
+            ]
+        },
+        {
+            "h2": "Eksport Transkrip Anda dalam Lima Format",
+            "content": [
+                "Setiap transkrip dieksport dalam lima format, dan yang mana satu sesuai bergantung pada apa yang berlaku kepada teks itu selepas ini. TXT ialah teks biasa tanpa format — pilihan paling bersih untuk dibaca, dicari atau ditampal ke dalam alat lain. DOCX dibuka dalam Word, Google Docs dan Pages apabila anda perlu mengolah semula transkrip sebagai dokumen. PDF memberikan anda rekod tetap yang kelihatan sama bagi semua orang, sesuai untuk dikongsi atau difailkan apabila sesuatu itu tidak sepatutnya disunting.",
+                "Dua lagi format membawa maklumat masa. SRT ialah format sarikata yang diterima hampir setiap platform dan penyunting video, jadi hidupkan cap masa dan eksport SRT jika audio itu milik sesuatu video yang anda mahu beri sarikata. VTT melakukan kerja yang sama untuk pemain video berasaskan web.",
+                "Jika rakaman anda bermula sebagai perkataan yang dituturkan dan bukan sebagai fail media — memo suara, imlak, rakaman langsung anda sendiri — alat [Suara ke Teks](/ms/voice-to-text) memang dibentuk untuk itu, dengan pilihan merakam terus dalam pelayar. Dan apabila sumbernya video dan bukan fail audio, alat [Transkrip YouTube](/ms/youtube-transcript) dan [Transkrip TikTok](/ms/tiktok-transcript) mengendalikan platform tersebut secara terus."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana saya boleh tukar audio kepada teks secara percuma?",
+                    "a": "Muat naik fail audio anda ke TranscriptX dan ia akan membuat transkripnya menjadi teks tanpa sebarang kos. Tiada akaun untuk dibuka, tiada perisian untuk dipasang dan tiada had pada saiz atau panjang fail. Setelah siap, anda boleh menyalin atau mengeksport transkrip itu."
+                },
+                {
+                    "q": "Format audio apa yang boleh saya muat naik?",
+                    "a": "Format yang biasa — antaranya MP3, WAV, M4A, AAC, FLAC dan OGG — jadi kebiasaannya anda boleh muat naik fail terus daripada perakam atau telefon anda tanpa perlu menukarnya dahulu."
+                },
+                {
+                    "q": "Adakah had pada saiz atau panjang fail?",
+                    "a": "Tiada. Nota suara pendek dan rakaman berjam-jam kedua-duanya berfungsi. Fail yang lebih panjang cuma mengambil sedikit masa tambahan untuk diproses."
+                },
+                {
+                    "q": "Sejauh mana tepatnya transkripsi ini?",
+                    "a": "Ketepatan bergantung terutamanya pada rakaman itu. Pertuturan yang jelas dan bunyi latar yang rendah memberikan hasil hampir perkataan demi perkataan, manakala penutur bertindih, gema atau loghat pekat akan menurunkannya. Menyemak nama, nombor dan istilah teknikal sebelum anda bergantung pada teks itu sentiasa berbaloi."
+                },
+                {
+                    "q": "Bolehkah ia membezakan penutur yang berlainan?",
+                    "a": "Ya. TranscriptX melabel setiap penutur secara berasingan, jadi temu bual, mesyuarat dan rakaman berbilang orang kembali dengan menunjukkan siapa kata apa dan bukan sebagai satu blok teks."
+                },
+                {
+                    "q": "Bahasa apa yang disokong?",
+                    "a": "Lebih 100. Bahasa yang dituturkan dikesan secara automatik, jadi anda tidak perlu memilihnya sebelum memuat naik, dan transkrip kembali dalam bahasa yang sama."
+                },
+                {
+                    "q": "Bolehkah saya dapatkan cap masa dalam transkrip?",
+                    "a": "Boleh, dan ia adalah pilihan. Hidupkannya apabila anda perlukan fail sarikata atau mahu melompat kembali ke sesuatu bahagian dalam rakaman; matikannya untuk teks bacaan yang bersih."
+                },
+                {
+                    "q": "Format apa yang boleh saya eksport?",
+                    "a": "Lima kesemuanya — TXT, DOCX dan PDF untuk dibaca dan disunting, serta SRT dan VTT untuk kapsyen dan sarikata. Anda juga boleh menyalin teks itu secara terus."
+                },
+                {
+                    "q": "Perlukah saya memasang apa-apa perisian?",
+                    "a": "Tidak. Semuanya berjalan dalam pelayar, sama ada pada desktop atau mudah alih. Tiada aplikasi, pemalam atau sambungan yang perlu dipasang sebelum anda membuat transkrip."
+                },
+                {
+                    "q": "Apakah perbezaan antara audio ke teks dan suara ke teks?",
+                    "a": "Audio ke teks adalah untuk fail audio yang sedia ada — podcast, temu bual, rakaman mesyuarat. Suara ke teks pula adalah untuk menangkap perkataan yang dituturkan secara langsung, termasuk merakam suara anda sendiri. Jika anda mahu berimlak atau tukar suara kepada teks daripada memo suara, gunakan alat Suara ke Teks."
+                },
+                {
+                    "q": "Bolehkah saya tampal transkrip ini ke dalam ChatGPT atau Claude?",
+                    "a": "Boleh. Sebaik sahaja audio itu menjadi teks, salin atau eksportkannya dan masukkan ke dalam mana-mana pembantu AI untuk meringkaskan rakaman, mengeluarkan senarai tindakan, atau mengolahnya semula menjadi artikel."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Buat Transkrip Audio ke Teks Anda Secara Percuma",
+        "content": [
+            "Muat naik MP3, WAV, M4A atau apa-apa fail audio biasa dan TranscriptX akan menukarnya menjadi teks dalam lebih 100 bahasa, dengan label penutur dan cap masa pilihan. Tiada akaun, tiada had saiz fail dan tiada kos.",
+            "Baca, salin, sunting, terjemah, atau eksportkannya sebagai TXT, DOCX, PDF, SRT atau VTT — apa sahaja yang diperlukan oleh langkah anda seterusnya daripada rakaman itu."
+        ]
+    }
+}

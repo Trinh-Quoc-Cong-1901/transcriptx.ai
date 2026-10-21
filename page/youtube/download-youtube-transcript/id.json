@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Download Transkrip YouTube — Gratis TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "Download transkrip YouTube gratis dalam format TXT, DOCX, PDF, atau SRT. Tempel link, ambil transkripnya, lalu simpan filenya ke perangkat Anda untuk dibaca offline. Tanpa daftar.",
+        "schemaName": "TranscriptX — Alat Download Transkrip YouTube",
+        "schemaDescription": "Alat gratis untuk mengunduh transkrip video YouTube publik sebagai file TXT, DOCX, PDF, atau SRT. Cukup tempel link dan simpan transkripnya ke perangkat Anda tanpa perlu akun.",
+        "ogTitle": "Download Transkrip YouTube — Gratis TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Simpan transkrip video YouTube apa pun ke perangkat Anda. Download dalam format TXT, DOCX, PDF, atau SRT, gratis dan tanpa daftar."
+    },
+    "hero": {
+        "h1": "Download Transkrip YouTube",
+        "subtitle": "Simpan transkrip video YouTube publik apa pun ke perangkat Anda. Tempel link, lalu download teksnya sebagai TXT, DOCX, PDF, atau SRT untuk dibaca offline, diarsipkan, atau langsung dimasukkan ke dalam dokumen. Tanpa akun, tanpa instalasi.",
+        "placeholder": "Tempel URL video YouTube...",
+        "button": "Ambil & Download Transkrip"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara download transkrip YouTube?",
+        "answer": "Tempel link YouTube publik ke TranscriptX, lalu setelah transkripnya siap, pilih format dan unduh. Anda bisa menyimpannya sebagai TXT, DOCX, PDF, atau SRT ke komputer atau ponsel Anda. Tanpa daftar, dan tidak ada apa pun yang perlu dipasang lebih dulu."
+    },
+    "sections": [
+        {
+            "h2": "Apa Gunanya Download Transkrip YouTube ke Perangkat Anda",
+            "content": [
+                "Membaca transkrip di layar sudah cukup selama Anda duduk di meja kerja dengan koneksi internet. Download transkrip YouTube adalah yang Anda butuhkan ketika teksnya harus bertahan lebih lama daripada satu tab browser — ketika Anda perlu sebuah file milik Anda sendiri, tersimpan di perangkat Anda, yang bisa dibuka dengan atau tanpa internet.",
+                "Transkrip yang sudah diunduh adalah dokumen sungguhan. Anda bisa memasukkannya ke folder riset, melampirkannya ke email, menaruhnya di drive bersama, atau mencetaknya. Ia berhenti menjadi sesuatu yang Anda lihat sekali lalu hilang, dan menjadi bagian dari arsip Anda. Dengan kata lain, Anda download teks video YouTube supaya isi pembicaraannya tersimpan permanen.",
+                "TranscriptX menyiapkan transkripnya lalu menyerahkan unduhannya kepada Anda. Videonya sendiri tetap ada di YouTube; yang mendarat di perangkat Anda hanyalah teksnya, dalam format yang Anda pilih."
+            ]
+        },
+        {
+            "h2": "Format Mana yang Sebaiknya Anda Download?",
+            "intro": [
+                "File yang tepat sepenuhnya bergantung pada apa yang akan terjadi pada transkrip itu berikutnya. Empat format mencakup hampir semua kebutuhan."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — teks polos",
+                    "content": "Pilihan paling ringan dan paling mudah dibawa. File .txt bisa dibuka di mana saja, tidak membawa format apa pun yang mengganggu, dan paling bersih untuk ditempel ke alat lain atau ke asisten AI. Pilih download transkrip YouTube txt kalau Anda hanya butuh kata-katanya — ini juga cara paling ringkas untuk download subtitle YouTube jadi teks biasa."
+                },
+                {
+                    "h3": "DOCX — dokumen yang bisa diedit",
+                    "content": "Bisa dibuka di Word, Google Docs, dan Pages. Pilih DOCX kalau Anda berencana menggarap transkripnya — menambah judul, sorotan, komentar, lacak perubahan — dan memperlakukannya sebagai dokumen kerja, bukan teks mentah."
+                },
+                {
+                    "h3": "PDF — arsip tetap untuk dibagikan",
+                    "content": "Tampilannya identik di setiap perangkat dan memang tidak dimaksudkan untuk diedit. Pilih PDF kalau Anda mengirim transkripnya ke orang lain, mengarsipkannya sebagai catatan, atau mencetaknya, dan ingin tata letaknya tetap persis seperti itu."
+                },
+                {
+                    "h3": "SRT — transkrip dengan penanda waktu",
+                    "content": "Setiap barisnya membawa penanda waktu. Pilih SRT kalau Anda butuh transkrip yang terikat ke momen tertentu di dalam video — untuk membuat file subtitle bertimecode, untuk mencocokkan sebuah kutipan dengan audionya, atau untuk alat apa pun yang mengharapkan teks bertimecode."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Download Transkrip YouTube",
+            "steps": [
+                {
+                    "h3": "Tempel link YouTube",
+                    "content": "Salin URL video publik yang Anda inginkan lalu tempel ke kotak di atas. Cara mengunduh transkrip YouTube dimulai di sini: tidak ada langkah membuat akun dan tidak ada file yang perlu diunggah lebih dulu."
+                },
+                {
+                    "h3": "Biarkan transkripnya tersusun",
+                    "content": "TranscriptX membaca audionya dan menuliskan transkrip lengkapnya dalam lebih dari 100 bahasa, dengan label untuk setiap pembicara dan tanda baca yang sudah dirapikan."
+                },
+                {
+                    "h3": "Pilih format Anda",
+                    "content": "Pilih TXT, DOCX, PDF, atau SRT sesuai dengan apa yang akan Anda lakukan berikutnya. Nyalakan penanda waktu lebih dulu kalau Anda mengunduh SRT atau ingin penanda waktunya ikut masuk ke dalam file."
+                },
+                {
+                    "h3": "Unduh filenya",
+                    "content": "Simpan ke komputer atau ponsel Anda. Di sinilah proses unduh transkrip video YouTube selesai: transkripnya kini menjadi file milik Anda, siap dibuka offline, dibagikan, atau diarsipkan."
+                }
+            ]
+        },
+        {
+            "h2": "Ketika Anda Butuh Filenya, Bukan Sekadar Teks di Layar",
+            "intro": [
+                "Mengunduh paling terasa gunanya ketika transkrip harus keluar dari browser dan masuk ke alur kerja yang sesungguhnya. Beberapa contohnya:"
+            ],
+            "items": [
+                {
+                    "h3": "Membangun arsip riset",
+                    "content": "Peneliti menyimpan transkrip YouTube dari wawancara, ceramah, dan film dokumenter ke dalam satu folder proyek, sehingga sumber-sumbernya tetap berkumpul, bisa dicari, dan bisa dikutip lama setelah videonya selesai ditonton."
+                },
+                {
+                    "h3": "Mengumpulkan atau mengarsipkan catatan",
+                    "content": "Ketika sebuah transkrip harus dikumpulkan, dilampirkan, atau disimpan sebagai berkas — untuk tugas kuliah, catatan hukum, atau laporan — versi PDF atau DOCX yang sudah diunduh itulah yang bisa dikirim ke mana-mana."
+                },
+                {
+                    "h3": "Bekerja offline",
+                    "content": "File TXT atau DOCX yang sudah diunduh bisa dibuka di pesawat, di kereta, atau di mana pun sinyalnya hilang, sehingga kegiatan membaca dan mengedit tidak ikut berhenti saat internetnya berhenti."
+                },
+                {
+                    "h3": "Menyerahkannya ke alat lain",
+                    "content": "Sebagian perangkat lunak meminta sebuah file, bukan teks yang ditempel. Mengunduh memberi Anda sesuatu untuk diunggah — ke alat penerjemah, sistem dokumen, atau editor."
+                },
+                {
+                    "h3": "Menyimpan salinan pribadi",
+                    "content": "Video bisa dihapus, diubah menjadi privat, atau disunting. Karena itu banyak orang lebih dulu ambil transkrip video YouTube lalu simpan transkrip YouTube tersebut sebagai salinan sendiri atas apa yang pernah diucapkan, apa pun yang nanti terjadi pada aslinya."
+                }
+            ]
+        },
+        {
+            "h2": "Download Transkrip YouTube dalam Lebih dari 100 Bahasa",
+            "content": [
+                "Unduhannya tidak terbatas pada bahasa Inggris. TranscriptX mentranskrip ucapan dalam lebih dari 100 bahasa dan mendeteksi bahasanya sendiri, jadi file yang Anda simpan keluar dalam bahasa yang dipakai di videonya. Video berbahasa Indonesia menghasilkan transkrip bahasa Indonesia yang rapi; begitu pula video berbahasa Inggris atau Jepang.",
+                "Setiap format membawa transkrip lengkap dengan pembicara yang tetap terpisah, sehingga wawancara atau diskusi panel yang sudah diunduh terbaca sebagai catatan yang jelas tentang siapa mengatakan apa, bukan satu blok teks yang menyatu — format mana pun dari keempatnya yang Anda pilih. Dan download transkrip YouTube gratis di sini berlaku sama untuk semua bahasa."
+            ]
+        },
+        {
+            "h2": "Kapan Alat Lain Lebih Cocok",
+            "content": [
+                "Mengunduh transkrip menjadi sebuah file hanyalah satu opsi di antara beberapa, dan setiap alat TranscriptX dibentuk untuk kebutuhan yang berbeda. Kalau tujuan Anda sedikit berbeda, salah satu alat berikut lebih pas.",
+                "Kalau Anda hanya ingin membaca dan menyalin transkripnya tanpa menyimpan file sama sekali, alat [YouTube Transcript](/id/youtube-transcript) menahan semuanya tetap di layar. Kalau yang sebenarnya Anda cari adalah cara download subtitle YouTube berupa file subtitle bertimecode untuk editor video, bukan sebuah dokumen untuk dibaca, maka [YouTube Subtitle Downloader](/id/youtube-subtitle-downloader) mengekspor SRT dan VTT untuk keperluan itu. Dan kalau teks lengkapnya lebih banyak daripada yang Anda perlukan, [YouTube Video Summarizer](/id/youtube-video-summarizer) memadatkan videonya menjadi poin-poin utamanya saja."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara download transkrip dari sebuah video YouTube?",
+                    "a": "Tempel link videonya ke TranscriptX, tunggu transkripnya tersusun, pilih TXT, DOCX, PDF, atau SRT, lalu unduh. Filenya langsung tersimpan ke perangkat Anda tanpa perlu akun."
+                },
+                {
+                    "q": "Apakah download transkrip YouTube gratis?",
+                    "a": "Ya. Mengambil transkripnya maupun mengunduhnya sama-sama gratis, tanpa akun yang harus dibuat dan tanpa batasan seberapa panjang videonya."
+                },
+                {
+                    "q": "Format apa saja yang bisa saya unduh?",
+                    "a": "Ada empat: TXT untuk teks polos, DOCX untuk dokumen yang bisa diedit, PDF untuk arsip yang tetap, dan SRT untuk transkrip dengan penanda waktu."
+                },
+                {
+                    "q": "Bisakah saya mengunduh transkrip lengkap dengan penanda waktu?",
+                    "a": "Bisa. Nyalakan penanda waktu sebelum mengekspor, lalu unduh SRT untuk mempertahankan waktunya, atau sertakan penanda waktu itu di dalam file TXT maupun DOCX."
+                },
+                {
+                    "q": "Filenya tersimpan di mana?",
+                    "a": "Di tempat browser Anda menyimpan unduhan — folder Downloads di komputer atau penyimpanan di ponsel Anda. Dari sana Anda bisa memindahkannya, membukanya offline, atau membagikannya."
+                },
+                {
+                    "q": "Bisakah saya mengunduh transkrip dari video yang panjang?",
+                    "a": "Bisa. Tidak ada batas durasi. Transkrip lengkap dari video berdurasi berjam-jam tetap terunduh sebagai satu file, format mana pun yang Anda pilih."
+                },
+                {
+                    "q": "Apakah saya perlu memasang sesuatu untuk mengunduh?",
+                    "a": "Tidak. Semuanya berjalan di browser. Tidak ada perangkat lunak, ekstensi, atau aplikasi yang perlu dipasang sebelum Anda bisa download transkrip YouTube txt atau format lainnya."
+                },
+                {
+                    "q": "Format mana yang paling baik untuk diedit nanti?",
+                    "a": "DOCX. Format ini bisa dibuka di Word, Google Docs, dan Pages serta mempertahankan format, jadi paling mudah untuk ditulis ulang. Pilih TXT kalau Anda hanya butuh kata-kata mentahnya, atau PDF untuk versi yang sebaiknya tidak berubah."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Download Transkrip YouTube Anda Gratis",
+        "content": [
+            "Tempel link sebuah video YouTube publik, biarkan TranscriptX menyusun transkripnya dalam lebih dari 100 bahasa, lalu unduh sebagai TXT, DOCX, PDF, atau SRT.",
+            "Transkripnya menjadi sebuah file milik Anda — siap dibaca offline, diarsipkan, dicetak, atau dibagikan. Tanpa akun, tanpa instalasi, tanpa biaya."
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Privacy Policy | TranscriptX",
+    "meta_description": "Learn how TranscriptX collects, uses, and protects information when you use our AI transcription platform for video, audio, transcripts, subtitles, captions, and AI summaries."
+  },
+  "headings": {
+    "h1": "Privacy Policy"
+  },
+  "hero": {
+    "title": "Your Privacy Matters",
+    "description": "TranscriptX is committed to protecting your privacy while providing secure, reliable, and AI-powered transcription services."
+  },
+  "contact": {
+    "email": "contact.freemd.io@gmail.com",
+    "label": "Privacy Contact"
+  },
+  "sections": {
+    "1": {
+      "tag": "p",
+      "content": [
+        "This Privacy Policy explains how TranscriptX collects, uses, and protects information when you access or use our AI transcription platform.",
+        "By using TranscriptX, you acknowledge and agree to the practices described in this Privacy Policy.",
+        "We are committed to handling your information responsibly while providing secure and reliable AI transcription services."
+      ]
+    },
+    "2": {
+      "tag": "h2",
+      "title": "About TranscriptX",
+      "body": [
+        "TranscriptX is an AI-powered transcription platform that helps users convert video and audio into accurate transcripts, subtitles, captions, and AI-generated summaries.",
+        "Our platform includes tools such as AI Transcription, Video to Text, Audio to Text, YouTube Transcript, TikTok Transcript, Instagram Transcript, Facebook Transcript, Subtitle & Caption generation, and AI Summarization.",
+        "Most features can be used directly from your browser without creating an account or installing software."
+      ]
+    },
+    "3": {
+      "tag": "h2",
+      "title": "Information We Collect",
+      "body": [
+        "When you visit TranscriptX, certain technical information may be collected automatically to help operate and improve our platform.",
+        "This information may include your IP address, browser type, operating system, device information, approximate location, pages visited, referring pages, and timestamps.",
+        "We use this information to improve platform stability, monitor performance, detect security issues, and enhance the overall user experience."
+      ]
+    },
+    "4": {
+      "tag": "h2",
+      "title": "Media Files and AI Processing",
+      "body": [
+        "TranscriptX allows users to upload video and audio files or use supported online transcription tools to generate transcripts, subtitles, captions, and AI summaries.",
+        "Your content is processed only to provide the requested AI transcription and related features.",
+        "TranscriptX is an AI processing platform and is not intended to operate as a public file hosting, publishing, cloud storage, or media sharing service.",
+        "We do not claim ownership of any media files, transcripts, subtitles, captions, summaries, or other content processed through our platform."
+      ]
+    },
+    "5": {
+      "tag": "h2",
+      "title": "How We Use Your Information",
+      "body": [
+        "Information collected by TranscriptX is used to provide and improve our AI transcription services, maintain platform security, optimize performance, diagnose technical issues, and enhance product quality.",
+        "We may also use aggregated and non-identifiable usage statistics to better understand how users interact with our platform and prioritize future improvements.",
+        "We do not sell your personal information to third parties."
+      ]
+    },
+    "6": {
+      "tag": "h2",
+      "title": "Cookies and Similar Technologies",
+      "body": [
+        "TranscriptX may use cookies and similar technologies to improve website functionality, remember user preferences, maintain sessions, and analyze platform performance.",
+        "You may manage or disable cookies through your browser settings, although doing so may affect certain features of the website."
+      ]
+    },
+    "7": {
+      "tag": "h2",
+      "title": "Data Security",
+      "body": [
+        "We implement reasonable technical and organizational safeguards designed to protect information from unauthorized access, disclosure, alteration, or misuse.",
+        "Our team continuously works to improve the security and reliability of TranscriptX.",
+        "While we strive to protect your information, no internet-based service can guarantee absolute security."
+      ]
+    },
+    "8": {
+      "tag": "h2",
+      "title": "Third-Party Services",
+      "body": [
+        "TranscriptX may use trusted third-party providers for cloud infrastructure, analytics, security, content delivery, payment processing, or other operational services.",
+        "These providers only process information when necessary to support our services and are subject to their own privacy and security practices."
+      ]
+    },
+    "9": {
+      "tag": "h2",
+      "title": "Children's Privacy",
+      "body": [
+        "TranscriptX is not intended for children under the age of 13.",
+        "We do not knowingly collect personal information from children.",
+        "If you believe that a child has submitted personal information through our platform, please contact us so we can take appropriate action."
+      ]
+    },
+    "10": {
+      "tag": "h2",
+      "title": "Changes to This Privacy Policy",
+      "body": [
+        "We may update this Privacy Policy periodically to reflect changes to our AI transcription services, legal requirements, or operational practices.",
+        "The latest version will always be available on this page.",
+        "Your continued use of TranscriptX after changes are published constitutes acceptance of the updated Privacy Policy."
+      ]
+    },
+    "11": {
+      "tag": "h2",
+      "title": "Contact Us",
+      "body": [
+        "If you have questions about this Privacy Policy, our privacy practices, or how your information is handled, please contact us:",
+        "Email: contact.freemd.io@gmail.com"
+      ]
+    }
+  }
+}

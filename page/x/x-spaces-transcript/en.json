@@ -1,0 +1,168 @@
+{
+    "seo": {
+        "title": "X Spaces Transcript — Transcribe Recorded X Spaces Free | TranscriptX",
+        "description": "Get an X Spaces transcript free. Paste a recorded Space link from x.com and read the whole conversation with speakers labelled and timestamps. No X account needed.",
+        "schemaName": "TranscriptX X Spaces Transcript Tool",
+        "schemaDescription": "Free online tool that creates a transcript of a recorded X Space. Paste the Space link from x.com and get the conversation as text with speaker labels and optional timestamps, in over 100 languages, at about 1–2 minutes per hour of audio. Up to 5 hours free per day without an account; paid plans have no daily cap. Export to TXT, DOCX, PDF, SRT or VTT.",
+        "ogTitle": "X Spaces Transcript — Transcribe Recorded X Spaces Free",
+        "ogDescription": "Turn a recorded X Space into searchable text, with every speaker labelled. Free for up to 5 hours a day, no X account."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release"
+    },
+    "hero": {
+        "h1": "X Spaces Transcript – Read a Recorded Space in Minutes",
+        "subtitle": "A good X Space can run for hours: an AMA, a panel, a launch call, a weekly show. Paste the link to the recording and TranscriptX writes out the whole conversation, separates each voice and adds timestamps you can jump to. About 1–2 minutes per hour of audio, in over 100 languages, with no X account.",
+        "placeholder": "Paste an X Space link...",
+        "button": "Get Space Transcript"
+    },
+    "quickAnswer": {
+        "question": "How do I get an X Spaces transcript?",
+        "answer": "Copy the link to a recorded Space on x.com and paste it into TranscriptX. You get the full conversation as text with speaker labels and optional timestamps, at about 1–2 minutes per hour of audio. No X account is needed, and up to 5 hours a day is free. The Space has to be recorded and public; live Spaces can be transcribed once they end."
+    },
+    "sections": [
+        {
+            "h2": "Why X Spaces Need a Transcript",
+            "content": [
+                "X Spaces are live audio rooms, and the best of them are long, unscripted conversations between many people. That is what makes them valuable — and what makes them hard to revisit. There is no way to skim audio, and finding one answer in a three-hour replay means listening to most of it.",
+                "An X Spaces transcript turns the replay into a document. You can search it for a project name, a date or a number, read the part that matters, and copy exact quotes with the speaker and time attached.",
+                "For video and audio in ordinary posts rather than Spaces, see [X Transcription](/x-transcript)."
+            ]
+        },
+        {
+            "h2": "X Spaces Transcript: Key Facts",
+            "specs": [
+                {
+                    "label": "Works with",
+                    "value": "Recorded, public Spaces on x.com"
+                },
+                {
+                    "label": "X account needed",
+                    "value": "No"
+                },
+                {
+                    "label": "Free allowance",
+                    "value": "Up to 5 hours a day, resets at the start of each day (PT)"
+                },
+                {
+                    "label": "Longer sessions",
+                    "value": "No daily cap on paid plans; tested with 10-hour recordings"
+                },
+                {
+                    "label": "Processing time",
+                    "value": "About 1–2 minutes per hour; a 3-hour Space in roughly 3–6 minutes"
+                },
+                {
+                    "label": "Speakers",
+                    "value": "Each voice labelled — hosts, co-hosts, guests"
+                },
+                {
+                    "label": "Timestamps",
+                    "value": "Optional, matched to the replay"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, auto-detected"
+                },
+                {
+                    "label": "Downloads",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "From Space Replay to Transcript",
+            "steps": [
+                {
+                    "h3": "Open the replay",
+                    "content": "Find the ended Space on the host's profile or in the post that announced it, and make sure a recording is available."
+                },
+                {
+                    "h3": "Copy its link",
+                    "content": "Use the share icon to copy the Space link, or copy the x.com address from your browser."
+                },
+                {
+                    "h3": "Paste it here",
+                    "content": "TranscriptX downloads the audio from the public link — no login, no file to save. A long Space takes a few minutes; our mini-game is there if you want something to do meanwhile."
+                },
+                {
+                    "h3": "Search and share",
+                    "content": "Read the labelled conversation, jump to timestamps, and download it as a document or caption file."
+                }
+            ]
+        },
+        {
+            "h2": "Handles Long Rooms and Many Voices",
+            "content": [
+                "Spaces break most transcription tools in two ways: they are too long, and they have too many speakers. TranscriptX takes the full recording in one piece — no splitting, no one-hour cut-off — and keeps each voice separate from the first minute to the last.",
+                "The numbers: an hour of audio takes about 1–2 minutes, and up to 5 hours a day is free, enough for nearly every Space. For all-day events, a paid plan has no daily cap; our longest test, a single 10-hour recording, finished in about 10 minutes. See [Transcribe Large Audio Files](/transcribe-large-audio-files) for more on very long recordings."
+            ]
+        },
+        {
+            "h2": "Ways to Use an X Space Transcript",
+            "items": [
+                {
+                    "h3": "Hosts",
+                    "content": "Publish a written recap or show notes after every Space, and give listeners who missed it a way to catch up."
+                },
+                {
+                    "h3": "Crypto and tech communities",
+                    "content": "Keep a written record of AMAs and launch calls, so roadmap details and dates are easy to check later."
+                },
+                {
+                    "h3": "Journalists",
+                    "content": "Quote speakers exactly, with the speaker label and timestamp to back each quote up."
+                },
+                {
+                    "h3": "Listeners",
+                    "content": "Search a three-hour replay for the one topic you care about and read just that section."
+                }
+            ]
+        },
+        {
+            "h2": "When a Space Cannot Be Transcribed",
+            "content": [
+                "The Space was not recorded: without a recording, there is no audio left once the Space ends.",
+                "The Space is still live: wait until it ends and the replay is available.",
+                "The Space is not public: if the recording is restricted, TranscriptX has no permission to access it."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is the X Spaces transcript free?",
+                    "a": "Yes, for up to 5 hours of audio a day with no account and no card. The allowance resets at the start of each day, Pacific Time (PT)."
+                },
+                {
+                    "q": "How quickly is a Space transcribed?",
+                    "a": "About 1–2 minutes per hour of audio, depending on how busy the service is."
+                },
+                {
+                    "q": "Are speakers separated?",
+                    "a": "Yes. Each voice is labelled throughout, so you can follow who said what across the whole Space."
+                },
+                {
+                    "q": "Do I need to log in to X?",
+                    "a": "No. A public link to the recorded Space is all TranscriptX needs."
+                },
+                {
+                    "q": "Can I transcribe a Space longer than 5 hours?",
+                    "a": "Yes, on a paid plan, which has no daily cap. We have tested single recordings of 10 hours."
+                },
+                {
+                    "q": "How long do you keep the files?",
+                    "a": "For a few days, then they are deleted automatically. Your content is never used to train AI models."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Turn the Replay Into Something You Can Read",
+        "content": [
+            "Paste a recorded X Space link and get the whole conversation as text, with every speaker labelled and timestamps to jump to — in over 100 languages, without an X account.",
+            "Up to 5 hours free every day. For videos in regular posts, use [X Transcription](/x-transcript)."
+        ]
+    }
+}

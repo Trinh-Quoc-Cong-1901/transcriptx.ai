@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Facebook Transcript — Get & Generate Video Text Free | TranscriptX",
+        "description": "Get a Facebook transcript online free. Paste a Facebook video link to generate the text of any post, Reel or saved Live in 100+ languages. Read, copy, edit. No sign-up.",
+        "schemaName": "TranscriptX Facebook Transcript Tool",
+        "schemaDescription": "Free online tool that generates the transcript of a public Facebook video — video posts, Reels, Watch videos and saved Facebook Live streams — in over 100 languages. Paste a video link and its spoken words become text you can read, copy, edit, translate or export, with no account needed.",
+        "ogTitle": "Facebook Transcript — Get & Generate Video Text Free | TranscriptX",
+        "ogDescription": "Turn any Facebook video into text. Paste a link and generate the transcript in 100+ languages, free and with no sign-up."
+    },
+    "hero": {
+        "h1": "Facebook Transcript",
+        "subtitle": "Turn any public Facebook video into text. Paste the link to a video post, Reel or saved Facebook Live and TranscriptX generates the full transcript in over 100 languages, with each speaker labelled. Read it, copy it, edit it or translate it. No account, nothing to install.",
+        "placeholder": "Paste a Facebook video URL...",
+        "button": "Get Transcript"
+    },
+    "quickAnswer": {
+        "question": "How do I get a transcript of a Facebook video?",
+        "answer": "Copy the link to a public Facebook video and paste it into TranscriptX. It pulls the audio and produces the full transcript within seconds, across more than 100 languages, ready for you to read, copy, edit or export. You do not need to sign up, and there is nothing to install."
+    },
+    "sections": [
+        {
+            "h2": "What Is a Facebook Transcript?",
+            "content": [
+                "A Facebook transcript is the spoken content of a Facebook video written out as text. Everything said in the clip — a Live host answering questions, a creator narrating a Reel, a speaker in a recorded event — becomes words you can read, search and copy instead of scrubbing back and forth through the video.",
+                "Facebook is a hard place to get information back out of. Videos are scattered across your feed, inside groups, on Pages, and in old Live broadcasts that can be an hour long, and the platform gives you no clean way to read what was said. A transcript solves that: it turns a buried, unsearchable video into text you can actually work with.",
+                "This page exists to do one thing well — get the words out of a Facebook video. Whether you think of it as getting the transcript, generating one with AI, or converting the video to text, the result is the same, so it all lives on a single tool rather than being split across duplicates.",
+                "TranscriptX generates the transcript free, in the browser, with no account required."
+            ]
+        },
+        {
+            "h2": "Facebook Transcript at a Glance",
+            "specs": [
+                {
+                    "label": "Price",
+                    "value": "Free"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No"
+                },
+                {
+                    "label": "Installation",
+                    "value": "None — runs in the browser"
+                },
+                {
+                    "label": "Input",
+                    "value": "Any public Facebook video link"
+                },
+                {
+                    "label": "Works with",
+                    "value": "Video posts, Reels, Watch videos, saved Facebook Live"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker separation",
+                    "value": "Yes — each speaker is labelled"
+                },
+                {
+                    "label": "Works without on-screen captions",
+                    "value": "Yes — the text comes from the audio"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Devices",
+                    "value": "Desktop, tablet and mobile browsers"
+                }
+            ]
+        },
+        {
+            "h2": "How to Get a Transcript From a Facebook Video",
+            "steps": [
+                {
+                    "h3": "Copy the Facebook video link",
+                    "content": "Open the video on Facebook, click the three-dot menu or the timestamp, and copy the link — or copy the URL from the address bar on desktop. The video needs to be public."
+                },
+                {
+                    "h3": "Paste it into TranscriptX",
+                    "content": "Drop the link into the box above. There is no account to create and nothing to upload; the tool reads the video straight from the link."
+                },
+                {
+                    "h3": "The transcript is generated",
+                    "content": "TranscriptX listens to the audio, detects the spoken language on its own across more than 100 languages, separates each speaker, and writes the words out with punctuation."
+                },
+                {
+                    "h3": "Use the text",
+                    "content": "Read it on screen, copy the whole thing or a single quote, edit it, translate it, or download it to keep."
+                }
+            ]
+        },
+        {
+            "h2": "A Facebook Transcript Generator That Works Without Captions",
+            "content": [
+                "Most Facebook videos have no reliable caption track to pull from, and the auto-captions that do appear are often incomplete or wrong. So TranscriptX works as a Facebook transcript generator: it builds the text from the audio itself rather than depending on captions the creator may never have added.",
+                "That means you can transcribe Facebook video audio even when there is nothing on screen to copy — and transcribe a Facebook video that only ever went out as a Live. The AI-powered generator handles a single narrator, a two-person interview, or a room full of voices on a recorded Live, labelling each speaker as it goes. Because this Facebook transcript AI works from the audio, the result is usually cleaner than Facebook's own captions, especially on accents and specialist vocabulary.",
+                "Facebook video transcription runs the same way in every language it hears — a Live in Spanish or a Reel in Tagalog comes back as text in that language, detected automatically."
+            ]
+        },
+        {
+            "h2": "Facebook Video to Text",
+            "content": [
+                "If you do not think in terms of the word transcript and simply want to turn a Facebook video to text, this is the same tool under a name that fits. Drop in the link, and everything spoken in the video returns as clean, readable text.",
+                "Turning a Facebook video to text is useful well beyond reading it once. A recorded Live becomes a document you can search for the one answer you needed, a long community meeting becomes minutes you can share with people who missed it, and a creator's video becomes source material you can quote or repurpose — all from the text rather than the timeline."
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe on Facebook",
+            "intro": [
+                "Facebook holds more kinds of video than most platforms, and a transcript helps with all of them. The most common ones people convert:"
+            ],
+            "items": [
+                {
+                    "h3": "Saved Facebook Live streams",
+                    "content": "Live broadcasts are often the longest and most information-dense videos on Facebook — webinars, Q&As, sermons, class sessions, community meetings. A transcript turns an hour of Live into text you can read in minutes and search for the part that mattered."
+                },
+                {
+                    "h3": "Video posts",
+                    "content": "A talking-head update, an announcement or an explainer posted to a feed becomes quotable, searchable text instead of a clip you have to replay to reference."
+                },
+                {
+                    "h3": "Reels",
+                    "content": "Short-form Facebook Reels move fast, and the useful part is often a single line. A transcript captures it as text before it scrolls out of the feed."
+                },
+                {
+                    "h3": "Group and Page videos",
+                    "content": "Educational content, tutorials and discussions posted inside groups or on Pages turn into notes and references you can keep outside the platform."
+                },
+                {
+                    "h3": "Recorded events and interviews",
+                    "content": "Panels, talks and interviews streamed or posted on Facebook become transcripts with each speaker labelled, so you can pull an exact quote and attribute it correctly."
+                }
+            ]
+        },
+        {
+            "h2": "Copy, Edit, Translate or Download",
+            "content": [
+                "Once the transcript is on screen it is yours to use however the next step needs. Copy the whole thing or just one quote, edit the text to fix a name or trim filler, or translate it into another language without leaving the page.",
+                "When you want it saved rather than on screen, export it as TXT, DOCX, PDF, SRT or VTT — plain text for reading and pasting, a document for editing, a fixed file for sharing, or a timed caption file if the video needs subtitles.",
+                "Working across platforms too? The [YouTube Transcript](/youtube-transcript) and [TikTok Transcript](/tiktok-transcript) tools do the same job for those sites, and if your source is an audio file rather than a video, the [Audio to Text](/audio-to-text) tool is built for that."
+            ]
+        },
+        {
+            "h2": "Accuracy and Languages",
+            "content": [
+                "How closely the transcript matches the video depends mostly on the audio. A clear speaker in a well-recorded Live or a scripted Reel comes back close to word for word, while a noisy room, people talking over each other, or a weak phone-recorded stream will need more review.",
+                "The passages worth checking are the usual ones — names, numbers, and any technical or specialist terms — which take seconds to fix against the video compared with transcribing the whole thing yourself.",
+                "TranscriptX recognises speech in over 100 languages and detects which one it is hearing automatically, so a Facebook video in any language comes back as a transcript in that same language, with speakers kept separate throughout."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I transcribe a Facebook video for free?",
+                    "a": "Copy the link to a public Facebook video, paste it into TranscriptX, and it transcribes the video at no cost. There is no account to create, no software to install and no limit on video length."
+                },
+                {
+                    "q": "Is this a free Facebook transcript generator?",
+                    "a": "Yes. TranscriptX works as a free Facebook transcript generator — it builds the text from the audio using AI, so it works even when the video has no captions."
+                },
+                {
+                    "q": "Can I get a transcript from a Facebook Live?",
+                    "a": "Yes, once the Live has ended and the recording is saved and public. Paste the link to the saved broadcast and it transcribes the whole stream, with each speaker labelled."
+                },
+                {
+                    "q": "Can I convert a Facebook video to text?",
+                    "a": "Yes. Converting a Facebook video to text and getting its transcript are the same action here — paste the link and the spoken words come back as editable text."
+                },
+                {
+                    "q": "Does it work if the video has no captions?",
+                    "a": "Yes. The transcript comes from the audio, not from any caption track, so a Facebook video with no visible captions still transcribes normally."
+                },
+                {
+                    "q": "What languages can it transcribe?",
+                    "a": "Over 100. The spoken language is detected automatically, so the transcript comes back in whatever language the Facebook video was recorded in."
+                },
+                {
+                    "q": "Do I need a Facebook account or the app?",
+                    "a": "No. Everything runs in the browser using just the public video link — no Facebook app required and no login of any kind."
+                },
+                {
+                    "q": "Can it separate different speakers?",
+                    "a": "Yes. Each speaker is labelled separately, so a recorded Live, an interview or a group discussion reads as a clear back-and-forth rather than one block of text."
+                },
+                {
+                    "q": "Can I download or export the transcript?",
+                    "a": "Yes. Copy the text or export it as TXT, DOCX, PDF, SRT or VTT — plain text, an editable document, a fixed record, or a timed caption file."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Get Your Facebook Transcript Free",
+        "content": [
+            "Paste the link to any public Facebook video — a post, a Reel or a saved Live — and TranscriptX generates the full transcript in over 100 languages, with each speaker labelled.",
+            "Read it, copy the part you need, edit it, translate it, or export it as TXT, DOCX, PDF, SRT or VTT. No account, no install, no cost."
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "YouTube Altyazı İndirme — SRT ve VTT Ücretsiz | TranscriptX",
+        "description": "YouTube altyazı indirme ücretsiz: bağlantıyı yapıştırın, altyazıları 100'den fazla dilde zaman kodlu SRT ya da VTT dosyası olarak kaydedin. Üyelik yok, kurulum yok.",
+        "schemaName": "TranscriptX YouTube Altyazı İndirme Aracı",
+        "schemaDescription": "Herkese açık YouTube videolarından altyazı dosyalarını zaman kodlu SRT veya VTT olarak indirmeye yarayan ücretsiz araç. Her satırda bir zaman damgası bulunur, 100'den fazla dili destekler ve bağlantıyı yapıştırmanız yeterlidir — hesap gerekmez.",
+        "ogTitle": "YouTube Altyazı İndirme — SRT ve VTT Ücretsiz | TranscriptX",
+        "ogDescription": "YouTube altyazılarını zaman kodlu SRT veya VTT olarak indirin. Bağlantıyı yapıştırın, altyazı dosyasını 100'den fazla dilde kaydedin — ücretsiz ve üyeliksiz."
+    },
+    "hero": {
+        "h1": "YouTube Altyazı İndirme",
+        "subtitle": "Herkese açık her YouTube videosunun altyazılarını zaman kodlu bir altyazı dosyası olarak indirin. Bağlantıyı yapıştırın; 100'den fazla dilde SRT ya da VTT kaydedin, doğrudan bir kurgu programına alın veya başka bir platforma yükleyin. Hesap yok, kurulum yok.",
+        "placeholder": "Bir YouTube video URL'si yapıştırın...",
+        "button": "Altyazıları İndir"
+    },
+    "quickAnswer": {
+        "question": "YouTube altyazı nasıl indirilir?",
+        "answer": "Herkese açık bir YouTube bağlantısını TranscriptX'e yapıştırın; araç zaman kodlu bir altyazı dosyası hazırlar ve bunu SRT ya da VTT olarak indirebilirsiniz. Altyazılar 100'den fazla dilde, her satırında bir zaman damgasıyla gelir; kurguya almaya ya da yeniden yüklemeye hazırdır. Hesap gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "Altyazı Dosyası Aslında Nedir — YouTube Altyazı Çıkarma Ne Verir",
+            "content": [
+                "Bir altyazı dosyası yalnızca videoda söylenen kelimeleri taşımaz — kelimelerle birlikte her satırın ekranda tam olarak ne zaman belirip ne zaman kaybolacağını da taşır. Dosyayı açtığınızda 00:01:12 ile 00:01:15 gibi zaman kodlarına eşlenmiş metin blokları görürsünüz. Asıl mesele o zamanlamadır: bir oynatıcıya hangi altyazıyı ne zaman göstereceğini söyleyen şey odur.",
+                "Bir altyazı dosyasını düz bir transkriptten ayıran şey tam olarak budur. Transkript kendi başına okuduğunuz bir metindir; altyazı dosyası ise videoyla birlikte akmak üzere kurulmuş, konuşmaya kare kare senkronlanmış bir metindir.",
+                "TranscriptX bu zaman kodlu dosyayı bir YouTube videosunun sesinden üretir ve indirmenizi sağlar. Bir YouTube altyazı çıkarma aracı olarak size doğrudan bir kurgu programına ya da oynatıcıya bırakabileceğiniz altyazılar verir; elle zamanlamanız gereken bir metin yığını değil, satır satır kopyalayacağınız bir şey de değil. YouTube altyazı dosyası indirme işi böylece tek adıma iner."
+            ]
+        },
+        {
+            "h2": "SRT mi VTT mi: Hangi Altyazı Formatını İndirmeli",
+            "intro": [
+                "TranscriptX iki standart altyazı formatını da dışa aktarır. Hangisini indireceğiniz, altyazıların nereye gideceğine bağlıdır."
+            ],
+            "items": [
+                {
+                    "h3": "SRT — her yerde geçen altyazı dosyası",
+                    "content": "SubRip (.srt) neredeyse her şeyin kabul ettiği formattır: YouTube, Instagram, TikTok, Premiere, Final Cut, DaVinci Resolve ve oynatıcıların çoğu. Bir platforma altyazı yükleyecekseniz ya da dosyayı bir kurgu programına alacaksanız YouTube srt altyazı indirme yolunu seçin — güvenli varsayılan budur."
+                },
+                {
+                    "h3": "VTT — web için altyazı",
+                    "content": "WebVTT (.vtt) tarayıcıda oynayan HTML5 videosu için tasarlanmış formattır ve konumlandırma ile stil gibi ek özellikleri destekler. Altyazılar bir sosyal platforma veya kurgu programına değil de bir web sitesine ya da web uygulamasına gidecekse VTT indirin."
+                }
+            ]
+        },
+        {
+            "h2": "YouTube'dan Altyazı Nasıl İndirilir",
+            "steps": [
+                {
+                    "h3": "Bağlantıyı yapıştırın",
+                    "content": "Herkese açık YouTube videosunun URL'sini kopyalayıp yukarıdaki kutuya yapıştırın. Açmanız gereken bir hesap ve önceden yüklemeniz gereken bir dosya yoktur."
+                },
+                {
+                    "h3": "TranscriptX zaman kodlu altyazıları oluşturur",
+                    "content": "Sesi okur, dili algılar ve her satırı başlangıç ile bitiş süresiyle birlikte yazar — bir altyazı dosyasının senkronda kalması için gereken zamanlama budur."
+                },
+                {
+                    "h3": "SRT ya da VTT'yi seçin",
+                    "content": "Kurgu programı veya sosyal platform için SRT, web videosu için VTT seçin. İkisi de aynı altyazıları aynı zamanlamayla taşır."
+                },
+                {
+                    "h3": "Altyazı dosyasını indirin",
+                    "content": "Cihazınıza kaydedin; kurgu programınıza almaya, yeniden paylaştığınız bir videoyla birlikte yüklemeye ya da yayından önce çevirmeye hazırdır. YouTube altyazı nasıl indirilir sorusunun tamamı bu dört adımdan ibarettir."
+                }
+            ]
+        },
+        {
+            "h2": "İndirdiğiniz Altyazı Dosyasıyla Neler Yapabilirsiniz",
+            "intro": [
+                "Altyazı dosyası yalnızca bir başvuru metni değil, üzerinde çalışılan bir malzemedir. Yüklenmek, düzenlenmek ve yeniden kullanılmak üzere yapılmıştır:"
+            ],
+            "items": [
+                {
+                    "h3": "Kendi kurgunuza altyazı eklemek",
+                    "content": "Video editörleri SRT dosyasını Premiere, Final Cut veya Resolve'a alır, kurguya altyazı geçer, zamanlamayı kendi kesimlerine göre ayarlar ve metni videonun havasına uyacak biçimde biçimlendirir."
+                },
+                {
+                    "h3": "Altyazısıyla birlikte yeniden yüklemek",
+                    "content": "Bir videoyu kendi kanalınıza yeniden paylaşıyorsanız, YouTube video altyazı dosyası indirme adımından çıkan dosyayı videoyla birlikte yüklediğinizde izleyicileriniz tek bir kelimeyi yeniden yazmanıza gerek kalmadan altyazıyı görür."
+                },
+                {
+                    "h3": "Uluslararası izleyici için çevirmek",
+                    "content": "Altyazı dosyası, zamanlaması ayrı duran düz ve düzenlenebilir bir metin olduğundan çevirmenler satırları başka bir dile yeniden yazarken zaman kodları olduğu gibi kalır — bir videoyu yeni bir pazar için altyazılamanın en hızlı yolu budur."
+                },
+                {
+                    "h3": "Altyazıları düzeltmek ve temizlemek",
+                    "content": "Dosyayı herhangi bir metin düzenleyicide açıp bir ismi düzeltebilir, uzun bir satırı bölebilir ya da altyazılar yayına girmeden önce bir zaman kodunu kaydırabilirsiniz."
+                },
+                {
+                    "h3": "Erişilebilirlik şartlarını karşılamak",
+                    "content": "Altyazı çoğu zaman tercih değil zorunluluktur. İndirilmiş bir SRT ya da VTT dosyası, bir videoyu sağır ve işitme engelli izleyiciler için erişilebilir kılmak üzere eklediğiniz dosyanın ta kendisidir."
+                }
+            ]
+        },
+        {
+            "h2": "100'den Fazla Dilde Altyazı İndirme",
+            "content": [
+                "TranscriptX konuşulan dili kendisi algılar ve altyazıları o dilde, 100'den fazla dil arasından oluşturur — böylece indirdiğiniz altyazı dosyası videoda gerçekten söylenenle örtüşür. Türkçe bir kayıttan Türkçe altyazı çıkar; ı, ş, ğ, ç ve ü harfleri bozulmadan, noktalamasıyla birlikte.",
+                "Dosya bundan sonra çevirmek için sizindir. Zamanlama kelimelerden ayrı durduğundan metni başka bir dille değiştirseniz bile altyazılar yine doğru karelere oturur — aynı kaydın tek bir dosyadan çıkıp birkaç ayrı izleyici kitlesi için altyazılanması tam olarak böyle olur. Üstelik YouTube altyazı indirme ücretsizdir ve bu, hangi dille çalışırsanız çalışın değişmez."
+            ]
+        },
+        {
+            "h2": "Altyazı mı, Transkript mi, Özet mi?",
+            "content": [
+                "Bir videonun üzerinde akacak zaman kodlu altyazılar gerektiğinde indirmeniz gereken şey altyazı dosyasıdır. Aynı kayıttan başka bir şeye ihtiyacınız varsa, o iş için tasarlanmış başka bir TranscriptX aracı vardır.",
+                "Zaman kodu taşımayan, oynatmayla senkronlanmayan, kendi başına okunacak düz bir metin istiyorsanız [YouTube Transcript](/tr/youtube-transcript) aracı tam size göredir; aynı metni TXT, DOCX veya PDF belgesi olarak kaydetmek içinse [YouTube Transkript İndirme](/tr/download-youtube-transcript) aracı vardır. Her satırı altyazılamak yerine yalnızca neyin konuşulduğunu öğrenmek istiyorsanız [YouTube Video Summarizer](/tr/youtube-video-summarizer) ana noktaları birkaç cümlede özetler."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Bir YouTube videosunun altyazıları nasıl indirilir?",
+                    "a": "Bağlantıyı TranscriptX'e yapıştırın, zaman kodlu altyazıların oluşmasını bekleyin, SRT ya da VTT seçin ve dosyayı indirin. YouTube altyazı dosyası indirme işlemi bundan ibarettir ve hesap açmanız gerekmez."
+                },
+                {
+                    "q": "YouTube altyazı indirme sitesi ücretsiz mi?",
+                    "a": "Evet. Altyazı dosyalarını oluşturmak da indirmek de ücretsizdir; hesap oluşturmanız gerekmez ve süreye sınır konmaz."
+                },
+                {
+                    "q": "SRT ile VTT arasındaki fark nedir?",
+                    "a": "İkisi de zaman kodlu altyazı dosyasıdır. SRT, platformların ve kurgu programlarının kabul ettiği evrensel formattır; VTT ise HTML5 web videosu için yapılmıştır ve ek konumlandırma ile stil desteği sunar. Özellikle web videosu gerekmiyorsa SRT indirin."
+                },
+                {
+                    "q": "Altyazılarda zaman damgası var mı?",
+                    "a": "Evet. Bir SRT ya da VTT dosyasındaki her satır başlangıç ve bitiş süresi taşır — dosya bir görüntünün üzerinde oynarken altyazıları senkronda tutan şey o zamanlamadır."
+                },
+                {
+                    "q": "Altyazı ile transkript arasındaki fark nedir?",
+                    "a": "Transkript kendi başına okuduğunuz düz bir metindir. Altyazı ise görüntünün üzerinde belirmek için hazırlanmış, zaman kodlu metindir. Ekranda gösterilecek altyazı değil de okunacak kelimeler istiyorsanız bunun yerine transkript aracını kullanın."
+                },
+                {
+                    "q": "Altyazıyı başka bir dilde indirebilir miyim?",
+                    "a": "Altyazılar kayıtta konuşulan dilde oluşturulur. Dosya, zamanlaması ayrı tutulmuş düzenlenebilir bir metin olduğu için satırları başka bir dile çevirebilirsiniz; zaman kodları yerinde kalır."
+                },
+                {
+                    "q": "İndirdikten sonra altyazı dosyasını düzenleyebilir miyim?",
+                    "a": "Evet. SRT ya da VTT dosyası herhangi bir metin düzenleyicide açılır; altyazılar yayına girmeden önce bir kelimeyi düzeltebilir, bir satırı bölebilir veya bir zaman kodunu kaydırabilirsiniz."
+                },
+                {
+                    "q": "Dosya benim kurgu programımda çalışır mı?",
+                    "a": "Evet. SRT; Premiere, Final Cut, DaVinci Resolve ve diğer birçok kurgu programı ile oynatıcıya sorunsuz yüklenir. Bir YouTube altyazı indirici kullanırken kurgu işleri için varsayılan tercihin SRT olmasının sebebi de budur."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Altyazılarını Ücretsiz İndirin",
+        "content": [
+            "Herkese açık bir YouTube bağlantısı yapıştırın; TranscriptX 100'den fazla dilde, SRT ya da VTT olarak indirebileceğiniz zaman kodlu bir altyazı dosyası hazırlasın.",
+            "Dosyayı kurgu programınıza alın, yeniden paylaştığınız bir videoyla birlikte yükleyin ya da yeni bir kitle için çevirin. Hesap yok, kurulum yok, ücret yok."
+        ]
+    }
+}

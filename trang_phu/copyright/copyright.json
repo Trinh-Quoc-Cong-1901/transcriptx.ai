@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Copyright Policy | TranscriptX",
+    "meta_description": "Read the TranscriptX Copyright Policy to understand content ownership, user responsibilities, intellectual property rights, and how copyright concerns are handled when using our AI transcription, transcript, subtitle, caption, and summarization tools."
+  },
+  "headings": {
+    "h1": "Copyright Policy"
+  },
+  "hero": {
+    "title": "Protecting Creators and Respecting Copyright",
+    "description": "TranscriptX is committed to responsible AI transcription while respecting the intellectual property rights of creators, businesses, and content owners."
+  },
+  "contact": {
+    "email": "contact.freemd.io@gmail.com",
+    "label": "Copyright Contact"
+  },
+  "sections": {
+    "1": {
+      "tag": "p",
+      "content": [
+        "TranscriptX respects intellectual property rights and is committed to helping users transcribe video and audio content responsibly.",
+        "This Copyright Policy explains how content ownership, user responsibilities, and copyright concerns are handled when using TranscriptX and its AI-powered transcription tools.",
+        "TranscriptX provides AI transcription, video-to-text, audio-to-text, subtitle generation, caption generation, transcript extraction, and AI summarization services. We act solely as a technology platform and do not operate as a public content hosting, publishing, or file-sharing service."
+      ]
+    },
+    "2": {
+      "tag": "h2",
+      "title": "How TranscriptX Works",
+      "body": [
+        "TranscriptX uses AI to convert spoken content into searchable and editable text. Users can upload audio or video files or use supported tools to generate transcripts, subtitles, captions, summaries, and other AI-powered outputs.",
+        "Our platform supports workflows such as Video to Text, Audio to Text, YouTube Transcript, TikTok Transcript, Instagram Transcript, Facebook Transcript, Subtitle & Caption generation, and AI Summarization.",
+        "TranscriptX processes user-provided content solely to provide these services and does not claim ownership of any uploaded media or generated output."
+      ]
+    },
+    "3": {
+      "tag": "h2",
+      "title": "Ownership of Your Content",
+      "body": [
+        "All videos, audio recordings, transcripts, subtitles, captions, images, documents, and other materials processed through TranscriptX remain the property of their respective owners.",
+        "Using TranscriptX does not transfer copyright, ownership, licensing, or any other intellectual property rights to TranscriptX.",
+        "AI-generated transcripts, subtitles, captions, and summaries are created from user-provided content and remain subject to the rights associated with the original material."
+      ]
+    },
+    "4": {
+      "tag": "h2",
+      "title": "Respect for Content Creators",
+      "body": [
+        "TranscriptX is designed to improve accessibility, productivity, education, research, and content workflows—not to facilitate copyright infringement.",
+        "We encourage every user to respect the rights of creators, publishers, businesses, and copyright holders when processing video or audio content.",
+        "Users should only upload or process media that they own or have permission to use under applicable laws, licenses, or platform terms."
+      ]
+    },
+    "5": {
+      "tag": "h2",
+      "title": "User Responsibilities",
+      "body": [
+        "Users are solely responsible for ensuring they have the legal right to upload, transcribe, summarize, translate, or otherwise process any content using TranscriptX.",
+        "You are responsible for complying with applicable copyright laws, licensing agreements, platform policies, privacy rights, trademark rights, and other intellectual property regulations.",
+        "TranscriptX must not be used to process or distribute content in a manner that infringes the rights of others."
+      ]
+    },
+    "6": {
+      "tag": "h2",
+      "title": "AI-Generated Content",
+      "body": [
+        "TranscriptX uses advanced AI speech recognition and language models to generate transcripts, subtitles, captions, and summaries automatically.",
+        "Although we continuously improve transcription accuracy, AI-generated content may occasionally contain recognition errors, omissions, formatting differences, or interpretation inaccuracies.",
+        "Users should review generated transcripts and summaries before publishing, distributing, or relying on them for legal, academic, medical, financial, or other important purposes."
+      ]
+    },
+    "7": {
+      "tag": "h2",
+      "title": "Our Role",
+      "body": [
+        "TranscriptX acts solely as a technology provider that processes user-submitted media using AI.",
+        "We do not publish, distribute, endorse, or claim ownership of user content, nor do we monitor every file processed through our platform.",
+        "Responsibility for the legality and ownership of submitted content remains with the user."
+      ]
+    },
+    "8": {
+      "tag": "h2",
+      "title": "Reporting Copyright Concerns",
+      "body": [
+        "If you believe your copyrighted work or other intellectual property has been used in connection with TranscriptX in a way that infringes your rights, please contact us with sufficient information for review.",
+        "We carefully evaluate legitimate copyright complaints and will take appropriate action when required by applicable laws and our internal policies."
+      ]
+    },
+    "9": {
+      "tag": "h2",
+      "title": "Information to Include",
+      "body": [
+        "To help us investigate your request, please include the following information:",
+        "- Your full name or organization name.",
+        "- Your contact email address.",
+        "- A description of the copyrighted work involved.",
+        "- A description of the content or activity you believe infringes your rights.",
+        "- Relevant URLs, screenshots, filenames, or supporting documentation.",
+        "- A statement confirming that the information provided is accurate and that you are authorized to act on behalf of the copyright owner when applicable."
+      ]
+    },
+    "10": {
+      "tag": "h2",
+      "title": "Contact Us",
+      "body": [
+        "For copyright-related questions, intellectual property concerns, or legal notices regarding TranscriptX, please contact us at:",
+        "Email: contact.freemd.io@gmail.com"
+      ]
+    },
+    "11": {
+      "tag": "h2",
+      "title": "Policy Updates",
+      "body": [
+        "TranscriptX may update this Copyright Policy periodically to reflect improvements to our AI transcription services, legal requirements, or operational practices.",
+        "The latest version will always be published on this page and becomes effective immediately after it is posted.",
+        "We encourage users to review this policy from time to time to stay informed about how copyright matters are handled on TranscriptX."
+      ]
+    }
+  }
+}

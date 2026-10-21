@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "Transcribir video de YouTube — Transcripción gratis | TranscriptX",
+        "description": "Transcribir video de YouTube online gratis. Pega un enlace de YouTube para generar, extraer, leer, copiar, editar y traducir la transcripción en más de 100 idiomas. Sin registro.",
+        "schemaName": "Herramienta de transcripción de YouTube de TranscriptX",
+        "schemaDescription": "Herramienta online gratuita que genera y extrae la transcripción de cualquier video público de YouTube en más de 100 idiomas. Lee, copia, edita, traduce y exporta el texto sin necesidad de cuenta.",
+        "ogTitle": "Transcribir video de YouTube — Transcripción gratis | TranscriptX",
+        "ogDescription": "Pega un enlace de YouTube y obtén la transcripción completa en segundos. Genera o extrae el texto de cualquier video público en más de 100 idiomas, gratis y sin registro."
+    },
+    "hero": {
+        "h1": "Transcribir video de YouTube",
+        "subtitle": "Obtén la transcripción completa de cualquier video público de YouTube en segundos. Pega un enlace para generar o extraer lo que se dice como texto en más de 100 idiomas, y después léelo, cópialo, edítalo o tradúcelo. Sin cuenta y sin programas que instalar.",
+        "placeholder": "Pega el enlace de un video de YouTube...",
+        "button": "Obtener transcripción"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo transcribir un video de YouTube?",
+        "answer": "Copia el enlace de cualquier video público de YouTube y suéltalo en TranscriptX. La herramienta lee el audio, genera la transcripción en más de 100 idiomas y te devuelve un texto que puedes leer, copiar, editar, traducir o exportar. No hace falta cuenta y no hay nada que instalar."
+    },
+    "sections": [
+        {
+            "h2": "¿Qué es una transcripción de YouTube?",
+            "content": [
+                "Una transcripción de YouTube — la transcripción completa de un video de YouTube, todo lo que se dijo en él — es el contenido hablado escrito como texto. En lugar de volver a ver dos horas de clase o de entrevista para encontrar una sola idea, lees la transcripción, la buscas y saltas directamente a la parte que necesitas.",
+                "El valor está en lo que el texto desbloquea. Un video mantiene su información encerrada dentro de la línea de tiempo — mientras siga siendo audio no puedes buscar dentro, no puedes citarlo con exactitud ni pegarlo en otra herramienta. Convertido en transcripción, ese mismo video pasa a ser texto que ojeas en segundos, del que sacas citas literales, que traduces, que conviertes en apuntes o que le entregas a ChatGPT, Gemini o Claude para que lo analice.",
+                "TranscriptX obtiene la transcripción de un video de YouTube gratis, en el navegador y sin necesidad de cuenta."
+            ]
+        },
+        {
+            "h2": "Transcribir video de YouTube en resumen",
+            "specs": [
+                {
+                    "label": "Precio",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Cuenta necesaria",
+                    "value": "No"
+                },
+                {
+                    "label": "Instalación",
+                    "value": "Ninguna — funciona en el navegador"
+                },
+                {
+                    "label": "Entrada",
+                    "value": "El enlace de cualquier video público de YouTube"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Más de 100, detectados automáticamente"
+                },
+                {
+                    "label": "Separación de hablantes",
+                    "value": "Sí — cada hablante queda identificado"
+                },
+                {
+                    "label": "Marcas de tiempo",
+                    "value": "Opcionales — se activan o desactivan en cada transcripción"
+                },
+                {
+                    "label": "Funciona sin subtítulos automáticos",
+                    "value": "Sí — la transcripción se genera a partir del audio"
+                },
+                {
+                    "label": "Dispositivos",
+                    "value": "Navegadores de escritorio, tablet y móvil"
+                },
+                {
+                    "label": "Formatos de exportación",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                }
+            ]
+        },
+        {
+            "h2": "Cómo transcribir un video de YouTube",
+            "steps": [
+                {
+                    "h3": "Copia el enlace del video de YouTube",
+                    "content": "Abre el video que quieres transcribir y copia su enlace desde la barra de direcciones o desde el botón Compartir. Sirve cualquier video público de YouTube."
+                },
+                {
+                    "h3": "Pega el enlace en TranscriptX",
+                    "content": "Pega el enlace en el cuadro que hay al principio de esta página. No hay ninguna cuenta que crear ni ningún archivo que descargar antes."
+                },
+                {
+                    "h3": "Genera la transcripción",
+                    "content": "TranscriptX lee el audio, detecta por su cuenta el idioma hablado entre más de 100 idiomas, separa a cada hablante y escribe las palabras con puntuación y separación de frases."
+                },
+                {
+                    "h3": "Usa la transcripción",
+                    "content": "Léela en pantalla, copia el texto entero o una sola cita, edítalo, tradúcelo o expórtalo como TXT, DOCX, PDF, SRT o VTT — con las marcas de tiempo activadas o desactivadas."
+                }
+            ]
+        },
+        {
+            "h2": "Generador de transcripciones de YouTube",
+            "content": [
+                "No todos los videos traen subtítulos, y los subtítulos automáticos fallan a menudo. Cuando no hay ninguna transcripción aprovechable que sacar, TranscriptX funciona como un generador de transcripciones de YouTube — un generador que construye el texto a partir del propio audio en lugar de depender de unos subtítulos que quizá el creador nunca añadió.",
+                "Eso significa que puedes generar la transcripción de un video de YouTube incluso cuando falta el botón de subtítulos: una grabación en directo, una subida antigua, una charla que YouTube subtituló mal. El generador escucha el habla y produce un texto limpio y puntuado en más de 100 idiomas, con cada hablante identificado.",
+                "Como parte del audio, el resultado suele ser más preciso que la transcripción automática del propio YouTube, sobre todo con acentos, vocabulario técnico y grabaciones con varias personas."
+            ]
+        },
+        {
+            "h2": "Sacar el texto de un video de YouTube",
+            "content": [
+                "Cuando el video ya tiene subtítulos del creador, TranscriptX actúa como extractor: saca el contenido hablado que ya existe y te lo entrega como texto limpio y legible de una sola vez, sin recorrer el video ni copiar línea por línea. Es la forma rápida de sacar texto de un video de YouTube o de extraer texto de YouTube sin pasos intermedios.",
+                "Este es el camino corto para desarrolladores, investigadores y analistas que solo necesitan el guion en bruto. Pega el enlace, pasa de YouTube a texto y llévatelo directamente a tu flujo de trabajo: un conjunto de datos, un documento de investigación, un prompt de IA o un briefing de contenido. El extractor de guiones de YouTube devuelve el texto completo, así que no se corta nada, dure lo que dure el video."
+            ]
+        },
+        {
+            "h2": "Para qué sirve una transcripción de YouTube",
+            "intro": [
+                "Una transcripción convierte el video hablado en texto que puedes buscar, editar y reutilizar. En lugar de reproducir el video una y otra vez, trabajas directamente con la información."
+            ],
+            "items": [
+                {
+                    "h3": "Estudiar con clases y tutoriales",
+                    "content": "Estudiantes y personas que aprenden online convierten clases, cursos y tutoriales en apuntes de estudio. La transcripción facilita buscar los términos clave, repasar las ideas importantes y preparar exámenes sin ir arrastrando la línea de tiempo."
+                },
+                {
+                    "h3": "Investigar entrevistas, pódcast y charlas",
+                    "content": "Investigadores y periodistas extraen la información hablada de entrevistas, pódcast, documentales y mesas redondas. Las etiquetas de hablante y las marcas de tiempo opcionales permiten encontrar una cita y contrastarla con el momento exacto en que se dijo."
+                },
+                {
+                    "h3": "Escribir artículos, boletines y guiones",
+                    "content": "Redactores y creadores convierten un solo video en una entrada de blog, un boletín, textos para redes o un guion nuevo. La transcripción te da un punto de partida sólido en lugar de una página en blanco."
+                },
+                {
+                    "h3": "Resumir un video largo",
+                    "content": "Cuando un video es demasiado largo para volver a verlo, la transcripción te deja localizar rápido las ideas principales, los puntos clave y las tareas pendientes — o pegarla en un asistente de IA para que lo resuma."
+                },
+                {
+                    "h3": "Traducir el contenido de un video",
+                    "content": "Obtén la transcripción en el idioma original y después tradúcela para entender el contenido o republicarlo para otro público."
+                },
+                {
+                    "h3": "Hacer el contenido accesible",
+                    "content": "Una transcripción da a las personas sordas o con pérdida auditiva el contenido completo en texto, y da a cualquiera una versión legible de un video que no puede reproducir con sonido."
+                }
+            ]
+        },
+        {
+            "h2": "Transcribir YouTube en cualquier idioma",
+            "content": [
+                "TranscriptX maneja la transcripción de YouTube en más de 100 idiomas y detecta el idioma hablado automáticamente — no lo seleccionas antes de empezar. Puede transcribir audio de YouTube a texto tanto si se trata de una clase como de un pódcast o una entrevista, y crea la transcripción de videos de YouTube en cualquiera de esos idiomas. Pega un video en español, inglés, hindi, árabe o japonés y la transcripción vuelve en ese mismo idioma.",
+                "La separación de hablantes funciona en todos ellos, así que una entrevista o una mesa redonda queda escrita mostrando quién dijo qué en lugar de como un bloque continuo de texto. Eso es lo que hace que un video largo y con varias personas resulte aprovechable y no solo legible."
+            ]
+        },
+        {
+            "h2": "TranscriptX frente a la transcripción integrada de YouTube",
+            "intro": [
+                "YouTube muestra un panel de transcripción integrado en algunos videos, pero está pensado para leer los subtítulos mientras miras — no para llevarte el texto a otra parte. Cuando tu objetivo es copiar, editar, traducir, resumir o exportar, una herramienta dedicada resulta más limpia."
+            ],
+            "items": [
+                {
+                    "h3": "La transcripción integrada de YouTube",
+                    "content": "Va bien para echar un vistazo a los subtítulos durante la reproducción, y solo existe si el creador los añadió. El texto viene con las marcas de tiempo mezcladas, vive dentro de la interfaz de YouTube y es incómodo de limpiar o de mover a otra herramienta."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Está hecho para trabajar con la transcripción como texto. Genera la transcripción incluso cuando el video no tiene subtítulos, devuelve un texto limpio y puntuado con los hablantes identificados, y te deja copiar, editar, traducir, resumir o exportar a cinco formatos — con las marcas de tiempo opcionales."
+                }
+            ]
+        },
+        {
+            "h2": "La precisión y qué la afecta",
+            "content": [
+                "TranscriptX genera la transcripción a partir del audio del video, así que lo que más importa es la calidad de ese audio. Un habla clara, un volumen estable y poco ruido de fondo dan los resultados más limpios.",
+                "La precisión puede bajar cuando los hablantes se pisan, cuando hay mucho eco o música alta, o con acentos muy marcados y vocabulario técnico denso. Las grabaciones con varias personas siguen quedando separadas por hablante, pero las voces superpuestas son el punto donde cualquier herramienta tiene más probabilidades de fallar.",
+                "Con las citas importantes, los términos técnicos, los nombres, las referencias legales o las citas académicas, revisa las líneas correspondientes antes de publicarlas o citarlas. Activar las marcas de tiempo lo hace rápido: puedes volver de un salto al momento del video y contrastarlo con el audio."
+            ]
+        },
+        {
+            "h2": "Cuándo puede no funcionar una transcripción de YouTube",
+            "intro": [
+                "Como TranscriptX transcribe a partir del audio, que falte la pista de subtítulos no es un problema — pero aún hay algunas situaciones que pueden impedir que se produzca la transcripción. Casi todas se reducen a si la herramienta puede llegar al audio del video."
+            ],
+            "items": [
+                {
+                    "h3": "El video es privado o está eliminado",
+                    "content": "Una transcripción solo puede hacerse a partir de un video visible públicamente. Los videos privados y los eliminados no son accesibles."
+                },
+                {
+                    "h3": "El video tiene restricción de edad o de región",
+                    "content": "Los videos con verificación de edad o bloqueados por región pueden no ser accesibles desde una herramienta online, porque su audio no está disponible de forma abierta."
+                },
+                {
+                    "h3": "El video no tiene palabras habladas",
+                    "content": "Los videos musicales, los clips mudos y las imágenes sin voz no tienen nada que transcribir. Tiene que haber palabras habladas en el audio."
+                },
+                {
+                    "h3": "La retransmisión sigue en directo",
+                    "content": "Una retransmisión que todavía está en directo aún no tiene una grabación terminada. Espera a que acabe y a que el video se publique, y pega entonces el enlace."
+                },
+                {
+                    "h3": "El audio es especialmente malo",
+                    "content": "Un volumen extremadamente bajo, un ruido constante o un audio muy distorsionado pueden dejar demasiado poca habla clara como para transcribirla con fiabilidad."
+                }
+            ]
+        },
+        {
+            "h2": "Copiar, editar, traducir o descargar",
+            "content": [
+                "La transcripción es tuya para usarla como pida el paso siguiente. Copia el texto entero o una sola línea directamente desde la pantalla. Edítalo ahí mismo para corregir un nombre o quitar muletillas antes de publicarlo o citarlo. Tradúcelo a otro idioma sin salir de la herramienta.",
+                "Cuando necesites un archivo en lugar de texto en pantalla, expórtalo — y si descargarlo es tu objetivo principal, la herramienta [Descargar transcripción de YouTube](/es/download-youtube-transcript) está construida alrededor de la exportación a TXT, DOCX, PDF y SRT. Si lo que necesitas concretamente es el archivo de subtítulos, usa el [Descargador de subtítulos de YouTube](/es/youtube-subtitle-downloader) para SRT y VTT. El [Resumidor de videos de YouTube](/es/youtube-video-summarizer) te da las ideas clave en lugar de la transcripción completa."
+            ]
+        },
+        {
+            "h2": "Preguntas frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo obtengo la transcripción de un video de YouTube?",
+                    "a": "Copia el enlace de un video público de YouTube y pégalo en TranscriptX. La transcripción se genera en segundos y aparece en pantalla, lista para leer, copiar, editar, traducir o exportar. No hacen falta cuenta ni programas."
+                },
+                {
+                    "q": "¿Esta herramienta de transcripción de YouTube es gratis?",
+                    "a": "Sí. Obtener la transcripción de YouTube en TranscriptX es gratis, sin ninguna cuenta que crear y sin límite de duración del video."
+                },
+                {
+                    "q": "¿Puedo generar la transcripción si el video no tiene aún ningún texto?",
+                    "a": "Sí. TranscriptX funciona como generador de transcripciones de YouTube: genera la transcripción a partir del audio del video, así que sirve incluso cuando el creador nunca añadió subtítulos o cuando faltan los subtítulos automáticos."
+                },
+                {
+                    "q": "¿Qué diferencia hay entre generar y extraer una transcripción?",
+                    "a": "Extraer saca el texto de los subtítulos que el video ya tiene. Generar crea la transcripción a partir del audio cuando no hay subtítulos aprovechables. TranscriptX hace las dos cosas automáticamente: tú solo pegas el enlace y obtienes el texto de una forma u otra."
+                },
+                {
+                    "q": "¿Puedo transcribir cualquier video de YouTube?",
+                    "a": "Puedes transcribir cualquier video público de YouTube que tenga palabras habladas. Los videos privados, eliminados, con restricción de edad o bloqueados por región no son accesibles, y los videos sin voz no tienen nada que transcribir."
+                },
+                {
+                    "q": "¿Qué idiomas admite?",
+                    "a": "Más de 100. TranscriptX detecta el idioma hablado automáticamente, así que no necesitas seleccionarlo antes de pegar el enlace."
+                },
+                {
+                    "q": "¿Distingue a los distintos hablantes?",
+                    "a": "Sí. Cada hablante queda identificado por separado, así que las entrevistas, las mesas redondas y los videos con varias personas vuelven mostrando quién dijo qué en lugar de como un solo bloque de texto."
+                },
+                {
+                    "q": "¿Puedo obtener marcas de tiempo con la transcripción?",
+                    "a": "Sí, y son opcionales. Actívalas cuando necesites volver a un momento del video o crear archivos de subtítulos; déjalas desactivadas para tener un texto limpio de leer."
+                },
+                {
+                    "q": "¿Puedo copiar, editar y traducir la transcripción?",
+                    "a": "Sí. Copia la transcripción completa o las líneas que elijas, edita el texto ahí mismo y tradúcelo a otro idioma — todo antes de exportarlo o de pegarlo en otra herramienta."
+                },
+                {
+                    "q": "¿Qué diferencia hay entre una transcripción de YouTube y los subtítulos?",
+                    "a": "Una transcripción es una versión en texto del contenido hablado que lees por sí sola. Los subtítulos son texto sincronizado que se muestra durante la reproducción, normalmente guardado como SRT o VTT. Activa las marcas de tiempo y exporta SRT o VTT si lo que necesitas son subtítulos y no una transcripción sin más."
+                },
+                {
+                    "q": "¿Qué precisión tiene la transcripción?",
+                    "a": "La precisión depende sobre todo del audio. Un habla clara y poco ruido de fondo dan el mejor resultado, mientras que las voces superpuestas, el eco o la música alta la reducen. Repasar los nombres, las cifras y los términos técnicos antes de publicar siempre merece la pena."
+                },
+                {
+                    "q": "¿Puedo usar la transcripción de YouTube con ChatGPT o Claude?",
+                    "a": "Sí. Copia o exporta el texto y pégalo en cualquier asistente de IA para resumir el video, sacar las tareas pendientes o convertirlo en un artículo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Obtén tu transcripción de YouTube gratis",
+        "content": [
+            "Pega el enlace de un video público de YouTube y TranscriptX te devuelve la transcripción completa en más de 100 idiomas, con etiquetas de hablante y marcas de tiempo opcionales — tanto si extrae los subtítulos existentes como si genera el texto a partir del audio.",
+            "Léela, cópiala, edítala, tradúcela o expórtala como TXT, DOCX, PDF, SRT o VTT. Sin cuenta, sin instalación y sin coste.",
+            "Usa TranscriptX para transcribir video de YouTube y hacer que sea más fácil de estudiar, buscar, citar y reutilizar."
+        ]
+    }
+}

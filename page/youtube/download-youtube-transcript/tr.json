@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "YouTube Transkript İndirme — Ücretsiz TXT, DOCX, PDF, SRT | TranscriptX",
+        "description": "YouTube transkript indirme ücretsiz: TXT, DOCX, PDF veya SRT. Bağlantıyı yapıştırın, transkripti alın ve dosyayı çevrimdışı kullanmak üzere cihazınıza kaydedin. Üyelik yok.",
+        "schemaName": "TranscriptX YouTube Transkript İndirme Aracı",
+        "schemaDescription": "Herkese açık bir YouTube videosunun transkriptini TXT, DOCX, PDF veya SRT dosyası olarak indirmeye yarayan ücretsiz araç. Bağlantıyı yapıştırın ve transkripti hesap açmadan cihazınıza kaydedin. Türkçe dâhil 100'den fazla dili destekler.",
+        "ogTitle": "YouTube Transkript İndirme — Ücretsiz TXT, DOCX, PDF, SRT | TranscriptX",
+        "ogDescription": "Her YouTube transkriptini cihazınıza kaydedin. TXT, DOCX, PDF veya SRT olarak indirin — ücretsiz ve üyelik gerektirmeden."
+    },
+    "hero": {
+        "h1": "YouTube Transkript İndirme",
+        "subtitle": "Herkese açık her YouTube videosunun transkriptini cihazınıza kaydedin. Bağlantıyı yapıştırın, ardından metni çevrimdışı okumak, arşivlemek ya da bir belgeye eklemek için TXT, DOCX, PDF veya SRT olarak indirin. Hesap yok, kurulum yok.",
+        "placeholder": "Bir YouTube video URL'si yapıştırın...",
+        "button": "Transkripti Al ve İndir"
+    },
+    "quickAnswer": {
+        "question": "YouTube transkripti nasıl indirilir?",
+        "answer": "Herkese açık bir YouTube bağlantısını TranscriptX'e yapıştırın; transkript hazır olduğunda bir format seçip indirin. Bilgisayarınıza veya telefonunuza TXT, DOCX, PDF ya da SRT olarak kaydedebilirsiniz. Üyelik gerekmez ve önceden kurmanız gereken hiçbir şey yoktur."
+    },
+    "sections": [
+        {
+            "h2": "Transkripti İndirmek Size Ne Kazandırır",
+            "content": [
+                "Masanızda oturuyorken ve bağlantınız varken transkripti ekranda okumak yeterlidir. YouTube transkript indirme ise metnin tarayıcı sekmesinden daha uzun yaşaması gerektiğinde başvurduğunuz şeydir — kendi cihazınızda duran, size ait olan ve internet olsa da olmasa da açılan bir dosyaya ihtiyaç duyduğunuzda.",
+                "İndirilmiş bir transkript gerçek bir belgedir. Onu bir araştırma klasörüne koyabilir, bir e-postaya ekleyebilir, ortak bir sürücüye yükleyebilir ya da yazdırabilirsiniz. Bir kez bakıp geçtiğiniz bir şey olmaktan çıkar ve dosyalarınızın bir parçası hâline gelir. Başka bir deyişle, YouTube video metni indirme işini söylenenlerin yazıya dökülmüş hâlini, yani deşifre metnini elinizde tutmak için yaparsınız.",
+                "TranscriptX transkripti hazırlar ve indirmeyi size teslim eder; birçok kişinin arama kutusuna YouTube transcript indir diye yazdığı işlem tam olarak budur. Videonun kendisi YouTube'da kalır; cihazınıza inen şey yalnızca metindir, seçtiğiniz formatta."
+            ]
+        },
+        {
+            "h2": "Hangi Formatı İndirmelisiniz?",
+            "intro": [
+                "Doğru dosya, tamamen transkriptle bundan sonra ne yapacağınıza bağlıdır. Dört format neredeyse her durumu kapsar."
+            ],
+            "items": [
+                {
+                    "h3": "TXT — düz metin",
+                    "content": "En hafif ve en taşınabilir seçenek. Bir .txt dosyası her yerde açılır, yolunuza çıkacak hiçbir biçimlendirme taşımaz ve başka bir araca ya da bir yapay zekâ asistanına yapıştırmak için en temiz seçenektir. Yalnızca kelimeleri istiyorsanız YouTube transkript txt indirme yolunu seçin — YouTube altyazısını metin olarak indirmenin de en sade hâli budur."
+                },
+                {
+                    "h3": "DOCX — düzenlenebilir belge",
+                    "content": "Word, Google Docs ve Pages ile açılır. Transkript üzerinde çalışmayı planlıyorsanız — başlıklar, vurgular, yorumlar, değişiklik takibi — ve onu ham metin yerine üzerinde çalışılan bir belge olarak görüyorsanız DOCX indirin."
+                },
+                {
+                    "h3": "PDF — sabit, paylaşılabilir kayıt",
+                    "content": "Her cihazda birebir aynı görünür ve düzenlenmek üzere tasarlanmamıştır. Transkripti birine gönderiyorsanız, kayıt olarak dosyalıyorsanız ya da yazdıracaksanız ve düzenin olduğu gibi kalmasını istiyorsanız PDF indirin."
+                },
+                {
+                    "h3": "SRT — zaman bilgisi taşıyan transkript",
+                    "content": "Her satırda bir zaman damgası taşır. Transkriptin videodaki anlara bağlı olması gerektiğinde SRT indirin — zaman kodlu altyazı dosyası hazırlamak, bir alıntıyı sesle karşılaştırmak ya da zaman bilgisi bekleyen herhangi bir araç için."
+                }
+            ]
+        },
+        {
+            "h2": "YouTube Transkripti Nasıl İndirilir",
+            "steps": [
+                {
+                    "h3": "YouTube bağlantısını yapıştırın",
+                    "content": "İstediğiniz herkese açık videonun URL'sini kopyalayıp yukarıdaki kutuya yapıştırın. Hesap açma adımı yoktur ve önceden yüklemeniz gereken bir dosya da yoktur."
+                },
+                {
+                    "h3": "Transkriptin oluşmasını bekleyin",
+                    "content": "TranscriptX sesi okur ve 100'den fazla dilde tam transkripti yazar; her konuşmacıyı etiketler ve noktalama işaretlerini ekler."
+                },
+                {
+                    "h3": "Formatınızı seçin",
+                    "content": "Sonrasında ne yapacağınıza göre TXT, DOCX, PDF veya SRT seçin. SRT alacaksanız ya da zaman damgalarının dosyanın içinde yer almasını istiyorsanız önce zaman damgalarını açın."
+                },
+                {
+                    "h3": "Dosyayı indirin",
+                    "content": "Bilgisayarınıza veya telefonunuza kaydedin. YouTube video transkript indirme işi burada biter: transkript artık size ait bir dosyadır, çevrimdışı açmaya, paylaşmaya veya arşivlemeye hazırdır."
+                }
+            ]
+        },
+        {
+            "h2": "Sadece Metin Değil, Dosyanın Kendisi Gerektiğinde",
+            "intro": [
+                "İndirme, transkriptin tarayıcıdan çıkıp gerçek bir iş akışına girmesi gerektiğinde en çok önem kazanır. Birkaç örnek:"
+            ],
+            "items": [
+                {
+                    "h3": "Araştırma arşivi oluşturmak",
+                    "content": "Araştırmacılar röportajların, konuşmaların ve belgesellerin transkriptlerini bir proje klasörüne kaydeder; böylece kaynaklar bir arada, aranabilir ve alıntılanabilir hâlde kalır — videolar izlenip bittikten çok sonra bile."
+                },
+                {
+                    "h3": "Teslim etmek ya da kayda geçirmek",
+                    "content": "Bir transkriptin teslim edilmesi, bir yere eklenmesi ya da dosyada tutulması gerektiğinde — bir ders, bir hukuki not veya bir rapor için — yolculuk eden sürüm indirilmiş PDF ya da DOCX'tir."
+                },
+                {
+                    "h3": "Çevrimdışı çalışmak",
+                    "content": "İndirilmiş bir TXT veya DOCX uçakta, trende ya da bağlantının koptuğu her yerde açılır; böylece internet durduğunda okumak ve düzenlemek durmaz."
+                },
+                {
+                    "h3": "Başka bir araca vermek",
+                    "content": "Bazı yazılımlar yapıştırılmış metni değil, dosyanın kendisini ister. İndirme size yükleyebileceğiniz bir şey verir — bir çeviri aracına, bir belge sistemine ya da bir editöre."
+                },
+                {
+                    "h3": "Kendinize bir kopya saklamak",
+                    "content": "Videolar kaldırılır, gizliye alınır ya da düzenlenir. YouTube transkript kaydetme işlemi, söylenenlerin kendi kopyanızı, orijinaline ne olursa olsun elinizde tutmanızı sağlar."
+                }
+            ]
+        },
+        {
+            "h2": "100'den Fazla Dilde Transkript İndirme",
+            "content": [
+                "İndirme İngilizceyle sınırlı değildir. TranscriptX 100'den fazla dilde konuşmayı deşifre eder ve dili kendisi algılar; böylece kaydettiğiniz dosya, videoda hangi dil konuşulmuşsa o dilde çıkar. Türkçe bir video Türkçe bir transkript verir — ı, ş, ğ, ç ve ü harfleri bozulmadan, noktalamasıyla birlikte.",
+                "Her format tam transkripti taşır ve konuşmacıları ayrı tutar; böylece indirilmiş bir röportaj ya da panel, tek bir birleşik blok yerine kimin ne söylediğini açıkça gösteren bir kayıt olarak okunur — dört formattan hangisini seçerseniz seçin. Üstelik YouTube transkript ücretsiz indirme her dil için aynı şekilde geçerlidir."
+            ]
+        },
+        {
+            "h2": "Başka Bir Araç Daha Uygun Olduğunda",
+            "content": [
+                "Transkripti dosya olarak indirmek birkaç seçenekten yalnızca biridir ve her TranscriptX aracı ayrı bir ihtiyaca göre biçimlendirilmiştir. Amacınız biraz farklıysa, aşağıdakilerden biri size daha yakın düşebilir.",
+                "Hiçbir dosya kaydetmeden transkripti yalnızca okumak ve kopyalamak istiyorsanız [YouTube Transcript](/tr/youtube-transcript) aracı her şeyi ekranda tutar. Asıl ihtiyacınız okunacak bir belge değil de bir video düzenleme programı için YouTube altyazı indirme, yani zaman kodlu altyazı dosyası ise, [YouTube Subtitle Downloader](/tr/youtube-subtitle-downloader) bunun yerine SRT ve VTT verir. Tam metin ihtiyacınızdan fazlaysa [YouTube Video Summarizer](/tr/youtube-video-summarizer) videoyu ana noktalarıyla özetler."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Bir YouTube videosunun transkripti nasıl indirilir?",
+                    "a": "Video bağlantısını TranscriptX'e yapıştırın, transkriptin oluşmasını bekleyin, TXT, DOCX, PDF veya SRT seçin ve indirin. Dosya doğrudan cihazınıza kaydedilir, hesap gerekmez."
+                },
+                {
+                    "q": "YouTube transkript indirmek ücretsiz mi?",
+                    "a": "Evet. Hem transkripti almak hem de indirmek ücretsizdir; hesap oluşturmanız gerekmez ve videonun süresine sınır konmaz."
+                },
+                {
+                    "q": "Hangi formatları indirebilirim?",
+                    "a": "Dört format: düz metin için TXT, düzenlenebilir belge için DOCX, sabit bir kayıt için PDF ve zaman damgalı transkript için SRT."
+                },
+                {
+                    "q": "Transkripti zaman damgalarıyla indirebilir miyim?",
+                    "a": "Evet. Dışa aktarmadan önce zaman damgalarını açın, ardından zamanlamayı korumak için SRT indirin ya da damgaları bir TXT veya DOCX dosyasının içine dâhil edin."
+                },
+                {
+                    "q": "Dosya nereye kaydedilir?",
+                    "a": "Tarayıcınız indirilenleri nereye kaydediyorsa oraya — bilgisayarınızın indirilenler klasörüne ya da telefonunuzun deposuna. Oradan taşıyabilir, çevrimdışı açabilir veya paylaşabilirsiniz."
+                },
+                {
+                    "q": "Uzun videoların transkriptini indirebilir miyim?",
+                    "a": "Evet. Süre sınırı yoktur. Saatler süren bir kaydın tam transkripti, hangi formatı seçerseniz seçin tek bir dosya olarak iner."
+                },
+                {
+                    "q": "İndirmek için bir şey kurmam gerekir mi?",
+                    "a": "Hayır. Her şey tarayıcıda çalışır. YouTube transkript txt indirme ya da başka bir formatı almak için önceden kurmanız gereken hiçbir yazılım, eklenti veya uygulama yoktur."
+                },
+                {
+                    "q": "Sonradan düzenlemek için hangi format en iyisi?",
+                    "a": "DOCX. Word, Google Docs ve Pages ile açılır ve biçimlendirmeyi korur, bu yüzden yeniden yazması en kolay olanıdır. Yalnızca ham kelimeler yeterliyse TXT, değişmemesi gereken bir sürüm için PDF seçin."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "YouTube Transkriptinizi Ücretsiz İndirin",
+        "content": [
+            "Herkese açık bir YouTube bağlantısı yapıştırın, TranscriptX transkripti 100'den fazla dilde oluştursun ve TXT, DOCX, PDF veya SRT olarak indirin.",
+            "Transkript artık size ait bir dosyadır — çevrimdışı okumaya, arşivlemeye, yazdırmaya veya paylaşmaya hazır. Hesap yok, kurulum yok, ücret yok."
+        ]
+    }
+}

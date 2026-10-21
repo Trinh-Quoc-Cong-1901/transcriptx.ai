@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Sprache in Text umwandeln — Stimme & Sprachaufnahme kostenlos | TranscriptX",
+        "description": "Sprache in Text umwandeln, kostenlos online. Nimm im Browser auf oder lade eine Sprachaufnahme hoch — genauer Text in 100+ Sprachen. Export als TXT, DOCX, PDF.",
+        "schemaName": "TranscriptX Sprache in Text Umwandler",
+        "schemaDescription": "Kostenloses Online-Tool, das gesprochene Worte und Sprachaufnahmen in über 100 Sprachen in geschriebenen Text umwandelt — mit Sprecherkennzeichnung und Export als TXT, DOCX, PDF, SRT und VTT. Nimm direkt im Browser auf oder lade eine Aufnahme hoch, ganz ohne Konto.",
+        "ogTitle": "Sprache in Text umwandeln — Stimme & Sprachaufnahme kostenlos | TranscriptX",
+        "ogDescription": "Mach aus deiner Stimme Text. Nimm im Browser auf oder lade eine Sprachaufnahme hoch und erhalte genauen Text in über 100 Sprachen — kostenlos und ohne Anmeldung."
+    },
+    "hero": {
+        "h1": "Sprache in Text umwandeln",
+        "subtitle": "Mach aus gesprochenen Worten geschriebenen Text. Nimm direkt im Browser auf oder lade eine Sprachaufnahme hoch — TranscriptX schreibt sie in über 100 Sprachen aus und kennzeichnet jeden Sprecher. Diktiere eine Notiz, transkribiere ein Memo oder wandle ein aufgezeichnetes Gespräch um — und exportiere danach als TXT, DOCX, PDF, SRT oder VTT. Kein Konto, nichts zu installieren.",
+        "placeholder": "Stimme aufnehmen oder Sprachaufnahme hochladen...",
+        "button": "Sprache in Text umwandeln"
+    },
+    "quickAnswer": {
+        "question": "Wie wandle ich Sprache in Text um?",
+        "answer": "Nimm deine Stimme direkt bei TranscriptX auf oder lade eine Sprachaufnahme hoch — das Gesprochene wird in Sekunden in geschriebenen Text umgewandelt, in über 100 Sprachen. Anschließend kannst du den Text lesen, bearbeiten, kopieren oder exportieren. Es ist keine Anmeldung nötig und du musst nichts installieren."
+    },
+    "sections": [
+        {
+            "h2": "Was heißt Sprache in Text umwandeln?",
+            "content": [
+                "Sprache in Text umwandeln heißt, gesprochene Worte in geschriebene zu überführen. Du sprichst — oder spielst eine Aufnahme ab, in der jemand spricht — und statt zu tippen, bekommst du die Worte als Text, den du lesen, bearbeiten und behalten kannst. Es ist dieselbe Idee wie das Diktieren auf deinem Handy, funktioniert aber mit vollständigen Aufnahmen, im Browser, ohne Längenbegrenzung und ohne Konto.",
+                "Der Unterschied zur Arbeit mit einer Audiodatei liegt im Ausgangspunkt. Sprache zu Text ist um das gesprochene Wort herum gebaut, so wie es gerade entsteht oder wie du es festgehalten hast: eine Sprachnotiz, die du beim Spazierengehen diktiert hast, eine Besprechung, die du mit dem Handy aufgezeichnet hast, ein Gedanke, den du laut durchgesprochen hast, weil Reden schneller ging als Tippen. Die Eingabe ist deine Stimme oder eine Sprachaufnahme, keine heruntergeladene Mediendatei.",
+                "Der Nutzen liegt darin, dass Sprechen schneller geht als Tippen, Text aber brauchbarer ist als Audio. Sprache in Text umwandeln liegt genau dazwischen — du bekommst das Tempo des Sprechens und die durchsuchbare, bearbeitbare, teilbare Form des Schreibens, ohne selbst mitzuschreiben.",
+                "TranscriptX macht das kostenlos, direkt im Browser, egal ob du an Ort und Stelle aufnimmst oder eine vorhandene Aufnahme hochlädst."
+            ]
+        },
+        {
+            "h2": "Sprache zu Text auf einen Blick",
+            "specs": [
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos"
+                },
+                {
+                    "label": "Konto erforderlich",
+                    "value": "Nein"
+                },
+                {
+                    "label": "Installation",
+                    "value": "Keine — läuft im Browser"
+                },
+                {
+                    "label": "Eingabe",
+                    "value": "Live im Browser aufnehmen oder Sprachaufnahme hochladen"
+                },
+                {
+                    "label": "Limit für Aufnahmelänge",
+                    "value": "Keines"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Sprechertrennung",
+                    "value": "Ja — jeder Sprecher wird gekennzeichnet"
+                },
+                {
+                    "label": "Zeitstempel",
+                    "value": "Optional — pro Transkript an- oder abschaltbar"
+                },
+                {
+                    "label": "Exportformate",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Geräte",
+                    "value": "Browser auf Desktop, Tablet und Smartphone"
+                }
+            ]
+        },
+        {
+            "h2": "Sprache in Text umwandeln – Schritt für Schritt",
+            "steps": [
+                {
+                    "h3": "Aufnehmen oder hochladen",
+                    "content": "Drück auf Aufnahme und sprich direkt in den Browser, oder lade eine Sprachaufnahme hoch, die du vorher mit dem Handy oder einem Rekorder gemacht hast. Wie lange du sprichst, ist nicht begrenzt."
+                },
+                {
+                    "h3": "Das Tool hört zu und schreibt mit",
+                    "content": "Die Spracherkennung von TranscriptX erkennt die gesprochene Sprache von selbst, über 100 Sprachen hinweg, und wandelt das Gesprochene in Text mit Zeichensetzung um — mit Kennzeichnung jedes Sprechers, sobald mehr als eine Stimme dabei ist."
+                },
+                {
+                    "h3": "Text lesen und bearbeiten",
+                    "content": "Die Worte erscheinen als Text, den du sofort aufräumen kannst — einen Versprecher streichen, einen Namen korrigieren oder einen ausufernden Satz in einen klaren verwandeln."
+                },
+                {
+                    "h3": "Kopieren oder exportieren",
+                    "content": "Kopiere den Text in eine Notiz, ein Dokument oder eine Nachricht, oder exportiere ihn als TXT, DOCX, PDF, SRT oder VTT zum Aufbewahren oder Weitergeben."
+                }
+            ]
+        },
+        {
+            "h2": "Live aufnehmen oder Sprachaufnahme hochladen",
+            "content": [
+                "Sprache zu Text funktioniert auf zwei Wegen, und beide beginnen mit deiner Stimme statt mit einer heruntergeladenen Datei.",
+                "Nimm live auf, wenn die Worte noch gar nicht existieren. Öffne das Tool, starte die Aufnahme und sprich — eine Idee, die du festhalten willst, eine Notiz an dich selbst, ein Entwurf, den du lieber sprichst als tippst. In dem Moment, in dem du aufhörst, ist das Gesprochene Text, den du bearbeiten und behalten kannst. Das ist der schnelle Weg, wenn du laut denkst und den Gedanken sichern willst, ohne zur Tastatur zu greifen.",
+                "Lade eine Aufnahme hoch, wenn die Stimme schon festgehalten ist. Eine Sprachnotiz vom Handy, eine Sprachnachricht aus einem Messenger, ein Gespräch, das du vorhin aufgezeichnet hast — lade es hoch und TranscriptX transkribiert das Ganze. So oder so gibt es keine Obergrenze für die Länge, eine zehnsekündige Erinnerung und eine einstündige aufgezeichnete Diskussion werden also gleich behandelt."
+            ]
+        },
+        {
+            "h2": "Sprachaufnahme transkribieren",
+            "content": [
+                "Eine Sprachaufnahme enthält alles, was gesagt wurde, aber in einer Form, die du weder durchsuchen noch zitieren noch bearbeiten kannst. Sie zu transkribieren macht aus dieser Sprachaufnahme Text — in einem Schritt vom gesprochenen Wort zum Transkript, mit dem sich wirklich arbeiten lässt.",
+                "Eine Sprachaufnahme zu transkribieren lohnt sich vor allem dann, wenn die Aufnahme Informationen trägt, die du später brauchst. Aus einem aufgezeichneten Interview wird zitierfähiger Text mit Kennzeichnung jedes Sprechers. Aus einer aufgezeichneten Besprechung wird ein schriftliches Protokoll dessen, was vereinbart wurde. Aus einer aufgezeichneten Vorlesung werden Notizen, die du nach Begriffen durchsuchen kannst. Ob du das Ergebnis nun Transkript einer Sprachaufnahme nennst oder einfach die Worte auf dem Papier — es ist das, was dich den Inhalt nutzen lässt, statt die Aufnahme nur abzulegen.",
+                "TranscriptX transkribiert eine Sprachaufnahme, egal ob eine Person spricht oder mehrere. Sind mehrere Stimmen dabei, wird jeder Sprecher gekennzeichnet, sodass sich ein aufgezeichnetes Gespräch als Hin und Her liest statt als ein einziger Wortstrom."
+            ]
+        },
+        {
+            "h2": "Was du in Text umwandeln kannst",
+            "intro": [
+                "Überall dort, wo deine Stimme etwas Aufbewahrenswertes trägt, macht Sprache zu Text daraus einen brauchbaren Beleg. Die häufigsten Anwendungen:"
+            ],
+            "items": [
+                {
+                    "h3": "Sprachnotizen und Sprachnachrichten",
+                    "content": "Halte eine Idee, eine Erinnerung oder einen Entwurf fest, indem du sie sprichst, und bekomme bearbeitbaren Text statt einer Aufnahme, die du erst abspielen musst, um dich an deine eigenen Worte zu erinnern."
+                },
+                {
+                    "h3": "Besprechungen und Anrufe",
+                    "content": "Nimm eine Besprechung mit dem Handy auf und mach daraus ein schriftliches Protokoll, mit jeder Person namentlich gekennzeichnet, sodass Entscheidungen und Aufgaben auf dem Papier stehen und nicht in jemandes Gedächtnis."
+                },
+                {
+                    "h3": "Interviews",
+                    "content": "Transkribiere ein aufgezeichnetes Interview zu zitierfähigem Text, mit getrennten Sprechern, sodass du den exakten Wortlaut entnehmen kannst, statt aus der Erinnerung zu paraphrasieren."
+                },
+                {
+                    "h3": "Dokumente diktieren",
+                    "content": "Sprich einen ersten Entwurf einer E-Mail, eines Berichts oder eines Artikels und lass ihn per Sprache in Text ausschreiben — dann räumst du den Text auf, statt jedes Wort von Grund auf zu tippen."
+                },
+                {
+                    "h3": "Vorlesungen und Lernen",
+                    "content": "Nimm eine Lehrveranstaltung oder eine Lernsitzung auf und wandle sie in Text um, den du später durchsuchen, markieren und zum Wiederholen nutzen kannst."
+                },
+                {
+                    "h3": "Barrierefreiheit und freihändiges Arbeiten",
+                    "content": "Für alle, denen Tippen zu langsam oder zu mühsam ist, ist Sprechen mit sauberem Text zurück der schnellere und angenehmere Weg zu schreiben."
+                }
+            ]
+        },
+        {
+            "h2": "Sprache in Text umwandeln beim Diktieren",
+            "content": [
+                "Die meisten Menschen sprechen deutlich schneller, als sie tippen — genau deshalb passt das Diktat so natürlich zu Sprache zu Text. Wenn du einen ersten Entwurf im Kopf hast, ist ihn laut auszusprechen und Text zurückzubekommen schneller, als ihn Wort für Wort auf der Tastatur aufzubauen.",
+                "Der Haken beim Diktieren ist, dass gesprochene Sprache lockerer ist als geschriebene — es gibt Versprecher, Füllwörter und Sätze, die abschweifen. Weil du bearbeitbaren Text bekommst und kein fertiges Dokument, ist das leicht zu beheben: Bring die Rohfassung im Sprechtempo aufs Papier und nimm dir dann eine Minute, um sie in Form zu ziehen. Der schwere Teil, der Weg vom leeren Blatt zum vollständigen Entwurf, ist bereits erledigt.",
+                "Es funktioniert für alles, was du sonst tippen würdest: E-Mails, Notizen, Gliederungen, Tagebucheinträge oder die grobe Form eines Artikels, den du danach überarbeitest."
+            ]
+        },
+        {
+            "h2": "Genauigkeit und Sprachen",
+            "content": [
+                "Wie genau der Text dem entspricht, was du gesagt hast, hängt an der Aufnahme. Deutlich und gleichmäßig sprechen, nah am Mikrofon und weg von Hintergrundgeräuschen, liefert das sauberste Ergebnis — und weil du beim Umwandeln von Sprache in Text meist deine eigene Stimme aufnimmst, hast du das oft selbst in der Hand.",
+                "Die Genauigkeit lässt nach bei lauter Umgebung, bei Leuten, die durcheinanderreden, oder bei sehr schneller, genuschelter Sprache. Solche Passagen sind einen kurzen Blick wert, aber bei einer klaren Sprachnotiz oder einem gut aufgenommenen Gespräch kommt der Text nahezu Wort für Wort zurück.",
+                "Die Spracherkennung von TranscriptX versteht über 100 Sprachen und erkennt automatisch, welche du gerade sprichst — du kannst also in deiner eigenen Sprache diktieren oder transkribieren, ohne vorher irgendeine Einstellung zu ändern."
+            ]
+        },
+        {
+            "h2": "Sprache zu Text oder Audio zu Text?",
+            "intro": [
+                "Beide machen aus Gesprochenem Text, aber sie sind um unterschiedliche Ausgangspunkte herum gebaut. Entscheide danach, woher deine Worte kommen."
+            ],
+            "items": [
+                {
+                    "h3": "Nimm Sprache zu Text für deine eigenen gesprochenen Worte",
+                    "content": "Wenn du deine Stimme live aufnehmen, einen Entwurf diktieren oder eine Sprachnotiz beziehungsweise eine selbst gemachte Aufnahme transkribieren willst, ist das genau das Tool dafür — inklusive Aufnahme direkt im Browser."
+                },
+                {
+                    "h3": "Nimm Audio zu Text für vorhandene Audiodateien",
+                    "content": "Wenn du bereits eine Audiodatei hast — einen Podcast, ein heruntergeladenes Interview, eine MP3 einer Besprechung — ist das Tool [Audio in Text umwandeln](/de/audio-to-text) darauf zugeschnitten, Mediendateien hochzuladen und zu transkribieren. Und wenn deine Aufnahme eigentlich der Ton eines Videos ist, übernimmt [YouTube Transkript](/de/youtube-transcript) diese Quelle direkt."
+                }
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich Sprache kostenlos in Text umwandeln?",
+                    "a": "Nimm deine Stimme bei TranscriptX auf oder lade eine Sprachaufnahme hoch — das Gesprochene wird ohne Kosten in Text umgewandelt. Es gibt kein Konto anzulegen, nichts zu installieren und kein Limit für die Aufnahmelänge."
+                },
+                {
+                    "q": "Kann ich direkt im Tool aufnehmen?",
+                    "a": "Ja. Du kannst live im Browser aufnehmen und bekommst den Text, sobald du stoppst, oder du lädst eine vorher gemachte Aufnahme hoch. Beides funktioniert gleich."
+                },
+                {
+                    "q": "Kann ich eine Sprachaufnahme transkribieren, die ich schon habe?",
+                    "a": "Ja. Lade die Aufnahme hoch — eine Sprachnotiz, eine Sprachnachricht, ein aufgezeichnetes Gespräch — und TranscriptX transkribiert das Ganze in Text, mit Sprecherkennzeichnung, sobald mehr als eine Stimme dabei ist. So lässt sich eine Aufnahme jeder Länge transkribieren."
+                },
+                {
+                    "q": "Eignet sich Sprache zu Text zum Diktieren?",
+                    "a": "Ja. Sprechen geht schneller als Tippen, deshalb ist das Diktat eine der beliebtesten Anwendungen. Du bekommst bearbeitbaren Text zurück, sodass du einen groben Entwurf einfach einsprechen und danach aufräumen kannst, statt ihn von Grund auf zu tippen."
+                },
+                {
+                    "q": "Welche Sprachen werden unterstützt?",
+                    "a": "Über 100. Die gesprochene Sprache wird automatisch erkannt, du kannst also in deiner eigenen Sprache diktieren oder transkribieren, ohne sie vorher auszuwählen."
+                },
+                {
+                    "q": "Kann das Tool verschiedene Sprecher unterscheiden?",
+                    "a": "Ja. Sind in einer Aufnahme mehrere Stimmen zu hören, wird jeder Sprecher gekennzeichnet, sodass sich ein aufgezeichnetes Gespräch oder eine Besprechung als klares Hin und Her liest."
+                },
+                {
+                    "q": "Gibt es ein Limit dafür, wie lange ich aufnehmen kann?",
+                    "a": "Nein. Eine kurze Sprachnotiz und eine lange aufgezeichnete Sitzung funktionieren beide; eine längere Aufnahme braucht in der Verarbeitung einfach etwas mehr Zeit."
+                },
+                {
+                    "q": "Muss ich eine App installieren?",
+                    "a": "Nein. Sprache in Text umwandeln läuft im Browser, auf dem Desktop wie auf dem Handy, ganz ohne App, Plugin oder Konto."
+                },
+                {
+                    "q": "Wie genau ist die Umwandlung von Sprache in Text?",
+                    "a": "Das hängt vor allem an der Aufnahme. Deutliche Sprache, nah am Mikrofon und weg von Störgeräuschen, kommt nahezu Wort für Wort zurück, während laute oder überlappende Sprache einen kurzen Blick verdient, bevor du dich darauf verlässt."
+                },
+                {
+                    "q": "Was ist der Unterschied zwischen Sprache zu Text und Audio zu Text?",
+                    "a": "Sprache zu Text ist für gesprochene Worte gebaut, die du selbst festhältst — live aufnehmen oder eine Sprachnotiz transkribieren. Audio zu Text ist für vorhandene Audiodateien wie Podcasts und MP3s gebaut. Wenn du eine Mediendatei statt einer Sprachaufnahme hast, nimm das Tool Audio in Text umwandeln."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Wandle deine Sprache kostenlos in Text um",
+        "content": [
+            "Nimm direkt im Browser auf oder lade eine Sprachaufnahme hoch — TranscriptX macht aus deinen gesprochenen Worten Text in über 100 Sprachen, mit Sprecherkennzeichnung und optionalen Zeitstempeln.",
+            "Diktiere einen Entwurf, transkribiere ein Memo oder schreib ein aufgezeichnetes Gespräch aus — und lies, bearbeite, kopiere oder exportiere es dann als TXT, DOCX, PDF, SRT oder VTT. Kein Konto, keine Installation, keine Kosten."
+        ]
+    }
+}

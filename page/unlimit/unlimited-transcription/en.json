@@ -1,0 +1,247 @@
+{
+    "seo": {
+        "title": "Unlimited Transcription — Audio & Video to Text With No Size Limit",
+        "description": "Unlimited transcription for audio and video: no file size limit, 5 free hours every day with no sign-up, and no daily cap on a paid plan. 100+ languages, ~95% accuracy.",
+        "schemaName": "TranscriptX Unlimited Transcription",
+        "schemaDescription": "Online transcription tool for audio and video with no file size limit. Free users get up to 5 hours of transcription every day with no account required; paid plans remove the daily cap, tested with 10-hour recordings. An hour of audio is transcribed in 1–2 minutes with around 95% accuracy in internal tests, in over 100 languages with speaker labels. Export to TXT, DOCX, PDF, SRT or VTT.",
+        "ogTitle": "Unlimited Transcription — Audio & Video to Text With No Size Limit",
+        "ogDescription": "No file size limit, 5 free hours a day, no paywall on your transcript. Upgrade for unlimited hours — even 10-hour recordings. 100+ languages, no sign-up."
+    },
+    "author": {
+        "name": "Tori Trinh",
+        "role": "Early TranscriptX tester, giving product feedback since the first release",
+        "testedDate": "2026-10-06"
+    },
+    "hero": {
+        "h1": "Unlimited Transcription – No File Size Limit, No Paywall on Your Transcript",
+        "subtitle": "Transcribe audio and video without running into a wall. Upload a two-minute voice note or a gigabyte-sized video — there is no file size limit, up to 5 hours of transcription free every day, and no daily cap at all on a paid plan. An hour of audio comes back as punctuated text with speaker labels in 1–2 minutes, in over 100 languages. Export to TXT, DOCX, PDF, SRT or VTT. No account needed to start.",
+        "placeholder": "Upload an audio or video file...",
+        "button": "Transcribe Now"
+    },
+    "quickAnswer": {
+        "question": "Is there a transcription tool with no limits?",
+        "answer": "TranscriptX has no file size limit, so you never have to split or compress a file. Free use covers up to 5 hours of transcription a day with no account and no card, resetting at the start of each new day (Pacific Time). A paid plan removes the daily cap completely — we have tested single recordings of 10 hours. You can always read and export every transcript you have already made, even after your free hours run out."
+    },
+    "sections": [
+        {
+            "h2": "What Unlimited Transcription Means on TranscriptX",
+            "content": [
+                "Most transcription tools put a limit somewhere: 30 free minutes a month, three files a day, a 25 MB upload cap, a one-hour maximum per file — or, worst of all, a transcript that only appears after you enter a card number.",
+                "On TranscriptX, the limits are simple and stated up front. There is no file size limit, so a full lecture, a long Zoom call or a multi-gigabyte video uploads as one file. Free use covers up to 5 hours of transcription every day, and every transcript you make stays yours to read, copy and export — nothing is held back behind a paywall, even when your free hours for the day are used up.",
+                "If you go past 5 hours in a day, TranscriptX shows an upgrade prompt. A paid plan unlocks the full product with no daily cap: an archive of episodes, a semester of lectures or a single 10-hour recording can all be transcribed the same day."
+            ]
+        },
+        {
+            "h2": "Unlimited Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Free use",
+                    "value": "Up to 5 hours of transcription per day, resets at the start of each new day (Pacific Time)"
+                },
+                {
+                    "label": "Paid plan",
+                    "value": "No daily cap — tested with 10-hour recordings"
+                },
+                {
+                    "label": "Account required",
+                    "value": "No — signing in is optional but recommended"
+                },
+                {
+                    "label": "File size limit",
+                    "value": "None"
+                },
+                {
+                    "label": "Speed",
+                    "value": "1–2 minutes per hour of audio; a 10-hour audio file in about 10 minutes"
+                },
+                {
+                    "label": "Accuracy",
+                    "value": "Around 95% in our internal tests on clear audio"
+                },
+                {
+                    "label": "Input",
+                    "value": "Audio and video files, or public links (YouTube, TikTok, Google Drive, Dropbox, OneDrive and more)"
+                },
+                {
+                    "label": "Accepted formats",
+                    "value": "MP3, WAV, M4A, AAC, FLAC, OGG, MP4, MOV, AVI, MKV, WEBM and more"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Speaker separation",
+                    "value": "Yes — each speaker is labelled"
+                },
+                {
+                    "label": "Export formats",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "File retention",
+                    "value": "Kept for a few days, then deleted automatically; never used to train AI"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe Without Limits",
+            "steps": [
+                {
+                    "h3": "Add your file or link",
+                    "content": "Upload an audio or video file of any size, or paste a public link from YouTube, TikTok, Google Drive, Dropbox or another source. There is nothing to compress or split first."
+                },
+                {
+                    "h3": "Let TranscriptX detect the language",
+                    "content": "The spoken language is detected automatically across more than 100 languages, so you do not need to set anything before you start."
+                },
+                {
+                    "h3": "Wait a minute or two",
+                    "content": "An hour of audio takes 1–2 minutes, depending on how busy the service is. While you wait, you can play our built-in mini-game instead of watching a progress bar."
+                },
+                {
+                    "h3": "Export and move on to the next file",
+                    "content": "The whole recording comes back as punctuated text with each speaker labelled — not a preview, the complete transcript. Copy it or export it as TXT, DOCX, PDF, SRT or VTT, then add the next recording."
+                }
+            ]
+        },
+        {
+            "h2": "How We Tested Speed and Accuracy",
+            "content": [
+                "\"Unlimited\" and \"fast\" are easy words to write, so on October 6, 2026, Tori Trinh measured them on the live site at transcriptx.ai rather than on a test server.",
+                "Speed: a one-hour audio file is transcribed in 1–2 minutes. In our fastest runs it took 1 minute 19 seconds; at peak times it rises to about two minutes. Our longest test, a single 10-hour audio file, finished in about 10 minutes — the transcript was complete from the first minute to the last, with no cut-off.",
+                "Accuracy: on clear recordings, our internal tests measure around 95% word accuracy, with timestamps aligned to the audio. Accuracy drops with heavy background noise, crosstalk or very poor microphones, so we recommend checking names and technical terms in any transcript you plan to publish. You can verify it yourself: transcribe a short clip you know well and compare it word for word."
+            ]
+        },
+        {
+            "h2": "Unlimited Audio Transcription",
+            "content": [
+                "Unlimited audio transcription means you can bring whatever audio you have: an MP3 from a podcast, a WAV from a field recorder, an M4A voice memo from your phone, or a FLAC from a studio session. Short or long, it is transcribed the same way, with no limit on file size.",
+                "If you have been searching for audio to text online free unlimited, this is the honest version of that promise: no account, no card and no size limit, with 5 free hours every day — more than most people record in a day — and a paid plan when you need more. For a single conversion, the [Audio to Text](/audio-to-text) tool walks through the basics."
+            ]
+        },
+        {
+            "h2": "Unlimited Video Transcription",
+            "content": [
+                "Video files are where most tools hit their limits first, because even a short recording in HD can run to hundreds of megabytes. TranscriptX accepts MP4, MOV, AVI, MKV, WEBM and other common formats with no file size limit, so a long Zoom call or a camera recording uploads as it is.",
+                "For videos already online, skip the upload entirely and paste a public link from YouTube, TikTok, Instagram, Facebook or Vimeo. Export to SRT or VTT and you have ready-to-upload subtitles. For more on single video files, see [Video to Text](/video-to-text)."
+            ]
+        },
+        {
+            "h2": "Bulk Audio Transcription: Many Files, One Place",
+            "content": [
+                "Bulk audio transcription is about volume: a podcast back catalogue, twenty research interviews, a term of recorded classes. The bottleneck is usually not the transcription itself but the limits — per-file caps that force you to split recordings, and monthly minute allowances that run out halfway through the batch.",
+                "With no file size limit, each recording goes in whole, and you can work through a batch file after file. Five free hours a day covers a typical week of interviews over a few days; sign in to keep every transcript in your history, so a large project stays organised in one place.",
+                "If a batch is bigger than 5 hours, a paid plan removes the daily cap so you can finish the whole archive the same day instead of waiting for tomorrow's reset."
+            ]
+        },
+        {
+            "h2": "Free Unlimited Audio Transcription: What Is Actually Free",
+            "intro": [
+                "\"Free\" and \"unlimited\" are the two words transcription tools stretch the most, so here is exactly where the lines are on TranscriptX."
+            ],
+            "items": [
+                {
+                    "h3": "Free, with no account",
+                    "content": "Up to 5 hours of transcription a day, no file size limit, every export format, and the full transcript every time. The allowance resets at the start of each new day (Pacific Time). No card is ever asked for to see a result."
+                },
+                {
+                    "h3": "Free, signed in",
+                    "content": "The same 5 free hours, plus your transcript history saved across devices. Signing in is also the best way to avoid being blocked: to stop spam, we may limit heavy anonymous use from a single IP address, and signed-in accounts are not affected in the same way."
+                },
+                {
+                    "h3": "Paid plans",
+                    "content": "No daily cap. Once you upgrade, you get the full product: upload as much as you need, including single recordings of 10 hours or more. Plans start from $5.99 a month, billed yearly."
+                },
+                {
+                    "h3": "When your free hours run out",
+                    "content": "You will see an upgrade prompt for new transcriptions, but everything you have already transcribed stays visible and exportable as normal."
+                }
+            ]
+        },
+        {
+            "h2": "Who Needs Unlimited Transcription",
+            "intro": [
+                "Limits are a small annoyance once and a real problem every week. These are the people who feel them most:"
+            ],
+            "items": [
+                {
+                    "h3": "Podcasters and YouTubers",
+                    "content": "Transcribe every episode for show notes, captions and blog posts — including the back catalogue — without rationing minutes."
+                },
+                {
+                    "h3": "Journalists and researchers",
+                    "content": "Turn hours of interviews into searchable text and pull exact quotes, with each speaker labelled."
+                },
+                {
+                    "h3": "Students",
+                    "content": "Transcribe full recorded lectures, not just the first hour, and build study notes for a whole course."
+                },
+                {
+                    "h3": "Content and marketing teams",
+                    "content": "Repurpose webinars, calls and videos into articles and social posts at the pace content actually gets produced."
+                },
+                {
+                    "h3": "Meetings and minutes",
+                    "content": "Keep a written record of every recorded meeting, with decisions and action items easy to find."
+                }
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is TranscriptX really unlimited?",
+                    "a": "File size is unlimited on every plan, and you always get the full transcript. Free use covers up to 5 hours of transcription a day. Paid plans remove the daily cap entirely — we have tested single 10-hour recordings."
+                },
+                {
+                    "q": "Is there a file size or length limit?",
+                    "a": "There is no file size limit, and you do not need to compress or split a file before uploading. On the free plan, the total you can transcribe is 5 hours per day, so a single recording longer than that needs a paid plan. On a paid plan there is no length cap."
+                },
+                {
+                    "q": "When do my free hours reset?",
+                    "a": "Your 5 free hours reset at the start of each new day, Pacific Time (PT)."
+                },
+                {
+                    "q": "What happens if I go over 5 hours in a day?",
+                    "a": "TranscriptX shows an upgrade prompt for new transcriptions. Anything you have already transcribed stays available to read, copy and export as normal. You can upgrade to continue the same day, or wait for the daily reset."
+                },
+                {
+                    "q": "How long does it take to transcribe one hour of audio?",
+                    "a": "1–2 minutes, depending on how busy the service is. In our tests a 10-hour audio file took about 10 minutes. See [How Long Does It Take to Transcribe 1 Hour of Audio?](/blog/how-long-to-transcribe-1-hour-of-audio) for the full breakdown."
+                },
+                {
+                    "q": "How accurate is the transcription?",
+                    "a": "Around 95% word accuracy on clear audio in our internal tests, with timestamps aligned to the recording. Background noise and overlapping speakers lower accuracy, so check names and numbers before publishing."
+                },
+                {
+                    "q": "Can I transcribe audio and video files in bulk?",
+                    "a": "Yes. You can transcribe as many files as you need one after another, with no per-file size limit. Signing in keeps all your transcripts together in your history."
+                },
+                {
+                    "q": "Do I need an account?",
+                    "a": "No. You can transcribe without signing up. We recommend signing in, though: it saves your history across devices and avoids the anti-spam limits we may apply to heavy anonymous use from one IP address."
+                },
+                {
+                    "q": "What happens to my files after transcription?",
+                    "a": "Your files and transcripts are kept for a few days so you can come back to them, then deleted automatically. We do not use your recordings or transcripts to train AI models."
+                },
+                {
+                    "q": "Which languages can I transcribe?",
+                    "a": "Over 100 languages, detected automatically, so you can transcribe recordings in different languages without changing any settings."
+                },
+                {
+                    "q": "How can I contact TranscriptX?",
+                    "a": "Email us at contact.transcriptx@gmail.com with questions about limits, plans or a file that did not process as expected."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Everything — Without Hitting a Wall",
+        "content": [
+            "Upload audio or video of any size, or paste a link, and TranscriptX returns the full transcript in over 100 languages with speaker labels — an hour of audio in 1–2 minutes.",
+            "No file size limit, 5 free hours every day, no card to see your results, and no daily cap when you upgrade. Have one very long recording? See [Transcribe Large Audio Files](/transcribe-large-audio-files)."
+        ]
+    }
+}

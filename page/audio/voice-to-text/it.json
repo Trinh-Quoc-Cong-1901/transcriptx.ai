@@ -1,0 +1,229 @@
+{
+    "seo": {
+        "title": "Da Voce a Testo — Converti Voce e Registrazioni in Testo Gratis | TranscriptX",
+        "description": "Converti la voce in testo online gratis. Registra direttamente nel browser o carica una registrazione vocale e ottieni un testo preciso in oltre 100 lingue. Esporta TXT, DOCX, PDF. Senza registrazione.",
+        "schemaName": "TranscriptX — Convertitore da Voce a Testo",
+        "schemaDescription": "Strumento online gratuito da voce a testo che trasforma le parole pronunciate e le registrazioni vocali in testo scritto in oltre 100 lingue, con i nomi di chi parla ed esportazione in TXT, DOCX, PDF, SRT e VTT. Registra direttamente nel browser o carica una registrazione, senza bisogno di un account.",
+        "ogTitle": "Da Voce a Testo — Converti Voce e Registrazioni in Testo Gratis | TranscriptX",
+        "ogDescription": "Trasforma la tua voce in testo. Registra nel browser o carica una registrazione vocale e ottieni un testo preciso in oltre 100 lingue, gratis e senza registrazione."
+    },
+    "hero": {
+        "h1": "Da Voce a Testo",
+        "subtitle": "Trasforma le parole che pronunci in parole scritte. Registra direttamente nel browser o carica una registrazione vocale e TranscriptX la mette per iscritto in oltre 100 lingue, con ogni voce identificata. Detta una nota, trascrivi un memo o converti una conversazione registrata — poi esporta in TXT, DOCX, PDF, SRT o VTT. Nessun account, niente da installare.",
+        "placeholder": "Registra la tua voce o carica una registrazione...",
+        "button": "Converti la Voce in Testo"
+    },
+    "quickAnswer": {
+        "question": "Come faccio a convertire la voce in testo?",
+        "answer": "Registra la tua voce direttamente su TranscriptX oppure carica una registrazione vocale: le parole pronunciate diventano testo scritto in pochi secondi, in oltre 100 lingue. Poi puoi leggere, modificare, copiare o esportare il testo. Non serve registrarsi e non devi installare niente."
+    },
+    "sections": [
+        {
+            "h2": "Che Cos'è la Conversione da Voce a Testo?",
+            "content": [
+                "Da voce a testo significa trasformare le parole pronunciate in parole scritte. Parli — oppure riascolti la registrazione di qualcuno che parla — e invece di digitare ti ritrovi le parole sotto forma di testo che puoi leggere, modificare e conservare. È la stessa idea che sta dietro alla dettatura del tuo telefono, ma funziona su registrazioni intere, nel browser, senza limiti di durata e senza account.",
+                "La differenza rispetto al lavoro su un file audio sta nel punto di partenza. La conversione da voce a testo è costruita attorno alla parola pronunciata nel momento in cui nasce o nel momento in cui l'hai catturata: un memo vocale dettato durante una passeggiata, una riunione che hai registrato con il telefono, un'idea che hai raccontato ad alta voce perché parlare era più veloce che scrivere. Il punto di partenza è la tua voce o una registrazione vocale, non un file multimediale che hai scaricato.",
+                "Il valore sta nel fatto che parlare è più veloce che digitare, ma il testo è più utile dell'audio. La conversione da voce a testo sta esattamente nel mezzo — hai la velocità del parlato e la forma cercabile, modificabile e condivisibile della scrittura, senza doverti mettere a trascrivere di persona.",
+                "TranscriptX fa tutto questo gratis, direttamente nel browser, che tu registri sul momento o carichi una registrazione che hai già."
+            ]
+        },
+        {
+            "h2": "Da Voce a Testo in Breve",
+            "specs": [
+                {
+                    "label": "Prezzo",
+                    "value": "Gratis"
+                },
+                {
+                    "label": "Account necessario",
+                    "value": "No"
+                },
+                {
+                    "label": "Installazione",
+                    "value": "Nessuna — funziona nel browser"
+                },
+                {
+                    "label": "Punto di partenza",
+                    "value": "Registra dal vivo nel browser o carica una registrazione vocale"
+                },
+                {
+                    "label": "Limite di durata della registrazione",
+                    "value": "Nessuno"
+                },
+                {
+                    "label": "Lingue",
+                    "value": "Oltre 100, rilevate automaticamente"
+                },
+                {
+                    "label": "Separazione delle voci",
+                    "value": "Sì — ogni voce viene identificata"
+                },
+                {
+                    "label": "Timestamp",
+                    "value": "Opzionali — attivi o disattivi per ogni trascrizione"
+                },
+                {
+                    "label": "Formati di esportazione",
+                    "value": "TXT, DOCX, PDF, SRT, VTT"
+                },
+                {
+                    "label": "Dispositivi",
+                    "value": "Browser su desktop, tablet e mobile"
+                }
+            ]
+        },
+        {
+            "h2": "Come Convertire la Voce in Testo",
+            "steps": [
+                {
+                    "h3": "Registra o carica",
+                    "content": "Premi registra e parla direttamente nel browser, oppure carica una registrazione vocale che hai fatto prima con il telefono o con un registratore. Non c'è nessun limite a quanto puoi parlare."
+                },
+                {
+                    "h3": "Lo strumento ascolta e mette per iscritto",
+                    "content": "TranscriptX riconosce da solo la lingua parlata tra oltre 100 lingue e converte il parlato in testo punteggiato, identificando ogni voce quando ce n'è più di una."
+                },
+                {
+                    "h3": "Leggi e modifica il testo",
+                    "content": "Le parole compaiono come testo che puoi sistemare sul momento — togli una partenza sbagliata, correggi un nome o rimetti in ordine una frase che si è persa per strada."
+                },
+                {
+                    "h3": "Copia o esporta",
+                    "content": "Copia il testo dentro una nota, un documento o un messaggio, oppure esportalo in TXT, DOCX, PDF, SRT o VTT per conservarlo o condividerlo."
+                }
+            ]
+        },
+        {
+            "h2": "Registra Dal Vivo o Carica una Registrazione",
+            "content": [
+                "La conversione da voce a testo funziona in due modi, e in entrambi si parte dalla tua voce e non da un file scaricato.",
+                "Registra dal vivo quando le parole non esistono ancora. Apri lo strumento, avvia la registrazione e parla — un'idea che vuoi mettere nero su bianco, un appunto per te stesso, una bozza che preferisci dire invece che digitare. Nel momento in cui ti fermi, il parlato è già testo che puoi modificare e conservare. È la strada veloce quando ragioni ad alta voce e vuoi catturare il pensiero senza toccare la tastiera.",
+                "Carica una registrazione quando la voce è già stata catturata. Un memo vocale dal telefono, una nota vocale da un'app di messaggistica, una conversazione che hai registrato prima — caricala e TranscriptX la trascrive tutta. In entrambi i casi non c'è un tetto alla durata, quindi un promemoria di dieci secondi e una discussione registrata di un'ora vengono gestiti allo stesso modo."
+            ]
+        },
+        {
+            "h2": "Trascrivere una Registrazione Vocale",
+            "content": [
+                "Una registrazione vocale contiene tutto quello che è stato detto, ma in una forma che non puoi cercare, citare o modificare. Trascriverla trasforma quella registrazione vocale in testo — dalla registrazione vocale alla trascrizione in un solo passaggio, un testo su cui puoi davvero lavorare.",
+                "La trascrizione di registrazioni vocali è utile soprattutto quando la registrazione contiene informazioni che ti serviranno più avanti. Un'intervista registrata diventa testo citabile con ogni voce identificata. Una riunione registrata diventa un verbale scritto di quello che è stato deciso. Una lezione registrata diventa appunti che puoi cercare per parola chiave. Che tu lo chiami trascrizione di una registrazione vocale o semplicemente le parole su una pagina, è ciò che ti permette di usare il contenuto invece di limitarti a conservare l'audio.",
+                "TranscriptX trascrive una registrazione vocale sia che parli una persona sola sia che ce ne siano diverse — e senza installare nessun programma per trascrivere registrazioni. Quando è presente più di una voce, ogni interlocutore viene identificato, così una conversazione registrata si legge come un botta e risposta e non come un unico flusso di parole."
+            ]
+        },
+        {
+            "h2": "Cosa Puoi Trasformare in Testo",
+            "intro": [
+                "Ovunque la tua voce porti con sé qualcosa che vale la pena conservare, la conversione da voce a testo la trasforma in un documento utilizzabile. Gli usi più comuni:"
+            ],
+            "items": [
+                {
+                    "h3": "Memo e note vocali",
+                    "content": "Cattura un'idea, un promemoria o una bozza semplicemente dicendola, e ottieni testo modificabile invece di una registrazione che devi riascoltare per ricordarti cosa avevi detto."
+                },
+                {
+                    "h3": "Riunioni e chiamate",
+                    "content": "Registra una riunione con il telefono e trasformala in un verbale scritto, con ogni persona identificata, così decisioni e cose da fare finiscono sulla pagina invece che nella memoria di qualcuno."
+                },
+                {
+                    "h3": "Interviste",
+                    "content": "Trascrivi un'intervista registrata ottenendo testo citabile, con le voci separate, così puoi riprendere le parole esatte invece di parafrasare a memoria."
+                },
+                {
+                    "h3": "Dettare documenti",
+                    "content": "Detta la prima bozza di un'email, di una relazione o di un articolo e lascia che lo strumento da voce a testo la metta per iscritto, poi sistema il testo invece di digitare ogni parola da zero."
+                },
+                {
+                    "h3": "Lezioni e studio",
+                    "content": "Registra una lezione o una sessione di studio e convertila in un testo che potrai cercare, evidenziare e ripassare più avanti."
+                },
+                {
+                    "h3": "Accessibilità e uso a mani libere",
+                    "content": "Per chi trova la digitazione lenta o difficile, parlare e riavere indietro un testo pulito è un modo di scrivere più rapido e più comodo."
+                }
+            ]
+        },
+        {
+            "h2": "Da Voce a Testo per la Dettatura",
+            "content": [
+                "Quasi tutti parlano molto più velocemente di quanto scrivano alla tastiera, ed è per questo che la dettatura vocale si sposa così bene con la conversione da voce a testo. Quando hai già in testa una prima bozza, dirla ad alta voce e riavere il testo è più rapido che costruirla parola per parola sulla tastiera.",
+                "Il punto delicato della dettatura è che la lingua parlata è più sciolta di quella scritta — ci sono partenze sbagliate, intercalari e frasi che vagano. Siccome la conversione da voce a testo ti consegna un testo modificabile e non un documento finito, sistemare tutto questo è semplice: butti giù le parole grezze alla velocità del parlato, poi ci dedichi un minuto per stringerle nella forma giusta. La parte difficile, passare dalla pagina bianca a una bozza completa, è già fatta.",
+                "Funziona per qualsiasi cosa scriveresti altrimenti a mano: email, appunti, scalette, pagine di diario o la forma grezza di un articolo che sistemerai dopo."
+            ]
+        },
+        {
+            "h2": "Precisione e Lingue",
+            "content": [
+                "Quanto il testo aderisce a ciò che hai detto dipende dalla registrazione. Parlare in modo chiaro e a ritmo costante, vicino al microfono e lontano dai rumori di fondo, dà il risultato più pulito — e visto che buona parte dell'uso da voce a testo consiste nel registrare la propria voce, spesso è una cosa che dipende da te.",
+                "La precisione cala con ambienti rumorosi, persone che si sovrappongono o un parlato molto veloce e biascicato. Quei passaggi meritano un controllo rapido, ma per una nota vocale chiara o una conversazione registrata bene il testo torna quasi parola per parola.",
+                "Il riconoscimento vocale di TranscriptX copre oltre 100 lingue e individua da solo quale stai parlando, così puoi dettare o trasformare la voce in testo nella tua lingua senza toccare prima nessuna impostazione."
+            ]
+        },
+        {
+            "h2": "Da Voce a Testo o Da Audio a Testo?",
+            "intro": [
+                "Entrambi trasformano il parlato in testo, ma sono costruiti attorno a punti di partenza diversi. Scegli in base a da dove arrivano le tue parole."
+            ],
+            "items": [
+                {
+                    "h3": "Scegli da voce a testo per le parole che pronunci tu",
+                    "content": "Quando vuoi registrare la tua voce dal vivo, dettare una bozza o trascrivere un memo o una registrazione vocale che hai fatto tu, questo è lo strumento pensato apposta — compresa la registrazione diretta nel browser."
+                },
+                {
+                    "h3": "Scegli da audio a testo per i file audio che hai già",
+                    "content": "Quando hai già un file audio — un podcast, un'intervista scaricata, l'MP3 di una riunione — lo strumento [Da Audio a Testo](/it/audio-to-text) è costruito attorno al caricamento e alla trascrizione di file multimediali. E se la tua registrazione in realtà è l'audio di un video, lo strumento [Trascrizione YouTube](/it/youtube-transcript) gestisce quella sorgente direttamente."
+                }
+            ]
+        },
+        {
+            "h2": "Domande Frequenti",
+            "items": [
+                {
+                    "q": "Come faccio a convertire la voce in testo gratis?",
+                    "a": "Registra la tua voce su TranscriptX o carica una registrazione vocale: il parlato viene convertito in testo senza alcun costo. Non c'è nessun account da creare, niente da installare e nessun limite alla durata della registrazione."
+                },
+                {
+                    "q": "Posso registrare direttamente nello strumento?",
+                    "a": "Sì. Puoi registrare dal vivo nel browser e avere il testo appena ti fermi, oppure caricare una registrazione fatta in precedenza. Funzionano allo stesso modo."
+                },
+                {
+                    "q": "Posso trascrivere una registrazione vocale che ho già?",
+                    "a": "Sì. Carica la registrazione — un memo vocale, una nota vocale, una conversazione registrata — e TranscriptX la trascrive tutta in testo, identificando le voci quando ce n'è più di una. Puoi trascrivere una registrazione di qualsiasi durata in questo modo."
+                },
+                {
+                    "q": "La conversione da voce a testo va bene per la dettatura?",
+                    "a": "Sì. Parlare è più veloce che digitare, quindi la dettatura è uno degli usi più diffusi. Ti ritrovi un testo modificabile, il che rende facile dettare una bozza grezza e poi sistemarla invece di scrivere tutto da zero."
+                },
+                {
+                    "q": "Quali lingue sono supportate?",
+                    "a": "Oltre 100. La lingua parlata viene rilevata automaticamente, così puoi dettare o trascrivere nella tua lingua senza selezionarla prima."
+                },
+                {
+                    "q": "Riesce a separare le diverse voci?",
+                    "a": "Sì. Quando una registrazione contiene più di una voce, ogni interlocutore viene identificato, così una conversazione o una riunione registrata si legge come un chiaro botta e risposta."
+                },
+                {
+                    "q": "C'è un limite a quanto posso registrare?",
+                    "a": "No. Funzionano sia una breve nota vocale sia una lunga sessione registrata; una registrazione più lunga richiede semplicemente un po' più di tempo per essere elaborata."
+                },
+                {
+                    "q": "Devo installare un'app?",
+                    "a": "No. La conversione da voce a testo funziona online nel browser, su desktop o mobile, senza app, plugin o account."
+                },
+                {
+                    "q": "Quanto è precisa la conversione da voce a testo?",
+                    "a": "Dipende soprattutto dalla registrazione. Un parlato chiaro, vicino al microfono e lontano dai rumori, torna quasi parola per parola, mentre il parlato rumoroso o sovrapposto merita un controllo rapido prima di farci affidamento."
+                },
+                {
+                    "q": "Qual è la differenza tra da voce a testo e da audio a testo?",
+                    "a": "Da voce a testo è pensato per le parole che catturi tu — registrando dal vivo o trascrivendo un memo vocale. Da audio a testo è pensato per i file audio che hai già, come podcast e MP3. Se hai un file multimediale invece di una registrazione vocale, usa lo strumento Da Audio a Testo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Converti la Tua Voce in Testo Gratis",
+        "content": [
+            "Registra direttamente nel browser o carica una registrazione vocale e TranscriptX trasforma le parole che pronunci in testo in oltre 100 lingue, con ogni voce identificata e i timestamp se ti servono.",
+            "Detta una bozza, trascrivi un memo o metti per iscritto una conversazione registrata — poi leggilo, modificalo, copialo o esportalo in TXT, DOCX, PDF, SRT o VTT. Nessun account, nessuna installazione, nessun costo."
+        ]
+    }
+}
