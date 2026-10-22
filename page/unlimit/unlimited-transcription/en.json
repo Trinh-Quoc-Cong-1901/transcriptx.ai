@@ -5,7 +5,7 @@
         "schemaName": "TranscriptX Unlimited Transcription",
         "schemaDescription": "Online transcription tool for audio and video with no file size limit. Free users get up to 5 hours of transcription every day with no account required; paid plans remove the daily cap, tested with 10-hour recordings. An hour of audio is transcribed in 1–2 minutes with around 95% accuracy in internal tests, in over 100 languages with speaker labels. Export to TXT, DOCX, PDF, SRT or VTT.",
         "ogTitle": "Unlimited Transcription — Audio & Video to Text With No Size Limit",
-        "ogDescription": "No file size limit, 5 free hours a day, no paywall on your transcript. Upgrade for unlimited hours — even 10-hour recordings. 100+ languages, no sign-up."
+        "ogDescription": "Transcribe audio and video to text online with 5 free hours a day. 100+ languages, speaker labels, export to TXT, DOCX, PDF, SRT or VTT."
     },
     "author": {
         "name": "Tori Trinh",
@@ -13,7 +13,7 @@
         "testedDate": "2026-10-06"
     },
     "hero": {
-        "h1": "Unlimited Transcription – No File Size Limit, No Paywall on Your Transcript",
+        "h1": "Unlimited Transcription for Audio and Video",
         "subtitle": "Transcribe audio and video without running into a wall. Upload a two-minute voice note or a gigabyte-sized video — there is no file size limit, up to 5 hours of transcription free every day, and no daily cap at all on a paid plan. An hour of audio comes back as punctuated text with speaker labels in 1–2 minutes, in over 100 languages. Export to TXT, DOCX, PDF, SRT or VTT. No account needed to start.",
         "placeholder": "Upload an audio or video file...",
         "button": "Transcribe Now"
