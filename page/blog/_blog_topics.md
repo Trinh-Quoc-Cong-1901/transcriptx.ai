@@ -47,7 +47,9 @@ Cập nhật 2026-10-28. Danh sách đối thủ lấy từ SERP các keyword "b
 1. Mỗi đối thủ có hồ sơ `_source/competitors/<tên>.md`: giá, giới hạn gói free, định dạng xuất, nguồn hỗ trợ. Mỗi dòng có link nguồn + **ngày kiểm tra**.
 2. Test **cùng 1 video YouTube + 1 file audio** trên cả hai bên, ghi thời gian, số bước và kết quả.
 3. Bảng so sánh đặt ngay sau khối `answer`. Mỗi bài có mục "Khi nào nên dùng <đối thủ>": nói thật điểm mạnh của họ.
-4. Ảnh tĩnh trong bài chỉ chụp TranscriptX. Thông tin đối thủ thể hiện bằng bảng + link nguồn. Ảnh đối thủ (nếu cần) chỉ dùng trong video.
+4. Ảnh tĩnh trong bài chỉ chụp TranscriptX. Ảnh đối thủ (nếu cần) chỉ dùng trong video.
+6. **Bài nào cũng có TranscriptX trong bảng so sánh chính**, kể cả bài X vs Y.
+7. **Không link ra trang đối thủ** (không cho backlink). Trong bài chỉ nhắc tên và ghi nguồn bằng chữ, vd. *"Otter's pricing page, checked Oct 2026"*. Link nguồn và ngày kiểm tra lưu trong `notes.md` để kiểm chứng.
 5. Không dùng logo đối thủ, không tự công bố % độ chính xác.
 
 ---
@@ -57,7 +59,7 @@ Cập nhật 2026-10-28. Danh sách đối thủ lấy từ SERP các keyword "b
 Người tìm các keyword này **đã biết mình cần tool**, chỉ đang chọn giữa các bên. Mỗi bài phải giúp họ ra quyết định ngay trong bài: bảng so sánh ở đầu, "chọn bên nào khi nào", CTA dùng thử free không cần tài khoản.
 
 #### Dạng 1 · "[đối thủ] alternative" (người đang dùng X, muốn đổi)
-Khung bài: answer → bảng TranscriptX vs X → vì sao người ta rời X (giới hạn free, giá, thiếu nguồn link…, có nguồn) → TranscriptX làm việc đó thế nào (ảnh TranscriptX) → khi nào vẫn nên ở lại X → 2–4 lựa chọn khác ngắn gọn → FAQ → CTA.
+Khung bài: answer → bảng TranscriptX vs X (+ các lựa chọn khác) → vì sao người ta rời X (giới hạn free, giá, thiếu nguồn link…, có nguồn) → TranscriptX làm việc đó thế nào (ảnh TranscriptX) → khi nào vẫn nên ở lại X → 2–4 lựa chọn khác ngắn gọn → FAQ → CTA.
 
 | # | Ưu tiên | Keyword chính | Slug | Góc viết |
 |---|---|---|---|---|
@@ -77,20 +79,20 @@ Khung bài: answer → bảng TranscriptX vs X → vì sao người ta rời X (
 | 1.14 | P2 | eightify / glasp alternative | `youtube-summarizer-alternatives` | **Chờ Summary ra mắt.** |
 
 #### Dạng 2 · "X vs Y" (người đang phân vân giữa 2 bên)
-Hai kiểu:
+Hai kiểu, **cả hai đều có TranscriptX trong bảng chính**:
 - **X vs TranscriptX**: volume thấp nhưng người tìm sắp mua. Viết ngắn (1,000–1,400 từ), bảng chi tiết, kết luận "chọn X nếu…, chọn TranscriptX nếu…".
-- **X vs Y (không có mình)**: volume cao hơn. Mình làm trọng tài công bằng, so đủ 2 bên, cuối bài thêm mục "Cần chép link/file giá rẻ? Thử TranscriptX". Không chen TranscriptX vào bảng chính.
+- **X vs Y (+ TranscriptX)**: vẫn nhắm keyword "X vs Y" ở H1 và meta, nhưng bảng có 3 cột X | Y | TranscriptX. Mỗi tiêu chí so cả 3 bên. Phần kết luận chia theo nhu cầu: "chọn X nếu…, chọn Y nếu…, chọn TranscriptX nếu bạn cần chép file/link, có Free không cần tài khoản…". H1 gợi ý: *"Otter vs Fireflies (2026): Which One Fits You, Plus a Cheaper Option"*.
 
 Khung bài: answer (ai thắng ở nhu cầu nào) → bảng so sánh → từng tiêu chí (giá, gói free, nguồn hỗ trợ, export, ngôn ngữ, tính năng riêng) → test cùng 1 file → kết luận theo nhu cầu → FAQ → CTA.
 
 | # | Ưu tiên | Keyword chính | Slug | Kiểu |
 |---|---|---|---|---|
-| 2.1 | P1 | notegpt vs tactiq | `notegpt-vs-tactiq` | X vs Y |
-| 2.2 | P1 | turboscribe vs otter | `turboscribe-vs-otter` | X vs Y |
-| 2.3 | P1 | otter vs fireflies | `otter-vs-fireflies` | X vs Y (mình chỉ nhắc ở cuối) |
-| 2.4 | P1 | turboscribe vs happyscribe | `turboscribe-vs-happyscribe` | X vs Y |
-| 2.5 | P2 | rev vs otter | `rev-vs-otter` | X vs Y |
-| 2.6 | P2 | descript vs otter | `descript-vs-otter` | X vs Y |
+| 2.1 | P1 | notegpt vs tactiq | `notegpt-vs-tactiq` | X vs Y + TranscriptX |
+| 2.2 | P1 | turboscribe vs otter | `turboscribe-vs-otter` | X vs Y + TranscriptX |
+| 2.3 | P1 | otter vs fireflies | `otter-vs-fireflies` | X vs Y + TranscriptX |
+| 2.4 | P1 | turboscribe vs happyscribe | `turboscribe-vs-happyscribe` | X vs Y + TranscriptX |
+| 2.5 | P2 | rev vs otter | `rev-vs-otter` | X vs Y + TranscriptX |
+| 2.6 | P2 | descript vs otter | `descript-vs-otter` | X vs Y + TranscriptX |
 | 2.7 | P1 | youtube transcript vs transcriptx | `youtube-built-in-transcript-vs-transcriptx` | X vs TranscriptX (KD15-04) |
 | 2.8 | P2 | transcriptx vs notegpt | `transcriptx-vs-notegpt` | X vs TranscriptX |
 | 2.9 | P2 | transcriptx vs turboscribe | `transcriptx-vs-turboscribe` | X vs TranscriptX |
@@ -126,7 +128,7 @@ Mỗi bài = 1 cụm keyword. Volume ghi theo khoảng của Keyword Planner.
 | 6 | `otter-alternative` | Alternative | otter ai alternative · 100–1K | otter ai competitors, alternatives to otter ai · 100–1K; otter ai alternatives free, similar to otter ai, otter ai free alternatives, apps similar to otter ai, sites like otter ai, websites like otter ai, otter ai similar, free alternative to otter ai · 10–100 | Trung bình: không có bot họp. Góc viết: ghi âm/Record, file và link |
 | 7 | `happyscribe-alternative` | Alternative | happyscribe alternative · 100–1K | happyscribe alternatives · 100–1K | Cao |
 | 8 | `best-transcription-software` | Best | best transcribing app · 1K–10K | best transcribe software · 1K–10K; best audio transcription software, best transcription ai, best transcription tools, best app for transcribing audio, programs to transcribe audio to text, online transcription software, professional transcription software · 100–1K | Cao. Khác bài 4: bài này so cả gói trả phí |
-| 9 | `otter-vs-fireflies` | X vs Y | otter vs fireflies · 100–1K | otter ai vs fireflies, fireflies ai vs otter ai, fireflies vs otter · 100–1K | Thấp: mình chỉ là trọng tài, nhắc TranscriptX ở cuối. Lấy traffic, ít chuyển đổi |
+| 9 | `otter-vs-fireflies` | X vs Y | otter vs fireflies · 100–1K | otter ai vs fireflies, fireflies ai vs otter ai, fireflies vs otter · 100–1K | Trung bình: TranscriptX là cột thứ 3 trong bảng, cho người cần chép file/ghi âm mà không cần bot họp |
 | 10 | `rev-alternative` | Alternative | rev alternative · 10–100 | rev com alternatives, alternatives to rev, alternatives to rev com, alternatives to rev transcription, rev alternatives for freelancers, rev com alternatives for freelancers · 10–100 | Cao (với người chỉ cần AI) |
 | 11 | `best-iphone-transcription-app` | Best | best iphone transcription app · 100–1K | | **Cần xác minh** trải nghiệm TranscriptX trên iPhone (`_source/mobile/`) |
 | 12 | `descript-alternative-transcription` | Alternative | descript alternative · 100–1K | alternative to descript, descript free alternative, descript alternative free, descript competitor, software like descript · 10–100 | Thấp: Descript là app sửa video. Chỉ viết góc "chỉ cần chép lời" |
