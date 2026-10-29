@@ -148,6 +148,15 @@ Cùng transcript ở trên nhưng ở **dark mode**, tab **Mind map** đang mở
 - Mind map hiện: **"Coming soon — A map of this transcript's ideas — the whole talk at a glance."** và *"You're on Pro — you'll get the beta first."*
 - Dùng để minh họa giao diện tối và lộ trình tính năng. Không mô tả Mind map như tính năng đã chạy.
 
+### transcript-notes-tab.png (đợt 10-29)
+Trang kết quả *Father's Advice* (light mode), panel phải mở tab **Notes**: thanh công cụ (Aa định dạng, ☑ checklist, 🔗 link, 🕒 timestamp) và ô *"Add a note..."*. User xác nhận: ghi chú trực tiếp cạnh transcript.
+
+### transcript-summary-coming-soon.png (đợt 10-29)
+Cùng trang, tab **Summary**: **"Coming soon — The key points of this transcript, summarized automatically."** và *"You're on Pro — you'll get the beta first."* User mô tả (10-29): sau khi ra mắt, phần tóm tắt nội dung hiện ở tab này, hợp với bài giảng và cuộc họp.
+
+### transcript-mind-map-coming-soon.png (đợt 10-29)
+Cùng trang (light mode), tab **Mind map**: **"Coming soon — A map of this transcript's ideas — the whole talk at a glance."** và *"You're on Pro — you'll get the beta first."* Mind map để nhìn tổng quát nội dung.
+
 ### transcript-download-menu-open.png
 Trang kết quả *Father's Advice* với menu **Download** (⬇) đang mở: **.txt, .docx, .pdf** | **.srt, .vtt**.
 
