@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Correio de Voz para Texto — Transcreva Grátis | TranscriptX",
+        "description": "Converta correio de voz em texto grátis. Salve o recado do iPhone, Android ou Google Voice, envie e leia tudo em mais de 100 idiomas. Sem cadastro.",
+        "schemaName": "TranscriptX — Conversor de Correio de Voz para Texto",
+        "schemaDescription": "Ferramenta online gratuita de correio de voz para texto que transcreve recados salvos do iPhone, Android, Google Voice e sistemas de telefonia empresarial em texto completo e editável em mais de 100 idiomas, com tradução básica para o inglês, marcações de tempo opcionais e exportação em TXT, DOCX, PDF, SRT e VTT. Funciona no navegador, sem precisar de conta.",
+        "ogTitle": "Correio de Voz para Texto — Transcreva Grátis | TranscriptX",
+        "ogDescription": "A prévia do correio de voz do seu celular vem cortada, não aparece ou está no idioma errado? Envie o recado e leia a mensagem inteira em texto, grátis, em mais de 100 idiomas."
+    },
+    "hero": {
+        "h1": "Correio de Voz para Texto",
+        "subtitle": "Converta correio de voz em texto online e leia a mensagem inteira, não só uma prévia. Salve o recado do seu iPhone, Android, Google Voice ou telefone do trabalho, envie o arquivo e o TranscriptX escreve cada palavra em mais de 100 idiomas, com marcações de tempo para conferir. Copie, guarde ou exporte em TXT, DOCX ou PDF. Sem conta e sem app para instalar.",
+        "placeholder": "Envie um arquivo de áudio do correio de voz...",
+        "button": "Converter Correio de Voz em Texto"
+    },
+    "quickAnswer": {
+        "question": "Como converter um recado do correio de voz em texto?",
+        "answer": "Salve o recado como arquivo de áudio (no iPhone: abra a mensagem, toque em Compartilhar e depois em Salvar em Arquivos) e envie para o TranscriptX. Ele transcreve a mensagem inteira em segundos, em mais de 100 idiomas, pronta para ler, copiar, editar ou baixar. Dá para usar grátis todos os dias, sem app e sem cadastro."
+    },
+    "sections": [
+        {
+            "h2": "O Que É Correio de Voz para Texto?",
+            "content": [
+                "Correio de voz para texto transforma um recado falado em palavras escritas, para você ler a mensagem em vez de ligar para a caixa postal e ouvir tudo, muitas vezes duas vezes para pegar um número de telefone.",
+                "Seu celular talvez já faça algo parecido. O iPhone mostra uma transcrição abaixo de cada recado e, com o Live Voicemail, até enquanto a pessoa ainda está falando. O Phone by Google e o Google Voice também mostram transcrições. Essas prévias são gratuitas e automáticas, e para ver rapidamente quem ligou muitas vezes bastam.",
+                "Mas elas têm limites. Dependem da operadora, da região e do idioma do celular, cobrem poucos idiomas e podem vir cortadas ou simplesmente não aparecer. O TranscriptX trabalha com o próprio áudio do recado: salve a mensagem como arquivo, envie e receba a transcrição completa em qualquer um de mais de 100 idiomas, em um texto que você pode conferir, editar e guardar."
+            ]
+        },
+        {
+            "h2": "Correio de Voz para Texto em Resumo",
+            "specs": [
+                {
+                    "label": "Funciona com",
+                    "value": "Correio de voz do iPhone, Android, Samsung, Google Voice e telefones de empresa — qualquer recado que você consiga salvar como arquivo"
+                },
+                {
+                    "label": "Mensagem completa",
+                    "value": "Cada palavra, não uma prévia que corta no meio"
+                },
+                {
+                    "label": "Operadora ou região",
+                    "value": "Não importa — não precisa de nenhum recurso da operadora nem de plano de celular específico"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, incluindo idiomas que a transcrição do correio de voz do seu celular não suporta"
+                },
+                {
+                    "label": "Conferir nomes e números",
+                    "value": "Ouça o recado ao lado do texto, com marcações de tempo opcionais"
+                },
+                {
+                    "label": "Guardar um registro",
+                    "value": "Copie o texto ou baixe em TXT, DOCX ou PDF"
+                },
+                {
+                    "label": "Sua caixa postal",
+                    "value": "Nunca é acessada — você envia só o arquivo que escolher"
+                },
+                {
+                    "label": "Preço",
+                    "value": "Grátis, sem precisar de conta"
+                }
+            ]
+        },
+        {
+            "h2": "Como Converter Correio de Voz em Texto",
+            "steps": [
+                {
+                    "h3": "Salve o recado como arquivo de áudio",
+                    "content": "Compartilhe ou salve a mensagem pelo celular, ou baixe do e-mail do correio de voz. A próxima seção mostra onde encontrar o arquivo no iPhone, Android, Google Voice e sistemas de telefonia empresarial."
+                },
+                {
+                    "h3": "Envie para o TranscriptX",
+                    "content": "Envie o arquivo do celular ou do computador, ou do Google Drive, Dropbox ou OneDrive. Funciona do mesmo jeito no navegador do celular e no computador."
+                },
+                {
+                    "h3": "Leia a mensagem completa",
+                    "content": "O TranscriptX detecta o idioma sozinho e escreve o recado inteiro em texto pontuado. Ative as marcações de tempo se quiser ver quando cada parte foi dita."
+                },
+                {
+                    "h3": "Confira, copie ou baixe",
+                    "content": "Confira nomes e números com o áudio, corrija o que precisar ali mesmo e depois copie o texto ou baixe em TXT, DOCX ou PDF para guardar um registro."
+                }
+            ]
+        },
+        {
+            "h2": "Como Salvar um Recado do Correio de Voz como Arquivo de Áudio",
+            "intro": [
+                "O TranscriptX não se conecta à sua caixa postal, então o primeiro passo é tirar o recado de lá como arquivo. Onde ele fica depende do celular ou do sistema que recebeu a ligação:"
+            ],
+            "items": [
+                {
+                    "h3": "Correio de voz do iPhone para texto",
+                    "content": "Abra o app Telefone e vá até seus recados (a aba Correio de Voz ou, no layout mais novo, as chamadas filtradas por correio de voz). Toque no recado, toque em Compartilhar e escolha Salvar em Arquivos, ou envie para você mesmo pelo Mail ou pelo Mensagens. O arquivo salvo costuma ser um áudio .m4a. Compartilhar funciona com o correio de voz visual, que a maioria das operadoras do iPhone suporta."
+                },
+                {
+                    "h3": "Correio de voz do Android e Samsung para texto",
+                    "content": "No Phone by Google, expanda o recado para compartilhar a gravação de áudio. Nos celulares Samsung Galaxy, abra o app de correio de voz ou de correio de voz visual, selecione a mensagem e use Salvar, Encaminhar ou Compartilhar. Os nomes dos menus mudam conforme o fabricante e a operadora, e alguns Samsung salvam os recados em arquivos AMR."
+                },
+                {
+                    "h3": "Correio de voz do Google Voice para texto",
+                    "content": "O Google Voice já transcreve os recados, mas o Google avisa que essas transcrições podem estar incorretas ou faltando. Para pegar o áudio, ative a opção de receber o correio de voz por e-mail nas configurações do Google Voice, ou exporte seus recados com o Google Takeout, e depois envie a gravação para o TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex e sistemas de telefonia do escritório",
+                    "content": "Muitos sistemas empresariais mandam cada recado por e-mail com a gravação anexada. O Webex Calling anexa um arquivo WAV, e os e-mails de correio de voz do Teams normalmente trazem um MP3. Salve o anexo e envie para ter uma transcrição completa que você pode arquivar ou encaminhar."
+                }
+            ]
+        },
+        {
+            "h2": "Quando a Transcrição do Correio de Voz do Celular Não Dá Conta",
+            "intro": [
+                "A transcrição integrada é prática, mas estes são os problemas mais comuns, e é neles que uma transcrição completa do arquivo salvo ajuda:"
+            ],
+            "items": [
+                {
+                    "h3": "A transcrição vem cortada",
+                    "content": "Usuários de iPhone relatam com frequência nos fóruns da Comunidade da Apple que a transcrição de um recado mostra só parte da mensagem, às vezes só os últimos segundos. Enviar o áudio salvo dá a você cada palavra, com marcações de tempo."
+                },
+                {
+                    "h3": "\"Transcrição não disponível\"",
+                    "content": "A transcrição integrada depende da operadora, da região, do idioma do celular e da versão do sistema, então alguns recados nunca ganham transcrição. Um recado salvo como arquivo ainda pode ser transcrito por completo."
+                },
+                {
+                    "h3": "O recado não está em um idioma suportado",
+                    "content": "O Phone by Google só transcreve recados em inglês e espanhol, e o Live Voicemail cobre um grupo limitado de idiomas. Um recado em vietnamita, hindi ou árabe muitas vezes fica sem texto nenhum."
+                },
+                {
+                    "h3": "O recado pode sumir",
+                    "content": "A Apple avisa que recados que não estão no iCloud podem ser apagados pela operadora e podem ser excluídos quando você troca o chip (cartão SIM). Salvar o áudio e uma cópia escrita mantém a mensagem mesmo depois que ela sai do celular."
+                }
+            ]
+        },
+        {
+            "h2": "Idiomas da Transcrição de Correio de Voz: Seu Celular vs TranscriptX",
+            "intro": [
+                "O suporte a idiomas é a maior diferença entre a transcrição integrada do correio de voz e uma ferramenta de transcrição completa. Listas de idiomas conferidas nas páginas de suporte da Apple, do Google e da Cisco, outubro de 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Inglês, espanhol, francês, alemão, português (Brasil), japonês, coreano, chinês mandarim e cantonês, em regiões selecionadas."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Inglês e espanhol, no Android 8.0 ou superior, com operadoras compatíveis."
+                },
+                {
+                    "h3": "Google Voice (contas de trabalho e de escola)",
+                    "content": "Inglês, dinamarquês, holandês, francês, alemão, português e espanhol."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Inglês, francês, alemão, italiano, japonês e espanhol."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Mais de 100 idiomas, detectados automaticamente, para qualquer recado salvo como arquivo."
+                }
+            ]
+        },
+        {
+            "h2": "Traduza o Correio de Voz para Texto",
+            "content": [
+                "Um recado em um idioma que você não lê bem é o mais difícil de resolver, e a transcrição integrada do celular normalmente não ajuda, porque já não suporta a maioria dos idiomas.",
+                "O TranscriptX primeiro transcreve o recado no idioma em que foi falado, entre mais de 100 idiomas. Depois você pode traduzir a transcrição para o inglês, e um recado em espanhol, francês, vietnamita ou hindi vira uma mensagem que você lê em inglês. Por enquanto a tradução é básica: uma tradução mais completa entre mais idiomas chega em breve.",
+                "Mantenha a transcrição no idioma original ao lado da tradução. Para qualquer coisa importante, como um endereço, um valor ou o horário de um compromisso, o que vale são as palavras originais."
+            ]
+        },
+        {
+            "h2": "Conversor de Correio de Voz para Texto Grátis Online",
+            "content": [
+                "O TranscriptX é um conversor gratuito de correio de voz para texto que funciona online, em qualquer navegador. Dá para testar sem conta. Entre na sua conta para manter suas transcrições salvas em todos os dispositivos.",
+                "Não há cobrança por recado nem serviço extra da operadora para assinar só para ler um correio de voz. Envie o arquivo, leia o texto e copie ou baixe. Se você transcreve gravações longas ou com ruído todos os dias, o <a href=\"/pricing/\">plano Pro</a> oferece mais uso diário, arquivos maiores, identificação de quem fala e redução de ruído."
+            ]
+        },
+        {
+            "h2": "Transcrição de Correio de Voz para Guardar",
+            "content": [
+                "Um recado se perde fácil. As mensagens expiram, os celulares são trocados e a caixa postal enche. A transcrição do correio de voz transforma o recado em um documento que fica com você.",
+                "Quando você converte correio de voz em texto com o TranscriptX, recebe a transcrição completa do recado, não uma prévia curta. Baixe em TXT, DOCX ou PDF e arquive junto com o serviço, o cliente, o aluguel ou o caso a que ele pertence. Deixe as marcações de tempo ativadas para mostrar exatamente em que ponto do recado algo foi dito, ou desative para ter um bloco de texto limpo.",
+                "Como a transcrição é texto simples, você pode buscar nela depois um nome, uma data ou um número de pedido. Guarde o arquivo de áudio original junto, para ter a gravação caso alguém precise ouvir."
+            ]
+        },
+        {
+            "h2": "Precisão com Áudio de Linha Telefônica",
+            "content": [
+                "O correio de voz é gravado por uma linha telefônica, então o áudio é comprimido e mais limitado que uma gravação comum, e quem liga muitas vezes está na rua, dirigindo ou com pressa. Um recado claro, gravado em um lugar silencioso, sai praticamente palavra por palavra. Vento, trânsito, sinal fraco ou alguém falando rápido podem embaralhar uma ou outra palavra. Para recados com ruído, a redução de ruído do plano Pro ajuda a limpar o áudio antes da transcrição.",
+                "Os detalhes que mais importam em um recado também são os mais fáceis de errar: números de telefone, endereços, nomes, valores e datas. Antes de retornar a ligação ou agir com base no recado, confira esses dados com o áudio. Com as marcações de tempo ativadas, você vai direto ao momento em que um número foi dito e ouve só aquele trecho.",
+                "O TranscriptX detecta o idioma automaticamente entre mais de 100 idiomas, então um recado em espanhol, francês, vietnamita ou hindi é transcrito sem mudar nenhuma configuração antes."
+            ]
+        },
+        {
+            "h2": "Transcreva Mensagens de Voz em Texto",
+            "content": [
+                "Nem toda mensagem falada chega pelo correio de voz. Os áudios dos apps de chat e de mensagens trazem o mesmo tipo de informação e são tão difíceis de passar o olho quanto.",
+                "A maioria dos apps de mensagens permite salvar ou compartilhar um áudio como arquivo. Envie para o TranscriptX para transcrever a mensagem de voz em texto, do mesmo jeito que um recado do correio de voz. Transcrever mensagens de voz ajuda quando você não pode ouvir o áudio em voz alta, quando a mensagem é longa ou quando está em um idioma que você lê melhor do que entende de ouvido."
+            ]
+        },
+        {
+            "h2": "Você Precisa de um App de Correio de Voz para Texto?",
+            "content": [
+                "Muitas vezes, não. Se o seu celular e a sua operadora suportam, a transcrição de correio de voz integrada ao iPhone, ao Phone by Google ou ao Google Voice é o jeito mais rápido de dar uma olhada nos recados novos, e não custa nada. Use.",
+                "O TranscriptX é para quando ela não resolve: uma transcrição cortada ou que não aparece, um recado em um idioma que o celular não transcreve, um recado antigo que você salvou, um correio de voz encaminhado por um colega ou uma mensagem que você precisa guardar como documento. Ele roda no navegador, então funciona como um app de correio de voz para texto sem instalação, e como alternativa a um app de correio de voz para texto no iPhone ou Android.",
+                "Quando as pessoas procuram o melhor app de correio de voz para texto, o que normalmente importa é a mensagem inteira, no idioma delas, em um formato que dá para guardar. É para isso que o TranscriptX foi feito."
+            ]
+        },
+        {
+            "h2": "Privacidade: O Que Acontece com Seu Correio de Voz",
+            "content": [
+                "Recados podem ser pessoais, então vale saber para onde eles vão. Os serviços integrados lidam com isso de formas diferentes: o Google, por exemplo, diz que as transcrições do correio de voz do app Telefone ficam armazenadas no celular e não na sua Conta do Google, e que recados que você escolhe doar podem ser revisados por pessoas.",
+                "Com o TranscriptX, nada é puxado da sua caixa postal. Você escolhe qual arquivo salvo enviar. Dá para testar sem conta e, se você entrar, pode apagar todos os seus dados pelo menu da conta a qualquer momento."
+            ]
+        },
+        {
+            "h2": "Quem Usa Correio de Voz para Texto",
+            "intro": [
+                "Quem recebe informações importantes por correio de voz ganha muito em ter tudo por escrito. Os usos mais comuns:"
+            ],
+            "items": [
+                {
+                    "h3": "Pequenas empresas e autônomos",
+                    "content": "Transforme recados de clientes em texto para encaminhar à equipe, colar em um CRM ou responder sem ouvir o áudio de novo."
+                },
+                {
+                    "h3": "Pessoas surdas ou com deficiência auditiva",
+                    "content": "Leia cada palavra de um recado em vez de depender de uma prévia curta ou de pedir para outra pessoa ouvir."
+                },
+                {
+                    "h3": "Recados em outro idioma",
+                    "content": "Transcreva um recado falado em qualquer um de mais de 100 idiomas, incluindo os que o seu celular não transcreve, e leia no seu ritmo."
+                },
+                {
+                    "h3": "Registros e acompanhamento",
+                    "content": "Guarde uma cópia escrita, com marcações de tempo, de um recado com um orçamento, um compromisso, um acordo ou uma reclamação, salva como documento que você encontra depois."
+                },
+                {
+                    "h3": "Recados que valem a pena guardar",
+                    "content": "Salve em texto as palavras de um recado de alguém da família ou de um amigo, para que a mensagem fique com você mesmo depois que o áudio sumir."
+                }
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como converter correio de voz em texto de graça?",
+                    "a": "Salve o recado como arquivo de áudio e envie para o TranscriptX. Você recebe a mensagem completa em texto em segundos, sem precisar de conta."
+                },
+                {
+                    "q": "Como salvar um recado do correio de voz no iPhone?",
+                    "a": "No app Telefone, abra o recado, toque em Compartilhar e escolha Salvar em Arquivos. O arquivo costuma ser .m4a."
+                },
+                {
+                    "q": "Por que a transcrição do correio de voz do meu iPhone não funciona?",
+                    "a": "Ela depende da operadora, da região e do idioma do celular, então não está disponível em todo lugar. Se você não vê a transcrição, salve o recado e envie para o TranscriptX."
+                },
+                {
+                    "q": "Por que a transcrição do meu correio de voz vem cortada?",
+                    "a": "As prévias do celular às vezes mostram só parte da mensagem. Envie o recado salvo para ter cada palavra."
+                },
+                {
+                    "q": "Posso transcrever um recado em outro idioma?",
+                    "a": "Sim. O TranscriptX funciona em mais de 100 idiomas e detecta o idioma automaticamente."
+                },
+                {
+                    "q": "Qual é a precisão da transcrição de correio de voz?",
+                    "a": "Recados claros saem praticamente palavra por palavra. O áudio de telefone pode ter ruído, então confira nomes e números de telefone com a gravação."
+                },
+                {
+                    "q": "O TranscriptX acessa minha caixa postal?",
+                    "a": "Não. Ele nunca se conecta ao seu celular nem à sua conta de correio de voz. Você só envia o arquivo que escolher."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Converta Seu Correio de Voz em Texto Grátis",
+        "content": [
+            "Quando a prévia do correio de voz do celular vem cortada, não aparece ou está no idioma errado, salve o recado, envie e o TranscriptX transforma a mensagem inteira em texto em mais de 100 idiomas.",
+            "Leia, confira os números, copie para uma anotação ou baixe em TXT, DOCX ou PDF. Para suas próprias gravações, use [Voz para Texto](/pt/voice-to-text); para podcasts e outros arquivos de áudio, use [Áudio para Texto](/pt/audio-to-text). Sem conta e sem app para instalar."
+        ]
+    }
+}

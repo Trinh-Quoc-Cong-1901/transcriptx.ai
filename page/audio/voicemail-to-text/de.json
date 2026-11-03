@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Mailbox in Text umwandeln — kostenlos online | TranscriptX",
+        "description": "Mailbox-Nachrichten kostenlos in Text umwandeln. Speichere die Nachricht von iPhone, Android oder Google Voice, lade sie hoch, lies alles. 100+ Sprachen.",
+        "schemaName": "TranscriptX Mailbox in Text Umwandler",
+        "schemaDescription": "Kostenloses Online-Tool, das gespeicherte Mailbox-Nachrichten von iPhone, Android, Google Voice und Telefonanlagen in vollständigen, bearbeitbaren Text in über 100 Sprachen umwandelt — mit einfacher Übersetzung ins Englische, optionalen Zeitstempeln und Export als TXT, DOCX, PDF, SRT und VTT. Läuft im Browser, ganz ohne Konto.",
+        "ogTitle": "Mailbox in Text umwandeln — kostenlos online | TranscriptX",
+        "ogDescription": "Die Mailbox-Vorschau deines Handys ist abgeschnitten, fehlt oder ist in der falschen Sprache? Lade die Nachricht hoch und lies sie komplett als Text, kostenlos, in 100+ Sprachen."
+    },
+    "hero": {
+        "h1": "Mailbox in Text umwandeln",
+        "subtitle": "Wandle Mailbox-Nachrichten online in Text um und lies die ganze Nachricht, nicht nur eine Vorschau. Speichere die Sprachnachricht von deinem iPhone, Android, Google Voice oder Diensttelefon, lade sie hoch, und TranscriptX schreibt jedes Wort in über 100 Sprachen aus, mit Zeitstempeln zum Nachprüfen. Kopiere den Text, behalte ihn oder exportiere ihn als TXT, DOCX oder PDF. Kein Konto, keine App zu installieren.",
+        "placeholder": "Audiodatei der Mailbox-Nachricht hochladen...",
+        "button": "Mailbox in Text umwandeln"
+    },
+    "quickAnswer": {
+        "question": "Wie wandle ich eine Mailbox-Nachricht in Text um?",
+        "answer": "Speichere die Mailbox-Nachricht als Audiodatei (auf dem iPhone: Nachricht öffnen, auf Teilen tippen, dann In Dateien sichern) und lade sie bei TranscriptX hoch. Die ganze Nachricht wird in Sekunden in Text umgewandelt, in über 100 Sprachen, bereit zum Lesen, Kopieren, Bearbeiten oder Herunterladen. Jeden Tag kostenlos, ohne App und ohne Anmeldung."
+    },
+    "sections": [
+        {
+            "h2": "Was bedeutet Mailbox in Text umwandeln?",
+            "content": [
+                "Dabei wird eine gesprochene Mailbox-Nachricht zu geschriebenem Text. Du liest die Nachricht, statt die Mailbox anzurufen und sie dir anzuhören, oft zweimal, um eine Telefonnummer mitzuschreiben.",
+                "Dein Handy kann das vielleicht schon teilweise. Das iPhone zeigt unter jeder Voicemail eine Transkription und mit Live Voicemail sogar, während der Anrufer noch spricht. Auch Phone by Google und Google Voice zeigen Transkripte. Diese Vorschauen sind kostenlos und automatisch, und um kurz zu sehen, wer angerufen hat, reichen sie oft völlig.",
+                "Sie haben aber auch Grenzen. Sie hängen von deinem Mobilfunkanbieter, deiner Region und der Sprache deines Handys ab, decken nur wenige Sprachen ab und kommen manchmal abgeschnitten oder gar nicht an. TranscriptX arbeitet mit dem Audio der Nachricht selbst: Speichere die Nachricht als Datei, lade sie hoch und erhalte das vollständige Transkript in einer von über 100 Sprachen, als Text, den du prüfen, bearbeiten und behalten kannst."
+            ]
+        },
+        {
+            "h2": "Mailbox in Text auf einen Blick",
+            "specs": [
+                {
+                    "label": "Funktioniert mit",
+                    "value": "Mailbox von iPhone, Android, Samsung, Google Voice und Diensttelefon — jede Nachricht, die du als Datei speichern kannst"
+                },
+                {
+                    "label": "Ganze Nachricht",
+                    "value": "Jedes Wort, keine Vorschau, die mittendrin abbricht"
+                },
+                {
+                    "label": "Anbieter oder Region",
+                    "value": "Egal — keine Anbieterfunktion und kein bestimmter Tarif nötig"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, auch Sprachen, die die Mailbox-Transkription deines Handys nicht unterstützt"
+                },
+                {
+                    "label": "Namen und Nummern prüfen",
+                    "value": "Nachricht neben dem Text abspielen, mit optionalen Zeitstempeln"
+                },
+                {
+                    "label": "Nachweis behalten",
+                    "value": "Text kopieren oder als TXT, DOCX oder PDF herunterladen"
+                },
+                {
+                    "label": "Deine Mailbox",
+                    "value": "Kein Zugriff — du lädst nur die Datei hoch, die du auswählst"
+                },
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos, kein Konto nötig"
+                }
+            ]
+        },
+        {
+            "h2": "Mailbox-Nachricht in Text umwandeln – so geht's",
+            "steps": [
+                {
+                    "h3": "Nachricht als Audiodatei speichern",
+                    "content": "Teile oder speichere die Nachricht auf deinem Handy, oder lade sie aus der Mailbox-E-Mail herunter. Im nächsten Abschnitt steht, wo du die Datei bei iPhone, Android, Google Voice und Telefonanlagen findest."
+                },
+                {
+                    "h3": "Bei TranscriptX hochladen",
+                    "content": "Lade die Datei vom Handy oder Computer hoch, oder aus Google Drive, Dropbox oder OneDrive. Im mobilen Browser funktioniert es genauso wie am Desktop."
+                },
+                {
+                    "h3": "Die ganze Nachricht lesen",
+                    "content": "TranscriptX erkennt die Sprache von selbst und schreibt die ganze Mailbox-Nachricht als Text mit Zeichensetzung aus. Schalte Zeitstempel ein, wenn du sehen willst, wann was gesagt wurde."
+                },
+                {
+                    "h3": "Prüfen, kopieren oder herunterladen",
+                    "content": "Gleiche Namen und Nummern mit dem Audio ab, korrigiere direkt im Text, und kopiere ihn dann oder lade ihn als TXT, DOCX oder PDF herunter, um einen Nachweis zu behalten."
+                }
+            ]
+        },
+        {
+            "h2": "Mailbox-Nachricht als Audiodatei speichern",
+            "intro": [
+                "TranscriptX verbindet sich nicht mit deiner Mailbox. Der erste Schritt ist also, die Nachricht als Datei herauszuholen. Wo sie liegt, hängt vom Handy oder System ab, das den Anruf angenommen hat:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone-Mailbox in Text umwandeln",
+                    "content": "Öffne die Telefon-App und geh zu deinen Voicemails (der Tab Voicemail, oder im neueren Layout Anrufe, gefiltert nach Voicemails). Tippe auf die Nachricht, dann auf Teilen, und wähle In Dateien sichern, oder schick sie dir per Mail oder Nachrichten. Die gespeicherte Datei ist meist eine .m4a-Audiodatei. Teilen funktioniert mit Visual Voicemail, das die meisten Mobilfunkanbieter auf dem iPhone unterstützen."
+                },
+                {
+                    "h3": "Android- und Samsung-Mailbox in Text umwandeln",
+                    "content": "In Phone by Google klappst du die Mailbox-Nachricht auf, um die Audioaufnahme zu teilen. Auf Samsung-Galaxy-Handys öffnest du die Voicemail- oder Visual-Voicemail-App, wählst die Nachricht aus und nutzt Speichern, Weiterleiten oder Teilen. Die Menünamen unterscheiden sich je nach Hersteller und Anbieter, und manche Samsung-Handys speichern Mailbox-Nachrichten als AMR-Dateien."
+                },
+                {
+                    "h3": "Google-Voice-Mailbox in Text umwandeln",
+                    "content": "Google Voice transkribiert Mailbox-Nachrichten bereits, aber Google weist darauf hin, dass diese Transkripte fehlerhaft sein oder fehlen können. Um an das Audio zu kommen, aktiviere in den Google-Voice-Einstellungen Get voicemail via email, oder exportiere deine Voicemails mit Google Takeout, und lade die Aufnahme dann bei TranscriptX hoch."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex und Telefonanlagen",
+                    "content": "Viele Business-Systeme schicken jede Mailbox-Nachricht per E-Mail mit der Aufnahme im Anhang. Webex Calling hängt eine WAV-Datei an, und Teams-Voicemail-E-Mails enthalten meist eine MP3. Speichere den Anhang und lade ihn hoch, um ein vollständiges Transkript zum Ablegen oder Weiterleiten zu erhalten."
+                }
+            ]
+        },
+        {
+            "h2": "Wenn die Mailbox-Transkription deines Handys nicht reicht",
+            "intro": [
+                "Die eingebaute Transkription ist praktisch, aber das sind die häufigsten Probleme, und hier hilft ein vollständiges Transkript der gespeicherten Datei:"
+            ],
+            "items": [
+                {
+                    "h3": "Das Transkript ist abgeschnitten",
+                    "content": "In den Apple Community-Foren berichten iPhone-Nutzer immer wieder, dass ein Voicemail-Transkript nur einen Teil der Nachricht zeigt, manchmal nur die letzten Sekunden. Wenn du das gespeicherte Audio hochlädst, bekommst du jedes Wort, mit Zeitstempeln."
+                },
+                {
+                    "h3": "„Transkription nicht verfügbar“",
+                    "content": "Die eingebaute Transkription hängt von Anbieter, Region, Handysprache und Softwareversion ab, deshalb bekommen manche Nachrichten nie ein Transkript. Eine gespeicherte Mailbox-Datei lässt sich trotzdem vollständig transkribieren."
+                },
+                {
+                    "h3": "Die Nachricht ist in einer nicht unterstützten Sprache",
+                    "content": "Phone by Google transkribiert Mailbox-Nachrichten nur auf Englisch und Spanisch, und Live Voicemail deckt nur wenige Sprachen ab. Eine Nachricht auf Vietnamesisch, Hindi oder Arabisch kommt oft ganz ohne Text an."
+                },
+                {
+                    "h3": "Die Nachricht könnte verschwinden",
+                    "content": "Apple weist darauf hin, dass Voicemails, die nicht in iCloud gespeichert sind, vom Anbieter gelöscht werden können, auch beim Wechsel der SIM-Karte. Wenn du das Audio und eine schriftliche Kopie sicherst, bleibt die Nachricht erhalten, auch wenn sie vom Handy weg ist."
+                }
+            ]
+        },
+        {
+            "h2": "Sprachen der Mailbox-Transkription: dein Handy vs. TranscriptX",
+            "intro": [
+                "Die Sprachunterstützung ist der größte Unterschied zwischen der eingebauten Mailbox-Transkription und einem echten Transkriptions-Tool. Sprachlisten geprüft anhand der Support-Seiten von Apple, Google und Cisco, Oktober 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Englisch, Spanisch, Französisch, Deutsch, Portugiesisch (Brasilien), Japanisch, Koreanisch, Mandarin-Chinesisch und Kantonesisch, in ausgewählten Regionen."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Englisch und Spanisch, ab Android 8.0, bei unterstützten Anbietern."
+                },
+                {
+                    "h3": "Google Voice (Arbeits- und Schulkonten)",
+                    "content": "Englisch, Dänisch, Niederländisch, Französisch, Deutsch, Portugiesisch und Spanisch."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Englisch, Französisch, Deutsch, Italienisch, Japanisch und Spanisch."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "100+ Sprachen, automatisch erkannt, für jede gespeicherte Mailbox-Datei."
+                }
+            ]
+        },
+        {
+            "h2": "Mailbox-Nachricht übersetzen",
+            "content": [
+                "Eine Mailbox-Nachricht in einer Sprache, die du kaum lesen kannst, ist am schwierigsten, und die eingebaute Transkription hilft meist nicht, weil sie die meisten Sprachen gar nicht unterstützt.",
+                "TranscriptX transkribiert die Nachricht zuerst in der Sprache, in der sie gesprochen wurde, in über 100 Sprachen. Danach kannst du das Transkript ins Englische übersetzen, sodass aus einer spanischen, französischen, vietnamesischen oder Hindi-Nachricht eine Nachricht wird, die du auf Englisch lesen kannst. Die Übersetzung ist vorerst einfach gehalten: eine umfassendere Übersetzung zwischen mehr Sprachen kommt bald.",
+                "Behalte das Transkript in der Originalsprache neben der Übersetzung. Bei allem Wichtigen, etwa einer Adresse, einem Betrag oder einem Termin, zählen die Originalworte."
+            ]
+        },
+        {
+            "h2": "Kostenloser Mailbox-in-Text-Umwandler online",
+            "content": [
+                "TranscriptX ist ein kostenloser Umwandler für Mailbox-Nachrichten in Text, der online in jedem Browser läuft. Du kannst ihn ohne Konto ausprobieren. Melde dich an, damit deine Transkripte auf allen Geräten gespeichert bleiben.",
+                "Es gibt keine Gebühr pro Nachricht und keine Zusatzoption beim Anbieter, die du abschließen musst, nur um eine Mailbox-Nachricht zu lesen. Datei hochladen, Text lesen, kopieren oder herunterladen. Wenn du täglich lange oder verrauschte Aufnahmen transkribierst, bietet der <a href=\"/pricing/\">Pro-Plan</a> mehr tägliche Nutzung, größere Dateien, Sprecherkennzeichnung und Rauschunterdrückung."
+            ]
+        },
+        {
+            "h2": "Mailbox-Transkription, die du behalten kannst",
+            "content": [
+                "Eine Mailbox-Nachricht geht leicht verloren. Nachrichten laufen ab, Handys werden ersetzt, Mailboxen laufen voll. Die Transkription macht aus der Nachricht ein Dokument, über das du selbst verfügst.",
+                "Wenn du eine Mailbox-Nachricht mit TranscriptX in Text umwandelst, bekommst du ein vollständiges Transkript statt einer kurzen Vorschau. Lade es als TXT, DOCX oder PDF herunter und leg es beim passenden Auftrag, Kunden, Mietverhältnis oder Vorgang ab. Lass die Zeitstempel an, um genau zu zeigen, wo in der Nachricht etwas gesagt wurde, oder schalte sie aus für einen sauberen Textblock.",
+                "Weil das Transkript reiner Text ist, kannst du es später nach einem Namen, einem Datum oder einer Bestellnummer durchsuchen. Bewahre die originale Audiodatei daneben auf, damit die Aufnahme da ist, falls sie jemand hören muss."
+            ]
+        },
+        {
+            "h2": "Genauigkeit bei Telefon-Audio",
+            "content": [
+                "Mailbox-Nachrichten werden über die Telefonleitung aufgezeichnet. Das Audio ist komprimiert und schmaler als eine normale Aufnahme, und Anrufer sind oft draußen, im Auto oder in Eile. Eine klare Nachricht aus einem ruhigen Raum kommt fast Wort für Wort zurück. Wind, Verkehr, schlechter Empfang oder schnelles Sprechen können ein, zwei Wörter verwischen. Bei verrauschten Nachrichten hilft die Rauschunterdrückung im Pro-Plan, das Audio vor der Transkription zu bereinigen.",
+                "Die wichtigsten Details einer Mailbox-Nachricht sind auch die, bei denen am leichtesten Fehler passieren: Telefonnummern, Adressen, Namen, Beträge und Daten. Bevor du zurückrufst oder handelst, gleiche sie mit dem Audio ab. Mit eingeschalteten Zeitstempeln springst du direkt zu der Stelle, an der eine Nummer genannt wurde, und hörst nur diesen Teil.",
+                "TranscriptX erkennt die Sprache automatisch, über 100 Sprachen hinweg, sodass eine Nachricht auf Spanisch, Französisch, Vietnamesisch oder Hindi transkribiert wird, ohne dass du vorher etwas einstellen musst."
+            ]
+        },
+        {
+            "h2": "Sprachnachrichten in Text umwandeln",
+            "content": [
+                "Nicht jede gesprochene Nachricht landet auf der Mailbox. Sprachnachrichten in Chat- und Messenger-Apps enthalten die gleichen Informationen und lassen sich genauso schlecht überfliegen.",
+                "In den meisten Messenger-Apps kannst du eine Sprachnachricht als Audiodatei speichern oder teilen. Lade sie bei TranscriptX hoch, um die Sprachnachricht in Text umzuwandeln, genau wie eine Mailbox-Nachricht. Das ist praktisch, wenn du Audio nicht laut abspielen kannst, wenn eine Nachricht lang ist oder wenn sie in einer Sprache ist, die du leichter liest als hörst."
+            ]
+        },
+        {
+            "h2": "Brauchst du eine Mailbox-in-Text-App?",
+            "content": [
+                "Oft nicht. Wenn dein Handy und dein Anbieter es unterstützen, ist die eingebaute Mailbox-Transkription von iPhone, Phone by Google oder Google Voice der schnellste Weg, neue Nachrichten zu überfliegen, und sie kostet nichts. Nutze sie.",
+                "TranscriptX ist für die Fälle da, in denen sie nicht hilft: ein abgeschnittenes oder fehlendes Transkript, eine Nachricht in einer Sprache, die dein Handy nicht transkribiert, eine alte gespeicherte Nachricht, eine von Kollegen weitergeleitete Mailbox-Nachricht oder eine Nachricht, die du als Dokument behalten musst. Es läuft im Browser, funktioniert also wie eine Mailbox-in-Text-App ohne Installation und als Alternative zu solchen Apps für iPhone oder Android.",
+                "Wer nach der besten Mailbox-in-Text-App sucht, will meist die ganze Nachricht, in der eigenen Sprache, in einer Form, die man behalten kann. Genau dafür ist TranscriptX gemacht."
+            ]
+        },
+        {
+            "h2": "Datenschutz: Was mit deiner Mailbox-Nachricht passiert",
+            "content": [
+                "Mailbox-Nachrichten können persönlich sein, daher ist es gut zu wissen, wohin sie gehen. Eingebaute Dienste gehen unterschiedlich damit um: Google sagt zum Beispiel, dass Voicemail-Transkripte der Telefon-App auf deinem Handy gespeichert werden und nicht in deinem Google-Konto, und dass Voicemails, die du spenden möchtest, von Menschen geprüft werden können.",
+                "Bei TranscriptX wird nichts aus deiner Mailbox abgerufen. Du wählst selbst, welche gespeicherte Datei du hochlädst. Du kannst es ohne Konto ausprobieren, und wenn du angemeldet bist, kannst du jederzeit alle deine Daten über das Kontomenü löschen."
+            ]
+        },
+        {
+            "h2": "Wer Mailbox-Nachrichten in Text umwandelt",
+            "intro": [
+                "Wer wichtige Informationen per Mailbox bekommt, profitiert davon, sie schriftlich zu haben. Die häufigsten Anwendungen:"
+            ],
+            "items": [
+                {
+                    "h3": "Kleine Unternehmen und Freelancer",
+                    "content": "Mach aus Mailbox-Nachrichten von Kunden Text, den du ans Team weiterleiten, ins CRM einfügen oder beantworten kannst, ohne das Audio erneut abzuspielen."
+                },
+                {
+                    "h3": "Gehörlose und schwerhörige Menschen",
+                    "content": "Lies jedes Wort einer Mailbox-Nachricht, statt dich auf eine kurze Vorschau zu verlassen oder jemand anderen zuhören zu lassen."
+                },
+                {
+                    "h3": "Nachrichten in einer anderen Sprache",
+                    "content": "Transkribiere eine Mailbox-Nachricht in einer von über 100 Sprachen, auch in solchen, die dein Handy nicht transkribiert, und lies sie in deinem eigenen Tempo."
+                },
+                {
+                    "h3": "Nachweise und Nachverfolgung",
+                    "content": "Behalte eine schriftliche Kopie mit Zeitstempeln von einer Mailbox-Nachricht mit Angebot, Termin, Absprache oder Beschwerde, gespeichert als Dokument, das du später wiederfindest."
+                },
+                {
+                    "h3": "Nachrichten, die man aufheben möchte",
+                    "content": "Speichere die Worte einer Mailbox-Nachricht von Familie oder Freunden als Text, damit die Nachricht bei dir bleibt, auch wenn das Audio weg ist."
+                }
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie wandle ich eine Mailbox-Nachricht kostenlos in Text um?",
+                    "a": "Speichere die Mailbox-Nachricht als Audiodatei und lade sie bei TranscriptX hoch. Du bekommst die ganze Nachricht in Sekunden als Text, ohne Konto."
+                },
+                {
+                    "q": "Wie speichere ich eine Voicemail auf dem iPhone?",
+                    "a": "Öffne in der Telefon-App die Voicemail, tippe auf Teilen und wähle In Dateien sichern. Die Datei ist meist eine .m4a-Datei."
+                },
+                {
+                    "q": "Warum funktioniert die Voicemail-Transkription auf meinem iPhone nicht?",
+                    "a": "Sie hängt von Anbieter, Region und Handysprache ab und ist deshalb nicht überall verfügbar. Wenn du kein Transkript siehst, speichere die Nachricht und lade sie bei TranscriptX hoch."
+                },
+                {
+                    "q": "Warum ist das Transkript meiner Mailbox-Nachricht abgeschnitten?",
+                    "a": "Die Vorschau auf dem Handy zeigt manchmal nur einen Teil der Nachricht. Lade die gespeicherte Nachricht hoch, um jedes Wort zu bekommen."
+                },
+                {
+                    "q": "Kann ich eine Mailbox-Nachricht in einer anderen Sprache transkribieren?",
+                    "a": "Ja. TranscriptX funktioniert in über 100 Sprachen und erkennt die Sprache automatisch."
+                },
+                {
+                    "q": "Wie genau ist die Mailbox-Transkription?",
+                    "a": "Klare Nachrichten kommen fast Wort für Wort zurück. Telefon-Audio kann verrauscht sein, also gleiche Namen und Telefonnummern mit der Aufnahme ab."
+                },
+                {
+                    "q": "Greift TranscriptX auf meine Mailbox zu?",
+                    "a": "Nein. Es verbindet sich nie mit deinem Handy oder Mailbox-Konto. Du lädst nur die Datei hoch, die du auswählst."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Wandle deine Mailbox kostenlos in Text um",
+        "content": [
+            "Wenn die Mailbox-Vorschau deines Handys abgeschnitten ist, fehlt oder in der falschen Sprache ist, speichere die Nachricht, lade sie hoch, und TranscriptX macht aus der ganzen Nachricht Text in über 100 Sprachen.",
+            "Lies sie, prüfe die Nummern, kopiere sie in eine Notiz oder lade sie als TXT, DOCX oder PDF herunter. Für deine eigenen Aufnahmen nutze [Sprache in Text](/de/voice-to-text); für Podcasts und andere Audiodateien nutze [Audio in Text](/de/audio-to-text). Kein Konto, keine App zu installieren."
+        ]
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Sesli Mesajı Yazıya Çevirme — Ücretsiz Online | TranscriptX",
+        "description": "Sesli mesajı ücretsiz yazıya çevirin. iPhone, Android veya Google Voice'tan kaydettiğiniz mesajı yükleyin, tamamını 100'den fazla dilde okuyun. Üyelik yok.",
+        "schemaName": "TranscriptX Sesli Mesajı Yazıya Çevirme Aracı",
+        "schemaDescription": "iPhone, Android, Google Voice ve kurumsal telefon sistemlerinden kaydedilen sesli mesajları 100'den fazla dilde eksiksiz, düzenlenebilir metne dönüştüren ücretsiz online araç. İngilizceye temel çeviri, isteğe bağlı zaman damgaları ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. Tarayıcıda çalışır, hesap gerekmez.",
+        "ogTitle": "Sesli Mesajı Yazıya Çevirme — Ücretsiz Online | TranscriptX",
+        "ogDescription": "Telefonunuzdaki sesli mesaj önizlemesi yarım mı, hiç yok mu ya da yanlış dilde mi? Mesajı yükleyin ve tamamını ücretsiz olarak, 100'den fazla dilde metin halinde okuyun."
+    },
+    "hero": {
+        "h1": "Sesli Mesajı Yazıya Çevirme",
+        "subtitle": "Sesli mesajı online olarak yazıya çevirin ve yalnızca önizlemeyi değil, mesajın tamamını okuyun. Sesli mesajı iPhone, Android, Google Voice ya da iş telefonunuzdan kaydedin, yükleyin; TranscriptX her kelimeyi 100'den fazla dilde, kontrol edebileceğiniz zaman damgalarıyla yazıya döker. Kopyalayın, saklayın ya da TXT, DOCX veya PDF olarak dışa aktarın. Hesap yok, kurulacak uygulama yok.",
+        "placeholder": "Bir sesli mesaj dosyası yükleyin...",
+        "button": "Sesli Mesajı Yazıya Çevir"
+    },
+    "quickAnswer": {
+        "question": "Sesli mesaj nasıl yazıya çevrilir?",
+        "answer": "Sesli mesajı bir ses dosyası olarak kaydedin (iPhone'da: mesajı açın, Paylaş'a dokunun, ardından Dosyalar'a Kaydet'i seçin) ve TranscriptX'e yükleyin. Mesajın tamamı saniyeler içinde, 100'den fazla dilde metne dönüşür; okumaya, kopyalamaya, düzenlemeye veya indirmeye hazırdır. Her gün ücretsiz kullanabilirsiniz, uygulama ve üyelik gerekmez."
+    },
+    "sections": [
+        {
+            "h2": "Sesli Mesajı Yazıya Çevirme Nedir?",
+            "content": [
+                "Sesli mesajı yazıya çevirme, konuşulan bir sesli mesajı yazılı kelimelere dönüştürür. Böylece telesekreteri arayıp mesajı dinlemek yerine, üstelik bir telefon numarasını yakalamak için çoğu zaman iki kez dinlemek yerine, mesajı okursunuz.",
+                "Telefonunuz bunun bir versiyonunu zaten yapıyor olabilir. iPhone her sesli mesajın altında bir transkripsiyon gösterir; Live Voicemail ile arayan kişi hâlâ konuşurken bile. Phone by Google ve Google Voice da transkript gösterir. Bu önizlemeler ücretsiz ve otomatiktir; kimin aradığına hızlıca bakmak için çoğu zaman yeterlidir.",
+                "Ama sınırları da var. Operatörünüze, bölgenize ve telefon dilinize bağlıdırlar, kısa bir dil listesini kapsarlar ve yarım gelebilir ya da hiç gelmeyebilirler. TranscriptX doğrudan sesli mesajın ses kaydıyla çalışır: mesajı dosya olarak kaydedin, yükleyin ve 100'den fazla dilden herhangi birinde tam metni alın; kontrol edebileceğiniz, düzenleyebileceğiniz ve saklayabileceğiniz bir metin olarak."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Sesli Mesajı Yazıya Çevirme",
+            "specs": [
+                {
+                    "label": "Uyumlu olduğu",
+                    "value": "iPhone, Android, Samsung, Google Voice ve iş telefonu sesli mesajları — dosya olarak kaydedebildiğiniz her sesli mesaj"
+                },
+                {
+                    "label": "Mesajın tamamı",
+                    "value": "Her kelime; yarıda kesilen bir önizleme değil"
+                },
+                {
+                    "label": "Operatör veya bölge",
+                    "value": "Fark etmez — operatör özelliği ya da tarife gerekmez"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, telefonunuzun sesli mesaj transkripsiyonunun desteklemediği diller dahil"
+                },
+                {
+                    "label": "İsim ve numaraları kontrol edin",
+                    "value": "Sesli mesajı metnin yanında oynatın, isteğe bağlı zaman damgalarıyla"
+                },
+                {
+                    "label": "Kayıt tutun",
+                    "value": "Metni kopyalayın ya da TXT, DOCX veya PDF olarak indirin"
+                },
+                {
+                    "label": "Sesli mesaj kutunuz",
+                    "value": "Asla erişilmez — yalnızca seçtiğiniz dosyayı yüklersiniz"
+                },
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz, hesap gerekmez"
+                }
+            ]
+        },
+        {
+            "h2": "Sesli Mesaj Nasıl Yazıya Çevrilir?",
+            "steps": [
+                {
+                    "h3": "Sesli mesajı ses dosyası olarak kaydedin",
+                    "content": "Mesajı telefonunuzdan paylaşın veya kaydedin ya da sesli mesaj e-postanızdan indirin. Bir sonraki bölümde dosyayı iPhone, Android, Google Voice ve iş telefonu sistemlerinde nerede bulacağınız anlatılıyor."
+                },
+                {
+                    "h3": "TranscriptX'e yükleyin",
+                    "content": "Dosyayı telefonunuzdan veya bilgisayarınızdan ya da Google Drive, Dropbox veya OneDrive'dan yükleyin. Mobil tarayıcıda da masaüstündeki gibi çalışır."
+                },
+                {
+                    "h3": "Mesajın tamamını okuyun",
+                    "content": "TranscriptX dili kendisi algılar ve sesli mesajın tamamını noktalama işaretleriyle metne döker. Her bölümün ne zaman söylendiğini görmek isterseniz zaman damgalarını açın."
+                },
+                {
+                    "h3": "Kontrol edin, kopyalayın veya indirin",
+                    "content": "İsimleri ve numaraları sesle karşılaştırın, gerekeni olduğu yerde düzeltin, ardından metni kopyalayın ya da kayıt tutmak için TXT, DOCX veya PDF olarak indirin."
+                }
+            ]
+        },
+        {
+            "h2": "Sesli Mesaj Ses Dosyası Olarak Nasıl Kaydedilir?",
+            "intro": [
+                "TranscriptX sesli mesaj kutunuza bağlanmaz; bu yüzden ilk adım mesajı dosya olarak dışarı almaktır. Dosyanın nerede olduğu, aramayı karşılayan telefona veya sisteme bağlıdır:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone sesli mesajını yazıya çevirme",
+                    "content": "Telefon uygulamasını açın ve sesli mesajlarınıza gidin (Sesli Mesaj sekmesi ya da yeni düzende sesli mesajlara göre filtrelenmiş Aramalar). Mesaja dokunun, Paylaş'a dokunun ve Dosyalar'a Kaydet'i seçin ya da mesajı kendinize Mail veya Mesajlar ile gönderin. Kaydedilen dosya genellikle bir .m4a ses dosyasıdır. Paylaşma, iPhone'da çoğu operatörün desteklediği Görsel Sesli Mesaj ile çalışır."
+                },
+                {
+                    "h3": "Android ve Samsung sesli mesajını yazıya çevirme",
+                    "content": "Phone by Google'da sesli mesajı genişletip ses kaydını paylaşın. Samsung Galaxy telefonlarda Sesli Mesaj veya Görsel Sesli Mesaj uygulamasını açın, mesajı seçin ve Kaydet, İlet ya da Paylaş seçeneğini kullanın. Menü adları telefon üreticisine ve operatöre göre değişir; bazı Samsung telefonlar sesli mesajları AMR dosyası olarak kaydeder."
+                },
+                {
+                    "h3": "Google Voice sesli mesajını yazıya çevirme",
+                    "content": "Google Voice sesli mesajları zaten yazıya döker, ancak Google bu transkriptlerin hatalı veya eksik olabileceğini belirtiyor. Ses kaydını almak için Google Voice ayarlarında Get voicemail via email seçeneğini açın ya da sesli mesajlarınızı Google Takeout ile dışa aktarın, ardından kaydı TranscriptX'e yükleyin."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex ve ofis telefon sistemleri",
+                    "content": "Birçok kurumsal sistem her sesli mesajı, kaydı ekli olarak e-postayla gönderir. Webex Calling bir WAV dosyası ekler, Teams sesli mesaj e-postalarında ise genellikle bir MP3 bulunur. Eki kaydedin ve yükleyin; dosyalayabileceğiniz veya iletebileceğiniz tam bir transkript alın."
+                }
+            ]
+        },
+        {
+            "h2": "Telefonunuzun Sesli Mesaj Transkripsiyonu Yetersiz Kaldığında",
+            "intro": [
+                "Yerleşik transkripsiyon pratiktir, ama insanların en sık karşılaştığı sorunlar bunlardır ve kaydedilen dosyanın tam transkripti tam da burada işe yarar:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkript yarıda kesiliyor",
+                    "content": "iPhone kullanıcıları Apple Topluluk forumlarında, sesli mesaj transkriptinin mesajın yalnızca bir kısmını, bazen sadece son birkaç saniyesini gösterdiğini sık sık bildiriyor. Kaydedilen sesi yüklediğinizde her kelimeyi zaman damgalarıyla alırsınız."
+                },
+                {
+                    "h3": "\"Transkripsiyon kullanılamıyor\"",
+                    "content": "Yerleşik transkripsiyon operatörünüze, bölgenize, telefon dilinize ve yazılım sürümünüze bağlıdır; bu yüzden bazı mesajların hiç transkripti olmaz. Kaydedilmiş bir sesli mesaj dosyası yine de baştan sona yazıya dökülebilir."
+                },
+                {
+                    "h3": "Sesli mesaj desteklenen bir dilde değil",
+                    "content": "Phone by Google sesli mesajları yalnızca İngilizce ve İspanyolca yazıya döker, Live Voicemail ise sınırlı sayıda dili kapsar. Vietnamca, Hintçe veya Arapça bir mesaj çoğu zaman hiç metin olmadan gelir."
+                },
+                {
+                    "h3": "Mesaj kaybolabilir",
+                    "content": "Apple, iCloud'da saklanmayan sesli mesajların operatörünüz tarafından silinebileceğini ve SIM kartınızı değiştirdiğinizde kaybolabileceğini belirtiyor. Sesi ve yazılı bir kopyasını saklamak, mesaj telefonunuzdan gittikten sonra bile onu korur."
+                }
+            ]
+        },
+        {
+            "h2": "Sesli Mesaj Transkripsiyon Dilleri: Telefonunuz ve TranscriptX",
+            "intro": [
+                "Dil desteği, yerleşik sesli mesaj transkripsiyonu ile tam bir transkripsiyon aracı arasındaki en büyük farktır. Dil listeleri Apple, Google ve Cisco destek sayfalarına göre kontrol edildi, Ekim 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "İngilizce, İspanyolca, Fransızca, Almanca, Portekizce (Brezilya), Japonca, Korece, Mandarin Çincesi ve Kantonca; belirli bölgelerde."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "İngilizce ve İspanyolca; Android 8.0 ve üzeri, desteklenen operatörlerle."
+                },
+                {
+                    "h3": "Google Voice (iş ve okul hesapları)",
+                    "content": "İngilizce, Danca, Felemenkçe, Fransızca, Almanca, Portekizce ve İspanyolca."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "İngilizce, Fransızca, Almanca, İtalyanca, Japonca ve İspanyolca."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "100+ dil, otomatik algılanır; kaydedilmiş her sesli mesaj dosyası için."
+                }
+            ]
+        },
+        {
+            "h2": "Sesli Mesajı Yazıya Çevirip Tercüme Edin",
+            "content": [
+                "İyi okuyamadığınız bir dildeki sesli mesaj, başa çıkması en zor olanıdır; telefonun yerleşik transkripsiyonu da genellikle yardımcı olamaz, çünkü zaten çoğu dili desteklemez.",
+                "TranscriptX önce sesli mesajı konuşulduğu dilde, 100'den fazla dil arasından yazıya döker. Ardından transkripti İngilizceye çevirebilirsiniz; böylece İspanyolca, Fransızca, Vietnamca veya Hintçe bir sesli mesaj İngilizce okuyabileceğiniz bir mesaja dönüşür. Çeviri şimdilik temel düzeydedir: daha fazla dil arasında daha kapsamlı çeviri yakında geliyor.",
+                "Orijinal dildeki transkripti çevirinin yanında tutun. Bir adres, bir tutar ya da bir randevu saati gibi önemli her şeyde esas olan orijinal kelimelerdir."
+            ]
+        },
+        {
+            "h2": "Ücretsiz Online Sesli Mesajı Yazıya Çevirme Aracı",
+            "content": [
+                "TranscriptX, her tarayıcıda online çalışan ücretsiz bir sesli mesajı yazıya çevirme aracıdır. Hesap açmadan deneyebilirsiniz. Transkriptlerinizin tüm cihazlarınızda kayıtlı kalması için giriş yapın.",
+                "Mesaj başına ücret yok, sadece bir sesli mesajı okumak için abone olmanız gereken bir operatör eklentisi de yok. Dosyayı yükleyin, metni okuyun, kopyalayın veya indirin. Her gün uzun ya da gürültülü kayıtları yazıya döküyorsanız, <a href=\"/pricing/\">Pro plan</a> daha fazla günlük kullanım, daha büyük dosyalar, konuşmacı etiketleri ve gürültü azaltma ekler."
+            ]
+        },
+        {
+            "h2": "Saklayabileceğiniz Sesli Mesaj Transkripsiyonu",
+            "content": [
+                "Bir sesli mesaj kolayca kaybolur. Mesajların süresi dolar, telefonlar değişir, sesli mesaj kutuları dolar. Sesli mesaj transkripsiyonu, mesajı kontrolü sizde olan bir belgeye dönüştürür.",
+                "TranscriptX ile sesli mesajı yazıya çevirdiğinizde kısa bir önizleme yerine eksiksiz bir transkript alırsınız. TXT, DOCX veya PDF olarak indirin ve ait olduğu iş, müşteri, kira ya da dosyayla birlikte saklayın. Mesajın tam olarak neresinde neyin söylendiğini göstermek için zaman damgalarını açık tutun ya da düz bir metin bloğu için kapatın.",
+                "Transkript düz metin olduğu için daha sonra içinde bir isim, bir tarih veya bir sipariş numarası arayabilirsiniz. Orijinal ses dosyasını da yanında saklayın; birinin kaydı dinlemesi gerekirse hazır olsun."
+            ]
+        },
+        {
+            "h2": "Telefon Hattı Seslerinde Doğruluk",
+            "content": [
+                "Sesli mesaj telefon hattı üzerinden kaydedilir; bu yüzden ses sıkıştırılmıştır ve normal bir kayda göre daha dardır, arayanlar da çoğu zaman dışarıda, araba kullanırken ya da aceleyle konuşur. Sessiz bir ortamdan bırakılan net bir mesaj neredeyse kelimesi kelimesine çıkar. Rüzgâr, trafik, zayıf sinyal ya da hızlı konuşma bir iki kelimeyi bulanıklaştırabilir. Gürültülü mesajlarda Pro plandaki gürültü azaltma, sesi yazıya dökülmeden önce temizlemeye yardımcı olur.",
+                "Bir sesli mesajda en önemli ayrıntılar aynı zamanda en kolay yanlış anlaşılanlardır: telefon numaraları, adresler, isimler, tutarlar ve tarihler. Geri aramadan veya bir mesaja göre harekete geçmeden önce bunları sesle karşılaştırın. Zaman damgaları açıkken bir numaranın söylendiği ana doğrudan atlayıp yalnızca o kısmı dinleyebilirsiniz.",
+                "TranscriptX dili 100'den fazla dil arasından otomatik olarak algılar; böylece İspanyolca, Fransızca, Vietnamca veya Hintçe bir sesli mesaj, önceden hiçbir ayarı değiştirmeden yazıya dökülür."
+            ]
+        },
+        {
+            "h2": "Sesli Mesajları Metne Dönüştürün",
+            "content": [
+                "Her sözlü mesaj telesekretere düşmez. Sohbet ve mesajlaşma uygulamalarındaki sesli mesajlar da aynı türden bilgiler taşır ve onlara göz gezdirmek de aynı derecede zordur.",
+                "Çoğu mesajlaşma uygulaması bir sesli mesajı ses dosyası olarak kaydetmenize veya paylaşmanıza izin verir. Sesli mesajı yazıya çevirmek için dosyayı TranscriptX'e yükleyin, tıpkı telesekreter mesajında olduğu gibi. Sesi yüksek sesle açamadığınızda, mesaj uzun olduğunda ya da dinlemekten çok okuyarak daha kolay anladığınız bir dilde olduğunda işe yarar."
+            ]
+        },
+        {
+            "h2": "Sesli Mesajı Yazıya Çeviren Bir Uygulamaya İhtiyacınız Var mı?",
+            "content": [
+                "Çoğu zaman hayır. Telefonunuz ve operatörünüz destekliyorsa, iPhone, Phone by Google veya Google Voice'a yerleşik sesli mesaj transkripsiyonu yeni mesajlara göz atmanın en hızlı yoludur ve hiçbir ücreti yoktur. Onu kullanın.",
+                "TranscriptX onun yetmediği anlar içindir: yarım kalan ya da hiç olmayan bir transkript, telefonunuzun yazıya dökmediği bir dilde sesli mesaj, kaydettiğiniz eski bir mesaj, bir iş arkadaşınızın ilettiği bir sesli mesaj ya da belge olarak saklamanız gereken bir mesaj. Tarayıcıda çalıştığı için kurulum gerektirmeyen bir sesli mesajı yazıya çevirme uygulaması gibi işler ve iPhone ya da Android uygulamalarına bir alternatiftir.",
+                "İnsanlar en iyi sesli mesajı yazıya çevirme uygulamasını ararken genellikle şunu ister: mesajın tamamı, kendi dillerinde, saklayabilecekleri bir biçimde. TranscriptX tam olarak bu iş için yapıldı."
+            ]
+        },
+        {
+            "h2": "Gizlilik: Sesli Mesajınıza Ne Oluyor?",
+            "content": [
+                "Sesli mesajlar kişisel olabilir; bu yüzden nereye gittiklerini bilmek iyidir. Yerleşik hizmetler bunu farklı şekilde ele alır: örneğin Google, Telefon uygulamasındaki sesli mesaj transkriptlerinin Google Hesabınızda değil telefonunuzda saklandığını ve bağışlamayı seçtiğiniz sesli mesajların insanlar tarafından incelenebileceğini söylüyor.",
+                "TranscriptX ile sesli mesaj kutunuzdan hiçbir şey çekilmez. Hangi kayıtlı dosyayı yükleyeceğinizi siz seçersiniz. Hesap açmadan deneyebilirsiniz; giriş yaparsanız tüm verilerinizi istediğiniz zaman hesap menüsünden silebilirsiniz."
+            ]
+        },
+        {
+            "h2": "Sesli Mesajı Yazıya Çevirmeyi Kimler Kullanır?",
+            "intro": [
+                "Önemli bilgileri sesli mesajla alan herkes, onları yazılı olarak elinde bulundurmaktan fayda sağlar. En yaygın kullanımlar:"
+            ],
+            "items": [
+                {
+                    "h3": "Küçük işletmeler ve serbest çalışanlar",
+                    "content": "Müşterilerden gelen sesli mesajları ekibe iletebileceğiniz, bir CRM'e yapıştırabileceğiniz ya da sesi yeniden dinlemeden yanıtlayabileceğiniz metne dönüştürün."
+                },
+                {
+                    "h3": "İşitme engelli ve az işiten kullanıcılar",
+                    "content": "Kısa bir önizlemeye güvenmek ya da birinden dinlemesini istemek yerine sesli mesajın her kelimesini okuyun."
+                },
+                {
+                    "h3": "Başka dildeki mesajlar",
+                    "content": "100'den fazla dilden herhangi birinde, telefonunuzun yazıya dökmediği diller de dahil, konuşulan bir sesli mesajı yazıya çevirin ve kendi hızınızda okuyun."
+                },
+                {
+                    "h3": "Kayıtlar ve takip",
+                    "content": "Bir teklif, randevu, anlaşma ya da şikâyet içeren sesli mesajın zaman damgalı yazılı bir kopyasını, daha sonra bulabileceğiniz bir belge olarak saklayın."
+                },
+                {
+                    "h3": "Saklamaya değer mesajlar",
+                    "content": "Ailenizden ya da bir arkadaşınızdan gelen sesli mesajın sözlerini metin olarak saklayın; ses kaydı gittikten sonra bile mesaj sizinle kalsın."
+                }
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Sesli mesajı ücretsiz olarak nasıl yazıya çeviririm?",
+                    "a": "Sesli mesajı ses dosyası olarak kaydedin ve TranscriptX'e yükleyin. Mesajın tamamını saniyeler içinde metin olarak alırsınız, hesap gerekmez."
+                },
+                {
+                    "q": "iPhone'umdaki sesli mesajı nasıl kaydederim?",
+                    "a": "Telefon uygulamasında sesli mesajı açın, Paylaş'a dokunun ve Dosyalar'a Kaydet'i seçin. Dosya genellikle .m4a formatındadır."
+                },
+                {
+                    "q": "iPhone sesli mesaj transkripsiyonum neden çalışmıyor?",
+                    "a": "Operatörünüze, bölgenize ve telefon dilinize bağlıdır, bu yüzden her yerde kullanılamaz. Transkript görmüyorsanız sesli mesajı kaydedip TranscriptX'e yükleyin."
+                },
+                {
+                    "q": "Sesli mesaj transkriptim neden yarıda kesiliyor?",
+                    "a": "Telefon önizlemeleri bazen mesajın yalnızca bir kısmını gösterir. Her kelimeyi almak için kaydedilen sesli mesajı yükleyin."
+                },
+                {
+                    "q": "Başka dildeki bir sesli mesajı yazıya çevirebilir miyim?",
+                    "a": "Evet. TranscriptX 100'den fazla dilde çalışır ve dili otomatik olarak algılar."
+                },
+                {
+                    "q": "Sesli mesaj transkripsiyonu ne kadar doğru?",
+                    "a": "Net mesajlar neredeyse kelimesi kelimesine çıkar. Telefon sesi gürültülü olabilir, bu yüzden isimleri ve telefon numaralarını kayıtla karşılaştırın."
+                },
+                {
+                    "q": "TranscriptX sesli mesaj kutuma erişiyor mu?",
+                    "a": "Hayır. Telefonunuza veya sesli mesaj hesabınıza asla bağlanmaz. Yalnızca seçtiğiniz dosyayı yüklersiniz."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Sesli Mesajınızı Ücretsiz Yazıya Çevirin",
+        "content": [
+            "Telefonunuzdaki sesli mesaj önizlemesi yarım kaldığında, hiç görünmediğinde ya da yanlış dilde olduğunda mesajı kaydedin, yükleyin; TranscriptX sesli mesajın tamamını 100'den fazla dilde metne dönüştürsün.",
+            "Okuyun, numaraları kontrol edin, bir nota kopyalayın ya da TXT, DOCX veya PDF olarak indirin. Kendi kayıtlarınız için [Sesi Yazıya Çevirme](/tr/voice-to-text), podcast'ler ve diğer ses dosyaları için [Ses Yazıya Çevirme](/tr/audio-to-text) aracını kullanın. Hesap yok, kurulacak uygulama yok."
+        ]
+    }
+}

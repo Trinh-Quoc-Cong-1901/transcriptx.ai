@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Chuyển thư thoại (voicemail) thành văn bản miễn phí | TranscriptX",
+        "description": "Chuyển tin nhắn thoại, thư thoại thành văn bản miễn phí. Lưu thư thoại từ iPhone, Android hay Google Voice, tải lên và đọc trọn nội dung. Hơn 100 ngôn ngữ.",
+        "schemaName": "Công cụ chuyển thư thoại thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ online miễn phí chuyển file thư thoại (voicemail) đã lưu từ iPhone, Android, Google Voice và tổng đài doanh nghiệp thành văn bản đầy đủ, chỉnh sửa được, với hơn 100 ngôn ngữ, có dịch cơ bản sang tiếng Anh, dấu thời gian tùy chọn và xuất ra TXT, DOCX, PDF, SRT, VTT. Chạy trên trình duyệt, không cần tài khoản.",
+        "ogTitle": "Chuyển thư thoại (voicemail) thành văn bản miễn phí | TranscriptX",
+        "ogDescription": "Bản xem trước thư thoại trên điện thoại bị cắt, không hiện hoặc sai ngôn ngữ? Tải thư thoại lên và đọc toàn bộ tin nhắn dưới dạng văn bản, miễn phí, hơn 100 ngôn ngữ."
+    },
+    "hero": {
+        "h1": "Chuyển thư thoại thành văn bản",
+        "subtitle": "Chuyển thư thoại (voicemail) thành văn bản online và đọc trọn tin nhắn, không chỉ một đoạn xem trước. Lưu thư thoại từ iPhone, Android, Google Voice hay điện thoại công ty, tải lên, và TranscriptX viết ra từng chữ với hơn 100 ngôn ngữ, kèm dấu thời gian để bạn đối chiếu. Sao chép, lưu lại hoặc xuất ra TXT, DOCX hay PDF. Không cần tài khoản, không phải cài ứng dụng.",
+        "placeholder": "Tải lên file âm thanh thư thoại...",
+        "button": "Chuyển thư thoại thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để chuyển thư thoại thành văn bản?",
+        "answer": "Lưu thư thoại thành file âm thanh (trên iPhone: mở tin nhắn, chạm Chia sẻ, rồi chọn Lưu vào Tệp), sau đó tải lên TranscriptX. Công cụ chuyển toàn bộ tin nhắn thành văn bản trong vài giây, hỗ trợ hơn 100 ngôn ngữ, sẵn sàng để đọc, sao chép, sửa hoặc tải về. Dùng miễn phí mỗi ngày, không cần ứng dụng, không cần đăng ký."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển thư thoại thành văn bản là gì?",
+            "content": [
+                "Chuyển thư thoại thành văn bản là biến một tin nhắn thoại để lại trong hộp thư thoại thành chữ viết, để bạn đọc thay vì phải gọi vào nghe, nhiều khi phải nghe hai lần mới ghi kịp số điện thoại.",
+                "Điện thoại của bạn có thể đã có sẵn một phiên bản của tính năng này. iPhone hiển thị bản chép lời dưới mỗi thư thoại, và với Thư thoại trực tiếp (Live Voicemail), ngay cả khi người gọi vẫn đang nói. Phone by Google và Google Voice cũng hiển thị bản chép lời. Những bản xem trước đó miễn phí, tự động, và nếu chỉ cần xem nhanh ai vừa gọi thì thường là đủ.",
+                "Nhưng chúng cũng có giới hạn. Chúng phụ thuộc vào nhà mạng, khu vực và ngôn ngữ của điện thoại, chỉ hỗ trợ một số ít ngôn ngữ, và có lúc bị cắt ngang hoặc không hiện gì. TranscriptX làm việc trực tiếp với file âm thanh thư thoại: lưu tin nhắn thành file, tải lên, và nhận bản chép lời đầy đủ bằng bất kỳ ngôn ngữ nào trong hơn 100 ngôn ngữ, dưới dạng văn bản bạn có thể kiểm tra, chỉnh sửa và lưu giữ."
+            ]
+        },
+        {
+            "h2": "Chuyển thư thoại thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Dùng được với",
+                    "value": "Thư thoại trên iPhone, Android, Samsung, Google Voice và điện thoại công ty — bất kỳ thư thoại nào bạn lưu được thành file"
+                },
+                {
+                    "label": "Toàn bộ tin nhắn",
+                    "value": "Từng chữ một, không phải bản xem trước bị cắt"
+                },
+                {
+                    "label": "Nhà mạng hay khu vực",
+                    "value": "Không quan trọng — không cần tính năng của nhà mạng hay gói cước"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, kể cả những ngôn ngữ mà tính năng chép lời thư thoại trên điện thoại không hỗ trợ"
+                },
+                {
+                    "label": "Kiểm tra tên và số",
+                    "value": "Nghe lại thư thoại cạnh văn bản, có dấu thời gian tùy chọn"
+                },
+                {
+                    "label": "Lưu làm hồ sơ",
+                    "value": "Sao chép văn bản hoặc tải về dạng TXT, DOCX hay PDF"
+                },
+                {
+                    "label": "Hộp thư thoại của bạn",
+                    "value": "Không bao giờ bị truy cập — bạn chỉ tải lên file mình chọn"
+                },
+                {
+                    "label": "Chi phí",
+                    "value": "Miễn phí, không cần tài khoản"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển thư thoại thành văn bản",
+            "steps": [
+                {
+                    "h3": "Lưu thư thoại thành file âm thanh",
+                    "content": "Chia sẻ hoặc lưu tin nhắn từ điện thoại, hoặc tải về từ email thư thoại. Phần tiếp theo chỉ chỗ lấy file trên iPhone, Android, Google Voice và hệ thống điện thoại công ty."
+                },
+                {
+                    "h3": "Tải lên TranscriptX",
+                    "content": "Tải file lên từ điện thoại hay máy tính, hoặc từ Google Drive, Dropbox hay OneDrive. Trên trình duyệt điện thoại cũng dùng y như trên máy tính."
+                },
+                {
+                    "h3": "Đọc toàn bộ tin nhắn",
+                    "content": "TranscriptX tự nhận diện ngôn ngữ và viết ra toàn bộ thư thoại thành văn bản có dấu câu. Bật dấu thời gian nếu bạn muốn biết từng đoạn được nói lúc nào."
+                },
+                {
+                    "h3": "Kiểm tra, sao chép hoặc tải về",
+                    "content": "Đối chiếu tên và số với âm thanh, sửa ngay tại chỗ nếu cần, rồi sao chép văn bản hoặc tải về dạng TXT, DOCX hay PDF để lưu làm hồ sơ."
+                }
+            ]
+        },
+        {
+            "h2": "Cách lưu thư thoại thành file âm thanh",
+            "intro": [
+                "TranscriptX không kết nối với hộp thư thoại của bạn, nên bước đầu tiên là lấy tin nhắn ra thành file. File nằm ở đâu tùy vào điện thoại hay hệ thống đã nhận cuộc gọi:"
+            ],
+            "items": [
+                {
+                    "h3": "Chuyển thư thoại iPhone thành văn bản",
+                    "content": "Mở ứng dụng Điện thoại và vào phần thư thoại (tab Thư thoại, hoặc mục Cuộc gọi lọc theo Thư thoại ở giao diện mới). Chạm vào tin nhắn, chạm Chia sẻ, rồi chọn Lưu vào Tệp, hoặc gửi cho chính mình qua Mail hay Tin nhắn. File lưu được thường là file âm thanh .m4a. Chia sẻ hoạt động với Visual Voicemail, tính năng mà phần lớn nhà mạng hỗ trợ iPhone đều có."
+                },
+                {
+                    "h3": "Chuyển thư thoại Android và Samsung thành văn bản",
+                    "content": "Trong Phone by Google, mở rộng thư thoại để chia sẻ file ghi âm. Trên điện thoại Samsung Galaxy, mở ứng dụng Voicemail hoặc Visual Voicemail, chọn tin nhắn rồi dùng Lưu, Chuyển tiếp hoặc Chia sẻ. Tên menu khác nhau tùy hãng điện thoại và nhà mạng, và một số máy Samsung lưu thư thoại dưới dạng file AMR."
+                },
+                {
+                    "h3": "Chuyển thư thoại Google Voice thành văn bản",
+                    "content": "Google Voice vốn đã chép lời thư thoại, nhưng chính Google lưu ý các bản chép lời này có thể sai hoặc bị thiếu. Để lấy file âm thanh, bật Get voicemail via email trong phần cài đặt Google Voice, hoặc xuất thư thoại bằng Google Takeout, rồi tải bản ghi lên TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex và tổng đài văn phòng",
+                    "content": "Nhiều hệ thống doanh nghiệp gửi mỗi thư thoại qua email kèm file ghi âm. Webex Calling đính kèm file WAV, còn email thư thoại của Teams thường kèm file MP3. Lưu file đính kèm và tải lên để có bản chép lời đầy đủ, dễ lưu trữ hoặc chuyển tiếp."
+                }
+            ]
+        },
+        {
+            "h2": "Khi tính năng chép lời thư thoại trên điện thoại không đủ dùng",
+            "intro": [
+                "Chép lời có sẵn trên máy rất tiện, nhưng đây là những vấn đề người dùng hay gặp nhất, và là lúc một bản chép lời đầy đủ từ file đã lưu giúp ích:"
+            ],
+            "items": [
+                {
+                    "h3": "Bản chép lời bị cắt",
+                    "content": "Người dùng iPhone thường xuyên phản ánh trên diễn đàn Apple Community rằng bản chép lời thư thoại chỉ hiện một phần tin nhắn, có khi chỉ vài giây cuối. Tải file âm thanh đã lưu lên sẽ cho bạn từng chữ, kèm dấu thời gian."
+                },
+                {
+                    "h3": "\"Không có bản chép lời\"",
+                    "content": "Chép lời có sẵn phụ thuộc vào nhà mạng, khu vực, ngôn ngữ điện thoại và phiên bản phần mềm, nên có những tin nhắn không bao giờ có bản chép lời. File thư thoại đã lưu vẫn có thể được chép lời đầy đủ."
+                },
+                {
+                    "h3": "Thư thoại không thuộc ngôn ngữ được hỗ trợ",
+                    "content": "Phone by Google chỉ chép lời thư thoại bằng tiếng Anh và tiếng Tây Ban Nha, còn Thư thoại trực tiếp chỉ hỗ trợ một số ít ngôn ngữ. Một tin nhắn bằng tiếng Việt, tiếng Hindi hay tiếng Ả Rập thường không hiện chữ nào."
+                },
+                {
+                    "h3": "Tin nhắn có thể biến mất",
+                    "content": "Apple lưu ý rằng thư thoại không được lưu trên iCloud có thể bị nhà mạng xóa, và có thể mất khi bạn đổi SIM. Lưu file âm thanh cùng một bản văn bản giúp bạn giữ được tin nhắn kể cả khi nó không còn trên điện thoại."
+                }
+            ]
+        },
+        {
+            "h2": "Ngôn ngữ chép lời thư thoại: điện thoại so với TranscriptX",
+            "intro": [
+                "Số ngôn ngữ hỗ trợ là khác biệt lớn nhất giữa chép lời thư thoại có sẵn và một công cụ chép lời đầy đủ. Danh sách ngôn ngữ được đối chiếu với trang hỗ trợ của Apple, Google và Cisco, tháng 10/2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Tiếng Anh, Tây Ban Nha, Pháp, Đức, Bồ Đào Nha (Brazil), Nhật, Hàn, Trung (Phổ thông) và Quảng Đông, tại một số khu vực."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Tiếng Anh và Tây Ban Nha, trên Android 8.0 trở lên, với các nhà mạng được hỗ trợ."
+                },
+                {
+                    "h3": "Google Voice (tài khoản công việc và trường học)",
+                    "content": "Tiếng Anh, Đan Mạch, Hà Lan, Pháp, Đức, Bồ Đào Nha và Tây Ban Nha."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Tiếng Anh, Pháp, Đức, Ý, Nhật và Tây Ban Nha."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Hơn 100 ngôn ngữ, tự động nhận diện, cho mọi file thư thoại đã lưu."
+                }
+            ]
+        },
+        {
+            "h2": "Dịch thư thoại thành văn bản",
+            "content": [
+                "Thư thoại bằng một ngôn ngữ bạn không đọc thạo là loại khó xử lý nhất, và chép lời có sẵn trên điện thoại thường không giúp được, vì ngay từ đầu nó đã không hỗ trợ phần lớn ngôn ngữ.",
+                "TranscriptX trước hết chép lời thư thoại bằng chính ngôn ngữ được nói, trong hơn 100 ngôn ngữ. Sau đó bạn có thể dịch bản chép lời sang tiếng Anh, để một thư thoại tiếng Tây Ban Nha, Pháp, Việt hay Hindi trở thành tin nhắn bạn đọc được bằng tiếng Anh. Hiện tính năng dịch còn cơ bản: dịch đầy đủ hơn giữa nhiều ngôn ngữ sẽ sớm có.",
+                "Hãy giữ bản chép lời gốc cạnh bản dịch. Với những gì quan trọng, như địa chỉ, số tiền hay giờ hẹn, câu chữ gốc mới là thứ có giá trị."
+            ]
+        },
+        {
+            "h2": "Công cụ chuyển thư thoại thành văn bản online miễn phí",
+            "content": [
+                "TranscriptX là công cụ chuyển thư thoại thành văn bản miễn phí, chạy online trên mọi trình duyệt. Bạn có thể dùng thử mà không cần tài khoản. Đăng nhập để lưu các bản chép lời trên mọi thiết bị.",
+                "Không tính phí theo từng tin nhắn, cũng không phải đăng ký dịch vụ cộng thêm của nhà mạng chỉ để đọc thư thoại. Tải file lên, đọc văn bản, rồi sao chép hoặc tải về. Nếu ngày nào bạn cũng chép lời các bản ghi dài hoặc nhiều tạp âm, <a href=\"/pricing/\">gói Pro</a> cho thêm lượt dùng mỗi ngày, file lớn hơn, nhãn người nói và lọc tạp âm."
+            ]
+        },
+        {
+            "h2": "Bản chép lời thư thoại để lưu giữ",
+            "content": [
+                "Thư thoại rất dễ mất. Tin nhắn hết hạn, điện thoại được thay mới, hộp thư thoại bị đầy. Chép lời thư thoại biến tin nhắn thành một tài liệu do bạn nắm giữ.",
+                "Khi chuyển thư thoại thành văn bản bằng TranscriptX, bạn có bản chép lời đầy đủ thay vì một đoạn xem trước ngắn. Tải về dạng TXT, DOCX hay PDF và lưu cùng hồ sơ công việc, khách hàng, hợp đồng thuê nhà hay vụ việc liên quan. Giữ dấu thời gian để chỉ rõ từng chi tiết được nói ở đâu trong tin nhắn, hoặc tắt đi để có một khối văn bản gọn gàng.",
+                "Vì bản chép lời thư thoại là văn bản thuần, bạn có thể tìm lại sau này theo tên, ngày hay mã đơn hàng. Giữ file âm thanh gốc bên cạnh, để khi cần vẫn có bản ghi để nghe lại."
+            ]
+        },
+        {
+            "h2": "Độ chính xác với âm thanh qua đường điện thoại",
+            "content": [
+                "Thư thoại được ghi qua đường điện thoại, nên âm thanh bị nén và hẹp hơn một bản ghi bình thường, và người gọi thường đang ở ngoài đường, đang lái xe hoặc đang vội. Một tin nhắn rõ ràng từ phòng yên tĩnh sẽ ra gần như đúng từng chữ. Gió, xe cộ, sóng yếu hay người nói nhanh có thể làm nhòe một hai từ. Với tin nhắn nhiều tạp âm, tính năng lọc tạp âm của gói Pro giúp làm sạch âm thanh trước khi chép lời.",
+                "Những chi tiết quan trọng nhất trong thư thoại cũng là những chi tiết dễ sai nhất: số điện thoại, địa chỉ, tên người, số tiền và ngày tháng. Trước khi gọi lại hay làm theo tin nhắn, hãy đối chiếu những chi tiết đó với âm thanh. Khi bật dấu thời gian, bạn có thể nhảy thẳng tới lúc một con số được đọc và chỉ nghe lại đoạn đó.",
+                "TranscriptX tự nhận diện ngôn ngữ trong hơn 100 ngôn ngữ, nên một thư thoại bằng tiếng Tây Ban Nha, Pháp, Việt hay Hindi đều được chép lời mà không cần chỉnh cài đặt trước."
+            ]
+        },
+        {
+            "h2": "Chuyển tin nhắn thoại thành văn bản",
+            "content": [
+                "Không phải tin nhắn nói nào cũng đến dưới dạng thư thoại. Tin nhắn thoại trong các ứng dụng chat và nhắn tin cũng chứa những thông tin tương tự, và cũng khó đọc lướt như vậy.",
+                "Hầu hết ứng dụng nhắn tin cho phép bạn lưu hoặc chia sẻ tin nhắn thoại thành file âm thanh. Tải lên TranscriptX để chuyển tin nhắn thoại thành văn bản, y như với thư thoại. Chép lời tin nhắn thoại rất tiện khi bạn không thể mở loa, khi tin nhắn dài, hoặc khi đó là ngôn ngữ bạn đọc dễ hơn nghe."
+            ]
+        },
+        {
+            "h2": "Bạn có cần ứng dụng chuyển thư thoại thành văn bản không?",
+            "content": [
+                "Thường là không. Nếu điện thoại và nhà mạng của bạn hỗ trợ, tính năng chép lời thư thoại có sẵn trên iPhone, Phone by Google hay Google Voice là cách nhanh nhất để xem qua tin nhắn mới, và không tốn đồng nào. Cứ dùng nó.",
+                "TranscriptX dành cho những lúc tính năng đó không giúp được: bản chép lời bị cắt hoặc không có, thư thoại bằng ngôn ngữ điện thoại không chép lời được, một tin nhắn cũ bạn đã lưu, thư thoại do đồng nghiệp chuyển tiếp, hoặc tin nhắn bạn cần giữ làm tài liệu. Công cụ chạy trên trình duyệt, nên dùng như một ứng dụng chuyển thư thoại thành văn bản mà không phải cài đặt, và là lựa chọn thay thế cho các ứng dụng chuyển thư thoại thành văn bản trên iPhone hay Android.",
+                "Khi tìm ứng dụng chuyển thư thoại thành văn bản tốt nhất, điều người ta thường cần là trọn vẹn tin nhắn, bằng ngôn ngữ của họ, ở dạng có thể lưu giữ. Đó chính là việc TranscriptX được tạo ra để làm."
+            ]
+        },
+        {
+            "h2": "Quyền riêng tư: thư thoại của bạn đi đâu",
+            "content": [
+                "Thư thoại có thể mang tính cá nhân, nên bạn nên biết nó được gửi đi đâu. Mỗi dịch vụ có sẵn xử lý một kiểu: chẳng hạn Google cho biết bản chép lời thư thoại của ứng dụng Phone được lưu trên điện thoại chứ không phải trong Tài khoản Google, và những thư thoại bạn chọn đóng góp có thể được con người xem xét.",
+                "Với TranscriptX, không có gì bị lấy từ hộp thư thoại của bạn. Bạn tự chọn file đã lưu để tải lên. Bạn có thể dùng thử không cần tài khoản, và nếu đăng nhập, bạn có thể xóa toàn bộ dữ liệu của mình từ menu tài khoản bất cứ lúc nào."
+            ]
+        },
+        {
+            "h2": "Ai dùng công cụ chuyển thư thoại thành văn bản",
+            "intro": [
+                "Bất kỳ ai nhận thông tin quan trọng qua thư thoại đều được lợi khi có nó ở dạng chữ. Những cách dùng phổ biến nhất:"
+            ],
+            "items": [
+                {
+                    "h3": "Doanh nghiệp nhỏ và người làm tự do",
+                    "content": "Biến thư thoại của khách hàng thành văn bản để chuyển cho nhóm, dán vào CRM, hoặc trả lời mà không phải nghe lại."
+                },
+                {
+                    "h3": "Người khiếm thính và nghe kém",
+                    "content": "Đọc từng chữ của thư thoại thay vì phụ thuộc vào một đoạn xem trước ngắn hay nhờ người khác nghe hộ."
+                },
+                {
+                    "h3": "Tin nhắn bằng ngôn ngữ khác",
+                    "content": "Chép lời thư thoại bằng bất kỳ ngôn ngữ nào trong hơn 100 ngôn ngữ, kể cả những ngôn ngữ điện thoại không chép lời được, và đọc theo nhịp của bạn."
+                },
+                {
+                    "h3": "Lưu hồ sơ và theo dõi",
+                    "content": "Giữ bản văn bản có dấu thời gian của một thư thoại chứa báo giá, lịch hẹn, thỏa thuận hay khiếu nại, lưu thành tài liệu để dễ tìm lại sau."
+                },
+                {
+                    "h3": "Những tin nhắn đáng giữ",
+                    "content": "Lưu lời nhắn trong thư thoại của người thân hay bạn bè thành văn bản, để tin nhắn vẫn ở bên bạn kể cả khi file âm thanh không còn."
+                }
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để chuyển thư thoại thành văn bản miễn phí?",
+                    "a": "Lưu thư thoại thành file âm thanh rồi tải lên TranscriptX. Bạn nhận toàn bộ tin nhắn dưới dạng văn bản trong vài giây, không cần tài khoản."
+                },
+                {
+                    "q": "Làm sao để lưu thư thoại từ iPhone?",
+                    "a": "Trong ứng dụng Điện thoại, mở thư thoại, chạm Chia sẻ và chọn Lưu vào Tệp. File thường có đuôi .m4a."
+                },
+                {
+                    "q": "Vì sao tính năng chép lời thư thoại trên iPhone không hoạt động?",
+                    "a": "Tính năng này phụ thuộc vào nhà mạng, khu vực và ngôn ngữ điện thoại, nên không phải nơi nào cũng có. Nếu không thấy bản chép lời, hãy lưu thư thoại và tải lên TranscriptX."
+                },
+                {
+                    "q": "Vì sao bản chép lời thư thoại của tôi bị cắt?",
+                    "a": "Bản xem trước trên điện thoại đôi khi chỉ hiện một phần tin nhắn. Tải thư thoại đã lưu lên để nhận đủ từng chữ."
+                },
+                {
+                    "q": "Tôi có thể chép lời thư thoại bằng ngôn ngữ khác không?",
+                    "a": "Có. TranscriptX hỗ trợ hơn 100 ngôn ngữ và tự động nhận diện ngôn ngữ."
+                },
+                {
+                    "q": "Chép lời thư thoại chính xác đến đâu?",
+                    "a": "Tin nhắn rõ ràng sẽ ra gần như đúng từng chữ. Âm thanh qua điện thoại có thể nhiều tạp âm, nên hãy đối chiếu tên và số điện thoại với bản ghi."
+                },
+                {
+                    "q": "TranscriptX có truy cập hộp thư thoại của tôi không?",
+                    "a": "Không. Công cụ không bao giờ kết nối với điện thoại hay tài khoản thư thoại của bạn. Bạn chỉ tải lên file mình chọn."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chuyển thư thoại thành văn bản miễn phí",
+        "content": [
+            "Khi bản xem trước thư thoại trên điện thoại bị cắt, không hiện hoặc sai ngôn ngữ, hãy lưu tin nhắn, tải lên, và TranscriptX sẽ chuyển toàn bộ thư thoại thành văn bản với hơn 100 ngôn ngữ.",
+            "Đọc, kiểm tra các con số, sao chép vào ghi chú, hoặc tải về dạng TXT, DOCX hay PDF. Với bản ghi của chính bạn, hãy dùng [Voice to Text](/vi/voice-to-text); với podcast và các file âm thanh khác, hãy dùng [Audio to Text](/vi/audio-to-text). Không cần tài khoản, không phải cài ứng dụng."
+        ]
+    }
+}

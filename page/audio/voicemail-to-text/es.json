@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Buzón de Voz a Texto — Transcríbelo Gratis Online | TranscriptX",
+        "description": "Pasa el buzón de voz a texto gratis. Guarda el mensaje de iPhone, Android o Google Voice, súbelo y léelo entero en más de 100 idiomas. Sin registro.",
+        "schemaName": "TranscriptX — Convertidor de Buzón de Voz a Texto",
+        "schemaDescription": "Herramienta online gratuita de buzón de voz a texto que transcribe los mensajes de voz guardados de iPhone, Android, Google Voice y centralitas de empresa en texto completo y editable en más de 100 idiomas, con traducción básica al inglés, marcas de tiempo opcionales y exportación a TXT, DOCX, PDF, SRT y VTT. Funciona en el navegador y no necesita cuenta.",
+        "ogTitle": "Buzón de Voz a Texto — Transcríbelo Gratis Online | TranscriptX",
+        "ogDescription": "¿La vista previa del buzón de voz de tu móvil sale cortada, no aparece o está en otro idioma? Sube el mensaje y léelo entero como texto, gratis, en más de 100 idiomas."
+    },
+    "hero": {
+        "h1": "Buzón de Voz a Texto",
+        "subtitle": "Pasa el buzón de voz a texto online y lee el mensaje entero, no solo una vista previa. Guarda el mensaje de voz de tu iPhone, Android, Google Voice o teléfono del trabajo, súbelo y TranscriptX escribe cada palabra en más de 100 idiomas, con marcas de tiempo para comprobarlo. Cópialo, guárdalo o expórtalo a TXT, DOCX o PDF. Sin cuenta y sin instalar ninguna app.",
+        "placeholder": "Sube un archivo de audio del buzón de voz...",
+        "button": "Convertir Buzón de Voz a Texto"
+    },
+    "quickAnswer": {
+        "question": "¿Cómo paso un mensaje del buzón de voz a texto?",
+        "answer": "Guarda el mensaje de voz como archivo de audio (en iPhone: abre el mensaje, toca Compartir y luego Guardar en Archivos) y súbelo a TranscriptX. Transcribe el mensaje entero en segundos, en más de 100 idiomas, listo para leer, copiar, editar o descargar. Puedes usarlo gratis todos los días, sin app y sin registro."
+    },
+    "sections": [
+        {
+            "h2": "¿Qué Es Pasar el Buzón de Voz a Texto?",
+            "content": [
+                "Pasar el buzón de voz a texto convierte un mensaje hablado en palabras escritas, así que puedes leer el mensaje en lugar de llamar al buzón y escucharlo, a menudo dos veces para pillar un número de teléfono.",
+                "Puede que tu móvil ya haga algo parecido. El iPhone muestra una transcripción debajo de cada mensaje y, con Live Voicemail, incluso mientras la persona sigue hablando. Phone by Google y Google Voice también muestran transcripciones. Esas vistas previas son gratuitas y automáticas, y para ver rápido quién ha llamado muchas veces bastan.",
+                "Pero tienen límites. Dependen de tu operador, tu región y el idioma del teléfono, cubren pocos idiomas y a veces salen cortadas o no salen. TranscriptX trabaja con el audio del propio mensaje: guárdalo como archivo, súbelo y obtén la transcripción completa en cualquiera de más de 100 idiomas, como texto que puedes revisar, editar y conservar."
+            ]
+        },
+        {
+            "h2": "Buzón de Voz a Texto de un Vistazo",
+            "specs": [
+                {
+                    "label": "Funciona con",
+                    "value": "Buzón de voz de iPhone, Android, Samsung, Google Voice y teléfonos de empresa — cualquier mensaje que puedas guardar como archivo"
+                },
+                {
+                    "label": "Mensaje completo",
+                    "value": "Cada palabra, no una vista previa que se corta"
+                },
+                {
+                    "label": "Operador o región",
+                    "value": "Da igual — no hace falta ninguna función del operador ni tarifa especial"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Más de 100, incluidos idiomas que la transcripción del buzón de tu móvil no admite"
+                },
+                {
+                    "label": "Comprobar nombres y números",
+                    "value": "Reproduce el mensaje junto al texto, con marcas de tiempo opcionales"
+                },
+                {
+                    "label": "Guardar un registro",
+                    "value": "Copia el texto o descárgalo como TXT, DOCX o PDF"
+                },
+                {
+                    "label": "Tu buzón de voz",
+                    "value": "Nunca se accede a él — solo subes el archivo que tú eliges"
+                },
+                {
+                    "label": "Precio",
+                    "value": "Gratis, sin necesidad de cuenta"
+                }
+            ]
+        },
+        {
+            "h2": "Cómo Pasar el Buzón de Voz a Texto",
+            "steps": [
+                {
+                    "h3": "Guarda el mensaje como archivo de audio",
+                    "content": "Comparte o guarda el mensaje desde tu móvil, o descárgalo del correo que te envía el buzón de voz. En la siguiente sección verás dónde encontrar el archivo en iPhone, Android, Google Voice y centralitas de empresa."
+                },
+                {
+                    "h3": "Súbelo a TranscriptX",
+                    "content": "Sube el archivo desde el móvil o el ordenador, o desde Google Drive, Dropbox o OneDrive. Funciona igual en el navegador del móvil que en el escritorio."
+                },
+                {
+                    "h3": "Lee el mensaje completo",
+                    "content": "TranscriptX detecta el idioma por sí solo y escribe el mensaje entero como texto con puntuación. Activa las marcas de tiempo si quieres ver cuándo se dijo cada parte."
+                },
+                {
+                    "h3": "Revisa, copia o descarga",
+                    "content": "Comprueba nombres y números con el audio, corrige lo que haga falta ahí mismo y luego copia el texto o descárgalo como TXT, DOCX o PDF para guardar un registro."
+                }
+            ]
+        },
+        {
+            "h2": "Cómo Guardar un Mensaje de Voz como Archivo de Audio",
+            "intro": [
+                "TranscriptX no se conecta a tu buzón de voz, así que el primer paso es sacar el mensaje como archivo. Dónde está depende del teléfono o sistema que recibió la llamada:"
+            ],
+            "items": [
+                {
+                    "h3": "Buzón de voz de iPhone a texto",
+                    "content": "Abre la app Teléfono y ve a tus mensajes de voz (la pestaña Buzón de voz o, en el diseño más reciente, las llamadas filtradas por mensajes de voz). Toca el mensaje, toca Compartir y elige Guardar en Archivos, o envíatelo por Mail o Mensajes. El archivo guardado suele ser un audio .m4a. Compartir funciona con el buzón de voz visual, que admiten la mayoría de los operadores para iPhone."
+                },
+                {
+                    "h3": "Buzón de voz de Android y Samsung a texto",
+                    "content": "En Phone by Google, despliega el mensaje de voz para compartir su grabación de audio. En los Samsung Galaxy, abre la app de buzón de voz o de buzón de voz visual, selecciona el mensaje y usa Guardar, Reenviar o Compartir. Los nombres de los menús cambian según el fabricante y el operador, y algunos Samsung guardan los mensajes como archivos AMR."
+                },
+                {
+                    "h3": "Buzón de voz de Google Voice a texto",
+                    "content": "Google Voice ya transcribe los mensajes de voz, pero Google advierte que esas transcripciones pueden ser incorrectas o faltar. Para obtener el audio, activa la opción de recibir los mensajes de voz por correo en los ajustes de Google Voice, o exporta tus mensajes con Google Takeout, y luego sube la grabación a TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex y centralitas de oficina",
+                    "content": "Muchos sistemas de empresa envían cada mensaje de voz por correo con la grabación adjunta. Webex Calling adjunta un archivo WAV y los correos de buzón de voz de Teams suelen incluir un MP3. Guarda el adjunto y súbelo para obtener una transcripción completa que puedas archivar o reenviar."
+                }
+            ]
+        },
+        {
+            "h2": "Cuando la Transcripción del Buzón de Voz de tu Móvil Se Queda Corta",
+            "intro": [
+                "La transcripción integrada es cómoda, pero estos son los problemas más habituales, y en ellos una transcripción completa del archivo guardado ayuda:"
+            ],
+            "items": [
+                {
+                    "h3": "La transcripción sale cortada",
+                    "content": "Muchos usuarios de iPhone cuentan en los foros de la comunidad de Apple que la transcripción de un mensaje de voz muestra solo una parte, a veces solo los últimos segundos. Subir el audio guardado te da cada palabra, con marcas de tiempo."
+                },
+                {
+                    "h3": "\"Transcripción no disponible\"",
+                    "content": "La transcripción integrada depende de tu operador, tu región, el idioma del teléfono y la versión del software, así que algunos mensajes nunca llegan a transcribirse. Un mensaje de voz guardado como archivo sí se puede transcribir entero."
+                },
+                {
+                    "h3": "El mensaje no está en un idioma compatible",
+                    "content": "Phone by Google solo transcribe mensajes de voz en inglés y español, y Live Voicemail cubre un grupo limitado de idiomas. Un mensaje en vietnamita, hindi o árabe a menudo se queda sin texto."
+                },
+                {
+                    "h3": "El mensaje puede desaparecer",
+                    "content": "Apple advierte que los mensajes de voz que no están guardados en iCloud pueden ser borrados por tu operador, y que pueden eliminarse al cambiar de tarjeta SIM. Guardar el audio y una copia escrita conserva el mensaje aunque ya no esté en tu móvil."
+                }
+            ]
+        },
+        {
+            "h2": "Idiomas de Transcripción del Buzón de Voz: tu Móvil vs TranscriptX",
+            "intro": [
+                "El soporte de idiomas es la mayor diferencia entre la transcripción integrada del buzón de voz y una herramienta de transcripción completa. Listas de idiomas comprobadas en las páginas de soporte de Apple, Google y Cisco, octubre de 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Inglés, español, francés, alemán, portugués (Brasil), japonés, coreano, chino mandarín y cantonés, en determinadas regiones."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Inglés y español, en Android 8.0 o superior, con operadores compatibles."
+                },
+                {
+                    "h3": "Google Voice (cuentas de trabajo y centros educativos)",
+                    "content": "Inglés, danés, neerlandés, francés, alemán, portugués y español."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Inglés, francés, alemán, italiano, japonés y español."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Más de 100 idiomas, detectados automáticamente, para cualquier mensaje de voz guardado como archivo."
+                }
+            ]
+        },
+        {
+            "h2": "Traduce el Buzón de Voz a Texto",
+            "content": [
+                "Un mensaje de voz en un idioma que no lees bien es el más difícil de gestionar, y la transcripción integrada del móvil no suele servir, porque para empezar no admite la mayoría de los idiomas.",
+                "TranscriptX primero transcribe el mensaje en el idioma en que se habló, entre más de 100 idiomas. Después puedes traducir la transcripción al inglés, así que un mensaje en español, francés, vietnamita o hindi se convierte en un texto que puedes leer en inglés. Por ahora la traducción es básica: pronto llegará una traducción más completa entre más idiomas.",
+                "Conserva la transcripción en el idioma original junto a la traducción. Para cualquier cosa importante, como una dirección, un importe o la hora de una cita, lo que cuenta son las palabras originales."
+            ]
+        },
+        {
+            "h2": "Convertidor de Buzón de Voz a Texto Gratis Online",
+            "content": [
+                "TranscriptX es un convertidor gratuito de buzón de voz a texto que funciona online, en cualquier navegador. Puedes probarlo sin cuenta. Inicia sesión para tener tus transcripciones guardadas en todos tus dispositivos.",
+                "No hay tarifa por mensaje ni ningún servicio extra del operador que contratar solo para leer un mensaje de voz. Sube el archivo, lee el texto y cópialo o descárgalo. Si transcribes grabaciones largas o con ruido a diario, el <a href=\"/pricing/\">plan Pro</a> añade más uso diario, archivos más grandes, identificación de hablantes y reducción de ruido."
+            ]
+        },
+        {
+            "h2": "Transcripciones del Buzón de Voz que Puedes Conservar",
+            "content": [
+                "Un mensaje de voz se pierde fácilmente. Los mensajes caducan, los móviles se cambian y los buzones se llenan. Transcribir el buzón de voz convierte el mensaje en un documento que controlas tú.",
+                "Cuando pasas el buzón de voz a texto con TranscriptX, obtienes la transcripción completa del mensaje y no una vista previa breve. Descárgala como TXT, DOCX o PDF y archívala con el trabajo, el cliente, el alquiler o el caso al que pertenece. Deja activadas las marcas de tiempo para mostrar en qué momento exacto del mensaje se dijo algo, o desactívalas para tener un bloque de texto limpio.",
+                "Como la transcripción es texto plano, más adelante puedes buscar en ella un nombre, una fecha o un número de pedido. Guarda el archivo de audio original al lado, para tener la grabación por si alguien necesita escucharla."
+            ]
+        },
+        {
+            "h2": "Precisión con Audio de Línea Telefónica",
+            "content": [
+                "El buzón de voz se graba a través de una línea telefónica, así que el audio está comprimido y es más limitado que una grabación normal, y quien llama a menudo está en la calle, conduciendo o con prisa. Un mensaje claro grabado en un sitio tranquilo sale prácticamente palabra por palabra. El viento, el tráfico, una mala cobertura o alguien que habla deprisa pueden emborronar alguna palabra. Para los mensajes con ruido, la reducción de ruido del plan Pro ayuda a limpiar el audio antes de transcribirlo.",
+                "Los datos que más importan en un mensaje de voz son también los más fáciles de equivocar: números de teléfono, direcciones, nombres, importes y fechas. Antes de devolver la llamada o actuar según un mensaje, compruébalos con el audio. Con las marcas de tiempo activadas, puedes ir directo al momento en que se dijo un número y escuchar solo esa parte.",
+                "TranscriptX detecta el idioma automáticamente entre más de 100 idiomas, así que un mensaje en español, francés, vietnamita o hindi se transcribe sin cambiar ningún ajuste antes."
+            ]
+        },
+        {
+            "h2": "Transcribe Mensajes de Voz a Texto",
+            "content": [
+                "No todos los mensajes hablados llegan al buzón de voz. Los audios de las apps de chat y mensajería llevan el mismo tipo de información, y son igual de difíciles de leer por encima.",
+                "La mayoría de las apps de mensajería te dejan guardar o compartir un audio como archivo. Súbelo a TranscriptX para pasar el mensaje de voz a texto, igual que con el buzón de voz. Transcribir mensajes de voz viene bien cuando no puedes reproducir el audio en voz alta, cuando el mensaje es largo o cuando está en un idioma que lees mejor de lo que entiendes de oído."
+            ]
+        },
+        {
+            "h2": "¿Necesitas una App de Buzón de Voz a Texto?",
+            "content": [
+                "Muchas veces, no. Si tu móvil y tu operador lo admiten, la transcripción del buzón de voz integrada en iPhone, Phone by Google o Google Voice es la forma más rápida de echar un vistazo a los mensajes nuevos, y no cuesta nada. Úsala.",
+                "TranscriptX es para los momentos en que no sirve: una transcripción cortada o que no aparece, un mensaje en un idioma que tu móvil no transcribe, un mensaje antiguo que guardaste, un mensaje de voz que te reenvió un compañero o un mensaje que necesitas guardar como documento. Funciona en el navegador, así que es como una app de buzón de voz a texto sin instalar nada, y una alternativa a las apps de buzón de voz a texto para iPhone o Android.",
+                "Cuando alguien busca la mejor app de buzón de voz a texto, lo que suele importar es el mensaje entero, en su idioma y en un formato que pueda conservar. Para eso está hecho TranscriptX."
+            ]
+        },
+        {
+            "h2": "Privacidad: Qué Pasa con tu Buzón de Voz",
+            "content": [
+                "Los mensajes de voz pueden ser personales, así que conviene saber adónde van. Los servicios integrados los tratan de forma distinta: Google, por ejemplo, dice que las transcripciones del buzón de voz de la app Teléfono se guardan en tu teléfono y no en tu cuenta de Google, y que los mensajes de voz que decidas donar pueden ser revisados por personas.",
+                "Con TranscriptX, no se saca nada de tu buzón de voz. Tú eliges qué archivo guardado subir. Puedes probarlo sin cuenta y, si inicias sesión, puedes borrar todos tus datos desde el menú de la cuenta cuando quieras."
+            ]
+        },
+        {
+            "h2": "Quién Usa el Buzón de Voz a Texto",
+            "intro": [
+                "Cualquiera que reciba información importante por el buzón de voz sale ganando al tenerla por escrito. Los usos más habituales:"
+            ],
+            "items": [
+                {
+                    "h3": "Pequeñas empresas y autónomos",
+                    "content": "Convierte los mensajes de voz de los clientes en texto que puedes reenviar al equipo, pegar en un CRM o responder sin volver a escuchar el audio."
+                },
+                {
+                    "h3": "Personas sordas o con pérdida auditiva",
+                    "content": "Lee cada palabra de un mensaje de voz en lugar de depender de una vista previa breve o de pedir a otra persona que lo escuche."
+                },
+                {
+                    "h3": "Mensajes en otro idioma",
+                    "content": "Transcribe un mensaje de voz hablado en cualquiera de más de 100 idiomas, incluidos los que tu móvil no transcribe, y léelo a tu ritmo."
+                },
+                {
+                    "h3": "Registros y seguimiento",
+                    "content": "Guarda una copia escrita y con marcas de tiempo de un mensaje de voz con un presupuesto, una cita, un acuerdo o una queja, como documento que puedas encontrar más tarde."
+                },
+                {
+                    "h3": "Mensajes que vale la pena guardar",
+                    "content": "Guarda como texto las palabras de un mensaje de voz de un familiar o un amigo, para que el mensaje siga contigo aunque el audio ya no esté."
+                }
+            ]
+        },
+        {
+            "h2": "Preguntas Frecuentes",
+            "items": [
+                {
+                    "q": "¿Cómo paso el buzón de voz a texto gratis?",
+                    "a": "Guarda el mensaje de voz como archivo de audio y súbelo a TranscriptX. Tendrás el mensaje completo como texto en segundos, sin necesidad de cuenta."
+                },
+                {
+                    "q": "¿Cómo guardo un mensaje de voz de mi iPhone?",
+                    "a": "En la app Teléfono, abre el mensaje de voz, toca Compartir y elige Guardar en Archivos. El archivo suele ser .m4a."
+                },
+                {
+                    "q": "¿Por qué no funciona la transcripción del buzón de voz de mi iPhone?",
+                    "a": "Depende de tu operador, tu región y el idioma del teléfono, así que no está disponible en todas partes. Si no ves la transcripción, guarda el mensaje de voz y súbelo a TranscriptX."
+                },
+                {
+                    "q": "¿Por qué la transcripción de mi buzón de voz sale cortada?",
+                    "a": "Las vistas previas del móvil a veces muestran solo una parte del mensaje. Sube el mensaje de voz guardado para tener cada palabra."
+                },
+                {
+                    "q": "¿Puedo transcribir un mensaje de voz en otro idioma?",
+                    "a": "Sí. TranscriptX funciona en más de 100 idiomas y detecta el idioma automáticamente."
+                },
+                {
+                    "q": "¿Qué precisión tiene la transcripción del buzón de voz?",
+                    "a": "Los mensajes claros salen prácticamente palabra por palabra. El audio telefónico puede tener ruido, así que comprueba nombres y números de teléfono con la grabación."
+                },
+                {
+                    "q": "¿TranscriptX accede a mi buzón de voz?",
+                    "a": "No. Nunca se conecta a tu teléfono ni a tu cuenta de buzón de voz. Solo subes el archivo que tú eliges."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Pasa tu Buzón de Voz a Texto Gratis",
+        "content": [
+            "Cuando la vista previa del buzón de voz de tu móvil sale cortada, no aparece o está en otro idioma, guarda el mensaje, súbelo y TranscriptX convierte el mensaje entero en texto en más de 100 idiomas.",
+            "Léelo, comprueba los números, cópialo en una nota o descárgalo como TXT, DOCX o PDF. Para tus propias grabaciones, usa [Voz a Texto](/es/voice-to-text); para pódcasts y otros archivos de audio, usa [Audio a Texto](/es/audio-to-text). Sin cuenta y sin instalar ninguna app."
+        ]
+    }
+}

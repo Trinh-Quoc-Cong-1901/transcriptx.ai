@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Segreteria Telefonica in Testo — Trascrivi Gratis | TranscriptX",
+        "description": "Trascrivi la segreteria telefonica in testo gratis. Salva il messaggio da iPhone, Android o Google Voice, caricalo e leggilo per intero in oltre 100 lingue.",
+        "schemaName": "TranscriptX — Convertitore da Segreteria Telefonica a Testo",
+        "schemaDescription": "Strumento online gratuito che trascrive in testo i messaggi della segreteria telefonica salvati da iPhone, Android, Google Voice e centralini aziendali, in testo completo e modificabile in oltre 100 lingue, con traduzione di base in inglese, timestamp opzionali ed esportazione in TXT, DOCX, PDF, SRT e VTT. Funziona nel browser, senza bisogno di un account.",
+        "ogTitle": "Segreteria Telefonica in Testo — Trascrivi Gratis | TranscriptX",
+        "ogDescription": "L'anteprima della segreteria del telefono è tagliata, non c'è o è nella lingua sbagliata? Carica il messaggio e leggilo per intero come testo, gratis, in oltre 100 lingue."
+    },
+    "hero": {
+        "h1": "Segreteria Telefonica in Testo",
+        "subtitle": "Converti la segreteria telefonica in testo online e leggi tutto il messaggio, non solo un'anteprima. Salva il messaggio dal tuo iPhone, Android, Google Voice o telefono di lavoro, caricalo e TranscriptX scrive ogni parola in oltre 100 lingue, con timestamp per verificare. Copialo, conservalo o esportalo in TXT, DOCX o PDF. Nessun account, nessuna app da installare.",
+        "placeholder": "Carica un file audio della segreteria...",
+        "button": "Converti la Segreteria in Testo"
+    },
+    "quickAnswer": {
+        "question": "Come faccio a trasformare un messaggio della segreteria in testo?",
+        "answer": "Salva il messaggio come file audio (su iPhone: apri il messaggio, tocca Condividi e poi Salva su File) e caricalo su TranscriptX. Trascrive tutto il messaggio in pochi secondi, in oltre 100 lingue, pronto da leggere, copiare, modificare o scaricare. Puoi usarlo gratis ogni giorno, senza app e senza registrazione."
+    },
+    "sections": [
+        {
+            "h2": "Cos'è la Trascrizione della Segreteria Telefonica?",
+            "content": [
+                "Trascrivere la segreteria in testo trasforma un messaggio vocale in parole scritte, così puoi leggerlo invece di chiamare la segreteria e ascoltarlo, spesso due volte per capire un numero di telefono.",
+                "Il tuo telefono forse fa già qualcosa di simile. L'iPhone mostra una trascrizione sotto ogni messaggio in segreteria e, con Live Voicemail, anche mentre chi chiama sta ancora parlando. Anche Phone by Google e Google Voice mostrano le trascrizioni. Queste anteprime sono gratuite e automatiche, e per vedere al volo chi ha chiamato spesso bastano.",
+                "Però hanno dei limiti. Dipendono dall'operatore, dalla zona e dalla lingua del telefono, coprono poche lingue e a volte arrivano tagliate o non arrivano affatto. TranscriptX lavora sull'audio del messaggio: salvalo come file, caricalo e ottieni la trascrizione completa in una qualsiasi di oltre 100 lingue, come testo da controllare, modificare e conservare."
+            ]
+        },
+        {
+            "h2": "Segreteria in Testo in Breve",
+            "specs": [
+                {
+                    "label": "Funziona con",
+                    "value": "Segreteria di iPhone, Android, Samsung, Google Voice e telefoni di lavoro — qualsiasi messaggio che puoi salvare come file"
+                },
+                {
+                    "label": "Messaggio completo",
+                    "value": "Ogni parola, non un'anteprima che si interrompe"
+                },
+                {
+                    "label": "Operatore o zona",
+                    "value": "Non conta — non serve nessun servizio dell'operatore né un piano tariffario particolare"
+                },
+                {
+                    "label": "Lingue",
+                    "value": "Oltre 100, comprese quelle che la trascrizione della segreteria del tuo telefono non supporta"
+                },
+                {
+                    "label": "Controlla nomi e numeri",
+                    "value": "Riproduci il messaggio accanto al testo, con timestamp opzionali"
+                },
+                {
+                    "label": "Tieni traccia",
+                    "value": "Copia il testo o scaricalo in TXT, DOCX o PDF"
+                },
+                {
+                    "label": "La tua segreteria",
+                    "value": "Nessun accesso — carichi solo il file che scegli tu"
+                },
+                {
+                    "label": "Prezzo",
+                    "value": "Gratis, senza account"
+                }
+            ]
+        },
+        {
+            "h2": "Come Trascrivere la Segreteria Telefonica in Testo",
+            "steps": [
+                {
+                    "h3": "Salva il messaggio come file audio",
+                    "content": "Condividi o salva il messaggio dal telefono, oppure scaricalo dall'email della segreteria. Nella prossima sezione trovi dove recuperare il file su iPhone, Android, Google Voice e centralini aziendali."
+                },
+                {
+                    "h3": "Caricalo su TranscriptX",
+                    "content": "Carica il file dal telefono o dal computer, oppure da Google Drive, Dropbox o OneDrive. Funziona allo stesso modo nel browser del telefono e sul computer."
+                },
+                {
+                    "h3": "Leggi tutto il messaggio",
+                    "content": "TranscriptX riconosce la lingua da solo e scrive l'intero messaggio come testo con la punteggiatura. Attiva i timestamp se vuoi vedere quando è stata detta ogni parte."
+                },
+                {
+                    "h3": "Controlla, copia o scarica",
+                    "content": "Verifica nomi e numeri con l'audio, correggi direttamente quello che serve, poi copia il testo o scaricalo in TXT, DOCX o PDF per tenerne traccia."
+                }
+            ]
+        },
+        {
+            "h2": "Come Salvare un Messaggio della Segreteria come File Audio",
+            "intro": [
+                "TranscriptX non si collega alla tua segreteria, quindi il primo passo è tirare fuori il messaggio come file. Dove si trova dipende dal telefono o dal sistema che ha ricevuto la chiamata:"
+            ],
+            "items": [
+                {
+                    "h3": "Segreteria iPhone in testo",
+                    "content": "Apri l'app Telefono e vai ai messaggi in segreteria (la scheda Segreteria o, nel layout più recente, le chiamate filtrate per segreteria). Tocca il messaggio, tocca Condividi e scegli Salva su File, oppure invialo a te stesso con Mail o Messaggi. Il file salvato di solito è un audio .m4a. La condivisione funziona con la segreteria visiva, supportata dalla maggior parte degli operatori per iPhone."
+                },
+                {
+                    "h3": "Segreteria Android e Samsung in testo",
+                    "content": "In Phone by Google, espandi il messaggio in segreteria per condividerne la registrazione audio. Sugli smartphone Samsung Galaxy, apri l'app della segreteria o della segreteria visiva, seleziona il messaggio e usa Salva, Inoltra o Condividi. I nomi dei menu cambiano in base al produttore e all'operatore, e alcuni Samsung salvano i messaggi come file AMR."
+                },
+                {
+                    "h3": "Segreteria Google Voice in testo",
+                    "content": "Google Voice trascrive già i messaggi in segreteria, ma Google avverte che queste trascrizioni potrebbero essere sbagliate o mancare. Per avere l'audio, attiva la ricezione dei messaggi in segreteria via email nelle impostazioni di Google Voice, oppure esporta i messaggi con Google Takeout, poi carica la registrazione su TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex e centralini d'ufficio",
+                    "content": "Molti sistemi aziendali inviano ogni messaggio in segreteria via email con la registrazione in allegato. Webex Calling allega un file WAV e le email della segreteria di Teams di solito contengono un MP3. Salva l'allegato e caricalo per avere una trascrizione completa da archiviare o inoltrare."
+                }
+            ]
+        },
+        {
+            "h2": "Quando la Trascrizione della Segreteria del Telefono Non Basta",
+            "intro": [
+                "La trascrizione integrata è comoda, ma questi sono i problemi più frequenti, ed è qui che una trascrizione completa del file salvato aiuta:"
+            ],
+            "items": [
+                {
+                    "h3": "La trascrizione è tagliata",
+                    "content": "Sui forum della community Apple molti utenti iPhone segnalano che la trascrizione di un messaggio in segreteria mostra solo una parte, a volte solo gli ultimi secondi. Caricando l'audio salvato hai ogni parola, con i timestamp."
+                },
+                {
+                    "h3": "\"Trascrizione non disponibile\"",
+                    "content": "La trascrizione integrata dipende da operatore, zona, lingua del telefono e versione del software, quindi alcuni messaggi non vengono mai trascritti. Un messaggio salvato come file si può comunque trascrivere per intero."
+                },
+                {
+                    "h3": "Il messaggio non è in una lingua supportata",
+                    "content": "Phone by Google trascrive i messaggi in segreteria solo in inglese e spagnolo, e Live Voicemail copre un numero limitato di lingue. Un messaggio in vietnamita, hindi o arabo spesso resta senza testo."
+                },
+                {
+                    "h3": "Il messaggio potrebbe sparire",
+                    "content": "Apple avverte che i messaggi in segreteria non salvati su iCloud possono essere cancellati dall'operatore e possono andare persi quando cambi SIM. Salvare l'audio e una copia scritta conserva il messaggio anche dopo che è sparito dal telefono."
+                }
+            ]
+        },
+        {
+            "h2": "Lingue della Trascrizione della Segreteria: il Tuo Telefono vs TranscriptX",
+            "intro": [
+                "Il supporto delle lingue è la differenza più grande tra la trascrizione integrata della segreteria e uno strumento di trascrizione completo. Elenchi delle lingue verificati sulle pagine di supporto di Apple, Google e Cisco, ottobre 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Inglese, spagnolo, francese, tedesco, portoghese (Brasile), giapponese, coreano, cinese mandarino e cantonese, in alcune zone."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Inglese e spagnolo, su Android 8.0 e versioni successive, con operatori supportati."
+                },
+                {
+                    "h3": "Google Voice (account di lavoro e scuola)",
+                    "content": "Inglese, danese, olandese, francese, tedesco, portoghese e spagnolo."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Inglese, francese, tedesco, italiano, giapponese e spagnolo."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Oltre 100 lingue, riconosciute automaticamente, per qualsiasi messaggio in segreteria salvato come file."
+                }
+            ]
+        },
+        {
+            "h2": "Traduci la Segreteria in Testo",
+            "content": [
+                "Un messaggio in segreteria in una lingua che non leggi bene è il più difficile da gestire, e la trascrizione integrata del telefono di solito non aiuta, perché la maggior parte delle lingue non la supporta proprio.",
+                "TranscriptX prima trascrive il messaggio nella lingua in cui è stato detto, tra oltre 100 lingue. Poi puoi tradurre la trascrizione in inglese, così un messaggio in spagnolo, francese, vietnamita o hindi diventa un testo che puoi leggere in inglese. Per ora la traduzione è di base: una traduzione più completa tra più lingue arriverà presto.",
+                "Tieni la trascrizione in lingua originale accanto alla traduzione. Per tutto ciò che conta, come un indirizzo, un importo o l'orario di un appuntamento, valgono le parole originali."
+            ]
+        },
+        {
+            "h2": "Convertitore Gratis da Segreteria a Testo Online",
+            "content": [
+                "TranscriptX è un convertitore gratuito da segreteria telefonica a testo che funziona online, in qualsiasi browser. Puoi provarlo senza account. Accedi per tenere le tue trascrizioni salvate su tutti i dispositivi.",
+                "Non ci sono costi per messaggio né servizi aggiuntivi dell'operatore da attivare solo per leggere un messaggio in segreteria. Carica il file, leggi il testo e copialo o scaricalo. Se trascrivi ogni giorno registrazioni lunghe o rumorose, il <a href=\"/pricing/\">piano Pro</a> aggiunge più utilizzo giornaliero, file più grandi, riconoscimento di chi parla e riduzione del rumore."
+            ]
+        },
+        {
+            "h2": "Trascrizioni della Segreteria da Conservare",
+            "content": [
+                "Un messaggio in segreteria si perde facilmente. I messaggi scadono, i telefoni si cambiano e la segreteria si riempie. Trascrivere la segreteria trasforma il messaggio in un documento che gestisci tu.",
+                "Quando trascrivi la segreteria in testo con TranscriptX, ottieni la trascrizione completa del messaggio e non una breve anteprima. Scaricala in TXT, DOCX o PDF e archiviala insieme al lavoro, al cliente, all'affitto o alla pratica a cui si riferisce. Lascia attivi i timestamp per mostrare in che punto esatto del messaggio è stato detto qualcosa, oppure disattivali per avere un blocco di testo pulito.",
+                "Dato che la trascrizione è testo semplice, puoi cercarci dentro più avanti un nome, una data o un numero d'ordine. Conserva accanto il file audio originale, così la registrazione c'è se qualcuno avesse bisogno di ascoltarla."
+            ]
+        },
+        {
+            "h2": "Precisione con l'Audio della Linea Telefonica",
+            "content": [
+                "La segreteria registra attraverso la linea telefonica, quindi l'audio è compresso e più povero di una registrazione normale, e chi chiama spesso è all'aperto, in macchina o di corsa. Un messaggio chiaro registrato in un posto tranquillo viene trascritto quasi parola per parola. Vento, traffico, segnale debole o qualcuno che parla veloce possono rendere poco chiara qualche parola. Per i messaggi rumorosi, la riduzione del rumore del piano Pro aiuta a pulire l'audio prima della trascrizione.",
+                "I dettagli più importanti di un messaggio in segreteria sono anche i più facili da sbagliare: numeri di telefono, indirizzi, nomi, importi e date. Prima di richiamare o agire in base a un messaggio, controllali con l'audio. Con i timestamp attivi, puoi saltare al momento in cui è stato detto un numero e ascoltare solo quel pezzo.",
+                "TranscriptX riconosce la lingua automaticamente tra oltre 100 lingue, quindi un messaggio in spagnolo, francese, vietnamita o hindi viene trascritto senza cambiare prima nessuna impostazione."
+            ]
+        },
+        {
+            "h2": "Trascrivi i Messaggi Vocali in Testo",
+            "content": [
+                "Non tutti i messaggi parlati arrivano in segreteria. I vocali delle app di chat e messaggistica contengono lo stesso tipo di informazioni, e sono altrettanto difficili da scorrere al volo.",
+                "La maggior parte delle app di messaggistica ti permette di salvare o condividere un vocale come file audio. Caricalo su TranscriptX per trascrivere il messaggio vocale in testo, proprio come un messaggio in segreteria. Trascrivere i vocali è utile quando non puoi ascoltare l'audio ad alta voce, quando il messaggio è lungo o quando è in una lingua che leggi meglio di quanto la capisci ascoltando."
+            ]
+        },
+        {
+            "h2": "Ti Serve un'App per Trascrivere la Segreteria?",
+            "content": [
+                "Spesso no. Se il tuo telefono e il tuo operatore la supportano, la trascrizione della segreteria integrata in iPhone, Phone by Google o Google Voice è il modo più rapido per dare un'occhiata ai nuovi messaggi, e non costa nulla. Usala.",
+                "TranscriptX serve quando quella non basta: una trascrizione tagliata o mancante, un messaggio in una lingua che il telefono non trascrive, un vecchio messaggio che hai salvato, un messaggio in segreteria inoltrato da un collega o un messaggio che devi conservare come documento. Funziona nel browser, quindi è come un'app per trascrivere la segreteria in testo ma senza installare nulla, e un'alternativa alle app di trascrizione della segreteria per iPhone o Android.",
+                "Quando si cerca la migliore app per trascrivere la segreteria in testo, di solito conta avere il messaggio intero, nella propria lingua, in una forma da poter conservare. È proprio per questo che TranscriptX è stato creato."
+            ]
+        },
+        {
+            "h2": "Privacy: Cosa Succede ai Tuoi Messaggi in Segreteria",
+            "content": [
+                "I messaggi in segreteria possono essere personali, quindi è utile sapere dove finiscono. I servizi integrati li gestiscono in modo diverso: Google, per esempio, dice che le trascrizioni della segreteria dell'app Telefono sono salvate sul telefono e non nel tuo Account Google, e che i messaggi che scegli di donare possono essere esaminati da persone.",
+                "Con TranscriptX non viene prelevato nulla dalla tua segreteria. Scegli tu quale file salvato caricare. Puoi provarlo senza account e, se accedi, puoi eliminare tutti i tuoi dati dal menu dell'account in qualsiasi momento."
+            ]
+        },
+        {
+            "h2": "Chi Usa la Trascrizione della Segreteria",
+            "intro": [
+                "Chi riceve informazioni importanti in segreteria ha tutto da guadagnare ad averle per iscritto. Gli usi più comuni:"
+            ],
+            "items": [
+                {
+                    "h3": "Piccole imprese e liberi professionisti",
+                    "content": "Trasforma i messaggi in segreteria dei clienti in testo da inoltrare al team, incollare in un CRM o a cui rispondere senza riascoltare l'audio."
+                },
+                {
+                    "h3": "Persone sorde o con problemi di udito",
+                    "content": "Leggi ogni parola di un messaggio in segreteria invece di affidarti a una breve anteprima o di chiedere a qualcun altro di ascoltarlo."
+                },
+                {
+                    "h3": "Messaggi in un'altra lingua",
+                    "content": "Trascrivi un messaggio in segreteria parlato in una qualsiasi di oltre 100 lingue, comprese quelle che il tuo telefono non trascrive, e leggilo con calma."
+                },
+                {
+                    "h3": "Documentazione e follow-up",
+                    "content": "Conserva una copia scritta e con timestamp di un messaggio in segreteria con un preventivo, un appuntamento, un accordo o un reclamo, salvata come documento da ritrovare in seguito."
+                },
+                {
+                    "h3": "Messaggi da conservare",
+                    "content": "Salva come testo le parole di un messaggio in segreteria di un familiare o di un amico, così il messaggio resta con te anche quando l'audio non c'è più."
+                }
+            ]
+        },
+        {
+            "h2": "Domande Frequenti",
+            "items": [
+                {
+                    "q": "Come trascrivo la segreteria telefonica in testo gratis?",
+                    "a": "Salva il messaggio come file audio e caricalo su TranscriptX. Ottieni il messaggio completo come testo in pochi secondi, senza bisogno di un account."
+                },
+                {
+                    "q": "Come salvo un messaggio della segreteria dal mio iPhone?",
+                    "a": "Nell'app Telefono, apri il messaggio in segreteria, tocca Condividi e scegli Salva su File. Il file di solito è .m4a."
+                },
+                {
+                    "q": "Perché la trascrizione della segreteria del mio iPhone non funziona?",
+                    "a": "Dipende da operatore, zona e lingua del telefono, quindi non è disponibile ovunque. Se non vedi la trascrizione, salva il messaggio e caricalo su TranscriptX."
+                },
+                {
+                    "q": "Perché la trascrizione della mia segreteria è tagliata?",
+                    "a": "Le anteprime del telefono a volte mostrano solo una parte del messaggio. Carica il messaggio salvato per avere ogni parola."
+                },
+                {
+                    "q": "Posso trascrivere un messaggio in segreteria in un'altra lingua?",
+                    "a": "Sì. TranscriptX funziona in oltre 100 lingue e riconosce la lingua automaticamente."
+                },
+                {
+                    "q": "Quanto è precisa la trascrizione della segreteria?",
+                    "a": "I messaggi chiari vengono trascritti quasi parola per parola. L'audio telefonico può essere rumoroso, quindi controlla nomi e numeri di telefono con la registrazione."
+                },
+                {
+                    "q": "TranscriptX accede alla mia segreteria?",
+                    "a": "No. Non si collega mai al tuo telefono né al tuo account della segreteria. Carichi solo il file che scegli tu."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Trascrivi Gratis la Tua Segreteria in Testo",
+        "content": [
+            "Quando l'anteprima della segreteria del telefono è tagliata, non c'è o è nella lingua sbagliata, salva il messaggio, caricalo e TranscriptX trasforma l'intero messaggio in testo in oltre 100 lingue.",
+            "Leggilo, controlla i numeri, copialo in una nota o scaricalo in TXT, DOCX o PDF. Per le tue registrazioni usa [Da Voce a Testo](/it/voice-to-text); per podcast e altri file audio usa [Da Audio a Testo](/it/audio-to-text). Nessun account, nessuna app da installare."
+        ]
+    }
+}

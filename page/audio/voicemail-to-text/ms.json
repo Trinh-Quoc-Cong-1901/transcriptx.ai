@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Mel Suara ke Teks — Transkrip Voicemail Percuma | TranscriptX",
+        "description": "Tukar mel suara (voicemail) kepada teks secara percuma. Simpan dari iPhone, Android atau Google Voice, muat naik dan baca mesej penuh dalam 100+ bahasa.",
+        "schemaName": "Penukar Mel Suara ke Teks TranscriptX",
+        "schemaDescription": "Alat mel suara ke teks dalam talian percuma yang membuat transkrip audio mel suara (voicemail) yang disimpan daripada iPhone, Android, Google Voice dan sistem telefon perniagaan menjadi teks penuh yang boleh disunting dalam lebih 100 bahasa, dengan terjemahan asas ke bahasa Inggeris, cap masa pilihan dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Berfungsi dalam pelayar tanpa perlu akaun.",
+        "ogTitle": "Mel Suara ke Teks — Transkrip Voicemail Percuma | TranscriptX",
+        "ogDescription": "Pratonton mel suara pada telefon terpotong, tiada atau dalam bahasa yang salah? Muat naik mel suara itu dan baca keseluruhan mesej sebagai teks, percuma, dalam 100+ bahasa."
+    },
+    "hero": {
+        "h1": "Mel Suara ke Teks",
+        "subtitle": "Tukar mel suara kepada teks dalam talian dan baca keseluruhan mesej, bukan sekadar pratonton. Simpan mel suara daripada iPhone, Android, Google Voice atau telefon pejabat anda, muat naik, dan TranscriptX akan menulis setiap perkataan dalam lebih 100 bahasa, dengan cap masa untuk anda semak. Salin, simpan atau eksport ke TXT, DOCX atau PDF. Tanpa akaun, tiada aplikasi untuk dipasang.",
+        "placeholder": "Muat naik fail audio mel suara...",
+        "button": "Tukar Mel Suara kepada Teks"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara saya tukar mel suara kepada teks?",
+        "answer": "Simpan mel suara sebagai fail audio (pada iPhone: buka mesej itu, ketik Kongsi, kemudian Simpan ke Fail), dan muat naik ke TranscriptX. Ia membuat transkrip keseluruhan mesej menjadi teks dalam beberapa saat, dalam lebih 100 bahasa, sedia untuk dibaca, disalin, disunting atau dimuat turun. Percuma digunakan setiap hari, tanpa aplikasi dan tanpa pendaftaran."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Itu Mel Suara ke Teks?",
+            "content": [
+                "Mel suara ke teks menjadikan mel suara (voicemail) yang dituturkan sebagai perkataan bertulis, supaya anda boleh membaca mesej itu dan bukan perlu mendail masuk untuk mendengarnya, selalunya dua kali untuk menangkap nombor telefon.",
+                "Telefon anda mungkin sudah ada versi fungsi ini. iPhone memaparkan transkripsi di bawah setiap mel suara dan, dengan Live Voicemail, semasa pemanggil masih bercakap. Phone by Google dan Google Voice juga memaparkan transkrip. Pratonton itu percuma dan automatik, dan untuk melihat sekilas siapa yang menelefon, itu selalunya sudah memadai.",
+                "Namun ia juga ada hadnya. Ia bergantung pada pembawa, rantau dan bahasa telefon anda, ia hanya merangkumi sedikit bahasa, dan hasilnya boleh terpotong atau tiada langsung. TranscriptX berfungsi pada audio mel suara itu sendiri: simpan mesej sebagai fail, muat naik, dan dapatkan transkrip penuh dalam mana-mana daripada lebih 100 bahasa, sebagai teks yang boleh anda semak, sunting dan simpan."
+            ]
+        },
+        {
+            "h2": "Mel Suara ke Teks Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Berfungsi dengan",
+                    "value": "Mel suara iPhone, Android, Samsung, Google Voice dan telefon pejabat — apa-apa mel suara yang boleh anda simpan sebagai fail"
+                },
+                {
+                    "label": "Mesej penuh",
+                    "value": "Setiap perkataan, bukan pratonton yang terpotong"
+                },
+                {
+                    "label": "Pembawa atau rantau",
+                    "value": "Tidak menjadi masalah — tiada ciri pembawa atau pelan telefon diperlukan"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, termasuk bahasa yang tidak disokong oleh transkripsi mel suara telefon anda"
+                },
+                {
+                    "label": "Semak nama dan nombor",
+                    "value": "Mainkan mel suara di sebelah teks, dengan cap masa pilihan"
+                },
+                {
+                    "label": "Simpan sebagai rekod",
+                    "value": "Salin teks atau muat turun sebagai TXT, DOCX atau PDF"
+                },
+                {
+                    "label": "Peti mel suara anda",
+                    "value": "Tidak pernah diakses — anda hanya memuat naik fail yang anda pilih"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Percuma, tiada akaun diperlukan"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Tukar Mel Suara kepada Teks",
+            "steps": [
+                {
+                    "h3": "Simpan mel suara sebagai fail audio",
+                    "content": "Kongsi atau simpan mesej daripada telefon anda, atau muat turun daripada e-mel mel suara anda. Bahagian seterusnya menunjukkan di mana fail itu berada untuk iPhone, Android, Google Voice dan sistem telefon pejabat."
+                },
+                {
+                    "h3": "Muat naik ke TranscriptX",
+                    "content": "Muat naik fail daripada telefon atau komputer anda, atau daripada Google Drive, Dropbox atau OneDrive. Ia berfungsi sama dalam pelayar mudah alih seperti pada desktop."
+                },
+                {
+                    "h3": "Baca keseluruhan mesej",
+                    "content": "TranscriptX mengesan bahasa dengan sendirinya dan menulis keseluruhan mel suara sebagai teks bertanda baca. Hidupkan cap masa jika anda mahu melihat bila setiap bahagian dituturkan."
+                },
+                {
+                    "h3": "Semak, salin atau muat turun",
+                    "content": "Semak nama dan nombor dengan audio, betulkan apa-apa terus di situ, kemudian salin teks atau muat turun sebagai TXT, DOCX atau PDF untuk disimpan sebagai rekod."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Simpan Mel Suara sebagai Fail Audio",
+            "intro": [
+                "TranscriptX tidak bersambung ke peti mel suara anda, jadi langkah pertama ialah mengeluarkan mesej itu sebagai fail. Lokasinya bergantung pada telefon atau sistem yang menerima panggilan:"
+            ],
+            "items": [
+                {
+                    "h3": "Mel suara iPhone ke teks",
+                    "content": "Buka aplikasi Telefon dan pergi ke mel suara anda (tab Mel Suara, atau Panggilan yang ditapis kepada Mel Suara dalam susun atur yang lebih baharu). Ketik mesej itu, ketik Kongsi, dan pilih Simpan ke Fail, atau hantar kepada diri sendiri melalui Mel atau Mesej. Fail yang disimpan biasanya fail audio .m4a. Perkongsian berfungsi untuk Visual Voicemail, yang disokong oleh kebanyakan pembawa iPhone."
+                },
+                {
+                    "h3": "Mel suara Android dan Samsung ke teks",
+                    "content": "Dalam Phone by Google, kembangkan mel suara untuk berkongsi rakaman audionya. Pada telefon Samsung Galaxy, buka aplikasi Voicemail atau Visual Voicemail, pilih mesej dan gunakan Simpan, Majukan atau Kongsi. Nama menu berbeza mengikut pengeluar telefon dan pembawa, dan sesetengah telefon Samsung menyimpan mel suara sebagai fail AMR."
+                },
+                {
+                    "h3": "Mel suara Google Voice ke teks",
+                    "content": "Google Voice sudah pun membuat transkrip mel suara, tetapi Google menyatakan transkrip itu mungkin tidak tepat atau tiada. Untuk mendapatkan audionya, hidupkan Get voicemail via email dalam tetapan Google Voice, atau eksport mel suara anda dengan Google Takeout, kemudian muat naik rakaman itu ke TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex dan sistem telefon pejabat",
+                    "content": "Banyak sistem perniagaan menghantar setiap mel suara melalui e-mel dengan rakaman dilampirkan. Webex Calling melampirkan fail WAV, dan e-mel mel suara Teams biasanya menyertakan MP3. Simpan lampiran itu dan muat naik untuk mendapatkan transkrip penuh yang boleh anda failkan atau majukan."
+                }
+            ]
+        },
+        {
+            "h2": "Apabila Transkripsi Mel Suara Telefon Anda Tidak Mencukupi",
+            "intro": [
+                "Transkripsi terbina dalam memang mudah, tetapi inilah masalah yang paling kerap dihadapi, dan di sinilah transkrip penuh daripada fail yang disimpan membantu:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkrip terpotong",
+                    "content": "Pengguna iPhone kerap melaporkan di forum Apple Community bahawa transkrip mel suara hanya menunjukkan sebahagian mesej, kadangkala hanya beberapa saat terakhir. Memuat naik audio yang disimpan memberi anda setiap perkataan, dengan cap masa."
+                },
+                {
+                    "h3": "\"Transkripsi tidak tersedia\"",
+                    "content": "Transkripsi terbina dalam bergantung pada pembawa, rantau, bahasa telefon dan versi perisian anda, jadi sesetengah mesej tidak pernah mendapat transkrip. Fail mel suara yang disimpan masih boleh ditranskrip sepenuhnya."
+                },
+                {
+                    "h3": "Mel suara bukan dalam bahasa yang disokong",
+                    "content": "Phone by Google hanya membuat transkrip mel suara dalam bahasa Inggeris dan Sepanyol, dan Live Voicemail merangkumi set bahasa yang terhad. Mesej dalam bahasa Vietnam, Hindi atau Arab selalunya tidak menghasilkan sebarang teks."
+                },
+                {
+                    "h3": "Mesej mungkin hilang",
+                    "content": "Apple menyatakan mel suara yang tidak disimpan dalam iCloud boleh dipadam oleh pembawa anda, dan mungkin terpadam apabila anda menukar kad SIM. Menyimpan audio dan salinan bertulis memastikan mesej itu kekal walaupun sudah hilang daripada telefon anda."
+                }
+            ]
+        },
+        {
+            "h2": "Bahasa Transkripsi Mel Suara: Telefon Anda lwn TranscriptX",
+            "intro": [
+                "Sokongan bahasa ialah perbezaan terbesar antara transkripsi mel suara terbina dalam dan alat transkripsi penuh. Senarai bahasa disemak dengan halaman sokongan Apple, Google dan Cisco, Oktober 2026:"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Inggeris, Sepanyol, Perancis, Jerman, Portugis (Brazil), Jepun, Korea, Cina Mandarin dan Kantonis, di rantau tertentu."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Inggeris dan Sepanyol, pada Android 8.0 dan ke atas, dengan pembawa yang disokong."
+                },
+                {
+                    "h3": "Google Voice (akaun kerja dan sekolah)",
+                    "content": "Inggeris, Denmark, Belanda, Perancis, Jerman, Portugis dan Sepanyol."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Inggeris, Perancis, Jerman, Itali, Jepun dan Sepanyol."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "100+ bahasa, dikesan secara automatik, untuk apa-apa fail mel suara yang disimpan."
+                }
+            ]
+        },
+        {
+            "h2": "Terjemah Mel Suara kepada Teks",
+            "content": [
+                "Mel suara dalam bahasa yang anda kurang fahami ialah jenis yang paling sukar diuruskan, dan transkripsi terbina dalam telefon biasanya tidak dapat membantu, kerana ia memang tidak menyokong kebanyakan bahasa sejak awal.",
+                "TranscriptX terlebih dahulu membuat transkrip mel suara dalam bahasa asal ia dituturkan, merentasi lebih 100 bahasa. Kemudian anda boleh menterjemah transkrip itu ke bahasa Inggeris, supaya mel suara dalam bahasa Sepanyol, Perancis, Vietnam atau Hindi menjadi mesej yang boleh anda baca dalam bahasa Inggeris. Terjemahan masih asas buat masa ini: terjemahan yang lebih lengkap antara lebih banyak bahasa akan datang tidak lama lagi.",
+                "Simpan transkrip bahasa asal di sebelah terjemahan. Untuk perkara penting, seperti alamat, jumlah wang atau masa temu janji, perkataan asal itulah yang diambil kira."
+            ]
+        },
+        {
+            "h2": "Penukar Mel Suara ke Teks Dalam Talian Percuma",
+            "content": [
+                "TranscriptX ialah penukar mel suara ke teks percuma yang berfungsi dalam talian, dalam mana-mana pelayar. Anda boleh mencubanya tanpa akaun. Log masuk untuk menyimpan transkrip anda pada setiap peranti.",
+                "Tiada caj bagi setiap mesej dan tiada perkhidmatan tambahan pembawa yang perlu dilanggan semata-mata untuk membaca mel suara. Muat naik fail, baca teks, dan salin atau muat turunnya. Jika anda membuat transkrip rakaman yang panjang atau bising setiap hari, <a href=\"/pricing/\">pelan Pro</a> menambah penggunaan harian, fail yang lebih besar, label penutur dan pengurangan hingar."
+            ]
+        },
+        {
+            "h2": "Transkripsi Mel Suara yang Boleh Anda Simpan",
+            "content": [
+                "Mel suara mudah hilang. Mesej tamat tempoh, telefon diganti, dan peti mel suara menjadi penuh. Transkripsi mel suara menjadikan mesej itu dokumen yang anda kawal.",
+                "Apabila anda menukar mel suara kepada teks dengan TranscriptX, anda mendapat transkrip mel suara yang penuh dan bukan pratonton pendek. Muat turun sebagai TXT, DOCX atau PDF dan failkan bersama kerja, pelanggan, penyewaan atau kes yang berkaitan. Biarkan cap masa dihidupkan untuk menunjukkan dengan tepat di mana sesuatu dituturkan dalam mesej, atau matikannya untuk teks yang kemas.",
+                "Oleh sebab transkripsi mel suara ke teks itu ialah teks biasa, anda boleh mencarinya kemudian untuk nama, tarikh atau nombor pesanan. Simpan fail audio asal bersamanya, supaya rakaman itu ada jika sesiapa perlu mendengarnya."
+            ]
+        },
+        {
+            "h2": "Ketepatan pada Audio Talian Telefon",
+            "content": [
+                "Mel suara dirakam melalui talian telefon, jadi audionya dimampatkan dan lebih sempit daripada rakaman biasa, dan pemanggil selalunya berada di luar, sedang memandu atau tergesa-gesa. Mesej yang jelas dari bilik yang senyap akan keluar hampir perkataan demi perkataan. Angin, lalu lintas, isyarat lemah atau seseorang yang bercakap laju boleh mengaburkan satu dua perkataan. Untuk mesej yang bising, pengurangan hingar pada pelan Pro membantu membersihkan audio sebelum ditranskrip.",
+                "Butiran yang paling penting dalam mel suara juga paling mudah tersilap: nombor telefon, alamat, nama, jumlah wang dan tarikh. Sebelum anda menelefon semula atau bertindak atas sesuatu mesej, semak butiran itu dengan audio. Dengan cap masa dihidupkan, anda boleh terus melompat ke saat sesuatu nombor disebut dan mendengar bahagian itu sahaja.",
+                "TranscriptX mengesan bahasa secara automatik merentasi lebih 100 bahasa, jadi mel suara dalam bahasa Sepanyol, Perancis, Vietnam atau Hindi ditranskrip tanpa perlu menukar sebarang tetapan dahulu."
+            ]
+        },
+        {
+            "h2": "Transkrip Mesej Suara kepada Teks",
+            "content": [
+                "Bukan semua mesej lisan tiba sebagai mel suara. Mesej suara dalam aplikasi sembang dan pemesejan membawa maklumat yang sama, dan sama sukarnya untuk dibaca sepintas lalu.",
+                "Kebanyakan aplikasi pemesejan membolehkan anda menyimpan atau berkongsi mesej suara sebagai fail audio. Muat naik ke TranscriptX untuk membuat transkrip mesej suara kepada teks, sama seperti mel suara. Transkripsi mesej suara berguna apabila anda tidak boleh memainkan audio dengan kuat, apabila mesej itu panjang, atau apabila ia dalam bahasa yang lebih mudah anda baca daripada dengar."
+            ]
+        },
+        {
+            "h2": "Adakah Anda Perlukan Aplikasi Mel Suara ke Teks?",
+            "content": [
+                "Selalunya tidak. Jika telefon dan pembawa anda menyokongnya, transkripsi mel suara terbina dalam iPhone, Phone by Google atau Google Voice ialah cara terpantas untuk melihat sekilas mesej baharu, dan ia percuma. Gunakannya.",
+                "TranscriptX adalah untuk saat ia tidak dapat membantu: transkrip yang terpotong atau tiada, mel suara dalam bahasa yang tidak ditranskrip oleh telefon anda, mesej lama yang anda simpan, mel suara yang dimajukan oleh rakan sekerja, atau mesej yang perlu anda simpan sebagai dokumen. Ia berjalan dalam pelayar, jadi ia berfungsi seperti aplikasi mel suara ke teks tanpa pemasangan, dan sebagai alternatif kepada aplikasi mel suara ke teks untuk iPhone atau Android.",
+                "Apabila orang mencari aplikasi mel suara ke teks terbaik, yang biasanya penting ialah mesej yang lengkap, dalam bahasa mereka, dalam bentuk yang boleh disimpan. Itulah tugas yang dibina untuk TranscriptX."
+            ]
+        },
+        {
+            "h2": "Privasi: Apa yang Berlaku pada Mel Suara Anda",
+            "content": [
+                "Mel suara boleh jadi peribadi, jadi ada baiknya tahu ke mana ia pergi. Perkhidmatan terbina dalam mengendalikannya secara berbeza: Google, contohnya, menyatakan transkrip mel suara aplikasi Phone disimpan pada telefon anda dan bukan dalam Akaun Google anda, dan mel suara yang anda pilih untuk didermakan mungkin disemak oleh manusia.",
+                "Dengan TranscriptX, tiada apa-apa yang diambil daripada peti mel suara anda. Anda sendiri memilih fail yang disimpan untuk dimuat naik. Anda boleh mencubanya tanpa akaun, dan jika anda log masuk, anda boleh memadam semua data anda daripada menu akaun pada bila-bila masa."
+            ]
+        },
+        {
+            "h2": "Siapa yang Menggunakan Mel Suara ke Teks",
+            "intro": [
+                "Sesiapa yang menerima maklumat penting melalui mel suara mendapat manfaat apabila ia ada dalam bentuk tulisan. Kegunaan yang paling biasa:"
+            ],
+            "items": [
+                {
+                    "h3": "Perniagaan kecil dan pekerja bebas",
+                    "content": "Jadikan mel suara pelanggan sebagai teks yang boleh dimajukan kepada pasukan, ditampal ke dalam CRM, atau dibalas tanpa memainkan semula audio."
+                },
+                {
+                    "h3": "Pengguna Pekak dan kurang pendengaran",
+                    "content": "Baca setiap perkataan mel suara dan bukan bergantung pada pratonton pendek atau meminta orang lain mendengarnya."
+                },
+                {
+                    "h3": "Mesej dalam bahasa lain",
+                    "content": "Buat transkrip mel suara yang dituturkan dalam mana-mana daripada lebih 100 bahasa, termasuk yang tidak ditranskrip oleh telefon anda, dan bacanya mengikut rentak anda sendiri."
+                },
+                {
+                    "h3": "Rekod dan tindakan susulan",
+                    "content": "Simpan salinan bertulis bercap masa bagi mel suara yang mengandungi sebut harga, temu janji, persetujuan atau aduan, sebagai dokumen yang mudah dicari kemudian."
+                },
+                {
+                    "h3": "Mesej yang wajar disimpan",
+                    "content": "Simpan kata-kata mel suara daripada keluarga atau rakan sebagai teks, supaya mesej itu kekal bersama anda walaupun audionya sudah tiada."
+                }
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana cara tukar mel suara kepada teks secara percuma?",
+                    "a": "Simpan mel suara sebagai fail audio dan muat naik ke TranscriptX. Anda mendapat keseluruhan mesej sebagai teks dalam beberapa saat, tanpa perlu akaun."
+                },
+                {
+                    "q": "Bagaimana cara simpan mel suara daripada iPhone saya?",
+                    "a": "Dalam aplikasi Telefon, buka mel suara, ketik Kongsi dan pilih Simpan ke Fail. Fail itu biasanya .m4a."
+                },
+                {
+                    "q": "Kenapa transkripsi mel suara iPhone saya tidak berfungsi?",
+                    "a": "Ia bergantung pada pembawa, rantau dan bahasa telefon anda, jadi ia tidak tersedia di semua tempat. Jika anda tidak nampak transkrip, simpan mel suara itu dan muat naik ke TranscriptX."
+                },
+                {
+                    "q": "Kenapa transkrip mel suara saya terpotong?",
+                    "a": "Pratonton telefon kadangkala hanya menunjukkan sebahagian mesej. Muat naik mel suara yang disimpan untuk mendapatkan setiap perkataan."
+                },
+                {
+                    "q": "Bolehkah saya membuat transkrip mel suara dalam bahasa lain?",
+                    "a": "Boleh. TranscriptX berfungsi dalam lebih 100 bahasa dan mengesan bahasa secara automatik."
+                },
+                {
+                    "q": "Sejauh mana ketepatan transkripsi mel suara?",
+                    "a": "Mesej yang jelas keluar hampir perkataan demi perkataan. Audio telefon boleh bising, jadi semak nama dan nombor telefon dengan rakaman."
+                },
+                {
+                    "q": "Adakah TranscriptX mengakses peti mel suara saya?",
+                    "a": "Tidak. Ia tidak pernah bersambung ke telefon atau akaun mel suara anda. Anda hanya memuat naik fail yang anda pilih."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Tukar Mel Suara Anda kepada Teks Secara Percuma",
+        "content": [
+            "Apabila pratonton mel suara telefon anda terpotong, tiada atau dalam bahasa yang salah, simpan mesej itu, muat naik, dan TranscriptX akan menjadikan keseluruhan mel suara sebagai teks dalam lebih 100 bahasa.",
+            "Baca, semak nombornya, salin ke dalam nota, atau muat turun sebagai TXT, DOCX atau PDF. Untuk rakaman anda sendiri, gunakan [Voice to Text](/ms/voice-to-text); untuk podcast dan fail audio lain, gunakan [Audio to Text](/ms/audio-to-text). Tanpa akaun, tiada aplikasi untuk dipasang."
+        ]
+    }
+}

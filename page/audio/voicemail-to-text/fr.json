@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Messagerie vocale en texte — Gratuit en ligne | TranscriptX",
+        "description": "Messagerie vocale en texte, gratuit. Enregistrez le message sur iPhone, Android ou Google Voice, importez-le, lisez-le en entier. 100+ langues.",
+        "schemaName": "TranscriptX — Convertisseur messagerie vocale en texte",
+        "schemaDescription": "Outil gratuit en ligne qui transcrit les messages vocaux enregistrés depuis un iPhone, un Android, Google Voice ou un standard téléphonique professionnel en texte complet et modifiable dans plus de 100 langues, avec une traduction de base vers l'anglais, des horodatages optionnels et l'export en TXT, DOCX, PDF, SRT et VTT. Fonctionne dans le navigateur, sans compte.",
+        "ogTitle": "Messagerie vocale en texte — Gratuit en ligne | TranscriptX",
+        "ogDescription": "L'aperçu de votre messagerie vocale est coupé, absent ou dans la mauvaise langue ? Importez le message et lisez-le en entier, gratuitement, dans plus de 100 langues."
+    },
+    "hero": {
+        "h1": "Messagerie vocale en texte",
+        "subtitle": "Convertissez votre messagerie vocale en texte en ligne et lisez le message en entier, pas seulement un aperçu. Enregistrez le message vocal depuis votre iPhone, votre Android, Google Voice ou votre téléphone pro, importez-le, et TranscriptX écrit chaque mot dans plus de 100 langues, avec des horodatages pour vérifier. Copiez-le, gardez-le ou exportez-le en TXT, DOCX ou PDF. Sans compte, sans application à installer.",
+        "placeholder": "Importez un fichier audio de messagerie vocale...",
+        "button": "Convertir le message vocal en texte"
+    },
+    "quickAnswer": {
+        "question": "Comment convertir un message vocal en texte ?",
+        "answer": "Enregistrez le message vocal sous forme de fichier audio (sur iPhone : ouvrez le message, touchez Partager, puis Enregistrer dans Fichiers) et importez-le dans TranscriptX. Le message entier est transcrit en texte en quelques secondes, dans plus de 100 langues, prêt à lire, copier, modifier ou télécharger. C'est gratuit chaque jour, sans application et sans inscription."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la transcription de messagerie vocale ?",
+            "content": [
+                "La transcription de messagerie vocale transforme un message parlé en mots écrits : vous lisez le message au lieu d'appeler votre messagerie pour l'écouter, souvent deux fois pour noter un numéro de téléphone.",
+                "Votre téléphone le fait peut-être déjà en partie. L'iPhone affiche une transcription sous chaque message vocal et, avec Live Voicemail, pendant que l'appelant parle encore. Phone by Google et Google Voice affichent aussi des transcriptions. Ces aperçus sont gratuits et automatiques, et pour voir rapidement qui a appelé, ils suffisent souvent.",
+                "Ils ont aussi leurs limites. Ils dépendent de votre opérateur, de votre région et de la langue du téléphone, ne couvrent qu'une courte liste de langues, et peuvent arriver tronqués ou ne pas arriver du tout. TranscriptX travaille sur l'audio du message lui-même : enregistrez le message en fichier, importez-le et obtenez la transcription complète dans plus de 100 langues, sous forme de texte que vous pouvez vérifier, modifier et conserver."
+            ]
+        },
+        {
+            "h2": "La messagerie vocale en texte en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Compatible avec",
+                    "value": "Messagerie vocale iPhone, Android, Samsung, Google Voice et téléphone pro — tout message vocal que vous pouvez enregistrer en fichier"
+                },
+                {
+                    "label": "Message complet",
+                    "value": "Chaque mot, pas un aperçu qui s'arrête en cours de route"
+                },
+                {
+                    "label": "Opérateur ou région",
+                    "value": "Peu importe — aucune option opérateur ni forfait requis"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, y compris des langues que la transcription de votre téléphone ne prend pas en charge"
+                },
+                {
+                    "label": "Vérifier noms et numéros",
+                    "value": "Écoutez le message à côté du texte, avec horodatages en option"
+                },
+                {
+                    "label": "Garder une trace",
+                    "value": "Copiez le texte ou téléchargez-le en TXT, DOCX ou PDF"
+                },
+                {
+                    "label": "Votre boîte vocale",
+                    "value": "Jamais consultée — vous importez uniquement le fichier que vous choisissez"
+                },
+                {
+                    "label": "Prix",
+                    "value": "Gratuit, sans compte"
+                }
+            ]
+        },
+        {
+            "h2": "Comment convertir un message vocal en texte",
+            "steps": [
+                {
+                    "h3": "Enregistrez le message vocal en fichier audio",
+                    "content": "Partagez ou enregistrez le message depuis votre téléphone, ou téléchargez-le depuis l'e-mail de votre messagerie vocale. La section suivante indique où trouver le fichier sur iPhone, Android, Google Voice et les standards professionnels."
+                },
+                {
+                    "h3": "Importez-le dans TranscriptX",
+                    "content": "Importez le fichier depuis votre téléphone ou votre ordinateur, ou depuis Google Drive, Dropbox ou OneDrive. Cela fonctionne de la même façon dans un navigateur mobile que sur ordinateur."
+                },
+                {
+                    "h3": "Lisez le message en entier",
+                    "content": "TranscriptX détecte la langue tout seul et écrit tout le message vocal en texte ponctué. Activez les horodatages si vous voulez voir à quel moment chaque passage a été dit."
+                },
+                {
+                    "h3": "Vérifiez, copiez ou téléchargez",
+                    "content": "Vérifiez les noms et les numéros avec l'audio, corrigez directement ce qui doit l'être, puis copiez le texte ou téléchargez-le en TXT, DOCX ou PDF pour en garder une trace."
+                }
+            ]
+        },
+        {
+            "h2": "Comment enregistrer un message vocal en fichier audio",
+            "intro": [
+                "TranscriptX ne se connecte pas à votre messagerie vocale : la première étape consiste donc à sortir le message sous forme de fichier. L'endroit où il se trouve dépend du téléphone ou du système qui a pris l'appel :"
+            ],
+            "items": [
+                {
+                    "h3": "Messagerie vocale iPhone en texte",
+                    "content": "Ouvrez l'app Téléphone et allez dans vos messages vocaux (l'onglet Messagerie, ou Appels filtré sur les messages vocaux dans la nouvelle présentation). Touchez le message, touchez Partager, puis choisissez Enregistrer dans Fichiers, ou envoyez-le-vous par Mail ou Messages. Le fichier enregistré est généralement un fichier audio .m4a. Le partage fonctionne avec la messagerie vocale visuelle, prise en charge par la plupart des opérateurs sur iPhone."
+                },
+                {
+                    "h3": "Messagerie vocale Android et Samsung en texte",
+                    "content": "Dans Phone by Google, développez le message vocal pour partager son enregistrement audio. Sur les Samsung Galaxy, ouvrez l'app de messagerie vocale ou de messagerie vocale visuelle, sélectionnez le message et utilisez Enregistrer, Transférer ou Partager. Les noms des menus varient selon le fabricant et l'opérateur, et certains Samsung enregistrent les messages vocaux au format AMR."
+                },
+                {
+                    "h3": "Messagerie Google Voice en texte",
+                    "content": "Google Voice transcrit déjà les messages vocaux, mais Google précise que ces transcriptions peuvent être incorrectes ou manquantes. Pour récupérer l'audio, activez Get voicemail via email dans les paramètres de Google Voice, ou exportez vos messages vocaux avec Google Takeout, puis importez l'enregistrement dans TranscriptX."
+                },
+                {
+                    "h3": "Microsoft Teams, Webex et standards téléphoniques",
+                    "content": "Beaucoup de systèmes professionnels envoient chaque message vocal par e-mail avec l'enregistrement en pièce jointe. Webex Calling joint un fichier WAV, et les e-mails de messagerie vocale Teams contiennent en général un MP3. Enregistrez la pièce jointe et importez-la pour obtenir une transcription complète à classer ou à transférer."
+                }
+            ]
+        },
+        {
+            "h2": "Quand la transcription de votre téléphone ne suffit pas",
+            "intro": [
+                "La transcription intégrée est pratique, mais voici les problèmes les plus fréquents, et ceux où une transcription complète du fichier enregistré vous aide :"
+            ],
+            "items": [
+                {
+                    "h3": "La transcription est coupée",
+                    "content": "Sur les forums de la communauté Apple, des utilisateurs d'iPhone signalent régulièrement qu'une transcription de message vocal n'affiche qu'une partie du message, parfois juste les dernières secondes. Importer l'audio enregistré vous donne chaque mot, avec horodatages."
+                },
+                {
+                    "h3": "« Transcription non disponible »",
+                    "content": "La transcription intégrée dépend de votre opérateur, de votre région, de la langue du téléphone et de la version du logiciel : certains messages n'ont donc jamais de transcription. Un message vocal enregistré en fichier peut quand même être transcrit en entier."
+                },
+                {
+                    "h3": "Le message n'est pas dans une langue prise en charge",
+                    "content": "Phone by Google ne transcrit les messages vocaux qu'en anglais et en espagnol, et Live Voicemail couvre un nombre limité de langues. Un message en vietnamien, en hindi ou en arabe revient souvent sans aucun texte."
+                },
+                {
+                    "h3": "Le message risque de disparaître",
+                    "content": "Apple indique que les messages vocaux non stockés dans iCloud peuvent être effacés par votre opérateur, et supprimés lorsque vous changez de carte SIM. Garder l'audio et une copie écrite conserve le message même après sa disparition du téléphone."
+                }
+            ]
+        },
+        {
+            "h2": "Langues de transcription : votre téléphone ou TranscriptX",
+            "intro": [
+                "La prise en charge des langues est la plus grande différence entre la transcription intégrée au téléphone et un véritable outil de transcription. Listes de langues vérifiées sur les pages d'assistance d'Apple, Google et Cisco, octobre 2026 :"
+            ],
+            "items": [
+                {
+                    "h3": "iPhone Live Voicemail",
+                    "content": "Anglais, espagnol, français, allemand, portugais (Brésil), japonais, coréen, chinois mandarin et cantonais, dans certaines régions."
+                },
+                {
+                    "h3": "Phone by Google (Android)",
+                    "content": "Anglais et espagnol, sur Android 8.0 et versions ultérieures, avec les opérateurs compatibles."
+                },
+                {
+                    "h3": "Google Voice (comptes professionnels et scolaires)",
+                    "content": "Anglais, danois, néerlandais, français, allemand, portugais et espagnol."
+                },
+                {
+                    "h3": "Webex Calling",
+                    "content": "Anglais, français, allemand, italien, japonais et espagnol."
+                },
+                {
+                    "h3": "TranscriptX",
+                    "content": "Plus de 100 langues, détectées automatiquement, pour tout message vocal enregistré en fichier."
+                }
+            ]
+        },
+        {
+            "h2": "Traduire un message vocal en texte",
+            "content": [
+                "Un message vocal dans une langue que vous lisez mal est le plus difficile à gérer, et la transcription intégrée au téléphone n'aide généralement pas, puisqu'elle ne prend pas en charge la plupart des langues.",
+                "TranscriptX transcrit d'abord le message vocal dans la langue où il a été prononcé, parmi plus de 100 langues. Vous pouvez ensuite traduire la transcription en anglais : un message en espagnol, en français, en vietnamien ou en hindi devient un message lisible en anglais. La traduction est basique pour l'instant : une traduction plus complète entre davantage de langues arrive bientôt.",
+                "Gardez la transcription dans la langue d'origine à côté de la traduction. Pour tout ce qui compte, comme une adresse, un montant ou l'heure d'un rendez-vous, ce sont les mots d'origine qui font foi."
+            ]
+        },
+        {
+            "h2": "Convertisseur gratuit de messagerie vocale en texte",
+            "content": [
+                "TranscriptX est un convertisseur gratuit de messagerie vocale en texte qui fonctionne en ligne, dans n'importe quel navigateur. Vous pouvez l'essayer sans compte. Connectez-vous pour retrouver vos transcriptions sur tous vos appareils.",
+                "Pas de frais par message, ni d'option opérateur à souscrire juste pour lire un message vocal. Importez le fichier, lisez le texte, puis copiez-le ou téléchargez-le. Si vous transcrivez chaque jour des enregistrements longs ou bruyants, le <a href=\"/pricing/\">forfait Pro</a> ajoute plus d'utilisation quotidienne, des fichiers plus volumineux, l'identification des locuteurs et la réduction du bruit."
+            ]
+        },
+        {
+            "h2": "Une transcription de message vocal à conserver",
+            "content": [
+                "Un message vocal se perd facilement. Les messages expirent, les téléphones changent et les boîtes vocales se remplissent. La transcription transforme le message en un document que vous maîtrisez.",
+                "Quand vous transcrivez un message vocal en texte avec TranscriptX, vous obtenez une transcription complète plutôt qu'un court aperçu. Téléchargez-la en TXT, DOCX ou PDF et classez-la avec le chantier, le client, la location ou le dossier qui la concerne. Gardez les horodatages pour montrer à quel moment précis quelque chose a été dit, ou désactivez-les pour un bloc de texte propre.",
+                "Comme la transcription est du texte brut, vous pourrez plus tard y chercher un nom, une date ou un numéro de commande. Gardez le fichier audio d'origine à côté, pour que l'enregistrement reste disponible si quelqu'un a besoin de l'écouter."
+            ]
+        },
+        {
+            "h2": "Précision sur un audio de ligne téléphonique",
+            "content": [
+                "Un message vocal est enregistré sur une ligne téléphonique : l'audio est compressé et plus étroit qu'un enregistrement normal, et les appelants sont souvent dehors, au volant ou pressés. Un message clair enregistré dans un endroit calme revient presque mot pour mot. Le vent, la circulation, un signal faible ou un débit rapide peuvent brouiller un mot ou deux. Pour les messages bruyants, la réduction du bruit du forfait Pro aide à nettoyer l'audio avant la transcription.",
+                "Les détails les plus importants d'un message vocal sont aussi les plus faciles à mal transcrire : numéros de téléphone, adresses, noms, montants et dates. Avant de rappeler ou d'agir, vérifiez-les avec l'audio. Avec les horodatages activés, vous allez directement au moment où un numéro a été dit et n'écoutez que ce passage.",
+                "TranscriptX détecte automatiquement la langue parmi plus de 100 langues : un message vocal en espagnol, en français, en vietnamien ou en hindi est transcrit sans rien régler au préalable."
+            ]
+        },
+        {
+            "h2": "Transcrire des messages vocaux en texte",
+            "content": [
+                "Tous les messages parlés n'arrivent pas sur la messagerie vocale. Les messages vocaux des applis de discussion contiennent le même genre d'informations, et ils sont tout aussi difficiles à parcourir.",
+                "La plupart des messageries permettent d'enregistrer ou de partager un message vocal en fichier audio. Importez-le dans TranscriptX pour transcrire le message vocal en texte, comme pour la messagerie vocale. C'est pratique quand vous ne pouvez pas écouter à voix haute, quand un message est long, ou quand il est dans une langue que vous lisez plus facilement que vous ne l'entendez."
+            ]
+        },
+        {
+            "h2": "Faut-il une application de messagerie vocale en texte ?",
+            "content": [
+                "Souvent, non. Si votre téléphone et votre opérateur la prennent en charge, la transcription intégrée à l'iPhone, à Phone by Google ou à Google Voice est le moyen le plus rapide de jeter un œil aux nouveaux messages, et elle ne coûte rien. Utilisez-la.",
+                "TranscriptX sert quand elle ne suffit pas : une transcription coupée ou absente, un message dans une langue que votre téléphone ne transcrit pas, un ancien message enregistré, un message transféré par un collègue, ou un message à conserver comme document. Il fonctionne dans le navigateur, comme une application de messagerie vocale en texte mais sans installation, et comme alternative aux applications de ce type sur iPhone ou Android.",
+                "Quand on cherche la meilleure application de messagerie vocale en texte, ce qui compte généralement, c'est le message complet, dans sa langue, sous une forme que l'on peut garder. C'est exactement ce pour quoi TranscriptX est conçu."
+            ]
+        },
+        {
+            "h2": "Confidentialité : ce que devient votre message vocal",
+            "content": [
+                "Un message vocal peut être personnel : mieux vaut savoir où il va. Les services intégrés le traitent différemment : Google, par exemple, indique que les transcriptions de messagerie de l'app Téléphone sont stockées sur votre téléphone et non dans votre compte Google, et que les messages vocaux que vous choisissez de donner peuvent être examinés par des personnes.",
+                "Avec TranscriptX, rien n'est récupéré dans votre boîte vocale. Vous choisissez le fichier enregistré à importer. Vous pouvez l'essayer sans compte, et si vous vous connectez, vous pouvez supprimer toutes vos données depuis le menu du compte à tout moment."
+            ]
+        },
+        {
+            "h2": "Qui utilise la messagerie vocale en texte",
+            "intro": [
+                "Toute personne qui reçoit des informations importantes par messagerie vocale gagne à les avoir par écrit. Les usages les plus courants :"
+            ],
+            "items": [
+                {
+                    "h3": "Petites entreprises et indépendants",
+                    "content": "Transformez les messages vocaux des clients en texte à transférer à l'équipe, à coller dans un CRM ou auquel répondre sans réécouter l'audio."
+                },
+                {
+                    "h3": "Personnes sourdes et malentendantes",
+                    "content": "Lisez chaque mot d'un message vocal au lieu de vous contenter d'un court aperçu ou de demander à quelqu'un de l'écouter."
+                },
+                {
+                    "h3": "Messages dans une autre langue",
+                    "content": "Transcrivez un message vocal prononcé dans l'une des plus de 100 langues, y compris celles que votre téléphone ne transcrit pas, et lisez-le à votre rythme."
+                },
+                {
+                    "h3": "Traces écrites et suivis",
+                    "content": "Gardez une copie écrite et horodatée d'un message vocal contenant un devis, un rendez-vous, un accord ou une réclamation, enregistrée comme un document facile à retrouver."
+                },
+                {
+                    "h3": "Messages à garder",
+                    "content": "Conservez par écrit les mots d'un message vocal d'un proche ou d'un ami, pour que le message reste avec vous même quand l'audio a disparu."
+                }
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment convertir gratuitement un message vocal en texte ?",
+                    "a": "Enregistrez le message vocal en fichier audio et importez-le dans TranscriptX. Vous obtenez le message complet en texte en quelques secondes, sans compte."
+                },
+                {
+                    "q": "Comment enregistrer un message vocal depuis mon iPhone ?",
+                    "a": "Dans l'app Téléphone, ouvrez le message vocal, touchez Partager et choisissez Enregistrer dans Fichiers. Le fichier est généralement au format .m4a."
+                },
+                {
+                    "q": "Pourquoi la transcription de la messagerie de mon iPhone ne fonctionne-t-elle pas ?",
+                    "a": "Elle dépend de votre opérateur, de votre région et de la langue du téléphone : elle n'est donc pas disponible partout. Si vous ne voyez pas de transcription, enregistrez le message vocal et importez-le dans TranscriptX."
+                },
+                {
+                    "q": "Pourquoi la transcription de mon message vocal est-elle coupée ?",
+                    "a": "Les aperçus du téléphone n'affichent parfois qu'une partie du message. Importez le message vocal enregistré pour obtenir chaque mot."
+                },
+                {
+                    "q": "Puis-je transcrire un message vocal dans une autre langue ?",
+                    "a": "Oui. TranscriptX fonctionne dans plus de 100 langues et détecte la langue automatiquement."
+                },
+                {
+                    "q": "Quelle est la précision de la transcription de messagerie vocale ?",
+                    "a": "Les messages clairs reviennent presque mot pour mot. L'audio téléphonique peut être bruyant : vérifiez donc les noms et les numéros de téléphone avec l'enregistrement."
+                },
+                {
+                    "q": "TranscriptX accède-t-il à ma boîte vocale ?",
+                    "a": "Non. Il ne se connecte jamais à votre téléphone ni à votre compte de messagerie vocale. Vous importez uniquement le fichier que vous choisissez."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Convertissez votre messagerie vocale en texte gratuitement",
+        "content": [
+            "Quand l'aperçu de votre messagerie vocale est coupé, absent ou dans la mauvaise langue, enregistrez le message, importez-le, et TranscriptX transforme tout le message vocal en texte dans plus de 100 langues.",
+            "Lisez-le, vérifiez les numéros, copiez-le dans une note ou téléchargez-le en TXT, DOCX ou PDF. Pour vos propres enregistrements, utilisez [Voix en texte](/fr/voice-to-text) ; pour les podcasts et autres fichiers audio, utilisez [Transcription audio](/fr/audio-to-text). Sans compte, sans application à installer."
+        ]
+    }
+}
