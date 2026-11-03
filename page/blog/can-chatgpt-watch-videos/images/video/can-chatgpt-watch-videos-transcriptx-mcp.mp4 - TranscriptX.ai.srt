@@ -1,0 +1,61 @@
+1
+00:00:00,432 --> 00:00:02,563
+Can ChatGPT watch YouTube videos?
+
+2
+00:00:03,156 --> 00:00:05,592
+Paste a link and it can't read a word
+that's said in it.
+
+3
+00:00:06,841 --> 00:00:07,841
+Here is the fix.
+
+4
+00:00:08,348 --> 00:00:13,187
+Open the TranscriptX transcription MCP
+page and click Add to ChatGPT.
+
+5
+00:00:14,533 --> 00:00:17,209
+ChatGPT opens the TranscriptX plugin.
+
+6
+00:00:17,737 --> 00:00:18,891
+Click Install Plugin.
+
+7
+00:00:20,141 --> 00:00:23,105
+Click Allow to sign in or continue as a
+guest.
+
+8
+00:00:23,506 --> 00:00:24,506
+No account needed.
+
+9
+00:00:25,669 --> 00:00:27,335
+Now pick TranscriptX type.
+
+10
+00:00:27,672 --> 00:00:29,917
+Transcribe this video and paste your link.
+
+11
+00:00:31,040 --> 00:00:35,609
+In seconds, the full transcript is right
+in the chat with timestamps ready to copy
+
+12
+00:00:35,609 --> 00:00:36,609
+or export.
+
+13
+00:00:37,376 --> 00:00:40,888
+Using Claude, click Add to Claude and it
+works the same way.
+
+14
+00:00:42,171 --> 00:00:46,229
+Add TranscriptX to ChatGPT or Claude free
+at transcripts.ai.

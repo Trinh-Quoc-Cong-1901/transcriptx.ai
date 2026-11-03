@@ -233,3 +233,12 @@ Trang Pricing khi chưa đăng nhập, có công tắc **Yearly −50% / Monthly
 - Nguồn upload: thiết bị, Google Drive, Dropbox, OneDrive. Link: YouTube, Instagram, Facebook, TikTok, X và nhiều nguồn khác.
 - Bài viết về tool nào thì dùng ảnh của **đúng trang tool đó** (vd. bài YouTube → `youtube-transcript/`). Nếu kho chưa có ảnh trang tool đó, phải báo user để chụp, không lấy ảnh homepage thay thế.
 - Khi có ảnh hoặc gif mới, bổ sung vào file này.
+
+### Ảnh chụp luồng ChatGPT (2026-10-29, user chụp, ChatGPT gói Free)
+Chỉ dùng trong video (giao diện ChatGPT). Riêng màn hình xin quyền là trang của TranscriptX, dùng được làm ảnh tĩnh.
+- `chatgpt-youtube-link-no-transcript.png`: dán link YouTube + "sumary video" vào ChatGPT chưa có TranscriptX. ChatGPT trả lời: "I can summarize the YouTube video for you, but I couldn't retrieve its actual content from the link."
+- `transcription-mcp-page.png`: trang `/transcription-mcp/` (retina 2000px): 2 thẻ **Add to ChatGPT** / **Add to Claude**, link `https://transcriptx.ai/mcp` có nút Copy, ghi chú Developer mode, dòng "Try It: Transcribe this video: …".
+- `chatgpt-transcriptx-plugin-install.png`: trang plugin TranscriptX trong ChatGPT (Plugin › TranscriptX), nút **Install plugin**, 3 câu lệnh mẫu, mô tả: thẻ nhỏ hiện từng bước, transcript có timestamp (và tên người nói khi có), nút copy, export .txt/.srt/.vtt, mở bản đầy đủ trong TranscriptX; không đọc tin nhắn khác.
+- `chatgpt-transcriptx-allow-access.png`: màn hình "ChatGPT wants to connect to TranscriptX" (email đã làm mờ). Quyền: transcribe links and files you send in ChatGPT; read your saved transcripts in TranscriptX; can't delete transcripts or view billing/account. Nút **Allow**, link **Continue as guest**. Chân trang: Encrypted connection · Disconnect anytime in ChatGPT → Settings → Connectors.
+- `chatgpt-transcriptx-transcribe-prompt.png`: ô chat với chip **TranscriptX** + "Transcribe this video: <link>".
+- `chatgpt-transcriptx-transcript-result.png` (1x, 1372px): kết quả "Processed in 8s", thẻ TranscriptX: tiêu đề video, "3 min · English · YouTube", nút **Edit**, **Export**, **Copy transcript**, transcript có timestamp.
