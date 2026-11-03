@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Buzón de Voz a Texto — Transcríbelo Gratis Online | TranscriptX",
-        "description": "Pasa el buzón de voz a texto gratis. Guarda el mensaje de iPhone, Android o Google Voice, súbelo y léelo entero en más de 100 idiomas. Sin registro.",
+        "title": "Buzón de Voz a Texto — Transcribe el Buzón de iPhone y Android | TranscriptX",
+        "description": "¿Vista previa del buzón de voz cortada o ausente? Sube un mensaje de iPhone, Android o Google Voice y lee cada palabra en más de 100 idiomas. Pruébalo gratis.",
         "schemaName": "TranscriptX — Convertidor de Buzón de Voz a Texto",
-        "schemaDescription": "Herramienta online gratuita de buzón de voz a texto que transcribe los mensajes de voz guardados de iPhone, Android, Google Voice y centralitas de empresa en texto completo y editable en más de 100 idiomas, con traducción básica al inglés, marcas de tiempo opcionales y exportación a TXT, DOCX, PDF, SRT y VTT. Funciona en el navegador y no necesita cuenta.",
-        "ogTitle": "Buzón de Voz a Texto — Transcríbelo Gratis Online | TranscriptX",
-        "ogDescription": "¿La vista previa del buzón de voz de tu móvil sale cortada, no aparece o está en otro idioma? Sube el mensaje y léelo entero como texto, gratis, en más de 100 idiomas."
+        "schemaDescription": "Herramienta online de buzón de voz a texto que transcribe los mensajes de voz guardados de iPhone, Android, Google Voice y centralitas de empresa en texto completo y editable en más de 100 idiomas, con traducción básica al inglés, marcas de tiempo opcionales y exportación a TXT, DOCX, PDF, SRT y VTT. Funciona en el navegador; se puede probar gratis con un límite diario y hay planes de pago para más uso.",
+        "ogTitle": "Buzón de Voz a Texto — Transcribe el Buzón de iPhone y Android | TranscriptX",
+        "ogDescription": "¿La vista previa del buzón de voz de tu móvil sale cortada, no aparece o está en otro idioma? Sube el mensaje y léelo entero como texto en más de 100 idiomas."
     },
     "hero": {
         "h1": "Buzón de Voz a Texto",
-        "subtitle": "Pasa el buzón de voz a texto online y lee el mensaje entero, no solo una vista previa. Guarda el mensaje de voz de tu iPhone, Android, Google Voice o teléfono del trabajo, súbelo y TranscriptX escribe cada palabra en más de 100 idiomas, con marcas de tiempo para comprobarlo. Cópialo, guárdalo o expórtalo a TXT, DOCX o PDF. Sin cuenta y sin instalar ninguna app.",
+        "subtitle": "Pasa el buzón de voz a texto online y lee el mensaje entero, no solo una vista previa. Guarda el mensaje de voz de tu iPhone, Android, Google Voice o teléfono del trabajo, súbelo y TranscriptX escribe cada palabra en más de 100 idiomas, con marcas de tiempo para comprobarlo. Cópialo, guárdalo o expórtalo a TXT, DOCX o PDF. Sin instalar nada.",
         "placeholder": "Sube un archivo de audio del buzón de voz...",
         "button": "Convertir Buzón de Voz a Texto"
     },
     "quickAnswer": {
         "question": "¿Cómo paso un mensaje del buzón de voz a texto?",
-        "answer": "Guarda el mensaje de voz como archivo de audio (en iPhone: abre el mensaje, toca Compartir y luego Guardar en Archivos) y súbelo a TranscriptX. Transcribe el mensaje entero en segundos, en más de 100 idiomas, listo para leer, copiar, editar o descargar. Puedes usarlo gratis todos los días, sin app y sin registro."
+        "answer": "Guarda el mensaje de voz como archivo de audio (en iPhone: abre el mensaje, toca Compartir y luego Guardar en Archivos) y súbelo a TranscriptX. Transcribe el mensaje entero en segundos, en más de 100 idiomas, listo para leer, copiar, editar o descargar. Puedes probarlo gratis, sin instalar nada."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Precio",
-                    "value": "Gratis, sin necesidad de cuenta"
+                    "value": "Prueba gratis con límite diario; planes de pago para más uso"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Convertidor de Buzón de Voz a Texto Gratis Online",
+            "h2": "¿Es Gratis Pasar el Buzón de Voz a Texto?",
             "content": [
-                "TranscriptX es un convertidor gratuito de buzón de voz a texto que funciona online, en cualquier navegador. Puedes probarlo sin cuenta. Inicia sesión para tener tus transcripciones guardadas en todos tus dispositivos.",
-                "No hay tarifa por mensaje ni ningún servicio extra del operador que contratar solo para leer un mensaje de voz. Sube el archivo, lee el texto y cópialo o descárgalo. Si transcribes grabaciones largas o con ruido a diario, el <a href=\"/pricing/\">plan Pro</a> añade más uso diario, archivos más grandes, identificación de hablantes y reducción de ruido."
+                "Puedes probar TranscriptX gratis todos los días, en cualquier navegador. El plan gratuito tiene un límite diario, pero la mayoría de los mensajes de voz son cortos, así que un mensaje suele caber de sobra. Inicia sesión para tener tus transcripciones guardadas en todos tus dispositivos.",
+                "No hay ningún servicio extra del operador que contratar solo para leer un mensaje de voz. Sube el archivo, lee el texto y cópialo o descárgalo. Si llegas al límite gratuito, o transcribes a diario muchos mensajes o grabaciones largas o con ruido, un <a href=\"/pricing/\">plan de pago</a> añade más uso diario, archivos más grandes, identificación de hablantes y reducción de ruido."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "¿Cómo paso el buzón de voz a texto gratis?",
-                    "a": "Guarda el mensaje de voz como archivo de audio y súbelo a TranscriptX. Tendrás el mensaje completo como texto en segundos, sin necesidad de cuenta."
+                    "a": "Guarda el mensaje de voz como archivo de audio y súbelo a TranscriptX. Tendrás el mensaje completo como texto en segundos. El plan gratuito tiene un límite diario, y un mensaje de voz corto suele caber de sobra."
                 },
                 {
                     "q": "¿Cómo guardo un mensaje de voz de mi iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Pasa tu Buzón de Voz a Texto Gratis",
+        "h2": "Lee Cada Palabra de tu Buzón de Voz",
         "content": [
             "Cuando la vista previa del buzón de voz de tu móvil sale cortada, no aparece o está en otro idioma, guarda el mensaje, súbelo y TranscriptX convierte el mensaje entero en texto en más de 100 idiomas.",
-            "Léelo, comprueba los números, cópialo en una nota o descárgalo como TXT, DOCX o PDF. Para tus propias grabaciones, usa [Voz a Texto](/es/voice-to-text); para pódcasts y otros archivos de audio, usa [Audio a Texto](/es/audio-to-text). Sin cuenta y sin instalar ninguna app."
+            "Léelo, comprueba los números, cópialo en una nota o descárgalo como TXT, DOCX o PDF. Para tus propias grabaciones, usa [Voz a Texto](/es/voice-to-text); para pódcasts y otros archivos de audio, usa [Audio a Texto](/es/audio-to-text)."
         ]
     }
 }

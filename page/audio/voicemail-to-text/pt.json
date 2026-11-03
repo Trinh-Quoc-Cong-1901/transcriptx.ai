@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Correio de Voz para Texto — Transcreva Grátis | TranscriptX",
-        "description": "Converta correio de voz em texto grátis. Salve o recado do iPhone, Android ou Google Voice, envie e leia tudo em mais de 100 idiomas. Sem cadastro.",
+        "title": "Correio de Voz para Texto — Transcreva Recados do iPhone e Android | TranscriptX",
+        "description": "Prévia do correio de voz cortada ou sumiu? Envie o recado do iPhone, Android ou Google Voice e leia cada palavra em mais de 100 idiomas. Teste grátis.",
         "schemaName": "TranscriptX — Conversor de Correio de Voz para Texto",
-        "schemaDescription": "Ferramenta online gratuita de correio de voz para texto que transcreve recados salvos do iPhone, Android, Google Voice e sistemas de telefonia empresarial em texto completo e editável em mais de 100 idiomas, com tradução básica para o inglês, marcações de tempo opcionais e exportação em TXT, DOCX, PDF, SRT e VTT. Funciona no navegador, sem precisar de conta.",
-        "ogTitle": "Correio de Voz para Texto — Transcreva Grátis | TranscriptX",
-        "ogDescription": "A prévia do correio de voz do seu celular vem cortada, não aparece ou está no idioma errado? Envie o recado e leia a mensagem inteira em texto, grátis, em mais de 100 idiomas."
+        "schemaDescription": "Ferramenta online de correio de voz para texto que transcreve recados salvos do iPhone, Android, Google Voice e sistemas de telefonia empresarial em texto completo e editável em mais de 100 idiomas, com tradução básica para o inglês, marcações de tempo opcionais e exportação em TXT, DOCX, PDF, SRT e VTT. Funciona no navegador, grátis para testar com limite diário e planos pagos para mais uso.",
+        "ogTitle": "Correio de Voz para Texto — Transcreva Recados do iPhone e Android | TranscriptX",
+        "ogDescription": "A prévia do correio de voz do seu celular vem cortada, não aparece ou está no idioma errado? Envie o recado e leia a mensagem inteira em texto em mais de 100 idiomas."
     },
     "hero": {
         "h1": "Correio de Voz para Texto",
-        "subtitle": "Converta correio de voz em texto online e leia a mensagem inteira, não só uma prévia. Salve o recado do seu iPhone, Android, Google Voice ou telefone do trabalho, envie o arquivo e o TranscriptX escreve cada palavra em mais de 100 idiomas, com marcações de tempo para conferir. Copie, guarde ou exporte em TXT, DOCX ou PDF. Sem conta e sem app para instalar.",
+        "subtitle": "Converta correio de voz em texto online e leia a mensagem inteira, não só uma prévia. Salve o recado do seu iPhone, Android, Google Voice ou telefone do trabalho, envie o arquivo e o TranscriptX escreve cada palavra em mais de 100 idiomas, com marcações de tempo para conferir. Copie, guarde ou exporte em TXT, DOCX ou PDF. Nada para instalar.",
         "placeholder": "Envie um arquivo de áudio do correio de voz...",
         "button": "Converter Correio de Voz em Texto"
     },
     "quickAnswer": {
         "question": "Como converter um recado do correio de voz em texto?",
-        "answer": "Salve o recado como arquivo de áudio (no iPhone: abra a mensagem, toque em Compartilhar e depois em Salvar em Arquivos) e envie para o TranscriptX. Ele transcreve a mensagem inteira em segundos, em mais de 100 idiomas, pronta para ler, copiar, editar ou baixar. Dá para usar grátis todos os dias, sem app e sem cadastro."
+        "answer": "Salve o recado como arquivo de áudio (no iPhone: abra a mensagem, toque em Compartilhar e depois em Salvar em Arquivos) e envie para o TranscriptX. Ele transcreve a mensagem inteira em segundos, em mais de 100 idiomas, pronta para ler, copiar, editar ou baixar. Você pode testar grátis, sem instalar nada."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Preço",
-                    "value": "Grátis, sem precisar de conta"
+                    "value": "Grátis para testar com limite diário; planos pagos para mais uso"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Conversor de Correio de Voz para Texto Grátis Online",
+            "h2": "Correio de Voz para Texto É Grátis?",
             "content": [
-                "O TranscriptX é um conversor gratuito de correio de voz para texto que funciona online, em qualquer navegador. Dá para testar sem conta. Entre na sua conta para manter suas transcrições salvas em todos os dispositivos.",
-                "Não há cobrança por recado nem serviço extra da operadora para assinar só para ler um correio de voz. Envie o arquivo, leia o texto e copie ou baixe. Se você transcreve gravações longas ou com ruído todos os dias, o <a href=\"/pricing/\">plano Pro</a> oferece mais uso diário, arquivos maiores, identificação de quem fala e redução de ruído."
+                "Você pode testar o TranscriptX grátis todos os dias, em qualquer navegador. O plano gratuito tem um limite diário, mas a maioria dos recados é curta, então uma mensagem costuma caber com folga. Entre na sua conta para manter suas transcrições salvas em todos os dispositivos.",
+                "Não há serviço extra da operadora para assinar só para ler um correio de voz. Envie o arquivo, leia o texto e copie ou baixe. Se você atingir o limite gratuito, ou transcreve muitos recados, gravações longas ou com ruído todos os dias, um <a href=\"/pricing/\">plano pago</a> oferece mais uso diário, arquivos maiores, identificação de quem fala e redução de ruído."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Como converter correio de voz em texto de graça?",
-                    "a": "Salve o recado como arquivo de áudio e envie para o TranscriptX. Você recebe a mensagem completa em texto em segundos, sem precisar de conta."
+                    "a": "Salve o recado como arquivo de áudio e envie para o TranscriptX. Você recebe a mensagem completa em texto em segundos. O plano gratuito tem um limite diário, e um recado curto costuma caber nele com folga."
                 },
                 {
                     "q": "Como salvar um recado do correio de voz no iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Converta Seu Correio de Voz em Texto Grátis",
+        "h2": "Leia Cada Palavra do Seu Correio de Voz",
         "content": [
             "Quando a prévia do correio de voz do celular vem cortada, não aparece ou está no idioma errado, salve o recado, envie e o TranscriptX transforma a mensagem inteira em texto em mais de 100 idiomas.",
-            "Leia, confira os números, copie para uma anotação ou baixe em TXT, DOCX ou PDF. Para suas próprias gravações, use [Voz para Texto](/pt/voice-to-text); para podcasts e outros arquivos de áudio, use [Áudio para Texto](/pt/audio-to-text). Sem conta e sem app para instalar."
+            "Leia, confira os números, copie para uma anotação ou baixe em TXT, DOCX ou PDF. Para suas próprias gravações, use [Voz para Texto](/pt/voice-to-text); para podcasts e outros arquivos de áudio, use [Áudio para Texto](/pt/audio-to-text)."
         ]
     }
 }

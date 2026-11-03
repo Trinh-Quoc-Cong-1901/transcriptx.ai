@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Segreteria Telefonica in Testo — Trascrivi Gratis | TranscriptX",
-        "description": "Trascrivi la segreteria telefonica in testo gratis. Salva il messaggio da iPhone, Android o Google Voice, caricalo e leggilo per intero in oltre 100 lingue.",
+        "title": "Segreteria Telefonica in Testo — Trascrivi Messaggi iPhone e Android | TranscriptX",
+        "description": "Anteprima della segreteria tagliata o assente? Carica il messaggio da iPhone, Android o Google Voice e leggi ogni parola in 100+ lingue. Prova gratis.",
         "schemaName": "TranscriptX — Convertitore da Segreteria Telefonica a Testo",
-        "schemaDescription": "Strumento online gratuito che trascrive in testo i messaggi della segreteria telefonica salvati da iPhone, Android, Google Voice e centralini aziendali, in testo completo e modificabile in oltre 100 lingue, con traduzione di base in inglese, timestamp opzionali ed esportazione in TXT, DOCX, PDF, SRT e VTT. Funziona nel browser, senza bisogno di un account.",
-        "ogTitle": "Segreteria Telefonica in Testo — Trascrivi Gratis | TranscriptX",
-        "ogDescription": "L'anteprima della segreteria del telefono è tagliata, non c'è o è nella lingua sbagliata? Carica il messaggio e leggilo per intero come testo, gratis, in oltre 100 lingue."
+        "schemaDescription": "Strumento online che trascrive in testo i messaggi della segreteria telefonica salvati da iPhone, Android, Google Voice e centralini aziendali, in testo completo e modificabile in oltre 100 lingue, con traduzione di base in inglese, timestamp opzionali ed esportazione in TXT, DOCX, PDF, SRT e VTT. Funziona nel browser, gratis da provare con un limite giornaliero e piani a pagamento per un uso maggiore.",
+        "ogTitle": "Segreteria Telefonica in Testo — Trascrivi Messaggi iPhone e Android | TranscriptX",
+        "ogDescription": "L'anteprima della segreteria del telefono è tagliata, non c'è o è nella lingua sbagliata? Carica il messaggio e leggilo per intero come testo in oltre 100 lingue."
     },
     "hero": {
         "h1": "Segreteria Telefonica in Testo",
-        "subtitle": "Converti la segreteria telefonica in testo online e leggi tutto il messaggio, non solo un'anteprima. Salva il messaggio dal tuo iPhone, Android, Google Voice o telefono di lavoro, caricalo e TranscriptX scrive ogni parola in oltre 100 lingue, con timestamp per verificare. Copialo, conservalo o esportalo in TXT, DOCX o PDF. Nessun account, nessuna app da installare.",
+        "subtitle": "Converti la segreteria telefonica in testo online e leggi tutto il messaggio, non solo un'anteprima. Salva il messaggio dal tuo iPhone, Android, Google Voice o telefono di lavoro, caricalo e TranscriptX scrive ogni parola in oltre 100 lingue, con timestamp per verificare. Copialo, conservalo o esportalo in TXT, DOCX o PDF. Niente da installare.",
         "placeholder": "Carica un file audio della segreteria...",
         "button": "Converti la Segreteria in Testo"
     },
     "quickAnswer": {
         "question": "Come faccio a trasformare un messaggio della segreteria in testo?",
-        "answer": "Salva il messaggio come file audio (su iPhone: apri il messaggio, tocca Condividi e poi Salva su File) e caricalo su TranscriptX. Trascrive tutto il messaggio in pochi secondi, in oltre 100 lingue, pronto da leggere, copiare, modificare o scaricare. Puoi usarlo gratis ogni giorno, senza app e senza registrazione."
+        "answer": "Salva il messaggio come file audio (su iPhone: apri il messaggio, tocca Condividi e poi Salva su File) e caricalo su TranscriptX. Trascrive tutto il messaggio in pochi secondi, in oltre 100 lingue, pronto da leggere, copiare, modificare o scaricare. Puoi provarlo gratis, senza installare nulla."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Prezzo",
-                    "value": "Gratis, senza account"
+                    "value": "Gratis da provare con un limite giornaliero; piani a pagamento per un uso maggiore"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Convertitore Gratis da Segreteria a Testo Online",
+            "h2": "La Trascrizione della Segreteria è Gratis?",
             "content": [
-                "TranscriptX è un convertitore gratuito da segreteria telefonica a testo che funziona online, in qualsiasi browser. Puoi provarlo senza account. Accedi per tenere le tue trascrizioni salvate su tutti i dispositivi.",
-                "Non ci sono costi per messaggio né servizi aggiuntivi dell'operatore da attivare solo per leggere un messaggio in segreteria. Carica il file, leggi il testo e copialo o scaricalo. Se trascrivi ogni giorno registrazioni lunghe o rumorose, il <a href=\"/pricing/\">piano Pro</a> aggiunge più utilizzo giornaliero, file più grandi, riconoscimento di chi parla e riduzione del rumore."
+                "Puoi provare TranscriptX gratis ogni giorno, in qualsiasi browser. Il piano gratuito ha un limite giornaliero, ma la maggior parte dei messaggi in segreteria è breve, quindi un singolo messaggio di solito ci rientra senza problemi. Accedi per tenere le tue trascrizioni salvate su tutti i dispositivi.",
+                "Non ci sono servizi aggiuntivi dell'operatore da attivare solo per leggere un messaggio in segreteria. Carica il file, leggi il testo e copialo o scaricalo. Se raggiungi il limite gratuito, o trascrivi ogni giorno molti messaggi, registrazioni lunghe o rumorose, un <a href=\"/pricing/\">piano a pagamento</a> aggiunge più utilizzo giornaliero, file più grandi, riconoscimento di chi parla e riduzione del rumore."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Come trascrivo la segreteria telefonica in testo gratis?",
-                    "a": "Salva il messaggio come file audio e caricalo su TranscriptX. Ottieni il messaggio completo come testo in pochi secondi, senza bisogno di un account."
+                    "a": "Salva il messaggio come file audio e caricalo su TranscriptX. Ottieni il messaggio completo come testo in pochi secondi. Il piano gratuito ha un limite giornaliero, e un messaggio breve di solito ci rientra senza problemi."
                 },
                 {
                     "q": "Come salvo un messaggio della segreteria dal mio iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Trascrivi Gratis la Tua Segreteria in Testo",
+        "h2": "Leggi Ogni Parola della Tua Segreteria",
         "content": [
             "Quando l'anteprima della segreteria del telefono è tagliata, non c'è o è nella lingua sbagliata, salva il messaggio, caricalo e TranscriptX trasforma l'intero messaggio in testo in oltre 100 lingue.",
-            "Leggilo, controlla i numeri, copialo in una nota o scaricalo in TXT, DOCX o PDF. Per le tue registrazioni usa [Da Voce a Testo](/it/voice-to-text); per podcast e altri file audio usa [Da Audio a Testo](/it/audio-to-text). Nessun account, nessuna app da installare."
+            "Leggilo, controlla i numeri, copialo in una nota o scaricalo in TXT, DOCX o PDF. Per le tue registrazioni usa [Da Voce a Testo](/it/voice-to-text); per podcast e altri file audio usa [Da Audio a Testo](/it/audio-to-text)."
         ]
     }
 }

@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Voicemail ke Teks — Transkrip Pesan Suara Gratis | TranscriptX",
-        "description": "Ubah voicemail ke teks gratis. Simpan pesan suara dari iPhone, Android atau Google Voice, unggah, lalu baca pesannya utuh dalam 100+ bahasa. Tanpa daftar.",
+        "title": "Voicemail ke Teks — Transkrip Pesan Suara iPhone & Android | TranscriptX",
+        "description": "Pratinjau voicemail terpotong atau hilang? Unggah voicemail dari iPhone, Android atau Google Voice dan baca setiap kata dalam 100+ bahasa. Coba gratis.",
         "schemaName": "TranscriptX — Konverter Voicemail ke Teks",
-        "schemaDescription": "Alat voicemail ke teks online gratis yang mentranskrip audio voicemail tersimpan dari iPhone, Android, Google Voice, dan sistem telepon kantor menjadi teks lengkap yang bisa diedit dalam lebih dari 100 bahasa, dengan terjemahan dasar ke bahasa Inggris, timestamp opsional, serta ekspor ke TXT, DOCX, PDF, SRT, dan VTT. Berjalan di browser tanpa perlu akun.",
-        "ogTitle": "Voicemail ke Teks — Transkrip Pesan Suara Gratis | TranscriptX",
-        "ogDescription": "Pratinjau voicemail di HP terpotong, tidak muncul, atau salah bahasa? Unggah voicemail-nya dan baca seluruh pesan sebagai teks, gratis, dalam 100+ bahasa."
+        "schemaDescription": "Alat voicemail ke teks online yang mentranskrip audio voicemail tersimpan dari iPhone, Android, Google Voice, dan sistem telepon kantor menjadi teks lengkap yang bisa diedit dalam lebih dari 100 bahasa, dengan terjemahan dasar ke bahasa Inggris, timestamp opsional, serta ekspor ke TXT, DOCX, PDF, SRT, dan VTT. Berjalan di browser, gratis dicoba dengan batas harian dan paket berbayar untuk pemakaian lebih banyak.",
+        "ogTitle": "Voicemail ke Teks — Transkrip Pesan Suara iPhone & Android | TranscriptX",
+        "ogDescription": "Pratinjau voicemail di HP terpotong, tidak muncul, atau salah bahasa? Unggah voicemail-nya dan baca seluruh pesan sebagai teks dalam 100+ bahasa."
     },
     "hero": {
         "h1": "Voicemail ke Teks",
-        "subtitle": "Ubah voicemail ke teks secara online dan baca seluruh pesannya, bukan hanya pratinjau. Simpan voicemail dari iPhone, Android, Google Voice, atau telepon kantor, unggah, lalu TranscriptX menuliskan setiap katanya dalam lebih dari 100 bahasa, dengan timestamp untuk dicek. Salin, simpan, atau ekspor ke TXT, DOCX, atau PDF. Tanpa akun, tanpa aplikasi yang perlu diinstal.",
+        "subtitle": "Ubah voicemail ke teks secara online dan baca seluruh pesannya, bukan hanya pratinjau. Simpan voicemail dari iPhone, Android, Google Voice, atau telepon kantor, unggah, lalu TranscriptX menuliskan setiap katanya dalam lebih dari 100 bahasa, dengan timestamp untuk dicek. Salin, simpan, atau ekspor ke TXT, DOCX, atau PDF. Tanpa aplikasi yang perlu diinstal.",
         "placeholder": "Unggah file audio voicemail...",
         "button": "Ubah Voicemail Jadi Teks"
     },
     "quickAnswer": {
         "question": "Bagaimana cara mengubah voicemail menjadi teks?",
-        "answer": "Simpan voicemail sebagai file audio (di iPhone: buka pesannya, ketuk Bagikan, lalu Simpan ke File), kemudian unggah ke TranscriptX. Seluruh pesan ditranskrip menjadi teks dalam hitungan detik, dalam lebih dari 100 bahasa, siap dibaca, disalin, diedit, atau diunduh. Gratis dipakai setiap hari, tanpa aplikasi dan tanpa daftar."
+        "answer": "Simpan voicemail sebagai file audio (di iPhone: buka pesannya, ketuk Bagikan, lalu Simpan ke File), kemudian unggah ke TranscriptX. Seluruh pesan ditranskrip menjadi teks dalam hitungan detik, dalam lebih dari 100 bahasa, siap dibaca, disalin, diedit, atau diunduh. Anda bisa mencobanya gratis, tanpa perlu menginstal apa pun."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Harga",
-                    "value": "Gratis, tanpa perlu akun"
+                    "value": "Gratis dicoba dengan batas harian; paket berbayar untuk lebih banyak"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Konverter Voicemail ke Teks Online Gratis",
+            "h2": "Apakah Voicemail ke Teks Gratis?",
             "content": [
-                "TranscriptX adalah konverter voicemail ke teks gratis yang berjalan online, di browser apa pun. Anda bisa mencobanya tanpa akun. Masuk untuk menyimpan transkrip Anda di semua perangkat.",
-                "Tidak ada biaya per pesan dan tidak perlu berlangganan layanan tambahan operator hanya untuk membaca voicemail. Unggah file-nya, baca teksnya, lalu salin atau unduh. Jika setiap hari Anda mentranskrip rekaman yang panjang atau bising, <a href=\"/pricing/\">paket Pro</a> menambah kuota harian, file yang lebih besar, label pembicara, dan pengurangan bising."
+                "Anda bisa mencoba TranscriptX gratis setiap hari, di browser apa pun. Paket gratis memiliki batas harian, tetapi kebanyakan voicemail pendek, jadi satu pesan biasanya muat dengan mudah. Masuk untuk menyimpan transkrip Anda di semua perangkat.",
+                "Tidak perlu berlangganan layanan tambahan operator hanya untuk membaca voicemail. Unggah file-nya, baca teksnya, lalu salin atau unduh. Jika Anda mencapai batas gratis, atau setiap hari mentranskrip banyak pesan, rekaman yang panjang atau bising, <a href=\"/pricing/\">paket berbayar</a> menambah kuota harian, file yang lebih besar, label pembicara, dan pengurangan bising."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Bagaimana cara mengubah voicemail ke teks secara gratis?",
-                    "a": "Simpan voicemail sebagai file audio dan unggah ke TranscriptX. Anda mendapat seluruh pesan sebagai teks dalam hitungan detik, tanpa perlu akun."
+                    "a": "Simpan voicemail sebagai file audio dan unggah ke TranscriptX. Anda mendapat seluruh pesan sebagai teks dalam hitungan detik. Paket gratis memiliki batas harian, dan voicemail pendek biasanya masih jauh di bawah batas itu."
                 },
                 {
                     "q": "Bagaimana cara menyimpan voicemail dari iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Ubah Voicemail Anda ke Teks Gratis",
+        "h2": "Baca Setiap Kata dari Voicemail Anda",
         "content": [
             "Saat pratinjau voicemail di HP terpotong, tidak muncul, atau salah bahasa, simpan pesannya, unggah, dan TranscriptX akan mengubah seluruh voicemail menjadi teks dalam lebih dari 100 bahasa.",
-            "Baca, cek angka-angkanya, salin ke catatan, atau unduh sebagai TXT, DOCX, atau PDF. Untuk rekaman Anda sendiri, gunakan [Voice to Text](/id/voice-to-text); untuk podcast dan file audio lain, gunakan [Audio to Text](/id/audio-to-text). Tanpa akun, tanpa aplikasi yang perlu diinstal."
+            "Baca, cek angka-angkanya, salin ke catatan, atau unduh sebagai TXT, DOCX, atau PDF. Untuk rekaman Anda sendiri, gunakan [Voice to Text](/id/voice-to-text); untuk podcast dan file audio lain, gunakan [Audio to Text](/id/audio-to-text)."
         ]
     }
 }

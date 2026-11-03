@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Sesli Mesajı Yazıya Çevirme — Ücretsiz Online | TranscriptX",
-        "description": "Sesli mesajı ücretsiz yazıya çevirin. iPhone, Android veya Google Voice'tan kaydettiğiniz mesajı yükleyin, tamamını 100'den fazla dilde okuyun. Üyelik yok.",
+        "title": "Sesli Mesajı Yazıya Çevirme — iPhone ve Android Sesli Mesajları | TranscriptX",
+        "description": "Sesli mesaj önizlemesi yarım mı ya da yok mu? iPhone, Android veya Google Voice mesajınızı yükleyin, her kelimesini 100+ dilde okuyun. Ücretsiz deneyin.",
         "schemaName": "TranscriptX Sesli Mesajı Yazıya Çevirme Aracı",
-        "schemaDescription": "iPhone, Android, Google Voice ve kurumsal telefon sistemlerinden kaydedilen sesli mesajları 100'den fazla dilde eksiksiz, düzenlenebilir metne dönüştüren ücretsiz online araç. İngilizceye temel çeviri, isteğe bağlı zaman damgaları ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. Tarayıcıda çalışır, hesap gerekmez.",
-        "ogTitle": "Sesli Mesajı Yazıya Çevirme — Ücretsiz Online | TranscriptX",
-        "ogDescription": "Telefonunuzdaki sesli mesaj önizlemesi yarım mı, hiç yok mu ya da yanlış dilde mi? Mesajı yükleyin ve tamamını ücretsiz olarak, 100'den fazla dilde metin halinde okuyun."
+        "schemaDescription": "iPhone, Android, Google Voice ve kurumsal telefon sistemlerinden kaydedilen sesli mesajları 100'den fazla dilde eksiksiz, düzenlenebilir metne dönüştüren online araç. İngilizceye temel çeviri, isteğe bağlı zaman damgaları ve TXT, DOCX, PDF, SRT ile VTT dışa aktarma sunar. Tarayıcıda çalışır; günlük limitle ücretsiz denenebilir, daha fazlası için ücretli planlar vardır.",
+        "ogTitle": "Sesli Mesajı Yazıya Çevirme — iPhone ve Android Sesli Mesajları | TranscriptX",
+        "ogDescription": "Telefonunuzdaki sesli mesaj önizlemesi yarım mı, hiç yok mu ya da yanlış dilde mi? Mesajı yükleyin ve tamamını 100'den fazla dilde metin halinde okuyun."
     },
     "hero": {
         "h1": "Sesli Mesajı Yazıya Çevirme",
-        "subtitle": "Sesli mesajı online olarak yazıya çevirin ve yalnızca önizlemeyi değil, mesajın tamamını okuyun. Sesli mesajı iPhone, Android, Google Voice ya da iş telefonunuzdan kaydedin, yükleyin; TranscriptX her kelimeyi 100'den fazla dilde, kontrol edebileceğiniz zaman damgalarıyla yazıya döker. Kopyalayın, saklayın ya da TXT, DOCX veya PDF olarak dışa aktarın. Hesap yok, kurulacak uygulama yok.",
+        "subtitle": "Sesli mesajı online olarak yazıya çevirin ve yalnızca önizlemeyi değil, mesajın tamamını okuyun. Sesli mesajı iPhone, Android, Google Voice ya da iş telefonunuzdan kaydedin, yükleyin; TranscriptX her kelimeyi 100'den fazla dilde, kontrol edebileceğiniz zaman damgalarıyla yazıya döker. Kopyalayın, saklayın ya da TXT, DOCX veya PDF olarak dışa aktarın. Kurulacak hiçbir şey yok.",
         "placeholder": "Bir sesli mesaj dosyası yükleyin...",
         "button": "Sesli Mesajı Yazıya Çevir"
     },
     "quickAnswer": {
         "question": "Sesli mesaj nasıl yazıya çevrilir?",
-        "answer": "Sesli mesajı bir ses dosyası olarak kaydedin (iPhone'da: mesajı açın, Paylaş'a dokunun, ardından Dosyalar'a Kaydet'i seçin) ve TranscriptX'e yükleyin. Mesajın tamamı saniyeler içinde, 100'den fazla dilde metne dönüşür; okumaya, kopyalamaya, düzenlemeye veya indirmeye hazırdır. Her gün ücretsiz kullanabilirsiniz, uygulama ve üyelik gerekmez."
+        "answer": "Sesli mesajı bir ses dosyası olarak kaydedin (iPhone'da: mesajı açın, Paylaş'a dokunun, ardından Dosyalar'a Kaydet'i seçin) ve TranscriptX'e yükleyin. Mesajın tamamı saniyeler içinde, 100'den fazla dilde metne dönüşür; okumaya, kopyalamaya, düzenlemeye veya indirmeye hazırdır. Hiçbir şey kurmadan ücretsiz deneyebilirsiniz."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Ücret",
-                    "value": "Ücretsiz, hesap gerekmez"
+                    "value": "Günlük limitle ücretsiz deneme; daha fazlası için ücretli planlar"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Ücretsiz Online Sesli Mesajı Yazıya Çevirme Aracı",
+            "h2": "Sesli Mesajı Yazıya Çevirme Ücretsiz mi?",
             "content": [
-                "TranscriptX, her tarayıcıda online çalışan ücretsiz bir sesli mesajı yazıya çevirme aracıdır. Hesap açmadan deneyebilirsiniz. Transkriptlerinizin tüm cihazlarınızda kayıtlı kalması için giriş yapın.",
-                "Mesaj başına ücret yok, sadece bir sesli mesajı okumak için abone olmanız gereken bir operatör eklentisi de yok. Dosyayı yükleyin, metni okuyun, kopyalayın veya indirin. Her gün uzun ya da gürültülü kayıtları yazıya döküyorsanız, <a href=\"/pricing/\">Pro plan</a> daha fazla günlük kullanım, daha büyük dosyalar, konuşmacı etiketleri ve gürültü azaltma ekler."
+                "TranscriptX'i her gün, her tarayıcıda ücretsiz deneyebilirsiniz. Ücretsiz planın günlük bir limiti vardır, ancak sesli mesajların çoğu kısa olduğu için tek bir mesaj genellikle rahatça sığar. Transkriptlerinizin tüm cihazlarınızda kayıtlı kalması için giriş yapın.",
+                "Sadece bir sesli mesajı okumak için abone olmanız gereken bir operatör eklentisi yok. Dosyayı yükleyin, metni okuyun, kopyalayın veya indirin. Ücretsiz limite ulaşırsanız ya da her gün çok sayıda mesajı, uzun veya gürültülü kayıtları yazıya döküyorsanız, <a href=\"/pricing/\">ücretli plan</a> daha fazla günlük kullanım, daha büyük dosyalar, konuşmacı etiketleri ve gürültü azaltma ekler."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Sesli mesajı ücretsiz olarak nasıl yazıya çeviririm?",
-                    "a": "Sesli mesajı ses dosyası olarak kaydedin ve TranscriptX'e yükleyin. Mesajın tamamını saniyeler içinde metin olarak alırsınız, hesap gerekmez."
+                    "a": "Sesli mesajı ses dosyası olarak kaydedin ve TranscriptX'e yükleyin. Mesajın tamamını saniyeler içinde metin olarak alırsınız. Ücretsiz planın günlük bir limiti vardır ve kısa bir sesli mesaj genellikle bu limitin rahatça içinde kalır."
                 },
                 {
                     "q": "iPhone'umdaki sesli mesajı nasıl kaydederim?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Sesli Mesajınızı Ücretsiz Yazıya Çevirin",
+        "h2": "Sesli Mesajınızın Her Kelimesini Okuyun",
         "content": [
             "Telefonunuzdaki sesli mesaj önizlemesi yarım kaldığında, hiç görünmediğinde ya da yanlış dilde olduğunda mesajı kaydedin, yükleyin; TranscriptX sesli mesajın tamamını 100'den fazla dilde metne dönüştürsün.",
-            "Okuyun, numaraları kontrol edin, bir nota kopyalayın ya da TXT, DOCX veya PDF olarak indirin. Kendi kayıtlarınız için [Sesi Yazıya Çevirme](/tr/voice-to-text), podcast'ler ve diğer ses dosyaları için [Ses Yazıya Çevirme](/tr/audio-to-text) aracını kullanın. Hesap yok, kurulacak uygulama yok."
+            "Okuyun, numaraları kontrol edin, bir nota kopyalayın ya da TXT, DOCX veya PDF olarak indirin. Kendi kayıtlarınız için [Sesi Yazıya Çevirme](/tr/voice-to-text), podcast'ler ve diğer ses dosyaları için [Ses Yazıya Çevirme](/tr/audio-to-text) aracını kullanın."
         ]
     }
 }

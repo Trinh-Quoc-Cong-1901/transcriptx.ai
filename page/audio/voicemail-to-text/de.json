@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Mailbox in Text umwandeln — kostenlos online | TranscriptX",
-        "description": "Mailbox-Nachrichten kostenlos in Text umwandeln. Speichere die Nachricht von iPhone, Android oder Google Voice, lade sie hoch, lies alles. 100+ Sprachen.",
+        "title": "Mailbox in Text umwandeln — iPhone- & Android-Mailbox transkribieren | TranscriptX",
+        "description": "Mailbox-Vorschau abgeschnitten oder fehlt? Nachricht von iPhone, Android oder Google Voice hochladen und jedes Wort lesen. 100+ Sprachen. Gratis testen.",
         "schemaName": "TranscriptX Mailbox in Text Umwandler",
-        "schemaDescription": "Kostenloses Online-Tool, das gespeicherte Mailbox-Nachrichten von iPhone, Android, Google Voice und Telefonanlagen in vollständigen, bearbeitbaren Text in über 100 Sprachen umwandelt — mit einfacher Übersetzung ins Englische, optionalen Zeitstempeln und Export als TXT, DOCX, PDF, SRT und VTT. Läuft im Browser, ganz ohne Konto.",
-        "ogTitle": "Mailbox in Text umwandeln — kostenlos online | TranscriptX",
-        "ogDescription": "Die Mailbox-Vorschau deines Handys ist abgeschnitten, fehlt oder ist in der falschen Sprache? Lade die Nachricht hoch und lies sie komplett als Text, kostenlos, in 100+ Sprachen."
+        "schemaDescription": "Online-Tool, das gespeicherte Mailbox-Nachrichten von iPhone, Android, Google Voice und Telefonanlagen in vollständigen, bearbeitbaren Text in über 100 Sprachen umwandelt — mit einfacher Übersetzung ins Englische, optionalen Zeitstempeln und Export als TXT, DOCX, PDF, SRT und VTT. Läuft im Browser, kostenlos testen mit Tageslimit und kostenpflichtigen Plänen für mehr.",
+        "ogTitle": "Mailbox in Text umwandeln — iPhone- & Android-Mailbox transkribieren | TranscriptX",
+        "ogDescription": "Die Mailbox-Vorschau deines Handys ist abgeschnitten, fehlt oder ist in der falschen Sprache? Lade die Nachricht hoch und lies sie komplett als Text, in 100+ Sprachen."
     },
     "hero": {
         "h1": "Mailbox in Text umwandeln",
-        "subtitle": "Wandle Mailbox-Nachrichten online in Text um und lies die ganze Nachricht, nicht nur eine Vorschau. Speichere die Sprachnachricht von deinem iPhone, Android, Google Voice oder Diensttelefon, lade sie hoch, und TranscriptX schreibt jedes Wort in über 100 Sprachen aus, mit Zeitstempeln zum Nachprüfen. Kopiere den Text, behalte ihn oder exportiere ihn als TXT, DOCX oder PDF. Kein Konto, keine App zu installieren.",
+        "subtitle": "Wandle Mailbox-Nachrichten online in Text um und lies die ganze Nachricht, nicht nur eine Vorschau. Speichere die Sprachnachricht von deinem iPhone, Android, Google Voice oder Diensttelefon, lade sie hoch, und TranscriptX schreibt jedes Wort in über 100 Sprachen aus, mit Zeitstempeln zum Nachprüfen. Kopiere den Text, behalte ihn oder exportiere ihn als TXT, DOCX oder PDF. Nichts zu installieren.",
         "placeholder": "Audiodatei der Mailbox-Nachricht hochladen...",
         "button": "Mailbox in Text umwandeln"
     },
     "quickAnswer": {
         "question": "Wie wandle ich eine Mailbox-Nachricht in Text um?",
-        "answer": "Speichere die Mailbox-Nachricht als Audiodatei (auf dem iPhone: Nachricht öffnen, auf Teilen tippen, dann In Dateien sichern) und lade sie bei TranscriptX hoch. Die ganze Nachricht wird in Sekunden in Text umgewandelt, in über 100 Sprachen, bereit zum Lesen, Kopieren, Bearbeiten oder Herunterladen. Jeden Tag kostenlos, ohne App und ohne Anmeldung."
+        "answer": "Speichere die Mailbox-Nachricht als Audiodatei (auf dem iPhone: Nachricht öffnen, auf Teilen tippen, dann In Dateien sichern) und lade sie bei TranscriptX hoch. Die ganze Nachricht wird in Sekunden in Text umgewandelt, in über 100 Sprachen, bereit zum Lesen, Kopieren, Bearbeiten oder Herunterladen. Du kannst es kostenlos testen, ohne etwas zu installieren."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Preis",
-                    "value": "Kostenlos, kein Konto nötig"
+                    "value": "Kostenlos testen mit Tageslimit; kostenpflichtige Pläne für mehr"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Kostenloser Mailbox-in-Text-Umwandler online",
+            "h2": "Ist Mailbox in Text umwandeln kostenlos?",
             "content": [
-                "TranscriptX ist ein kostenloser Umwandler für Mailbox-Nachrichten in Text, der online in jedem Browser läuft. Du kannst ihn ohne Konto ausprobieren. Melde dich an, damit deine Transkripte auf allen Geräten gespeichert bleiben.",
-                "Es gibt keine Gebühr pro Nachricht und keine Zusatzoption beim Anbieter, die du abschließen musst, nur um eine Mailbox-Nachricht zu lesen. Datei hochladen, Text lesen, kopieren oder herunterladen. Wenn du täglich lange oder verrauschte Aufnahmen transkribierst, bietet der <a href=\"/pricing/\">Pro-Plan</a> mehr tägliche Nutzung, größere Dateien, Sprecherkennzeichnung und Rauschunterdrückung."
+                "Du kannst TranscriptX jeden Tag kostenlos testen, in jedem Browser. Der kostenlose Plan hat ein Tageslimit, aber die meisten Mailbox-Nachrichten sind kurz, sodass eine einzelne Nachricht meist problemlos hineinpasst. Melde dich an, damit deine Transkripte auf allen Geräten gespeichert bleiben.",
+                "Es gibt keine Zusatzoption beim Anbieter, die du abschließen musst, nur um eine Mailbox-Nachricht zu lesen. Datei hochladen, Text lesen, kopieren oder herunterladen. Wenn du das kostenlose Limit erreichst oder täglich viele Nachrichten, lange oder verrauschte Aufnahmen transkribierst, bietet ein <a href=\"/pricing/\">kostenpflichtiger Plan</a> mehr tägliche Nutzung, größere Dateien, Sprecherkennzeichnung und Rauschunterdrückung."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Wie wandle ich eine Mailbox-Nachricht kostenlos in Text um?",
-                    "a": "Speichere die Mailbox-Nachricht als Audiodatei und lade sie bei TranscriptX hoch. Du bekommst die ganze Nachricht in Sekunden als Text, ohne Konto."
+                    "a": "Speichere die Mailbox-Nachricht als Audiodatei und lade sie bei TranscriptX hoch. Du bekommst die ganze Nachricht in Sekunden als Text. Der kostenlose Plan hat ein Tageslimit, und eine kurze Mailbox-Nachricht passt meist problemlos hinein."
                 },
                 {
                     "q": "Wie speichere ich eine Voicemail auf dem iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Wandle deine Mailbox kostenlos in Text um",
+        "h2": "Lies jedes Wort deiner Mailbox-Nachricht",
         "content": [
             "Wenn die Mailbox-Vorschau deines Handys abgeschnitten ist, fehlt oder in der falschen Sprache ist, speichere die Nachricht, lade sie hoch, und TranscriptX macht aus der ganzen Nachricht Text in über 100 Sprachen.",
-            "Lies sie, prüfe die Nummern, kopiere sie in eine Notiz oder lade sie als TXT, DOCX oder PDF herunter. Für deine eigenen Aufnahmen nutze [Sprache in Text](/de/voice-to-text); für Podcasts und andere Audiodateien nutze [Audio in Text](/de/audio-to-text). Kein Konto, keine App zu installieren."
+            "Lies sie, prüfe die Nummern, kopiere sie in eine Notiz oder lade sie als TXT, DOCX oder PDF herunter. Für deine eigenen Aufnahmen nutze [Sprache in Text](/de/voice-to-text); für Podcasts und andere Audiodateien nutze [Audio in Text](/de/audio-to-text)."
         ]
     }
 }

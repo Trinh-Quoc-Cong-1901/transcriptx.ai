@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Mel Suara ke Teks — Transkrip Voicemail Percuma | TranscriptX",
-        "description": "Tukar mel suara (voicemail) kepada teks secara percuma. Simpan dari iPhone, Android atau Google Voice, muat naik dan baca mesej penuh dalam 100+ bahasa.",
+        "title": "Mel Suara ke Teks — Transkrip Voicemail iPhone & Android | TranscriptX",
+        "description": "Pratonton mel suara terpotong atau tiada? Muat naik fail dari iPhone, Android atau Google Voice dan baca setiap perkataan dalam 100+ bahasa. Cuba percuma.",
         "schemaName": "Penukar Mel Suara ke Teks TranscriptX",
-        "schemaDescription": "Alat mel suara ke teks dalam talian percuma yang membuat transkrip audio mel suara (voicemail) yang disimpan daripada iPhone, Android, Google Voice dan sistem telefon perniagaan menjadi teks penuh yang boleh disunting dalam lebih 100 bahasa, dengan terjemahan asas ke bahasa Inggeris, cap masa pilihan dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Berfungsi dalam pelayar tanpa perlu akaun.",
-        "ogTitle": "Mel Suara ke Teks — Transkrip Voicemail Percuma | TranscriptX",
-        "ogDescription": "Pratonton mel suara pada telefon terpotong, tiada atau dalam bahasa yang salah? Muat naik mel suara itu dan baca keseluruhan mesej sebagai teks, percuma, dalam 100+ bahasa."
+        "schemaDescription": "Alat mel suara ke teks dalam talian yang membuat transkrip audio mel suara (voicemail) yang disimpan daripada iPhone, Android, Google Voice dan sistem telefon perniagaan menjadi teks penuh yang boleh disunting dalam lebih 100 bahasa, dengan terjemahan asas ke bahasa Inggeris, cap masa pilihan dan eksport ke TXT, DOCX, PDF, SRT dan VTT. Berfungsi dalam pelayar, percuma untuk dicuba dengan had harian dan pelan berbayar untuk penggunaan lebih.",
+        "ogTitle": "Mel Suara ke Teks — Transkrip Voicemail iPhone & Android | TranscriptX",
+        "ogDescription": "Pratonton mel suara pada telefon terpotong, tiada atau dalam bahasa yang salah? Muat naik mel suara itu dan baca keseluruhan mesej sebagai teks dalam 100+ bahasa."
     },
     "hero": {
         "h1": "Mel Suara ke Teks",
-        "subtitle": "Tukar mel suara kepada teks dalam talian dan baca keseluruhan mesej, bukan sekadar pratonton. Simpan mel suara daripada iPhone, Android, Google Voice atau telefon pejabat anda, muat naik, dan TranscriptX akan menulis setiap perkataan dalam lebih 100 bahasa, dengan cap masa untuk anda semak. Salin, simpan atau eksport ke TXT, DOCX atau PDF. Tanpa akaun, tiada aplikasi untuk dipasang.",
+        "subtitle": "Tukar mel suara kepada teks dalam talian dan baca keseluruhan mesej, bukan sekadar pratonton. Simpan mel suara daripada iPhone, Android, Google Voice atau telefon pejabat anda, muat naik, dan TranscriptX akan menulis setiap perkataan dalam lebih 100 bahasa, dengan cap masa untuk anda semak. Salin, simpan atau eksport ke TXT, DOCX atau PDF. Tiada apa-apa untuk dipasang.",
         "placeholder": "Muat naik fail audio mel suara...",
         "button": "Tukar Mel Suara kepada Teks"
     },
     "quickAnswer": {
         "question": "Bagaimana cara saya tukar mel suara kepada teks?",
-        "answer": "Simpan mel suara sebagai fail audio (pada iPhone: buka mesej itu, ketik Kongsi, kemudian Simpan ke Fail), dan muat naik ke TranscriptX. Ia membuat transkrip keseluruhan mesej menjadi teks dalam beberapa saat, dalam lebih 100 bahasa, sedia untuk dibaca, disalin, disunting atau dimuat turun. Percuma digunakan setiap hari, tanpa aplikasi dan tanpa pendaftaran."
+        "answer": "Simpan mel suara sebagai fail audio (pada iPhone: buka mesej itu, ketik Kongsi, kemudian Simpan ke Fail), dan muat naik ke TranscriptX. Ia membuat transkrip keseluruhan mesej menjadi teks dalam beberapa saat, dalam lebih 100 bahasa, sedia untuk dibaca, disalin, disunting atau dimuat turun. Anda boleh mencubanya secara percuma, tanpa perlu memasang apa-apa."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Harga",
-                    "value": "Percuma, tiada akaun diperlukan"
+                    "value": "Percuma untuk dicuba dengan had harian; pelan berbayar untuk lebih"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Penukar Mel Suara ke Teks Dalam Talian Percuma",
+            "h2": "Adakah Mel Suara ke Teks Percuma?",
             "content": [
-                "TranscriptX ialah penukar mel suara ke teks percuma yang berfungsi dalam talian, dalam mana-mana pelayar. Anda boleh mencubanya tanpa akaun. Log masuk untuk menyimpan transkrip anda pada setiap peranti.",
-                "Tiada caj bagi setiap mesej dan tiada perkhidmatan tambahan pembawa yang perlu dilanggan semata-mata untuk membaca mel suara. Muat naik fail, baca teks, dan salin atau muat turunnya. Jika anda membuat transkrip rakaman yang panjang atau bising setiap hari, <a href=\"/pricing/\">pelan Pro</a> menambah penggunaan harian, fail yang lebih besar, label penutur dan pengurangan hingar."
+                "Anda boleh mencuba TranscriptX secara percuma setiap hari, dalam mana-mana pelayar. Pelan percuma mempunyai had harian, tetapi kebanyakan mel suara adalah pendek, jadi satu mesej biasanya muat dengan mudah. Log masuk untuk menyimpan transkrip anda pada setiap peranti.",
+                "Tiada perkhidmatan tambahan pembawa yang perlu dilanggan semata-mata untuk membaca mel suara. Muat naik fail, baca teks, dan salin atau muat turunnya. Jika anda mencapai had percuma, atau membuat transkrip banyak mesej, rakaman yang panjang atau bising setiap hari, <a href=\"/pricing/\">pelan berbayar</a> menambah penggunaan harian, fail yang lebih besar, label penutur dan pengurangan hingar."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Bagaimana cara tukar mel suara kepada teks secara percuma?",
-                    "a": "Simpan mel suara sebagai fail audio dan muat naik ke TranscriptX. Anda mendapat keseluruhan mesej sebagai teks dalam beberapa saat, tanpa perlu akaun."
+                    "a": "Simpan mel suara sebagai fail audio dan muat naik ke TranscriptX. Anda mendapat keseluruhan mesej sebagai teks dalam beberapa saat. Pelan percuma mempunyai had harian, dan mel suara yang pendek biasanya muat dengan selesa."
                 },
                 {
                     "q": "Bagaimana cara simpan mel suara daripada iPhone saya?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Tukar Mel Suara Anda kepada Teks Secara Percuma",
+        "h2": "Baca Setiap Perkataan Mel Suara Anda",
         "content": [
             "Apabila pratonton mel suara telefon anda terpotong, tiada atau dalam bahasa yang salah, simpan mesej itu, muat naik, dan TranscriptX akan menjadikan keseluruhan mel suara sebagai teks dalam lebih 100 bahasa.",
-            "Baca, semak nombornya, salin ke dalam nota, atau muat turun sebagai TXT, DOCX atau PDF. Untuk rakaman anda sendiri, gunakan [Voice to Text](/ms/voice-to-text); untuk podcast dan fail audio lain, gunakan [Audio to Text](/ms/audio-to-text). Tanpa akaun, tiada aplikasi untuk dipasang."
+            "Baca, semak nombornya, salin ke dalam nota, atau muat turun sebagai TXT, DOCX atau PDF. Untuk rakaman anda sendiri, gunakan [Voice to Text](/ms/voice-to-text); untuk podcast dan fail audio lain, gunakan [Audio to Text](/ms/audio-to-text)."
         ]
     }
 }

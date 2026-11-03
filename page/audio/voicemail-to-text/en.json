@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Voicemail to Text — Transcribe Voicemail Free Online | TranscriptX",
-        "description": "Convert voicemail to text free. Save a voicemail from iPhone, Android or Google Voice, upload it and read the full message in 100+ languages. No sign-up.",
+        "title": "Voicemail to Text — Transcribe iPhone & Android Voicemail | TranscriptX",
+        "description": "Voicemail preview cut off or missing? Upload a saved voicemail from iPhone, Android or Google Voice and read every word in 100+ languages. Try it free.",
         "schemaName": "TranscriptX Voicemail to Text Converter",
-        "schemaDescription": "Free online voicemail to text tool that transcribes saved voicemail audio from iPhone, Android, Google Voice and business phone systems into full, editable text in over 100 languages, with basic translation into English, with optional timestamps and export to TXT, DOCX, PDF, SRT and VTT. Works in the browser with no account required.",
-        "ogTitle": "Voicemail to Text — Transcribe Voicemail Free Online | TranscriptX",
-        "ogDescription": "Your phone's voicemail preview cut off, missing or in the wrong language? Upload the voicemail and read the whole message as text, free, in 100+ languages."
+        "schemaDescription": "Online voicemail to text tool that transcribes saved voicemail audio from iPhone, Android, Google Voice and business phone systems into full, editable text in over 100 languages, with basic translation into English, with optional timestamps and export to TXT, DOCX, PDF, SRT and VTT. Works in the browser, free to try with a daily limit and paid plans for more.",
+        "ogTitle": "Voicemail to Text — Transcribe iPhone & Android Voicemail | TranscriptX",
+        "ogDescription": "Your phone's voicemail preview cut off, missing or in the wrong language? Upload the voicemail and read the whole message as text in 100+ languages."
     },
     "hero": {
         "h1": "Voicemail to Text",
-        "subtitle": "Convert voicemail to text online and read the whole message, not just a preview. Save the voicemail from your iPhone, Android, Google Voice or work phone, upload it, and TranscriptX writes out every word in over 100 languages, with timestamps you can check. Copy it, keep it, or export it to TXT, DOCX or PDF. No account, no app to install.",
+        "subtitle": "Convert voicemail to text online and read the whole message, not just a preview. Save the voicemail from your iPhone, Android, Google Voice or work phone, upload it, and TranscriptX writes out every word in over 100 languages, with timestamps you can check. Copy it, keep it, or export it to TXT, DOCX or PDF. Nothing to install.",
         "placeholder": "Upload a voicemail audio file...",
         "button": "Convert Voicemail to Text"
     },
     "quickAnswer": {
         "question": "How do I convert a voicemail to text?",
-        "answer": "Save the voicemail as an audio file (on iPhone: open the message, tap Share, then Save to Files), and upload it to TranscriptX. It transcribes the whole message into text in seconds, in over 100 languages, ready to read, copy, edit or download. It's free to use every day, with no app and no sign-up."
+        "answer": "Save the voicemail as an audio file (on iPhone: open the message, tap Share, then Save to Files), and upload it to TranscriptX. It transcribes the whole message into text in seconds, in over 100 languages, ready to read, copy, edit or download. You can try it free, with nothing to install."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Price",
-                    "value": "Free, no account needed"
+                    "value": "Free to try with a daily limit; paid plans for more"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Free Voicemail to Text Converter Online",
+            "h2": "Is Voicemail to Text Free?",
             "content": [
-                "TranscriptX is a free voicemail to text converter that works online, in any browser. You can try it without an account. Sign in to keep your transcripts saved on every device.",
-                "There is no per-message fee and no carrier add-on to subscribe to just to read a voicemail. Upload the file, read the text, and copy or download it. If you transcribe long or noisy recordings every day, the <a href=\"/pricing/\">Pro plan</a> adds more daily usage, bigger files, speaker labels and noise reduction."
+                "You can try TranscriptX free every day, in any browser. The free plan has a daily limit, but most voicemails are short, so a single message usually fits easily. Sign in to keep your transcripts saved on every device.",
+                "There is no carrier add-on to subscribe to just to read a voicemail. Upload the file, read the text, and copy or download it. If you reach the free limit, or transcribe many messages, long or noisy recordings every day, a <a href=\"/pricing/\">paid plan</a> adds more daily usage, bigger files, speaker labels and noise reduction."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "How do I convert voicemail to text for free?",
-                    "a": "Save the voicemail as an audio file and upload it to TranscriptX. You get the full message as text in seconds, with no account needed."
+                    "a": "Save the voicemail as an audio file and upload it to TranscriptX. You get the full message as text in seconds. The free plan has a daily limit, and a short voicemail usually fits well within it."
                 },
                 {
                     "q": "How do I save a voicemail from my iPhone?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Convert Your Voicemail to Text Free",
+        "h2": "Read Every Word of Your Voicemail",
         "content": [
             "When your phone's voicemail preview is cut off, missing or in the wrong language, save the message, upload it, and TranscriptX turns the whole voicemail into text in over 100 languages.",
-            "Read it, check the numbers, copy it into a note, or download it as TXT, DOCX or PDF. For your own recordings, use [Voice to Text](/voice-to-text); for podcasts and other audio files, use [Audio to Text](/audio-to-text). No account, no app to install."
+            "Read it, check the numbers, copy it into a note, or download it as TXT, DOCX or PDF. For your own recordings, use [Voice to Text](/voice-to-text); for podcasts and other audio files, use [Audio to Text](/audio-to-text)."
         ]
     }
 }

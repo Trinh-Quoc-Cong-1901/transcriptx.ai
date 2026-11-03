@@ -1,21 +1,21 @@
 {
     "seo": {
-        "title": "Messagerie vocale en texte — Gratuit en ligne | TranscriptX",
-        "description": "Messagerie vocale en texte, gratuit. Enregistrez le message sur iPhone, Android ou Google Voice, importez-le, lisez-le en entier. 100+ langues.",
+        "title": "Messagerie vocale en texte — Transcrire vos messages iPhone et Android | TranscriptX",
+        "description": "Aperçu de messagerie vocale coupé ou absent ? Importez un message iPhone, Android ou Google Voice et lisez chaque mot. 100+ langues. Essai gratuit.",
         "schemaName": "TranscriptX — Convertisseur messagerie vocale en texte",
-        "schemaDescription": "Outil gratuit en ligne qui transcrit les messages vocaux enregistrés depuis un iPhone, un Android, Google Voice ou un standard téléphonique professionnel en texte complet et modifiable dans plus de 100 langues, avec une traduction de base vers l'anglais, des horodatages optionnels et l'export en TXT, DOCX, PDF, SRT et VTT. Fonctionne dans le navigateur, sans compte.",
-        "ogTitle": "Messagerie vocale en texte — Gratuit en ligne | TranscriptX",
-        "ogDescription": "L'aperçu de votre messagerie vocale est coupé, absent ou dans la mauvaise langue ? Importez le message et lisez-le en entier, gratuitement, dans plus de 100 langues."
+        "schemaDescription": "Outil en ligne qui transcrit les messages vocaux enregistrés depuis un iPhone, un Android, Google Voice ou un standard téléphonique professionnel en texte complet et modifiable dans plus de 100 langues, avec une traduction de base vers l'anglais, des horodatages optionnels et l'export en TXT, DOCX, PDF, SRT et VTT. Fonctionne dans le navigateur, avec un essai gratuit limité chaque jour et des forfaits payants pour aller plus loin.",
+        "ogTitle": "Messagerie vocale en texte — Transcrire vos messages iPhone et Android | TranscriptX",
+        "ogDescription": "L'aperçu de votre messagerie vocale est coupé, absent ou dans la mauvaise langue ? Importez le message et lisez-le en entier, dans plus de 100 langues."
     },
     "hero": {
         "h1": "Messagerie vocale en texte",
-        "subtitle": "Convertissez votre messagerie vocale en texte en ligne et lisez le message en entier, pas seulement un aperçu. Enregistrez le message vocal depuis votre iPhone, votre Android, Google Voice ou votre téléphone pro, importez-le, et TranscriptX écrit chaque mot dans plus de 100 langues, avec des horodatages pour vérifier. Copiez-le, gardez-le ou exportez-le en TXT, DOCX ou PDF. Sans compte, sans application à installer.",
+        "subtitle": "Convertissez votre messagerie vocale en texte en ligne et lisez le message en entier, pas seulement un aperçu. Enregistrez le message vocal depuis votre iPhone, votre Android, Google Voice ou votre téléphone pro, importez-le, et TranscriptX écrit chaque mot dans plus de 100 langues, avec des horodatages pour vérifier. Copiez-le, gardez-le ou exportez-le en TXT, DOCX ou PDF. Rien à installer.",
         "placeholder": "Importez un fichier audio de messagerie vocale...",
         "button": "Convertir le message vocal en texte"
     },
     "quickAnswer": {
         "question": "Comment convertir un message vocal en texte ?",
-        "answer": "Enregistrez le message vocal sous forme de fichier audio (sur iPhone : ouvrez le message, touchez Partager, puis Enregistrer dans Fichiers) et importez-le dans TranscriptX. Le message entier est transcrit en texte en quelques secondes, dans plus de 100 langues, prêt à lire, copier, modifier ou télécharger. C'est gratuit chaque jour, sans application et sans inscription."
+        "answer": "Enregistrez le message vocal sous forme de fichier audio (sur iPhone : ouvrez le message, touchez Partager, puis Enregistrer dans Fichiers) et importez-le dans TranscriptX. Le message entier est transcrit en texte en quelques secondes, dans plus de 100 langues, prêt à lire, copier, modifier ou télécharger. Vous pouvez l'essayer gratuitement, sans rien installer."
     },
     "sections": [
         {
@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "Prix",
-                    "value": "Gratuit, sans compte"
+                    "value": "Essai gratuit avec limite quotidienne ; forfaits payants pour aller plus loin"
                 }
             ]
         },
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "h2": "Convertisseur gratuit de messagerie vocale en texte",
+            "h2": "La messagerie vocale en texte est-elle gratuite ?",
             "content": [
-                "TranscriptX est un convertisseur gratuit de messagerie vocale en texte qui fonctionne en ligne, dans n'importe quel navigateur. Vous pouvez l'essayer sans compte. Connectez-vous pour retrouver vos transcriptions sur tous vos appareils.",
-                "Pas de frais par message, ni d'option opérateur à souscrire juste pour lire un message vocal. Importez le fichier, lisez le texte, puis copiez-le ou téléchargez-le. Si vous transcrivez chaque jour des enregistrements longs ou bruyants, le <a href=\"/pricing/\">forfait Pro</a> ajoute plus d'utilisation quotidienne, des fichiers plus volumineux, l'identification des locuteurs et la réduction du bruit."
+                "Vous pouvez essayer TranscriptX gratuitement chaque jour, dans n'importe quel navigateur. Le forfait gratuit a une limite quotidienne, mais la plupart des messages vocaux sont courts : un message y tient donc généralement sans problème. Connectez-vous pour retrouver vos transcriptions sur tous vos appareils.",
+                "Pas d'option opérateur à souscrire juste pour lire un message vocal. Importez le fichier, lisez le texte, puis copiez-le ou téléchargez-le. Si vous atteignez la limite gratuite, ou si vous transcrivez chaque jour de nombreux messages, des enregistrements longs ou bruyants, un <a href=\"/pricing/\">forfait payant</a> ajoute plus d'utilisation quotidienne, des fichiers plus volumineux, l'identification des locuteurs et la réduction du bruit."
             ]
         },
         {
@@ -246,7 +246,7 @@
             "items": [
                 {
                     "q": "Comment convertir gratuitement un message vocal en texte ?",
-                    "a": "Enregistrez le message vocal en fichier audio et importez-le dans TranscriptX. Vous obtenez le message complet en texte en quelques secondes, sans compte."
+                    "a": "Enregistrez le message vocal en fichier audio et importez-le dans TranscriptX. Vous obtenez le message complet en texte en quelques secondes. Le forfait gratuit a une limite quotidienne, et un message vocal court y tient généralement sans problème."
                 },
                 {
                     "q": "Comment enregistrer un message vocal depuis mon iPhone ?",
@@ -276,10 +276,10 @@
         }
     ],
     "conclusion": {
-        "h2": "Convertissez votre messagerie vocale en texte gratuitement",
+        "h2": "Lisez chaque mot de votre messagerie vocale",
         "content": [
             "Quand l'aperçu de votre messagerie vocale est coupé, absent ou dans la mauvaise langue, enregistrez le message, importez-le, et TranscriptX transforme tout le message vocal en texte dans plus de 100 langues.",
-            "Lisez-le, vérifiez les numéros, copiez-le dans une note ou téléchargez-le en TXT, DOCX ou PDF. Pour vos propres enregistrements, utilisez [Voix en texte](/fr/voice-to-text) ; pour les podcasts et autres fichiers audio, utilisez [Transcription audio](/fr/audio-to-text). Sans compte, sans application à installer."
+            "Lisez-le, vérifiez les numéros, copiez-le dans une note ou téléchargez-le en TXT, DOCX ou PDF. Pour vos propres enregistrements, utilisez [Voix en texte](/fr/voice-to-text) ; pour les podcasts et autres fichiers audio, utilisez [Transcription audio](/fr/audio-to-text)."
         ]
     }
 }
