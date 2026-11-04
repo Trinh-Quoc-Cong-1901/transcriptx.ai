@@ -315,3 +315,31 @@ Mỗi bài = 1 cụm keyword. Volume ghi theo khoảng của Keyword Planner.
 ### KD17-01 · P1 · most accurate transcription software
 - **Slug:** `/blog/transcription-accuracy-benchmark`
 - **Ghi chú:** chỉ viết khi đã tự đo độ chính xác trên dữ liệu test thật. Không viết bài này bằng số ước lượng.
+
+---
+
+## 9. Chủ đề mới từ phân tích đối thủ (2026-11-04)
+
+Nguồn: `_source/competitors/doi-thu-tong-hop-trang.xlsx`, sheet **Blog kéo traffic** (sitemap của 8 đối thủ: Otter, Descript, Rev, Sonix, Trint, Notta, ElevenLabs, TurboScribe). Cách dùng: `_source/competitors/README.md`. Chỉ ghi các cụm **chưa có trong kế hoạch ở trên**. Cột "Đối thủ" = số bên có bài về cụm đó. Volume chưa tra: gửi danh sách keyword cho user trước khi viết.
+
+| Ưu tiên | Keyword gợi ý | Slug đề xuất | Đối thủ | Dẫn traffic về | Ghi chú |
+|---|---|---|---|---|---|
+| P1 | how to transcribe an interview | `how-to-transcribe-an-interview` | 7/8 | `/audio-to-text/` | Speakers trên Pro |
+| P1 | can chatgpt transcribe audio | `can-chatgpt-transcribe-audio` | 7/8 | `/transcription-mcp/` | Lợi thế MCP; link bài can-chatgpt-watch-videos |
+| P1 | how to transcribe audio to text | `how-to-transcribe-audio-to-text` | 7/8 | `/audio-to-text/` | Tránh head term của tool page (audio to text free…) |
+| P1 | what is speech to text | `what-is-speech-to-text` | 5/8 | `/` | Bài kiến thức, dễ được AI search trích |
+| P1 | how to transcribe a lecture | `how-to-transcribe-a-lecture` | 5/8 | `/live-transcription/` | Live mode là Pro |
+| P1 | speech to text on iphone / mac / windows | `how-to-use-speech-to-text-on-iphone` | 5/8 | `/voice-to-text/` | Bước của Apple/Microsoft ghi vào "Cần kiểm chứng" |
+| P1 | how to transcribe audio in word | `how-to-transcribe-audio-in-word` | 5/8 | `/audio-to-text/` | Xuất .docx |
+| P2 | captions vs subtitles | `captions-vs-subtitles` | 4/8 | `/youtube-subtitle-downloader/` | Gần srt-vs-vtt: tách keyword rõ |
+| P2 | verbatim vs clean verbatim | `verbatim-vs-clean-verbatim` | 4/8 | `/audio-to-text/` | Bài kiến thức |
+| P2 | whatsapp voice message to text | `whatsapp-voice-message-to-text` | 4/8 | `/voicemail-to-text/` | |
+| P2 | how to transcribe audio in google docs | `how-to-transcribe-audio-in-google-docs` | 4/8 | `/audio-to-text/` | Voice typing chỉ nghe micro |
+| P2 | mp3 to text (how-to) | `how-to-convert-mp3-to-text` | 3/8 | `/audio-to-text/` | Không trùng H2 "MP3 to text" của tool page |
+| P3 | meeting minutes template | `meeting-minutes-template` | 5/8 | `/audio-to-text/` | Traffic lớn nhưng người tìm cần bot họp |
+| P3 | how to transcribe voice memos | `how-to-transcribe-voice-memos` | 2/8 | `/voice-to-text/` | |
+| P3 | how to transcribe a facebook video | `how-to-transcribe-facebook-video` | 2/8 | `/facebook-transcript/` | |
+
+**Đang viết:** `how-to-transcribe-podcast` (KD18-01), commit 2026-11-04.
+
+**Tool page (từ sheet "Tool page (đã sửa)"):** chỉ **Subtitle generator** (upload video → SRT/VTT) là thật sự chưa có, 7/8 đối thủ có. MP3/WAV/M4A, MP4, voice memo, WhatsApp, xuất Word: đã có trang phủ, chỉ cần thêm H2/FAQ vào `/audio-to-text/`, `/video-to-text/`, `/voice-to-text/`, `/voicemail-to-text/`.
