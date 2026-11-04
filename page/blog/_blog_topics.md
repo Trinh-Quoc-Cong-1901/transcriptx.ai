@@ -324,7 +324,7 @@ Nguồn: `_source/competitors/doi-thu-tong-hop-trang.xlsx`, sheet **Blog kéo tr
 
 | Ưu tiên | Keyword gợi ý | Slug đề xuất | Đối thủ | Dẫn traffic về | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | how to transcribe an interview | `how-to-transcribe-an-interview` | 7/8 | `/audio-to-text/` | Speakers trên Pro |
+| — | how to transcribe interviews for qualitative research | `how-to-transcribe-an-interview` | 7/8 | `/interview-transcription/` | **Đang viết** (góc nghiên cứu định tính) |
 | P1 | can chatgpt transcribe audio | `can-chatgpt-transcribe-audio` | 7/8 | `/transcription-mcp/` | Lợi thế MCP; link bài can-chatgpt-watch-videos |
 | P1 | how to transcribe audio to text | `how-to-transcribe-audio-to-text` | 7/8 | `/audio-to-text/` | Tránh head term của tool page (audio to text free…) |
 | P1 | what is speech to text | `what-is-speech-to-text` | 5/8 | `/` | Bài kiến thức, dễ được AI search trích |
@@ -341,5 +341,13 @@ Nguồn: `_source/competitors/doi-thu-tong-hop-trang.xlsx`, sheet **Blog kéo tr
 | P3 | how to transcribe a facebook video | `how-to-transcribe-facebook-video` | 2/8 | `/facebook-transcript/` | |
 
 **Đang viết:** `how-to-transcribe-podcast` (KD18-01), commit 2026-11-04.
+
+### Cụm Interview: bài thứ 2 (user lưu 2026-11-04)
+- **Keyword:** how to properly transcribe an interview · **volume: chưa tra**
+- **Slug đề xuất:** `how-to-properly-transcribe-an-interview`
+- **Dẫn traffic về:** `/interview-transcription/`, link chéo với bài `how-to-transcribe-an-interview`
+- **Góc viết (tách khỏi bài 1 để không ăn keyword của nhau):** bài 1 viết cho nghiên cứu định tính (mã hoá, ẩn danh, focus group). Bài 2 viết chung cho mọi người (nhà báo, tuyển dụng, podcast, sinh viên): các quy tắc chép đúng (verbatim hay clean, ghi tên người nói, timestamp, đánh dấu chỗ nghe không rõ, ghi chú [crosstalk] [laughs]), một **mẫu transcript** (header + đoạn mẫu), lỗi hay gặp và checklist soát trước khi trích dẫn.
+- **Từ khoá phụ để tra cùng:** how to transcribe an interview properly, interview transcription format, interview transcript example, interview transcript template, how to format an interview transcript, interview transcription rules, how to write an interview transcript
+- **Trước khi viết:** tra volume cả cụm; nếu "interview transcript example / template" cao hơn thì đặt H1 theo cụm đó.
 
 **Tool page (từ sheet "Tool page (đã sửa)"):** chỉ **Subtitle generator** (upload video → SRT/VTT) là thật sự chưa có, 7/8 đối thủ có. MP3/WAV/M4A, MP4, voice memo, WhatsApp, xuất Word: đã có trang phủ, chỉ cần thêm H2/FAQ vào `/audio-to-text/`, `/video-to-text/`, `/voice-to-text/`, `/voicemail-to-text/`.
