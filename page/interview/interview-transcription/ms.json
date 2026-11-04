@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Transkripsi Temu Bual — Tukar Audio Temu Bual ke Teks | TranscriptX",
+        "description": "Transkrip audio temu bual ke teks dalam talian untuk penyelidikan, kewartawanan dan pengambilan pekerja. Muat naik atau rakam, semak cap masa, eksport ke Word.",
+        "schemaName": "Transkripsi Temu Bual TranscriptX",
+        "schemaDescription": "Transkripsi temu bual AI dalam pelayar: muat naik atau rakam temu bual, dapatkan transkrip boleh disunting dengan cap masa dan label penutur (Pro), tambah nota di sebelahnya dan eksport ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Temu Bual: Daripada Rakaman ke Teks Boleh Dipetik",
+        "ogDescription": "Muat naik atau rakam temu bual dan dapatkan teks yang boleh anda petik, kod dan rujuk, dengan cap masa untuk menyemak setiap baris dengan audio."
+    },
+    "hero": {
+        "h1": "Transkripsi Temu Bual",
+        "subtitle": "Tukar rakaman temu bual kepada teks yang boleh anda petik, kod dan rujuk. Muat naik fail atau rakam perbualan dalam pelayar, dan TranscriptX menulisnya dengan cap masa pada setiap perenggan, supaya setiap baris boleh disemak dengan audio. Eksport ke Word, PDF atau TXT. Percuma untuk dicuba, tanpa akaun.",
+        "placeholder": "Muat naik rakaman temu bual atau tampal pautan...",
+        "button": "Transkrip Temu Bual"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip temu bual?",
+        "answer": "Muat naik rakaman temu bual ke TranscriptX, atau tekan Rakam dan rakam terus dalam pelayar. Anda mendapat transkrip boleh disunting dengan cap masa dalam beberapa saat. Baca sambil semak dengan audio, betulkan nama dan istilah, kemudian salin teks atau muat turun sebagai DOCX, PDF atau TXT untuk nota, artikel atau analisis anda."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Transkripsi Temu Bual?",
+            "content": [
+                "Transkripsi temu bual (interview transcription) menukar perbualan yang dirakam kepada teks bertulis. Penyelidik mengekodnya, wartawan memetiknya, dan perekrut menyimpannya sebagai rekod apa yang dikatakan oleh calon.",
+                "Membuat transkrip temu bual secara manual mengambil masa berjam-jam bagi setiap jam audio. TranscriptX menukar audio temu bual kepada teks dalam beberapa saat dan mengekalkan cap masa pada setiap perenggan, jadi masa anda digunakan untuk menyemak dan menggunakan transkrip, bukan menaipnya."
+            ]
+        },
+        {
+            "h2": "Transkripsi Temu Bual Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Muat naik rakaman, rakam dalam pelayar, atau tampal pautan ke temu bual video atau podcast"
+                },
+                {
+                    "label": "Sumber fail",
+                    "value": "Peranti anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Semak setiap petikan",
+                    "value": "Cap masa pada setiap perenggan, dengan rakaman dimainkan di sebelah teks"
+                },
+                {
+                    "label": "Siapa cakap apa",
+                    "value": "Label penutur pada pelan Pro"
+                },
+                {
+                    "label": "Nota sambil membaca",
+                    "value": "Tab Nota di sebelah transkrip, dengan cap masa dan senarai semak"
+                },
+                {
+                    "label": "Untuk analisis anda",
+                    "value": "Muat turun sebagai DOCX, PDF atau TXT"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Percuma untuk dicuba, tanpa akaun · Pelan Pro untuk penggunaan berat"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Temu Bual",
+            "steps": [
+                {
+                    "h3": "Rakam atau muat naik temu bual",
+                    "content": "Tekan Rakam untuk merakam temu bual bersemuka dalam pelayar, atau muat naik fail audio atau video daripada peranti anda, Google Drive, Dropbox atau OneDrive. Rakaman panggilan Zoom, Teams atau telefon juga boleh."
+                },
+                {
+                    "h3": "Dapatkan transkrip",
+                    "content": "TranscriptX mengesan bahasa dan menulis perbualan sebagai perenggan bertanda baca, setiap satu dengan cap masa."
+                },
+                {
+                    "h3": "Semak dengan audio",
+                    "content": "Mainkan rakaman di sebelah teks, betulkan nama dan istilah teknikal dengan Sunting, dan tandakan detik penting dalam tab Nota."
+                },
+                {
+                    "h3": "Salin atau eksport",
+                    "content": "Salin transkrip, atau muat turun sebagai DOCX, PDF atau TXT untuk analisis dan arkib, atau sebagai SRT atau VTT untuk sari kata."
+                }
+            ]
+        },
+        {
+            "h2": "Tukar Audio Temu Bual ke Teks dalam Talian",
+            "content": [
+                "Tiada apa-apa untuk dipasang. Buka halaman ini dalam pelayar pada komputer atau telefon, tambah rakaman, dan transkrip akan muncul di halaman yang sama.",
+                "Kebanyakan temu bual berakhir sebagai fail audio daripada telefon atau perakam, atau fail video daripada Zoom, Teams atau Meet. Kedua-duanya boleh: TranscriptX mengambil pertuturan daripada fail dan menukarnya kepada teks. Jika temu bual sudah ada dalam talian, contohnya episod podcast atau video, tampal pautannya tanpa perlu memuat turun dahulu.",
+                "Anda boleh mencuba transkripsi temu bual dalam talian secara percuma, tanpa akaun. Jika anda kerap membuat transkrip, lihat <a href=\"/pricing/\">pelan Pro</a>."
+            ]
+        },
+        {
+            "h2": "Transkripsi Penyelidikan Kualitatif",
+            "content": [
+                "Dalam penyelidikan kualitatif, transkrip ialah data anda. Anda membacanya baris demi baris, mengekod tema dan memetik peserta dalam tesis atau kertas kajian, jadi ia mesti lengkap dan mudah dijejak semula ke rakaman. Itulah yang diberikan oleh transkripsi penyelidikan yang baik: setiap perkataan mengikut urutan, dengan cara untuk kembali ke audio.",
+                "Muat naik satu rakaman bagi setiap peserta dan setiap satu menjadi transkrip tersendiri dalam sejarah anda. Muat turun sebagai DOCX untuk mengekod dalam Word atau bawa ke perisian analisis anda, dan kekalkan cap masa supaya setiap petikan boleh disemak.",
+                "Untuk transkripsi kualitatif, tentukan awal sama ada anda perlukan verbatim penuh (setiap jeda dan perkataan pengisi) atau verbatim bersih (ayat yang mudah dibaca), dan gunakan gaya yang sama untuk seluruh kajian. Panduan langkah demi langkah <a href=\"/blog/how-to-transcribe-an-interview/\">Cara Membuat Transkrip Temu Bual untuk Penyelidikan Kualitatif</a> menerangkan format, penyamaran identiti dan penamaan fail dengan terperinci."
+            ]
+        },
+        {
+            "h2": "Transkripsi Kumpulan Fokus",
+            "intro": [
+                "Kumpulan fokus lebih sukar daripada temu bual satu lawan satu: lebih banyak suara, dan orang sering bercakap serentak. Beberapa tabiat menjadikan transkrip jauh lebih mudah diurus:"
+            ],
+            "items": [
+                {
+                    "h3": "Satu mikrofon di tengah",
+                    "content": "Letakkan perakam di tengah meja, bukan di hujung, supaya setiap suara sampai pada tahap yang hampir sama."
+                },
+                {
+                    "h3": "Nama pada permulaan",
+                    "content": "Minta setiap orang menyebut nama atau ID peserta sebelum perbincangan bermula. Ini membantu anda memadankan suara dengan orang kemudian."
+                },
+                {
+                    "h3": "Label penutur",
+                    "content": "Pada pelan Pro, TranscriptX melabel penutur secara automatik. Semak setiap label dengan senarai peserta semasa menyemak."
+                },
+                {
+                    "h3": "Masa tambahan untuk pertuturan bertindih",
+                    "content": "Rancang semakan yang lebih panjang berbanding satu temu bual, terutamanya di bahagian beberapa orang bercakap serentak."
+                }
+            ]
+        },
+        {
+            "h2": "Perisian atau Aplikasi Transkripsi Temu Bual?",
+            "content": [
+                "Anda tidak perlukan perisian desktop atau aplikasi transkripsi temu bual yang berasingan. TranscriptX berfungsi dalam pelayar, jadi alat yang sama boleh digunakan pada komputer riba di meja anda dan pada telefon sejurus selepas temu bual.",
+                "Pada telefon, tekan Rakam untuk merakam perbualan, atau muat naik memo suara yang sudah anda buat. Transkrip anda kekal dalam sejarah, jadi anda boleh mula di telefon dan habiskan semakan di komputer."
+            ]
+        },
+        {
+            "h2": "Siapa yang Menggunakan Transkripsi Temu Bual",
+            "intro": [
+                "Sesiapa sahaja yang merakam perbualan dan kemudian perlu bekerja dengan kata-katanya:"
+            ],
+            "items": [
+                {
+                    "h3": "Penyelidik dan pelajar",
+                    "content": "Buat transkrip temu bual penyelidikan dan kumpulan fokus untuk tesis, disertasi atau kertas kajian, kemudian kod dan petik."
+                },
+                {
+                    "h3": "Wartawan",
+                    "content": "Temu bual, transkrip dan petik pada hari yang sama: cari baris dalam teks, mainkan detik itu untuk mengesahkannya, dan tampal ke dalam draf."
+                },
+                {
+                    "h3": "Pengambilan pekerja dan HR",
+                    "content": "Simpan rekod bertulis temu duga calon untuk membandingkan jawapan dan berkongsi dengan panel."
+                },
+                {
+                    "h3": "Podcaster dan pencipta kandungan",
+                    "content": "Tukar perbualan yang dirakam kepada nota rancangan, artikel, petikan dan sari kata."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi AI, Taip Sendiri atau Perkhidmatan Manusia?",
+            "intro": [
+                "Setiap pilihan sesuai untuk keperluan berbeza. Pilih mengikut tujuan transkrip itu:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Beberapa saat hingga beberapa minit, percuma untuk dicuba. Hampir perkataan demi perkataan untuk audio yang jelas, tetapi semak dahulu sebelum memetik. Paling sesuai untuk penyelidikan, artikel, nota pengambilan pekerja dan kandungan."
+                },
+                {
+                    "h3": "Taip sendiri",
+                    "content": "Tiada kos selain masa: biasanya beberapa jam bagi setiap jam audio. Praktikal hanya untuk klip yang sangat pendek."
+                },
+                {
+                    "h3": "Perkhidmatan transkripsi manusia",
+                    "content": "Dibayar mengikut minit audio dan lebih perlahan, tetapi disemak oleh manusia. Sesetengah perkhidmatan menawarkan transkrip bertauliah, yang diperlukan oleh mahkamah dan sesetengah kerja undang-undang atau perubatan."
+                }
+            ]
+        },
+        {
+            "h2": "Sebelum Memetik: Semak Transkrip",
+            "intro": [
+                "AI memberi anda draf pertama yang pantas. Beberapa semakan menjadikannya selamat untuk dipetik:"
+            ],
+            "items": [
+                {
+                    "h3": "Nama, tempat dan angka",
+                    "content": "Semak dengan rakaman; ini perkataan yang paling mudah tersilap bagi mana-mana alat."
+                },
+                {
+                    "h3": "Pertuturan tidak jelas atau bertindih",
+                    "content": "Dengar semula di mana-mana bahagian orang bercakap serentak atau audio terputus."
+                },
+                {
+                    "h3": "Siapa yang berkata",
+                    "content": "Sahkan penutur sebelum anda mengaitkan petikan dengan seseorang."
+                },
+                {
+                    "h3": "Persetujuan dan data",
+                    "content": "Dapatkan kebenaran untuk merakam, ikut peraturan etika atau syarikat anda, dan padam transkrip yang tidak lagi diperlukan."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mendapatkan Transkrip Temu Bual yang Lebih Bersih",
+            "items": [
+                {
+                    "h3": "Rakam dekat dengan penutur",
+                    "content": "Telefon di atas meja antara anda lebih baik daripada komputer riba di seberang bilik."
+                },
+                {
+                    "h3": "Elakkan bercakap serentak",
+                    "content": "Pertuturan bertindih ialah bahagian paling sukar untuk ditranskrip, bagi mana-mana alat atau orang."
+                },
+                {
+                    "h3": "Gunakan bilik yang senyap",
+                    "content": "Muzik latar dan bunyi bising kafe menurunkan ketepatan lebih daripada loghat."
+                },
+                {
+                    "h3": "Sebut nama dan istilah dengan jelas sekali",
+                    "content": "Ini memudahkan anda mencari dan membetulkannya dalam transkrip."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi: Temu Bual Anda Kekal Milik Anda",
+            "content": [
+                "Temu bual sering mengandungi maklumat peribadi atau sulit. Fail yang dimuat naik dipadam secara automatik, dan rakaman serta transkrip anda tidak digunakan untuk melatih model AI.",
+                "Anda boleh memadam satu transkrip, atau semua data anda, pada bila-bila masa daripada akaun anda. Lihat <a href=\"/privacy-policy/\">Dasar Privasi</a> untuk butirannya."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana cara membuat transkrip temu bual secara percuma?",
+                    "a": "Muat naik rakaman ke TranscriptX atau rakam dalam pelayar. Anda boleh mencubanya secara percuma tanpa akaun."
+                },
+                {
+                    "q": "Bolehkah ia membezakan penemu bual dan peserta?",
+                    "a": "Ya, pada pelan Pro penutur dilabel secara automatik. Pada pelan Percuma anda mendapat perenggan bercap masa tanpa nama penutur."
+                },
+                {
+                    "q": "Sejauh manakah ketepatan transkripsi temu bual AI?",
+                    "a": "Rakaman yang jelas menghasilkan teks hampir perkataan demi perkataan. Sentiasa semak nama, nombor dan petikan dengan audio sebelum anda menerbitkan atau merujuknya."
+                },
+                {
+                    "q": "Bolehkah saya eksport transkrip ke Word?",
+                    "a": "Ya. Muat turun sebagai DOCX, atau sebagai PDF atau TXT."
+                },
+                {
+                    "q": "Bolehkah saya transkrip temu bual Zoom atau telefon?",
+                    "a": "Ya. Muat naik fail rakaman daripada Zoom, Teams, Meet atau telefon anda. TranscriptX tidak menyertai panggilan; anda memuat naik rakaman selepas itu."
+                },
+                {
+                    "q": "Perlukah saya memuat turun aplikasi?",
+                    "a": "Tidak. TranscriptX berfungsi dalam pelayar pada komputer atau telefon anda, jadi tiada apa-apa untuk dipasang."
+                },
+                {
+                    "q": "Adakah ia sesuai untuk transkrip undang-undang atau mahkamah?",
+                    "a": "Tidak. Mahkamah biasanya memerlukan transkrip bertauliah yang dibuat oleh manusia. Gunakan TranscriptX untuk draf dan untuk mencari isi rakaman."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Temu Bual Anda yang Seterusnya",
+        "content": [
+            "Muat naik rakaman atau tekan Rakam, dan dapatkan teks yang boleh anda petik, kod dan rujuk, dengan cap masa pada setiap perenggan untuk menyemaknya dengan audio.",
+            "Baru dengan transkrip penyelidikan? Baca <a href=\"/blog/how-to-transcribe-an-interview/\">cara membuat transkrip temu bual</a> langkah demi langkah.",
+            "Untuk rakaman lain, gunakan [Audio ke Teks](/ms/audio-to-text) atau [Video ke Teks](/ms/video-to-text); untuk nota suara anda sendiri, gunakan [Suara ke Teks](/ms/voice-to-text). Percuma untuk dicuba, tanpa akaun."
+        ]
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Interview transkribieren – Interviews online abtippen | TranscriptX",
+        "description": "Interview online transkribieren für Forschung, Journalismus und Recruiting. Hochladen oder aufnehmen, jede Zeile per Zeitstempel prüfen, nach Word exportieren.",
+        "schemaName": "TranscriptX Interview-Transkription",
+        "schemaDescription": "KI-Transkription von Interviews im Browser: Interview hochladen oder aufnehmen, ein bearbeitbares Transkript mit Zeitstempeln und Sprecherkennzeichnung (Pro) erhalten, Notizen daneben anlegen und als DOCX, PDF, TXT, SRT oder VTT exportieren.",
+        "ogTitle": "Interview-Transkription: Von der Aufnahme zum zitierbaren Text",
+        "ogDescription": "Lade ein Interview hoch oder nimm es auf und erhalte Text, den du zitieren, codieren und belegen kannst – mit Zeitstempeln, um jede Zeile am Audio zu prüfen."
+    },
+    "hero": {
+        "h1": "Interview transkribieren",
+        "subtitle": "Mach aus einem aufgezeichneten Interview Text, den du zitieren, codieren und belegen kannst. Lade die Datei hoch oder nimm das Gespräch direkt im Browser auf, und TranscriptX schreibt es mit einem Zeitstempel an jedem Absatz aus, sodass du jede Zeile mit dem Audio abgleichen kannst. Export als Word, PDF oder TXT. Kostenlos testen, kein Konto nötig.",
+        "placeholder": "Interview-Aufnahme hochladen oder Link einfügen...",
+        "button": "Interview transkribieren"
+    },
+    "quickAnswer": {
+        "question": "Wie transkribiere ich ein Interview?",
+        "answer": "Lade die Interview-Aufnahme bei TranscriptX hoch oder tippe auf Aufnehmen und zeichne das Gespräch im Browser auf. Du erhältst ein bearbeitbares Transkript mit sekundengenauen Zeitstempeln. Gleiche es mit dem Audio ab, korrigiere Namen und Fachbegriffe, und kopiere den Text oder lade ihn als DOCX, PDF oder TXT für Notizen, Artikel oder Auswertung herunter."
+    },
+    "sections": [
+        {
+            "h2": "Was ist Interview-Transkription?",
+            "content": [
+                "Bei der Interview-Transkription wird ein aufgezeichnetes Gespräch in geschriebenen Text umgewandelt. Forschende codieren ihn, Journalisten zitieren daraus, und Recruiter behalten ihn als Nachweis dessen, was eine Bewerberin oder ein Bewerber gesagt hat.",
+                "Ein Interview von Hand abzutippen dauert pro Stunde Audio mehrere Stunden. TranscriptX macht aus dem Interview-Audio in Sekunden Text und setzt an jeden Absatz einen Zeitstempel, sodass du deine Zeit mit Prüfen und Arbeiten am Transkript verbringst statt mit Tippen."
+            ]
+        },
+        {
+            "h2": "Interview-Transkription auf einen Blick",
+            "specs": [
+                {
+                    "label": "Eingabe",
+                    "value": "Aufnahme hochladen, im Browser aufnehmen oder Link zu einem Video- oder Podcast-Interview einfügen"
+                },
+                {
+                    "label": "Woher die Dateien kommen",
+                    "value": "Dein Gerät, Google Drive, Dropbox oder OneDrive"
+                },
+                {
+                    "label": "Jedes Zitat prüfen",
+                    "value": "Zeitstempel an jedem Absatz, die Aufnahme läuft neben dem Text"
+                },
+                {
+                    "label": "Wer hat was gesagt",
+                    "value": "Sprecherkennzeichnung im Pro-Plan"
+                },
+                {
+                    "label": "Notizen beim Lesen",
+                    "value": "Notizen-Tab neben dem Transkript, mit Zeitstempeln und Checklisten"
+                },
+                {
+                    "label": "Für deine Auswertung",
+                    "value": "Download als DOCX, PDF oder TXT"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos testen, kein Konto nötig · Pro-Plan für intensive Nutzung"
+                }
+            ]
+        },
+        {
+            "h2": "So transkribierst du ein Interview",
+            "steps": [
+                {
+                    "h3": "Interview aufnehmen oder hochladen",
+                    "content": "Tippe auf Aufnehmen, um ein persönliches Interview im Browser aufzuzeichnen, oder lade die Audio- oder Videodatei von deinem Gerät, Google Drive, Dropbox oder OneDrive hoch. Aufnahmen von Zoom, Teams oder Telefonaten funktionieren ebenfalls."
+                },
+                {
+                    "h3": "Transkript erhalten",
+                    "content": "TranscriptX erkennt die Sprache und schreibt das Gespräch in Absätzen mit Satzzeichen aus, jeder mit einem Zeitstempel."
+                },
+                {
+                    "h3": "Mit dem Audio abgleichen",
+                    "content": "Spiele die Aufnahme neben dem Text ab, korrigiere Namen und Fachbegriffe mit Bearbeiten und markiere wichtige Stellen im Notizen-Tab."
+                },
+                {
+                    "h3": "Kopieren oder exportieren",
+                    "content": "Kopiere das Transkript oder lade es als DOCX, PDF oder TXT für Auswertung und Archiv herunter, oder als SRT oder VTT für Untertitel."
+                }
+            ]
+        },
+        {
+            "h2": "Interview-Audio online in Text umwandeln",
+            "content": [
+                "Es gibt nichts zu installieren. Öffne diese Seite im Browser am Computer oder Handy, füge die Aufnahme hinzu, und das Transkript erscheint auf derselben Seite.",
+                "Die meisten Interviews landen als Audiodatei vom Handy oder Diktiergerät oder als Videodatei aus Zoom, Teams oder Meet. Beides funktioniert: TranscriptX holt die Sprache aus der Datei und macht daraus Text. Ist das Interview schon online, zum Beispiel als Podcast-Folge oder Video, füge einfach den Link ein, statt es erst herunterzuladen.",
+                "Du kannst Interviews online kostenlos testen, ohne Konto. Wenn du viel transkribierst, sieh dir den <a href=\"/pricing/\">Pro-Plan</a> an."
+            ]
+        },
+        {
+            "h2": "Transkription für qualitative Forschung",
+            "content": [
+                "In der qualitativen Forschung ist das Transkript deine Datengrundlage. Du liest es Zeile für Zeile, codierst Themen und zitierst Teilnehmende in Abschlussarbeit oder Paper. Es muss also vollständig sein und sich leicht zur Aufnahme zurückverfolgen lassen. Genau das leistet eine gute Forschungstranskription: jedes Wort in der richtigen Reihenfolge, mit einem Weg zurück zum Audio.",
+                "Lade pro Teilnehmerin oder Teilnehmer eine Aufnahme hoch, und jede wird zu einem eigenen Transkript in deinem Verlauf. Lade sie als DOCX herunter, um in Word zu codieren oder sie in deine Analysesoftware zu übernehmen, und behalte die Zeitstempel, damit jedes Zitat überprüfbar bleibt.",
+                "Lege für die qualitative Transkription früh fest, ob du wörtlich (jede Pause und jedes Füllwort) oder geglättet (lesbare Sätze) transkribierst, und bleib in der ganzen Studie bei derselben Variante. Die Schritt-für-Schritt-Anleitung <a href=\"/blog/how-to-transcribe-an-interview/\">Interview für qualitative Forschung transkribieren</a> erklärt Formatierung, Anonymisierung und Dateibenennung im Detail."
+            ]
+        },
+        {
+            "h2": "Fokusgruppen transkribieren",
+            "intro": [
+                "Fokusgruppen sind schwieriger als Einzelinterviews: mehr Stimmen, und oft reden mehrere gleichzeitig. Ein paar Gewohnheiten machen das Transkript deutlich leichter zu bearbeiten:"
+            ],
+            "items": [
+                {
+                    "h3": "Ein Mikrofon in der Mitte",
+                    "content": "Stell das Aufnahmegerät in die Tischmitte, nicht ans Ende, damit jede Stimme etwa gleich laut ankommt."
+                },
+                {
+                    "h3": "Namen am Anfang",
+                    "content": "Bitte jede Person, vor Beginn der Diskussion ihren Namen oder ihre Teilnehmer-ID zu sagen. So kannst du Stimmen später leichter zuordnen."
+                },
+                {
+                    "h3": "Sprecherkennzeichnung",
+                    "content": "Im Pro-Plan kennzeichnet TranscriptX die Sprecher automatisch. Gleiche jede Kennzeichnung bei der Durchsicht mit deiner Teilnehmerliste ab."
+                },
+                {
+                    "h3": "Mehr Zeit für Überschneidungen",
+                    "content": "Plane mehr Zeit für die Durchsicht ein als bei einem Einzelinterview, besonders dort, wo mehrere Personen gleichzeitig gesprochen haben."
+                }
+            ]
+        },
+        {
+            "h2": "Software oder App für Interview-Transkription?",
+            "content": [
+                "Du brauchst weder Desktop-Software noch eine eigene App zum Interview transkribieren. TranscriptX läuft im Browser, also funktioniert dasselbe Tool am Laptop am Schreibtisch und auf dem Handy direkt nach dem Interview.",
+                "Auf dem Handy tippst du auf Aufnehmen, um das Gespräch aufzuzeichnen, oder lädst die Sprachmemo hoch, die du schon gemacht hast. Deine Transkripte bleiben in deinem Verlauf, sodass du auf dem Handy anfangen und am Computer weiterprüfen kannst."
+            ]
+        },
+        {
+            "h2": "Wer Interviews transkribiert",
+            "intro": [
+                "Alle, die ein Gespräch aufnehmen und danach mit dem Gesagten arbeiten müssen:"
+            ],
+            "items": [
+                {
+                    "h3": "Forschende und Studierende",
+                    "content": "Forschungsinterviews und Fokusgruppen für Bachelor-, Master- oder Doktorarbeit oder ein Paper transkribieren, dann codieren und zitieren."
+                },
+                {
+                    "h3": "Journalistinnen und Journalisten",
+                    "content": "Am selben Tag interviewen, transkribieren und zitieren: Zeile im Text finden, die Stelle zur Bestätigung abspielen und in den Entwurf einfügen."
+                },
+                {
+                    "h3": "Recruiting und HR",
+                    "content": "Bewerbungsgespräche schriftlich festhalten, um Antworten zu vergleichen und mit dem Auswahlgremium zu teilen."
+                },
+                {
+                    "h3": "Podcaster und Creator",
+                    "content": "Ein aufgezeichnetes Gespräch in Shownotes, Artikel, Zitate und Untertitel verwandeln."
+                }
+            ]
+        },
+        {
+            "h2": "KI-Transkription, selbst abtippen oder ein Transkriptionsdienst?",
+            "intro": [
+                "Jede Option passt zu einem anderen Bedarf. Entscheide danach, wofür du das Transkript brauchst:"
+            ],
+            "items": [
+                {
+                    "h3": "KI-Transkription (TranscriptX)",
+                    "content": "Sekunden bis Minuten, kostenlos testen. Bei klarem Audio fast Wort für Wort, aber prüfe es, bevor du zitierst. Ideal für Forschung, Artikel, Notizen aus Bewerbungsgesprächen und Content."
+                },
+                {
+                    "h3": "Selbst abtippen",
+                    "content": "Kostet nichts außer Zeit: meist mehrere Stunden pro Stunde Audio. Nur für sehr kurze Ausschnitte praktikabel."
+                },
+                {
+                    "h3": "Ein menschlicher Transkriptionsdienst",
+                    "content": "Abrechnung pro Audiominute und langsamer, dafür von einem Menschen geprüft. Manche Dienste bieten beglaubigte Transkripte an, die Gerichte und manche juristische oder medizinische Arbeiten verlangen."
+                }
+            ]
+        },
+        {
+            "h2": "Vor dem Zitieren: Transkript prüfen",
+            "intro": [
+                "KI liefert dir einen schnellen ersten Entwurf. Ein paar Prüfungen machen ihn sicher zitierbar:"
+            ],
+            "items": [
+                {
+                    "h3": "Namen, Orte und Zahlen",
+                    "content": "Gleiche sie mit der Aufnahme ab; diese Wörter erwischt jedes Tool am leichtesten falsch."
+                },
+                {
+                    "h3": "Undeutliche oder überlappende Sprache",
+                    "content": "Hör überall dort noch einmal hin, wo Leute durcheinander gesprochen haben oder das Audio ausgesetzt hat."
+                },
+                {
+                    "h3": "Wer es gesagt hat",
+                    "content": "Prüfe den Sprecher, bevor du ein Zitat jemandem zuschreibst."
+                },
+                {
+                    "h3": "Einwilligung und Daten",
+                    "content": "Hol dir die Erlaubnis zur Aufnahme, halte dich an die Ethik- oder Unternehmensrichtlinien und lösche Transkripte, die du nicht mehr brauchst."
+                }
+            ]
+        },
+        {
+            "h2": "So wird dein Interview-Transkript sauberer",
+            "items": [
+                {
+                    "h3": "Nah an den Sprechenden aufnehmen",
+                    "content": "Ein Handy auf dem Tisch zwischen euch schlägt einen Laptop am anderen Ende des Raums."
+                },
+                {
+                    "h3": "Nicht durcheinander reden",
+                    "content": "Überlappende Sprache ist für jedes Tool und jeden Menschen der schwierigste Teil beim Transkribieren."
+                },
+                {
+                    "h3": "Einen ruhigen Raum wählen",
+                    "content": "Hintergrundmusik und Café-Lärm senken die Genauigkeit stärker als Akzente."
+                },
+                {
+                    "h3": "Namen und Begriffe einmal deutlich sagen",
+                    "content": "So findest und korrigierst du sie im Transkript leichter."
+                }
+            ]
+        },
+        {
+            "h2": "Datenschutz: Deine Interviews bleiben deine",
+            "content": [
+                "Interviews enthalten oft persönliche oder vertrauliche Informationen. Hochgeladene Dateien werden automatisch gelöscht, und deine Aufnahmen und Transkripte werden nicht zum Training von KI-Modellen verwendet.",
+                "Du kannst jederzeit ein einzelnes Transkript oder alle deine Daten über dein Konto löschen. Details findest du in der <a href=\"/privacy-policy/\">Datenschutzerklärung</a>."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie kann ich ein Interview kostenlos transkribieren?",
+                    "a": "Lade die Aufnahme bei TranscriptX hoch oder nimm sie im Browser auf. Du kannst es kostenlos und ohne Konto testen."
+                },
+                {
+                    "q": "Kann es Interviewer und Befragte unterscheiden?",
+                    "a": "Ja, im Pro-Plan werden Sprecher automatisch gekennzeichnet. Im kostenlosen Plan erhältst du Absätze mit Zeitstempeln, aber ohne Sprechernamen."
+                },
+                {
+                    "q": "Wie genau ist KI-Interview-Transkription?",
+                    "a": "Klare Aufnahmen kommen fast Wort für Wort zurück. Prüfe Namen, Zahlen und Zitate immer am Audio, bevor du sie veröffentlichst oder zitierst."
+                },
+                {
+                    "q": "Kann ich das Transkript nach Word exportieren?",
+                    "a": "Ja. Lade es als DOCX herunter, oder als PDF oder TXT."
+                },
+                {
+                    "q": "Kann ich ein Zoom- oder Telefoninterview transkribieren?",
+                    "a": "Ja. Lade die Aufnahmedatei aus Zoom, Teams, Meet oder von deinem Handy hoch. TranscriptX nimmt nicht an Anrufen teil; du lädst die Aufnahme danach hoch."
+                },
+                {
+                    "q": "Muss ich eine App herunterladen?",
+                    "a": "Nein. TranscriptX funktioniert im Browser auf Computer oder Handy, es gibt also nichts zu installieren."
+                },
+                {
+                    "q": "Eignet es sich für juristische oder gerichtliche Transkripte?",
+                    "a": "Nein. Gerichte verlangen in der Regel ein beglaubigtes, von Menschen erstelltes Transkript. Nutze TranscriptX für Entwürfe und zum Durchsuchen der Aufnahme."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkribiere dein nächstes Interview",
+        "content": [
+            "Lade die Aufnahme hoch oder tippe auf Aufnehmen und erhalte Text, den du zitieren, codieren und belegen kannst – mit einem Zeitstempel an jedem Absatz, um ihn am Audio zu prüfen.",
+            "Neu bei Forschungstranskripten? Lies Schritt für Schritt, <a href=\"/blog/how-to-transcribe-an-interview/\">wie du ein Interview transkribierst</a>.",
+            "Für andere Aufnahmen nutze [Audio in Text](/de/audio-to-text) oder [Video in Text](/de/video-to-text); für deine eigenen Sprachnotizen nutze [Sprache in Text](/de/voice-to-text). Kostenlos testen, kein Konto nötig."
+        ]
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Transkrip Wawancara — Ubah Rekaman Wawancara ke Teks | TranscriptX",
+        "description": "Transkrip wawancara online untuk riset, jurnalistik dan rekrutmen. Unggah atau rekam, cek setiap baris dengan timestamp, ekspor ke Word.",
+        "schemaName": "TranscriptX Transkripsi Wawancara",
+        "schemaDescription": "Transkripsi wawancara dengan AI di browser: unggah atau rekam wawancara, dapatkan transkrip yang bisa diedit dengan timestamp dan label pembicara (Pro), tambahkan catatan di sampingnya, lalu ekspor ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkrip Wawancara: Dari Rekaman ke Teks Siap Dikutip",
+        "ogDescription": "Unggah atau rekam wawancara dan dapatkan teks yang bisa dikutip, dikoding dan dirujuk, dengan timestamp untuk mengecek setiap baris dengan audionya."
+    },
+    "hero": {
+        "h1": "Transkrip Wawancara",
+        "subtitle": "Ubah rekaman wawancara menjadi teks yang bisa dikutip, dikoding dan dirujuk. Unggah file atau rekam percakapan langsung di browser, lalu TranscriptX menuliskannya dengan timestamp di setiap paragraf, sehingga setiap baris bisa dicek dengan audionya. Ekspor ke Word, PDF atau TXT. Gratis dicoba, tanpa perlu akun.",
+        "placeholder": "Unggah rekaman wawancara atau tempel link...",
+        "button": "Transkrip Wawancara"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip wawancara?",
+        "answer": "Unggah rekaman wawancara ke TranscriptX, atau tekan Rekam dan rekam langsung di browser. Dalam hitungan detik Anda mendapat transkrip yang bisa diedit, lengkap dengan timestamp. Baca sambil mendengarkan audionya, perbaiki nama dan istilah, lalu salin teksnya atau unduh sebagai DOCX, PDF atau TXT untuk catatan, artikel atau analisis Anda."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkripsi Wawancara?",
+            "content": [
+                "Transkripsi wawancara (interview transcription) adalah proses mengubah rekaman percakapan menjadi teks tertulis. Peneliti mengodingnya, jurnalis mengutipnya, dan perekrut menyimpannya sebagai catatan atas jawaban kandidat.",
+                "Mentranskrip wawancara secara manual memakan waktu berjam-jam untuk setiap jam audio. TranscriptX mengubah audio wawancara menjadi teks dalam hitungan detik dan menyimpan timestamp di setiap paragraf, sehingga waktu Anda dipakai untuk mengecek dan memakai transkrip, bukan mengetiknya."
+            ]
+        },
+        {
+            "h2": "Sekilas tentang Transkrip Wawancara",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Unggah rekaman, rekam di browser, atau tempel link wawancara video atau podcast"
+                },
+                {
+                    "label": "Sumber file",
+                    "value": "Perangkat Anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Cek setiap kutipan",
+                    "value": "Timestamp di setiap paragraf, dengan rekaman diputar di samping teks"
+                },
+                {
+                    "label": "Siapa bicara apa",
+                    "value": "Label pembicara di paket Pro"
+                },
+                {
+                    "label": "Catatan sambil membaca",
+                    "value": "Tab Catatan di samping transkrip, dengan timestamp dan checklist"
+                },
+                {
+                    "label": "Untuk analisis Anda",
+                    "value": "Unduh sebagai DOCX, PDF atau TXT"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Gratis dicoba, tanpa perlu akun · Paket Pro untuk pemakaian intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Wawancara",
+            "steps": [
+                {
+                    "h3": "Rekam atau unggah wawancara",
+                    "content": "Tekan Rekam untuk merekam wawancara tatap muka di browser, atau unggah file audio atau video dari perangkat Anda, Google Drive, Dropbox atau OneDrive. Rekaman Zoom, Teams atau panggilan telepon juga bisa."
+                },
+                {
+                    "h3": "Dapatkan transkripnya",
+                    "content": "TranscriptX mendeteksi bahasanya dan menuliskan percakapan sebagai paragraf lengkap dengan tanda baca, masing-masing dengan timestamp."
+                },
+                {
+                    "h3": "Cek dengan audionya",
+                    "content": "Putar rekaman di samping teks, perbaiki nama dan istilah teknis dengan Edit, dan tandai momen penting di tab Catatan."
+                },
+                {
+                    "h3": "Salin atau ekspor",
+                    "content": "Salin transkripnya, atau unduh sebagai DOCX, PDF atau TXT untuk analisis dan arsip, atau sebagai SRT atau VTT untuk subtitle."
+                }
+            ]
+        },
+        {
+            "h2": "Ubah Audio Wawancara ke Teks Secara Online",
+            "content": [
+                "Tidak ada yang perlu diinstal. Buka halaman ini di browser komputer atau HP, tambahkan rekamannya, dan transkrip muncul di halaman yang sama.",
+                "Kebanyakan wawancara berakhir sebagai file audio dari HP atau perekam suara, atau file video dari Zoom, Teams atau Meet. Keduanya bisa: TranscriptX mengambil ucapan dari file dan mengubahnya menjadi teks. Jika wawancaranya sudah ada online, misalnya episode podcast atau video, cukup tempel link-nya tanpa perlu mengunduh dulu.",
+                "Anda bisa mentranskrip wawancara secara online, gratis dicoba, tanpa akun. Jika Anda sering mentranskrip, lihat <a href=\"/pricing/\">paket Pro</a>."
+            ]
+        },
+        {
+            "h2": "Transkrip Wawancara untuk Penelitian Kualitatif",
+            "content": [
+                "Dalam penelitian kualitatif, transkrip adalah data Anda. Anda membacanya baris demi baris, mengoding tema, dan mengutip informan dalam skripsi, tesis atau makalah, jadi transkrip harus lengkap dan mudah dilacak kembali ke rekamannya. Itulah yang diberikan transkripsi riset yang baik: setiap kata sesuai urutan, dengan jalan kembali ke audionya.",
+                "Unggah satu rekaman per informan dan masing-masing menjadi transkrip tersendiri di riwayat Anda. Unduh sebagai DOCX untuk dikoding di Word atau dimasukkan ke software analisis Anda, dan pertahankan timestamp agar setiap kutipan bisa dicek.",
+                "Untuk transkripsi kualitatif, tentukan sejak awal apakah Anda butuh full verbatim (setiap jeda dan kata pengisi) atau clean verbatim (kalimat yang enak dibaca), lalu gunakan gaya yang sama untuk seluruh penelitian. Panduan langkah demi langkah <a href=\"/blog/how-to-transcribe-an-interview/\">Cara Membuat Transkrip Wawancara untuk Penelitian Kualitatif</a> membahas format, anonimisasi dan penamaan file secara detail."
+            ]
+        },
+        {
+            "h2": "Transkrip Focus Group (FGD)",
+            "intro": [
+                "Focus group lebih sulit daripada wawancara empat mata: lebih banyak suara, dan peserta sering bicara bersamaan. Beberapa kebiasaan ini membuat transkripnya jauh lebih mudah diolah:"
+            ],
+            "items": [
+                {
+                    "h3": "Satu mikrofon di tengah",
+                    "content": "Letakkan perekam di tengah meja, bukan di ujung, agar setiap suara tertangkap dengan volume yang mirip."
+                },
+                {
+                    "h3": "Sebut nama di awal",
+                    "content": "Minta setiap peserta menyebutkan nama atau ID peserta sebelum diskusi dimulai. Ini membantu Anda mencocokkan suara dengan orangnya nanti."
+                },
+                {
+                    "h3": "Label pembicara",
+                    "content": "Di paket Pro, TranscriptX memberi label pembicara secara otomatis. Cek setiap label dengan daftar peserta saat meninjau."
+                },
+                {
+                    "h3": "Waktu ekstra untuk suara yang tumpang tindih",
+                    "content": "Sediakan waktu peninjauan lebih lama daripada wawancara tunggal, terutama di bagian saat beberapa orang bicara bersamaan."
+                }
+            ]
+        },
+        {
+            "h2": "Software atau Aplikasi Transkrip Wawancara?",
+            "content": [
+                "Anda tidak butuh software desktop atau aplikasi transkrip wawancara terpisah. TranscriptX berjalan di browser, jadi alat yang sama bisa dipakai di laptop di meja kerja maupun di HP sesaat setelah wawancara.",
+                "Di HP, tekan Rekam untuk merekam percakapan, atau unggah memo suara yang sudah Anda buat. Transkrip tersimpan di riwayat Anda, jadi Anda bisa mulai di HP dan menyelesaikan pengecekan di komputer."
+            ]
+        },
+        {
+            "h2": "Siapa yang Memakai Transkrip Wawancara",
+            "intro": [
+                "Siapa pun yang merekam percakapan lalu perlu mengolah kata-katanya:"
+            ],
+            "items": [
+                {
+                    "h3": "Peneliti dan mahasiswa",
+                    "content": "Transkrip wawancara penelitian dan focus group untuk skripsi, tesis, disertasi atau makalah, lalu koding dan kutip."
+                },
+                {
+                    "h3": "Jurnalis",
+                    "content": "Wawancara, transkrip dan kutip di hari yang sama: temukan kalimatnya di teks, putar momen itu untuk memastikan, lalu tempel ke draf."
+                },
+                {
+                    "h3": "Rekrutmen dan HR",
+                    "content": "Simpan catatan tertulis wawancara kandidat untuk membandingkan jawaban dan membagikannya ke tim panel."
+                },
+                {
+                    "h3": "Podcaster dan kreator",
+                    "content": "Ubah rekaman percakapan menjadi show notes, artikel, kutipan dan subtitle."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi AI, Ketik Sendiri atau Jasa Manusia?",
+            "intro": [
+                "Setiap pilihan cocok untuk kebutuhan berbeda. Pilih berdasarkan tujuan transkripnya:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Beberapa detik hingga menit, gratis dicoba. Hampir kata per kata pada audio yang jelas, tetapi tinjau dulu sebelum mengutip. Paling cocok untuk riset, artikel, catatan rekrutmen dan konten."
+                },
+                {
+                    "h3": "Ketik sendiri",
+                    "content": "Tidak keluar biaya, hanya waktu: biasanya beberapa jam untuk setiap jam audio. Praktis hanya untuk klip yang sangat pendek."
+                },
+                {
+                    "h3": "Jasa transkripsi manusia",
+                    "content": "Dibayar per menit audio dan lebih lambat, tetapi ditinjau oleh manusia. Beberapa jasa menawarkan transkrip tersertifikasi, yang diwajibkan pengadilan dan sebagian pekerjaan hukum atau medis."
+                }
+            ]
+        },
+        {
+            "h2": "Sebelum Mengutip: Tinjau Transkripnya",
+            "intro": [
+                "AI memberi Anda draf pertama dengan cepat. Beberapa pengecekan membuatnya aman untuk dikutip:"
+            ],
+            "items": [
+                {
+                    "h3": "Nama, tempat dan angka",
+                    "content": "Cek dengan rekamannya; kata-kata ini paling mudah salah bagi alat apa pun."
+                },
+                {
+                    "h3": "Ucapan yang tidak jelas atau tumpang tindih",
+                    "content": "Dengarkan ulang setiap bagian saat orang bicara bersamaan atau audionya terputus."
+                },
+                {
+                    "h3": "Siapa yang mengatakannya",
+                    "content": "Pastikan pembicaranya sebelum Anda mengatribusikan sebuah kutipan."
+                },
+                {
+                    "h3": "Persetujuan dan data",
+                    "content": "Minta izin untuk merekam, ikuti aturan etika atau perusahaan Anda, dan hapus transkrip yang tidak lagi dibutuhkan."
+                }
+            ]
+        },
+        {
+            "h2": "Cara Mendapatkan Transkrip Wawancara yang Lebih Bersih",
+            "items": [
+                {
+                    "h3": "Rekam dekat dengan pembicara",
+                    "content": "HP di atas meja di antara Anda berdua jauh lebih baik daripada laptop di seberang ruangan."
+                },
+                {
+                    "h3": "Hindari bicara bersamaan",
+                    "content": "Ucapan yang tumpang tindih adalah bagian tersulit untuk ditranskrip, baik oleh alat maupun manusia."
+                },
+                {
+                    "h3": "Gunakan ruangan yang tenang",
+                    "content": "Musik latar dan keramaian kafe menurunkan akurasi lebih banyak daripada logat."
+                },
+                {
+                    "h3": "Ucapkan nama dan istilah dengan jelas sekali",
+                    "content": "Ini membuatnya lebih mudah ditemukan dan diperbaiki di transkrip."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi: Wawancara Anda Tetap Milik Anda",
+            "content": [
+                "Wawancara sering berisi informasi pribadi atau rahasia. File yang diunggah dihapus otomatis, dan rekaman serta transkrip Anda tidak dipakai untuk melatih model AI.",
+                "Anda bisa menghapus satu transkrip, atau seluruh data Anda, kapan saja dari akun Anda. Lihat <a href=\"/privacy-policy/\">Kebijakan Privasi</a> untuk detailnya."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara transkrip wawancara secara gratis?",
+                    "a": "Unggah rekamannya ke TranscriptX atau rekam langsung di browser. Anda bisa mencobanya gratis tanpa akun."
+                },
+                {
+                    "q": "Bisakah membedakan pewawancara dan narasumber?",
+                    "a": "Bisa, di paket Pro pembicara diberi label secara otomatis. Di paket Free Anda mendapat paragraf dengan timestamp tanpa nama pembicara."
+                },
+                {
+                    "q": "Seberapa akurat transkripsi wawancara dengan AI?",
+                    "a": "Rekaman yang jelas menghasilkan teks yang hampir kata per kata. Selalu cek nama, angka dan kutipan dengan audionya sebelum dipublikasikan atau dirujuk."
+                },
+                {
+                    "q": "Bisakah transkrip diekspor ke Word?",
+                    "a": "Bisa. Unduh sebagai DOCX, atau sebagai PDF atau TXT."
+                },
+                {
+                    "q": "Bisakah mentranskrip wawancara lewat Zoom atau telepon?",
+                    "a": "Bisa. Unggah file rekaman dari Zoom, Teams, Meet atau HP Anda. TranscriptX tidak ikut bergabung dalam panggilan; Anda mengunggah rekamannya setelah selesai."
+                },
+                {
+                    "q": "Apakah saya perlu mengunduh aplikasi?",
+                    "a": "Tidak. TranscriptX berjalan di browser komputer atau HP, jadi tidak ada yang perlu diinstal."
+                },
+                {
+                    "q": "Apakah cocok untuk transkrip hukum atau pengadilan?",
+                    "a": "Tidak. Pengadilan biasanya mewajibkan transkrip tersertifikasi yang dibuat manusia. Gunakan TranscriptX untuk draf dan untuk mencari isi rekaman."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Wawancara Anda Berikutnya",
+        "content": [
+            "Unggah rekamannya atau tekan Rekam, dan dapatkan teks yang bisa dikutip, dikoding dan dirujuk, dengan timestamp di setiap paragraf untuk mengeceknya dengan audio.",
+            "Baru pertama kali membuat transkrip penelitian? Baca <a href=\"/blog/how-to-transcribe-an-interview/\">cara membuat transkrip wawancara</a> langkah demi langkah.",
+            "Untuk rekaman lain, gunakan [Audio to Text](/id/audio-to-text) atau [Video to Text](/id/video-to-text); untuk catatan suara Anda sendiri, gunakan [Voice to Text](/id/voice-to-text). Gratis dicoba, tanpa perlu akun."
+        ]
+    }
+}

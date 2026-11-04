@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Trascrizione Interviste — Sbobinare un'Intervista Online | TranscriptX",
+        "description": "Trascrivi l'audio delle interviste in testo online per ricerca, giornalismo e selezione. Carica o registra, verifica con i timestamp, esporta in Word.",
+        "schemaName": "TranscriptX Trascrizione Interviste",
+        "schemaDescription": "Trascrizione di interviste con l'AI nel browser: carica o registra un'intervista, ottieni una trascrizione modificabile con timestamp ed etichette dei parlanti (Pro), aggiungi note accanto al testo ed esporta in DOCX, PDF, TXT, SRT o VTT.",
+        "ogTitle": "Trascrizione Interviste: dalla Registrazione al Testo da Citare",
+        "ogDescription": "Carica o registra un'intervista e ottieni un testo da citare, codificare e riportare, con i timestamp per verificare ogni riga sull'audio."
+    },
+    "hero": {
+        "h1": "Trascrizione di Interviste",
+        "subtitle": "Trasforma un'intervista registrata in un testo da citare, codificare e riportare. Carica il file o registra la conversazione nel browser e TranscriptX la mette per iscritto con un timestamp su ogni paragrafo, così puoi verificare ogni riga sull'audio. Esporta in Word, PDF o TXT. Gratis da provare, senza account.",
+        "placeholder": "Carica la registrazione di un'intervista o incolla un link...",
+        "button": "Trascrivi l'Intervista"
+    },
+    "quickAnswer": {
+        "question": "Come si trascrive un'intervista?",
+        "answer": "Carica la registrazione dell'intervista su TranscriptX, oppure premi Registra e acquisiscila nel browser. In pochi secondi ottieni una trascrizione modificabile con i timestamp. Rileggila ascoltando l'audio, correggi nomi e termini, poi copia il testo o scaricalo in DOCX, PDF o TXT per i tuoi appunti, il tuo articolo o la tua analisi."
+    },
+    "sections": [
+        {
+            "h2": "Cos'è la Trascrizione di un'Intervista?",
+            "content": [
+                "La trascrizione di un'intervista (o sbobinatura) trasforma una conversazione registrata in testo scritto. I ricercatori la codificano, i giornalisti la citano e i recruiter la conservano come traccia di ciò che ha detto il candidato.",
+                "Sbobinare un'intervista a mano richiede ore per ogni ora di audio. TranscriptX trasforma l'audio dell'intervista in testo in pochi secondi e mantiene un timestamp su ogni paragrafo, così dedichi il tuo tempo a verificare e usare la trascrizione invece di batterla a macchina."
+            ]
+        },
+        {
+            "h2": "La Trascrizione di Interviste in Breve",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Carica una registrazione, registra nel browser o incolla il link di un'intervista video o podcast"
+                },
+                {
+                    "label": "Da dove arrivano i file",
+                    "value": "Dal tuo dispositivo, Google Drive, Dropbox o OneDrive"
+                },
+                {
+                    "label": "Verifica ogni citazione",
+                    "value": "Timestamp su ogni paragrafo, con la registrazione in riproduzione accanto al testo"
+                },
+                {
+                    "label": "Chi ha detto cosa",
+                    "value": "Etichette dei parlanti con il piano Pro"
+                },
+                {
+                    "label": "Note mentre leggi",
+                    "value": "Scheda Note accanto alla trascrizione, con timestamp e checklist"
+                },
+                {
+                    "label": "Per la tua analisi",
+                    "value": "Scarica in DOCX, PDF o TXT"
+                },
+                {
+                    "label": "Lingue",
+                    "value": "Oltre 100, rilevate automaticamente"
+                },
+                {
+                    "label": "Prezzo",
+                    "value": "Gratis da provare, senza account · Piano Pro per un uso intensivo"
+                }
+            ]
+        },
+        {
+            "h2": "Come Trascrivere un'Intervista",
+            "steps": [
+                {
+                    "h3": "Registra o carica l'intervista",
+                    "content": "Premi Registra per acquisire un'intervista in presenza nel browser, oppure carica il file audio o video dal tuo dispositivo, Google Drive, Dropbox o OneDrive. Funzionano anche le registrazioni di chiamate Zoom, Teams o telefoniche."
+                },
+                {
+                    "h3": "Ottieni la trascrizione",
+                    "content": "TranscriptX rileva la lingua e mette per iscritto la conversazione in paragrafi con la punteggiatura, ciascuno con il suo timestamp."
+                },
+                {
+                    "h3": "Verificala sull'audio",
+                    "content": "Riproduci la registrazione accanto al testo, correggi nomi e termini tecnici con Modifica e segna i momenti chiave nella scheda Note."
+                },
+                {
+                    "h3": "Copia o esporta",
+                    "content": "Copia la trascrizione oppure scaricala in DOCX, PDF o TXT per l'analisi e l'archivio, o in SRT o VTT per i sottotitoli."
+                }
+            ]
+        },
+        {
+            "h2": "Trascrivere l'Audio di un'Intervista in Testo Online",
+            "content": [
+                "Non c'è niente da installare. Apri questa pagina nel browser del computer o del telefono, aggiungi la registrazione e la trascrizione compare nella stessa pagina.",
+                "La maggior parte delle interviste finisce in un file audio del telefono o del registratore, oppure in un file video di Zoom, Teams o Meet. Vanno bene entrambi: TranscriptX estrae il parlato dal file e lo trasforma in testo. Se l'intervista è già online, per esempio un episodio di podcast o un video, incolla il link invece di scaricarla prima.",
+                "Puoi trascrivere interviste online gratis da provare, senza account. Se trascrivi spesso, dai un'occhiata al <a href=\"/pricing/\">piano Pro</a>."
+            ]
+        },
+        {
+            "h2": "Trascrizione per la Ricerca Qualitativa",
+            "content": [
+                "Nella ricerca qualitativa la trascrizione è il tuo dato. La leggi riga per riga, codifichi i temi e citi i partecipanti nella tesi o nell'articolo, quindi deve essere completa e facile da ricondurre alla registrazione. È proprio questo che offre una buona trascrizione per la ricerca: ogni parola nell'ordine giusto, con un modo per tornare all'audio.",
+                "Carica una registrazione per partecipante e ognuna diventa una trascrizione a sé nella tua cronologia. Scaricale in DOCX per codificarle in Word o importarle nel tuo software di analisi, e conserva i timestamp perché ogni citazione sia verificabile.",
+                "Per la trascrizione qualitativa decidi subito se ti serve la trascrizione verbatim integrale (ogni pausa e intercalare) o quella verbatim pulita (frasi leggibili), e usa lo stesso stile per tutto lo studio. La guida passo passo <a href=\"/blog/how-to-transcribe-an-interview/\">Come Trascrivere un'Intervista per la Ricerca Qualitativa</a> spiega nel dettaglio formattazione, anonimizzazione e nomi dei file."
+            ]
+        },
+        {
+            "h2": "Trascrizione di Focus Group",
+            "intro": [
+                "I focus group sono più difficili delle interviste a due: più voci, e spesso le persone parlano in contemporanea. Qualche accorgimento rende la trascrizione molto più facile da usare:"
+            ],
+            "items": [
+                {
+                    "h3": "Un solo microfono al centro",
+                    "content": "Metti il registratore al centro del tavolo, non a un'estremità, così ogni voce arriva a un volume simile."
+                },
+                {
+                    "h3": "I nomi all'inizio",
+                    "content": "Chiedi a ciascuno di dire il proprio nome o codice partecipante prima di iniziare la discussione. Ti aiuta ad abbinare le voci alle persone in seguito."
+                },
+                {
+                    "h3": "Etichette dei parlanti",
+                    "content": "Con il piano Pro, TranscriptX etichetta automaticamente i parlanti. Durante la revisione controlla ogni etichetta con l'elenco dei partecipanti."
+                },
+                {
+                    "h3": "Più tempo per le sovrapposizioni",
+                    "content": "Prevedi una revisione più lunga rispetto a una singola intervista, soprattutto nei punti in cui più persone hanno parlato insieme."
+                }
+            ]
+        },
+        {
+            "h2": "Software o App per Trascrivere Interviste?",
+            "content": [
+                "Non ti serve un software desktop né un'app apposita per trascrivere interviste. TranscriptX funziona nel browser, quindi lo stesso strumento va bene sul portatile alla scrivania e sul telefono subito dopo un'intervista.",
+                "Sul telefono, premi Registra per acquisire la conversazione, oppure carica il memo vocale che hai già registrato. Le trascrizioni restano nella tua cronologia, così puoi iniziare dal telefono e finire la verifica al computer."
+            ]
+        },
+        {
+            "h2": "Chi Usa la Trascrizione di Interviste",
+            "intro": [
+                "Chiunque registri una conversazione e poi debba lavorare sulle parole:"
+            ],
+            "items": [
+                {
+                    "h3": "Ricercatori e studenti",
+                    "content": "Trascrivi interviste di ricerca e focus group per tesi di laurea, dottorato o articoli, poi codificale e citale."
+                },
+                {
+                    "h3": "Giornalisti",
+                    "content": "Intervista, trascrivi e cita nello stesso giorno: trova la frase nel testo, riproduci quel momento per conferma e incollala nella bozza."
+                },
+                {
+                    "h3": "Selezione e HR",
+                    "content": "Conserva una traccia scritta dei colloqui con i candidati per confrontare le risposte e condividerle con la commissione."
+                },
+                {
+                    "h3": "Podcaster e creator",
+                    "content": "Trasforma una conversazione registrata in note dell'episodio, articoli, citazioni e sottotitoli."
+                }
+            ]
+        },
+        {
+            "h2": "Trascrizione con l'AI, a Mano o con un Servizio Umano?",
+            "intro": [
+                "Ogni opzione risponde a un'esigenza diversa. Scegli in base all'uso che farai della trascrizione:"
+            ],
+            "items": [
+                {
+                    "h3": "Trascrizione con l'AI (TranscriptX)",
+                    "content": "Da pochi secondi a qualche minuto, gratis da provare. Quasi parola per parola con audio chiaro, ma rivedila prima di citare. Ideale per ricerca, articoli, note di selezione e contenuti."
+                },
+                {
+                    "h3": "Sbobinare a mano",
+                    "content": "Non costa nulla se non tempo: di solito diverse ore per ogni ora di audio. Conviene solo per clip molto brevi."
+                },
+                {
+                    "h3": "Un servizio di trascrizione umano",
+                    "content": "Si paga a minuto di audio ed è più lento, ma il testo è rivisto da una persona. Alcuni servizi offrono trascrizioni certificate, richieste dai tribunali e in alcuni ambiti legali o medici."
+                }
+            ]
+        },
+        {
+            "h2": "Prima di Citare: Rivedi la Trascrizione",
+            "intro": [
+                "L'AI ti dà una prima bozza veloce. Qualche controllo la rende sicura da citare:"
+            ],
+            "items": [
+                {
+                    "h3": "Nomi, luoghi e cifre",
+                    "content": "Verificali sulla registrazione: sono le parole che qualsiasi strumento sbaglia più facilmente."
+                },
+                {
+                    "h3": "Parlato poco chiaro o sovrapposto",
+                    "content": "Riascolta ogni punto in cui le persone si sono parlate sopra o l'audio si è interrotto."
+                },
+                {
+                    "h3": "Chi l'ha detto",
+                    "content": "Conferma chi parla prima di attribuire una citazione."
+                },
+                {
+                    "h3": "Consenso e dati",
+                    "content": "Chiedi il permesso di registrare, segui le regole etiche o aziendali ed elimina le trascrizioni che non ti servono più."
+                }
+            ]
+        },
+        {
+            "h2": "Come Ottenere una Trascrizione dell'Intervista più Pulita",
+            "items": [
+                {
+                    "h3": "Registra vicino a chi parla",
+                    "content": "Un telefono sul tavolo tra voi funziona meglio di un portatile dall'altra parte della stanza."
+                },
+                {
+                    "h3": "Evita di parlarvi sopra",
+                    "content": "Il parlato sovrapposto è la parte più difficile da trascrivere, per qualsiasi strumento o persona."
+                },
+                {
+                    "h3": "Scegli una stanza silenziosa",
+                    "content": "Musica di sottofondo e rumore da bar abbassano la precisione più degli accenti."
+                },
+                {
+                    "h3": "Pronuncia chiaramente nomi e termini almeno una volta",
+                    "content": "Così è più facile individuarli e correggerli nella trascrizione."
+                }
+            ]
+        },
+        {
+            "h2": "Privacy: le Tue Interviste Restano Tue",
+            "content": [
+                "Le interviste contengono spesso informazioni personali o riservate. I file caricati vengono eliminati automaticamente e le tue registrazioni e trascrizioni non vengono usate per addestrare modelli di AI.",
+                "Puoi eliminare una singola trascrizione, o tutti i tuoi dati, in qualsiasi momento dal tuo account. Consulta l'<a href=\"/privacy-policy/\">Informativa sulla Privacy</a> per i dettagli."
+            ]
+        },
+        {
+            "h2": "Domande Frequenti",
+            "items": [
+                {
+                    "q": "Come posso trascrivere un'intervista gratis?",
+                    "a": "Carica la registrazione su TranscriptX o registrala nel browser. Puoi provarlo gratis senza account."
+                },
+                {
+                    "q": "Distingue l'intervistatore dall'intervistato?",
+                    "a": "Sì, con il piano Pro i parlanti vengono etichettati automaticamente. Con il piano Free ottieni paragrafi con timestamp senza i nomi dei parlanti."
+                },
+                {
+                    "q": "Quanto è precisa la trascrizione di interviste con l'AI?",
+                    "a": "Le registrazioni chiare vengono trascritte quasi parola per parola. Controlla sempre nomi, numeri e citazioni sull'audio prima di pubblicarli o citarli."
+                },
+                {
+                    "q": "Posso esportare la trascrizione in Word?",
+                    "a": "Sì. Scaricala in DOCX, oppure in PDF o TXT."
+                },
+                {
+                    "q": "Posso trascrivere un'intervista su Zoom o al telefono?",
+                    "a": "Sì. Carica il file della registrazione da Zoom, Teams, Meet o dal telefono. TranscriptX non partecipa alle chiamate: carichi tu la registrazione dopo."
+                },
+                {
+                    "q": "Devo scaricare un'app?",
+                    "a": "No. TranscriptX funziona nel browser del computer o del telefono, quindi non c'è niente da installare."
+                },
+                {
+                    "q": "È adatto per trascrizioni legali o giudiziarie?",
+                    "a": "No. I tribunali di solito richiedono una trascrizione certificata fatta da una persona. Usa TranscriptX per le bozze e per cercare nella registrazione."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Trascrivi la Tua Prossima Intervista",
+        "content": [
+            "Carica la registrazione o premi Registra e ottieni un testo da citare, codificare e riportare, con un timestamp su ogni paragrafo per verificarlo sull'audio.",
+            "Prima volta con le trascrizioni per la ricerca? Leggi <a href=\"/blog/how-to-transcribe-an-interview/\">come trascrivere un'intervista</a> passo passo.",
+            "Per altre registrazioni usa [Da Audio a Testo](/it/audio-to-text) o [Da Video a Testo](/it/video-to-text); per le tue note vocali usa [Da Voce a Testo](/it/voice-to-text). Gratis da provare, senza account."
+        ]
+    }
+}

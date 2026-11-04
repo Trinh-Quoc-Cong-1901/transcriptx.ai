@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Retranscription d'entretien en ligne — Audio en texte | TranscriptX",
+        "description": "Retranscrivez vos entretiens audio en texte en ligne pour la recherche, le journalisme et le recrutement. Importez ou enregistrez, vérifiez, exportez en Word.",
+        "schemaName": "TranscriptX — Retranscription d'entretien",
+        "schemaDescription": "Retranscription d'entretien par IA dans le navigateur : importez ou enregistrez un entretien, obtenez une transcription modifiable avec horodatages et identification des locuteurs (Pro), prenez des notes à côté et exportez en DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Retranscription d'entretien : de l'enregistrement au texte citable",
+        "ogDescription": "Importez ou enregistrez un entretien et obtenez un texte à citer, coder et référencer, avec des horodatages pour vérifier chaque ligne avec l'audio."
+    },
+    "hero": {
+        "h1": "Retranscription d'entretien",
+        "subtitle": "Transformez un entretien enregistré en texte que vous pouvez citer, coder et référencer. Importez le fichier ou enregistrez la conversation dans votre navigateur, et TranscriptX la retranscrit avec un horodatage sur chaque paragraphe, pour vérifier chaque ligne avec l'audio. Exportez en Word, PDF ou TXT. Essai gratuit, sans compte.",
+        "placeholder": "Importez l'enregistrement d'un entretien ou collez un lien...",
+        "button": "Retranscrire l'entretien"
+    },
+    "quickAnswer": {
+        "question": "Comment retranscrire un entretien ?",
+        "answer": "Importez l'enregistrement de l'entretien dans TranscriptX, ou appuyez sur Enregistrer pour le capter dans le navigateur. Vous obtenez en quelques secondes une transcription modifiable avec horodatages. Relisez-la en écoutant l'audio, corrigez les noms et les termes, puis copiez le texte ou téléchargez-le en DOCX, PDF ou TXT pour vos notes, votre article ou votre analyse."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la retranscription d'entretien ?",
+            "content": [
+                "La retranscription d'entretien (interview transcription) transforme une conversation enregistrée en texte écrit. Les chercheurs la codent, les journalistes la citent et les recruteurs la conservent comme trace de ce qu'a dit un candidat.",
+                "Retranscrire un entretien à la main prend plusieurs heures par heure d'audio. TranscriptX convertit l'audio de l'entretien en texte en quelques secondes et garde un horodatage sur chaque paragraphe : vous passez votre temps à vérifier et exploiter la transcription plutôt qu'à la taper."
+            ]
+        },
+        {
+            "h2": "La retranscription d'entretien en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Entrée",
+                    "value": "Importez un enregistrement, enregistrez dans le navigateur ou collez le lien d'un entretien vidéo ou d'un podcast"
+                },
+                {
+                    "label": "Provenance des fichiers",
+                    "value": "Votre appareil, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Vérifier chaque citation",
+                    "value": "Horodatage sur chaque paragraphe, avec l'enregistrement qui se lit à côté du texte"
+                },
+                {
+                    "label": "Qui a dit quoi",
+                    "value": "Identification des locuteurs avec le forfait Pro"
+                },
+                {
+                    "label": "Notes pendant la lecture",
+                    "value": "Onglet Notes à côté de la transcription, avec horodatages et listes de contrôle"
+                },
+                {
+                    "label": "Pour votre analyse",
+                    "value": "Téléchargement en DOCX, PDF ou TXT"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, détectées automatiquement"
+                },
+                {
+                    "label": "Prix",
+                    "value": "Essai gratuit, sans compte · Forfait Pro pour un usage intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Comment retranscrire un entretien",
+            "steps": [
+                {
+                    "h3": "Enregistrez ou importez l'entretien",
+                    "content": "Appuyez sur Enregistrer pour capter un entretien en face à face dans le navigateur, ou importez le fichier audio ou vidéo depuis votre appareil, Google Drive, Dropbox ou OneDrive. Les enregistrements Zoom, Teams ou d'appels téléphoniques fonctionnent aussi."
+                },
+                {
+                    "h3": "Obtenez la transcription",
+                    "content": "TranscriptX détecte la langue et retranscrit la conversation en paragraphes ponctués, chacun avec un horodatage."
+                },
+                {
+                    "h3": "Vérifiez-la avec l'audio",
+                    "content": "Écoutez l'enregistrement à côté du texte, corrigez les noms et les termes techniques avec Modifier, et notez les moments clés dans l'onglet Notes."
+                },
+                {
+                    "h3": "Copiez ou exportez",
+                    "content": "Copiez la transcription, ou téléchargez-la en DOCX, PDF ou TXT pour l'analyse et l'archivage, ou en SRT ou VTT pour des sous-titres."
+                }
+            ]
+        },
+        {
+            "h2": "Retranscrire l'audio d'un entretien en texte en ligne",
+            "content": [
+                "Rien à installer. Ouvrez cette page dans le navigateur de votre ordinateur ou de votre téléphone, ajoutez l'enregistrement, et la transcription s'affiche sur la même page.",
+                "La plupart des entretiens finissent en fichier audio issu d'un téléphone ou d'un dictaphone, ou en fichier vidéo issu de Zoom, Teams ou Meet. Les deux fonctionnent : TranscriptX extrait la parole du fichier et la transforme en texte. Si l'entretien est déjà en ligne, par exemple un épisode de podcast ou une vidéo, collez le lien au lieu de le télécharger d'abord.",
+                "Vous pouvez retranscrire vos entretiens en ligne avec un essai gratuit, sans compte. Si vous retranscrivez beaucoup, découvrez le <a href=\"/pricing/\">forfait Pro</a>."
+            ]
+        },
+        {
+            "h2": "Retranscription pour la recherche qualitative",
+            "content": [
+                "En recherche qualitative, la transcription, ce sont vos données. Vous la lisez ligne par ligne, codez des thèmes et citez des participants dans un mémoire, une thèse ou un article : elle doit donc être complète et facile à relier à l'enregistrement. C'est ce qu'apporte une bonne retranscription de recherche : chaque mot dans l'ordre, avec un moyen de revenir à l'audio.",
+                "Importez un enregistrement par participant : chacun devient une transcription distincte dans votre historique. Téléchargez-les en DOCX pour les coder dans Word ou les importer dans votre logiciel d'analyse, et gardez les horodatages pour pouvoir vérifier chaque citation.",
+                "Pour une retranscription qualitative, décidez tôt si vous avez besoin d'une retranscription intégrale (chaque pause et chaque hésitation) ou d'une retranscription nettoyée (des phrases lisibles), et gardez le même style pour toute l'étude. Le guide pas à pas <a href=\"/blog/how-to-transcribe-an-interview/\">Comment retranscrire un entretien pour la recherche qualitative</a> détaille la mise en forme, l'anonymisation et le nommage des fichiers."
+            ]
+        },
+        {
+            "h2": "Retranscription de focus groups",
+            "intro": [
+                "Les focus groups sont plus difficiles que les entretiens individuels : plus de voix, et les gens parlent souvent en même temps. Quelques habitudes rendent la transcription bien plus facile à exploiter :"
+            ],
+            "items": [
+                {
+                    "h3": "Un micro au centre",
+                    "content": "Placez l'enregistreur au centre de la table, pas à une extrémité, pour que chaque voix lui parvienne à un niveau similaire."
+                },
+                {
+                    "h3": "Les noms au début",
+                    "content": "Demandez à chacun de dire son prénom ou son identifiant de participant avant le début de la discussion. Cela aide ensuite à associer les voix aux personnes."
+                },
+                {
+                    "h3": "Identification des locuteurs",
+                    "content": "Avec le forfait Pro, TranscriptX identifie automatiquement les locuteurs. Vérifiez chaque étiquette avec votre liste de participants pendant la relecture."
+                },
+                {
+                    "h3": "Plus de temps pour les chevauchements",
+                    "content": "Prévoyez une relecture plus longue que pour un entretien individuel, surtout là où plusieurs personnes ont parlé en même temps."
+                }
+            ]
+        },
+        {
+            "h2": "Logiciel ou application de retranscription d'entretien ?",
+            "content": [
+                "Pas besoin de logiciel à installer ni d'application dédiée à la retranscription d'entretien. TranscriptX fonctionne dans le navigateur : le même outil marche sur l'ordinateur de votre bureau et sur votre téléphone juste après un entretien.",
+                "Sur téléphone, appuyez sur Enregistrer pour capter la conversation, ou importez le mémo vocal que vous avez déjà fait. Vos transcriptions restent dans votre historique : vous pouvez commencer sur le téléphone et finir la vérification sur l'ordinateur."
+            ]
+        },
+        {
+            "h2": "Qui utilise la retranscription d'entretien",
+            "intro": [
+                "Toute personne qui enregistre une conversation et doit ensuite travailler sur les mots :"
+            ],
+            "items": [
+                {
+                    "h3": "Chercheurs et étudiants",
+                    "content": "Retranscrivez des entretiens de recherche et des focus groups pour un mémoire, une thèse ou un article, puis codez-les et citez-les."
+                },
+                {
+                    "h3": "Journalistes",
+                    "content": "Interviewez, retranscrivez et citez le jour même : trouvez la phrase dans le texte, écoutez ce passage pour la confirmer et collez-la dans votre article."
+                },
+                {
+                    "h3": "Recrutement et RH",
+                    "content": "Gardez une trace écrite des entretiens d'embauche pour comparer les réponses et la partager avec le jury."
+                },
+                {
+                    "h3": "Podcasteurs et créateurs",
+                    "content": "Transformez une conversation enregistrée en notes d'épisode, articles, citations et sous-titres."
+                }
+            ]
+        },
+        {
+            "h2": "Retranscription par IA, à la main ou par un service humain ?",
+            "intro": [
+                "Chaque option répond à un besoin différent. Choisissez selon l'usage de la transcription :"
+            ],
+            "items": [
+                {
+                    "h3": "Retranscription par IA (TranscriptX)",
+                    "content": "De quelques secondes à quelques minutes, avec un essai gratuit. Presque mot pour mot sur un audio clair, mais relisez avant de citer. Idéal pour la recherche, les articles, les notes de recrutement et les contenus."
+                },
+                {
+                    "h3": "La taper vous-même",
+                    "content": "Ne coûte rien, sauf du temps : généralement plusieurs heures par heure d'audio. Réaliste seulement pour des extraits très courts."
+                },
+                {
+                    "h3": "Un service de retranscription humaine",
+                    "content": "Facturé à la minute d'audio et plus lent, mais relu par une personne. Certains services proposent des transcriptions certifiées, exigées par les tribunaux et pour certains travaux juridiques ou médicaux."
+                }
+            ]
+        },
+        {
+            "h2": "Avant de citer : relisez la transcription",
+            "intro": [
+                "L'IA vous donne un premier jet rapide. Quelques vérifications permettent de le citer sans risque :"
+            ],
+            "items": [
+                {
+                    "h3": "Noms, lieux et chiffres",
+                    "content": "Vérifiez-les avec l'enregistrement ; ce sont les mots que tout outil se trompe le plus facilement."
+                },
+                {
+                    "h3": "Passages peu clairs ou superposés",
+                    "content": "Réécoutez partout où des personnes ont parlé en même temps ou où le son a décroché."
+                },
+                {
+                    "h3": "Qui l'a dit",
+                    "content": "Confirmez le locuteur avant d'attribuer une citation."
+                },
+                {
+                    "h3": "Consentement et données",
+                    "content": "Demandez l'autorisation d'enregistrer, respectez les règles éthiques ou celles de votre entreprise, et supprimez les transcriptions dont vous n'avez plus besoin."
+                }
+            ]
+        },
+        {
+            "h2": "Comment obtenir une transcription d'entretien plus propre",
+            "items": [
+                {
+                    "h3": "Enregistrez près des personnes qui parlent",
+                    "content": "Un téléphone posé sur la table entre vous vaut mieux qu'un ordinateur à l'autre bout de la pièce."
+                },
+                {
+                    "h3": "Évitez de parler en même temps",
+                    "content": "La parole superposée est la partie la plus difficile à retranscrire, pour un outil comme pour une personne."
+                },
+                {
+                    "h3": "Choisissez une pièce calme",
+                    "content": "La musique de fond et le bruit d'un café réduisent davantage la précision que les accents."
+                },
+                {
+                    "h3": "Prononcez clairement les noms et termes une fois",
+                    "content": "Ils sont ainsi plus faciles à repérer et à corriger dans la transcription."
+                }
+            ]
+        },
+        {
+            "h2": "Confidentialité : vos entretiens restent à vous",
+            "content": [
+                "Les entretiens contiennent souvent des informations personnelles ou confidentielles. Les fichiers importés sont supprimés automatiquement, et vos enregistrements et transcriptions ne servent pas à entraîner des modèles d'IA.",
+                "Vous pouvez supprimer une transcription, ou toutes vos données, à tout moment depuis votre compte. Consultez la <a href=\"/privacy-policy/\">Politique de confidentialité</a> pour en savoir plus."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment retranscrire un entretien gratuitement ?",
+                    "a": "Importez l'enregistrement dans TranscriptX ou enregistrez-le dans le navigateur. Vous pouvez l'essayer gratuitement, sans compte."
+                },
+                {
+                    "q": "Peut-il distinguer l'intervieweur et le participant ?",
+                    "a": "Oui, avec le forfait Pro les locuteurs sont identifiés automatiquement. En version gratuite, vous obtenez des paragraphes horodatés sans nom de locuteur."
+                },
+                {
+                    "q": "Quelle est la précision de la retranscription d'entretien par IA ?",
+                    "a": "Les enregistrements clairs ressortent presque mot pour mot. Vérifiez toujours les noms, les chiffres et les citations avec l'audio avant de les publier ou de les citer."
+                },
+                {
+                    "q": "Puis-je exporter la transcription en Word ?",
+                    "a": "Oui. Téléchargez-la en DOCX, ou en PDF ou TXT."
+                },
+                {
+                    "q": "Puis-je retranscrire un entretien Zoom ou téléphonique ?",
+                    "a": "Oui. Importez le fichier d'enregistrement de Zoom, Teams, Meet ou de votre téléphone. TranscriptX ne rejoint pas les appels : vous importez l'enregistrement après coup."
+                },
+                {
+                    "q": "Faut-il télécharger une application ?",
+                    "a": "Non. TranscriptX fonctionne dans le navigateur de votre ordinateur ou de votre téléphone, il n'y a donc rien à installer."
+                },
+                {
+                    "q": "Convient-il aux transcriptions juridiques ou judiciaires ?",
+                    "a": "Non. Les tribunaux exigent généralement une transcription humaine certifiée. Utilisez TranscriptX pour des brouillons et pour rechercher dans l'enregistrement."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Retranscrivez votre prochain entretien",
+        "content": [
+            "Importez l'enregistrement ou appuyez sur Enregistrer, et obtenez un texte à citer, coder et référencer, avec un horodatage sur chaque paragraphe pour le vérifier avec l'audio.",
+            "Première transcription de recherche ? Lisez <a href=\"/blog/how-to-transcribe-an-interview/\">comment retranscrire un entretien</a> étape par étape.",
+            "Pour d'autres enregistrements, utilisez [Transcription audio](/fr/audio-to-text) ou [Transcription vidéo](/fr/video-to-text) ; pour vos propres notes vocales, utilisez [Voix en texte](/fr/voice-to-text). Essai gratuit, sans compte."
+        ]
+    }
+}

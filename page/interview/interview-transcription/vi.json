@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Chuyển phỏng vấn thành văn bản — Gỡ băng phỏng vấn online | TranscriptX",
+        "description": "Gỡ băng phỏng vấn online cho nghiên cứu, báo chí và tuyển dụng. Tải lên hoặc ghi âm, đối chiếu từng dòng nhờ dấu thời gian, xuất ra Word.",
+        "schemaName": "Công cụ chuyển phỏng vấn thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ AI gỡ băng phỏng vấn ngay trên trình duyệt: tải lên hoặc ghi âm buổi phỏng vấn, nhận bản chép lời chỉnh sửa được có dấu thời gian và nhãn người nói (gói Pro), ghi chú ngay bên cạnh và xuất ra DOCX, PDF, TXT, SRT hoặc VTT.",
+        "ogTitle": "Gỡ băng phỏng vấn: từ file ghi âm thành văn bản trích dẫn được",
+        "ogDescription": "Tải lên hoặc ghi âm buổi phỏng vấn và nhận văn bản để trích dẫn, mã hóa và dẫn nguồn, kèm dấu thời gian để đối chiếu từng dòng với bản ghi."
+    },
+    "hero": {
+        "h1": "Chuyển phỏng vấn thành văn bản",
+        "subtitle": "Biến buổi phỏng vấn đã ghi âm thành văn bản để trích dẫn, mã hóa và dẫn nguồn. Tải file lên hoặc ghi âm cuộc trò chuyện ngay trên trình duyệt, TranscriptX sẽ chép lại kèm dấu thời gian ở mỗi đoạn, để bạn đối chiếu từng dòng với bản ghi. Xuất ra Word, PDF hoặc TXT. Dùng thử miễn phí, không cần tài khoản.",
+        "placeholder": "Tải lên file ghi âm phỏng vấn hoặc dán đường link...",
+        "button": "Chuyển phỏng vấn thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để gỡ băng một buổi phỏng vấn?",
+        "answer": "Tải file ghi âm phỏng vấn lên TranscriptX, hoặc bấm Ghi âm để thu ngay trên trình duyệt. Trong vài giây bạn có bản chép lời chỉnh sửa được, kèm dấu thời gian. Đọc lại song song với bản ghi, sửa tên riêng và thuật ngữ, rồi sao chép văn bản hoặc tải về dạng DOCX, PDF hay TXT cho ghi chú, bài viết hoặc phân tích của bạn."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển phỏng vấn thành văn bản là gì?",
+            "content": [
+                "Chuyển phỏng vấn thành văn bản (interview transcription), hay còn gọi là gỡ băng phỏng vấn, là biến một cuộc trò chuyện đã ghi âm thành chữ viết. Nhà nghiên cứu dùng nó để mã hóa dữ liệu, nhà báo dùng để trích dẫn, còn nhà tuyển dụng lưu lại làm hồ sơ những gì ứng viên đã nói.",
+                "Gỡ băng thủ công mất nhiều giờ cho mỗi giờ ghi âm. TranscriptX chuyển âm thanh phỏng vấn thành văn bản trong vài giây và giữ dấu thời gian ở mỗi đoạn, để bạn dành thời gian kiểm tra và sử dụng bản chép lời thay vì ngồi gõ lại."
+            ]
+        },
+        {
+            "h2": "Chuyển phỏng vấn thành văn bản – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Đầu vào",
+                    "value": "Tải lên file ghi âm, ghi âm ngay trên trình duyệt, hoặc dán link video hay podcast phỏng vấn"
+                },
+                {
+                    "label": "Nguồn file",
+                    "value": "Thiết bị của bạn, Google Drive, Dropbox hoặc OneDrive"
+                },
+                {
+                    "label": "Kiểm tra từng trích dẫn",
+                    "value": "Dấu thời gian ở mỗi đoạn, bản ghi phát ngay cạnh văn bản"
+                },
+                {
+                    "label": "Ai nói gì",
+                    "value": "Nhãn người nói trên gói Pro"
+                },
+                {
+                    "label": "Ghi chú khi đọc",
+                    "value": "Thẻ Ghi chú cạnh bản chép lời, có dấu thời gian và danh sách việc cần làm"
+                },
+                {
+                    "label": "Cho việc phân tích",
+                    "value": "Tải về dạng DOCX, PDF hoặc TXT"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Chi phí",
+                    "value": "Dùng thử miễn phí, không cần tài khoản · Gói Pro cho nhu cầu dùng nhiều"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chuyển phỏng vấn thành văn bản",
+            "steps": [
+                {
+                    "h3": "Ghi âm hoặc tải buổi phỏng vấn lên",
+                    "content": "Bấm Ghi âm để thu buổi phỏng vấn trực tiếp ngay trên trình duyệt, hoặc tải file âm thanh hay video lên từ thiết bị, Google Drive, Dropbox hoặc OneDrive. Bản ghi cuộc gọi Zoom, Teams hay điện thoại cũng dùng được."
+                },
+                {
+                    "h3": "Nhận bản chép lời",
+                    "content": "TranscriptX nhận diện ngôn ngữ và chép lại cuộc trò chuyện thành các đoạn có dấu câu, mỗi đoạn kèm dấu thời gian."
+                },
+                {
+                    "h3": "Đối chiếu với bản ghi",
+                    "content": "Phát bản ghi cạnh văn bản, sửa tên riêng và thuật ngữ chuyên môn bằng nút Sửa, và đánh dấu những đoạn quan trọng trong thẻ Ghi chú."
+                },
+                {
+                    "h3": "Sao chép hoặc xuất file",
+                    "content": "Sao chép bản chép lời, hoặc tải về dạng DOCX, PDF hay TXT để phân tích và lưu trữ, hoặc dạng SRT hay VTT để làm phụ đề."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển file ghi âm phỏng vấn thành văn bản online",
+            "content": [
+                "Không cần cài đặt gì. Mở trang này trên trình duyệt máy tính hoặc điện thoại, thêm file ghi âm, và bản chép lời hiện ra ngay trên cùng trang.",
+                "Phần lớn buổi phỏng vấn được lưu thành file âm thanh từ điện thoại hay máy ghi âm, hoặc file video từ Zoom, Teams hay Meet. Cả hai đều dùng được: TranscriptX lấy giọng nói trong file và chuyển thành văn bản. Nếu buổi phỏng vấn đã có trên mạng, ví dụ một tập podcast hay một video, chỉ cần dán link thay vì tải về trước.",
+                "Bạn có thể dùng thử miễn phí việc gỡ băng phỏng vấn online, không cần tài khoản. Nếu cần chép lời nhiều, hãy xem <a href=\"/pricing/\">gói Pro</a>."
+            ]
+        },
+        {
+            "h2": "Gỡ băng phỏng vấn cho nghiên cứu định tính",
+            "content": [
+                "Trong nghiên cứu định tính, bản gỡ băng chính là dữ liệu của bạn. Bạn đọc từng dòng, mã hóa chủ đề và trích dẫn người tham gia trong luận văn hay bài báo, nên bản chép lời phải đầy đủ và dễ truy ngược về bản ghi. Đó là điều một bản gỡ băng nghiên cứu tốt cần có: đủ từng chữ theo đúng thứ tự, và có cách quay lại đúng đoạn âm thanh.",
+                "Tải lên mỗi người tham gia một file ghi âm, mỗi file sẽ thành một bản chép lời riêng trong lịch sử của bạn. Tải về dạng DOCX để mã hóa trong Word hoặc đưa vào phần mềm phân tích, và giữ dấu thời gian để mọi trích dẫn đều kiểm tra lại được.",
+                "Với gỡ băng định tính, hãy quyết định sớm bạn cần chép nguyên văn đầy đủ (giữ mọi chỗ ngập ngừng và từ đệm) hay nguyên văn đã làm sạch (câu dễ đọc), và dùng cùng một kiểu cho cả nghiên cứu. Hướng dẫn từng bước <a href=\"/blog/how-to-transcribe-an-interview/\">Cách gỡ băng phỏng vấn cho nghiên cứu định tính</a> trình bày chi tiết cách định dạng, ẩn danh và đặt tên file."
+            ]
+        },
+        {
+            "h2": "Gỡ băng thảo luận nhóm (focus group)",
+            "intro": [
+                "Thảo luận nhóm khó hơn phỏng vấn một-một: nhiều giọng hơn, và mọi người thường nói cùng lúc. Vài thói quen nhỏ giúp bản chép lời dễ dùng hơn nhiều:"
+            ],
+            "items": [
+                {
+                    "h3": "Một micro đặt ở giữa",
+                    "content": "Đặt máy ghi âm ở giữa bàn, không đặt ở một đầu, để mọi giọng nói đến micro với âm lượng tương đương."
+                },
+                {
+                    "h3": "Giới thiệu tên ngay từ đầu",
+                    "content": "Mời từng người nói tên hoặc mã số người tham gia trước khi bắt đầu thảo luận. Việc này giúp bạn khớp giọng nói với từng người về sau."
+                },
+                {
+                    "h3": "Nhãn người nói",
+                    "content": "Trên gói Pro, TranscriptX tự động gắn nhãn người nói. Hãy đối chiếu từng nhãn với danh sách người tham gia khi rà soát."
+                },
+                {
+                    "h3": "Dành thêm thời gian cho đoạn nói chồng",
+                    "content": "Hãy dự trù thời gian rà soát lâu hơn so với một buổi phỏng vấn đơn, nhất là ở những chỗ nhiều người nói cùng lúc."
+                }
+            ]
+        },
+        {
+            "h2": "Phần mềm hay ứng dụng gỡ băng phỏng vấn?",
+            "content": [
+                "Bạn không cần phần mềm cài trên máy tính hay một ứng dụng gỡ băng phỏng vấn riêng. TranscriptX chạy trên trình duyệt, nên cùng một công cụ dùng được trên laptop ở bàn làm việc lẫn trên điện thoại ngay sau buổi phỏng vấn.",
+                "Trên điện thoại, bấm Ghi âm để thu cuộc trò chuyện, hoặc tải lên bản ghi âm giọng nói bạn đã có. Các bản chép lời được lưu trong lịch sử, nên bạn có thể bắt đầu trên điện thoại và kiểm tra nốt trên máy tính."
+            ]
+        },
+        {
+            "h2": "Ai cần chuyển phỏng vấn thành văn bản",
+            "intro": [
+                "Bất kỳ ai ghi âm một cuộc trò chuyện rồi cần làm việc với lời nói trong đó:"
+            ],
+            "items": [
+                {
+                    "h3": "Nhà nghiên cứu và sinh viên",
+                    "content": "Gỡ băng phỏng vấn nghiên cứu và thảo luận nhóm cho luận văn, luận án hay bài báo, rồi mã hóa và trích dẫn."
+                },
+                {
+                    "h3": "Nhà báo",
+                    "content": "Phỏng vấn, gỡ băng và trích dẫn trong cùng một ngày: tìm câu nói trong văn bản, phát đúng đoạn đó để xác nhận, rồi dán vào bản thảo."
+                },
+                {
+                    "h3": "Tuyển dụng và nhân sự",
+                    "content": "Lưu biên bản bằng chữ của các buổi phỏng vấn ứng viên để so sánh câu trả lời và chia sẻ với hội đồng."
+                },
+                {
+                    "h3": "Podcaster và nhà sáng tạo nội dung",
+                    "content": "Biến cuộc trò chuyện đã ghi âm thành ghi chú tập, bài viết, trích dẫn và phụ đề."
+                }
+            ]
+        },
+        {
+            "h2": "Dùng AI, tự gõ hay thuê dịch vụ gỡ băng?",
+            "intro": [
+                "Mỗi lựa chọn hợp với một nhu cầu khác nhau. Hãy chọn theo mục đích của bản chép lời:"
+            ],
+            "items": [
+                {
+                    "h3": "Chép lời bằng AI (TranscriptX)",
+                    "content": "Vài giây đến vài phút, dùng thử miễn phí. Gần như đúng từng chữ với âm thanh rõ, nhưng hãy rà soát trước khi trích dẫn. Phù hợp nhất cho nghiên cứu, bài viết, ghi chú tuyển dụng và nội dung."
+                },
+                {
+                    "h3": "Tự gõ lại",
+                    "content": "Không tốn tiền, chỉ tốn thời gian: thường vài giờ cho mỗi giờ ghi âm. Chỉ thực tế với những đoạn rất ngắn."
+                },
+                {
+                    "h3": "Dịch vụ gỡ băng do người làm",
+                    "content": "Tính phí theo phút âm thanh và chậm hơn, nhưng có người kiểm tra. Một số dịch vụ cung cấp bản chép lời có chứng nhận, loại mà tòa án và một số công việc pháp lý hay y tế yêu cầu."
+                }
+            ]
+        },
+        {
+            "h2": "Trước khi trích dẫn: rà soát bản chép lời",
+            "intro": [
+                "AI cho bạn bản nháp đầu tiên thật nhanh. Vài bước kiểm tra giúp bạn yên tâm khi trích dẫn:"
+            ],
+            "items": [
+                {
+                    "h3": "Tên riêng, địa danh và số liệu",
+                    "content": "Đối chiếu chúng với bản ghi; đây là những từ dễ sai nhất với bất kỳ công cụ nào."
+                },
+                {
+                    "h3": "Đoạn nói không rõ hoặc nói chồng",
+                    "content": "Nghe lại những chỗ mọi người nói chen nhau hoặc âm thanh bị mất."
+                },
+                {
+                    "h3": "Ai đã nói",
+                    "content": "Xác nhận người nói trước khi ghi nguồn cho một trích dẫn."
+                },
+                {
+                    "h3": "Sự đồng ý và dữ liệu",
+                    "content": "Xin phép trước khi ghi âm, tuân thủ quy định đạo đức nghiên cứu hoặc quy định của công ty, và xóa những bản chép lời không còn cần."
+                }
+            ]
+        },
+        {
+            "h2": "Cách có bản gỡ băng phỏng vấn sạch hơn",
+            "items": [
+                {
+                    "h3": "Ghi âm gần người nói",
+                    "content": "Một chiếc điện thoại đặt trên bàn giữa hai người tốt hơn chiếc laptop ở góc phòng."
+                },
+                {
+                    "h3": "Tránh nói chen nhau",
+                    "content": "Lời nói chồng lên nhau là phần khó chép nhất, với cả công cụ lẫn con người."
+                },
+                {
+                    "h3": "Chọn phòng yên tĩnh",
+                    "content": "Nhạc nền và tiếng ồn quán cà phê làm giảm độ chính xác nhiều hơn giọng địa phương."
+                },
+                {
+                    "h3": "Nói rõ tên và thuật ngữ một lần",
+                    "content": "Như vậy sẽ dễ phát hiện và sửa chúng trong bản chép lời hơn."
+                }
+            ]
+        },
+        {
+            "h2": "Quyền riêng tư: buổi phỏng vấn vẫn là của bạn",
+            "content": [
+                "Phỏng vấn thường chứa thông tin cá nhân hoặc bảo mật. File tải lên được tự động xóa, và bản ghi cũng như bản chép lời của bạn không được dùng để huấn luyện mô hình AI.",
+                "Bạn có thể xóa từng bản chép lời, hoặc toàn bộ dữ liệu, bất cứ lúc nào từ tài khoản của mình. Xem <a href=\"/privacy-policy/\">Chính sách quyền riêng tư</a> để biết chi tiết."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để gỡ băng phỏng vấn miễn phí?",
+                    "a": "Tải file ghi âm lên TranscriptX hoặc ghi âm ngay trên trình duyệt. Bạn có thể dùng thử miễn phí, không cần tài khoản."
+                },
+                {
+                    "q": "Công cụ có phân biệt được người phỏng vấn và người được phỏng vấn không?",
+                    "a": "Có, trên gói Pro người nói được gắn nhãn tự động. Ở gói miễn phí, bạn nhận các đoạn có dấu thời gian nhưng không có tên người nói."
+                },
+                {
+                    "q": "Gỡ băng phỏng vấn bằng AI chính xác đến đâu?",
+                    "a": "Bản ghi rõ ràng sẽ ra gần như đúng từng chữ. Luôn đối chiếu tên, con số và trích dẫn với bản ghi trước khi đăng hoặc dẫn nguồn."
+                },
+                {
+                    "q": "Tôi có thể xuất bản chép lời ra Word không?",
+                    "a": "Có. Tải về dạng DOCX, hoặc PDF hay TXT."
+                },
+                {
+                    "q": "Có gỡ băng được phỏng vấn qua Zoom hay điện thoại không?",
+                    "a": "Có. Tải lên file ghi âm từ Zoom, Teams, Meet hoặc điện thoại. TranscriptX không tham gia cuộc gọi; bạn tải bản ghi lên sau khi gọi xong."
+                },
+                {
+                    "q": "Tôi có cần tải ứng dụng không?",
+                    "a": "Không. TranscriptX chạy trên trình duyệt máy tính hoặc điện thoại, nên không cần cài đặt gì."
+                },
+                {
+                    "q": "Có dùng được cho biên bản pháp lý hay hồ sơ tòa án không?",
+                    "a": "Không. Tòa án thường yêu cầu bản chép lời có chứng nhận do người thực hiện. Hãy dùng TranscriptX cho bản nháp và để tìm kiếm trong bản ghi."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Gỡ băng buổi phỏng vấn tiếp theo của bạn",
+        "content": [
+            "Tải file ghi âm lên hoặc bấm Ghi âm, và nhận văn bản để trích dẫn, mã hóa và dẫn nguồn, với dấu thời gian ở mỗi đoạn để đối chiếu với bản ghi.",
+            "Mới làm quen với gỡ băng nghiên cứu? Đọc hướng dẫn <a href=\"/blog/how-to-transcribe-an-interview/\">cách gỡ băng phỏng vấn</a> từng bước.",
+            "Với các bản ghi khác, hãy dùng [Chuyển âm thanh thành văn bản](/vi/audio-to-text) hoặc [Chuyển video thành văn bản](/vi/video-to-text); với ghi chú giọng nói của chính bạn, hãy dùng [Chuyển giọng nói thành văn bản](/vi/voice-to-text). Dùng thử miễn phí, không cần tài khoản."
+        ]
+    }
+}

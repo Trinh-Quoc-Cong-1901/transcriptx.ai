@@ -1,0 +1,271 @@
+{
+    "seo": {
+        "title": "Interview Transcription — Transcribe Interviews Online | TranscriptX",
+        "description": "Transcribe interview audio to text online for research, journalism and hiring. Upload or record, check every line with timestamps, export to Word.",
+        "schemaName": "TranscriptX Interview Transcription",
+        "schemaDescription": "AI interview transcription in the browser: upload or record an interview, get an editable transcript with timestamps and speaker labels (Pro), add notes beside it and export to DOCX, PDF, TXT, SRT or VTT.",
+        "ogTitle": "Interview Transcription: Recording to Quotable Text",
+        "ogDescription": "Upload or record an interview and get text you can quote, code and cite, with timestamps to check every line against the audio."
+    },
+    "hero": {
+        "h1": "Interview Transcription",
+        "subtitle": "Turn a recorded interview into text you can quote, code and cite. Upload the file or record the conversation in your browser, and TranscriptX writes it out with a timestamp on every paragraph, so each line can be checked against the audio. Export to Word, PDF or TXT. Free to try, no account needed.",
+        "placeholder": "Upload an interview recording or paste a link...",
+        "button": "Transcribe Interview"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe an interview?",
+        "answer": "Upload the interview recording to TranscriptX, or press Record and capture it in the browser. You get an editable transcript with timestamps in seconds. Read it against the audio, fix names and terms, then copy the text or download it as DOCX, PDF or TXT for your notes, article or analysis."
+    },
+    "sections": [
+        {
+            "h2": "What Is Interview Transcription?",
+            "content": [
+                "Interview transcription turns a recorded conversation into written text. Researchers code it, journalists quote it, and recruiters keep it as a record of what a candidate said.",
+                "Transcribing the interview by hand takes hours for every hour of audio. TranscriptX turns the interview audio into text in seconds and keeps a timestamp on each paragraph, so you spend your time checking and using the transcript instead of typing it."
+            ]
+        },
+        {
+            "h2": "Interview Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Upload a recording, record in the browser, or paste a link to a video or podcast interview"
+                },
+                {
+                    "label": "Where files come from",
+                    "value": "Your device, Google Drive, Dropbox or OneDrive"
+                },
+                {
+                    "label": "Check every quote",
+                    "value": "Timestamp on each paragraph, with the recording playing beside the text"
+                },
+                {
+                    "label": "Who said what",
+                    "value": "Speaker labels on the Pro plan"
+                },
+                {
+                    "label": "Notes while you read",
+                    "value": "Notes tab next to the transcript, with timestamps and checklists"
+                },
+                {
+                    "label": "For your analysis",
+                    "value": "Download as DOCX, PDF or TXT"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Price",
+                    "value": "Free to try, no account needed · Pro plan for heavy use"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe an Interview",
+            "steps": [
+                {
+                    "h3": "Record or upload the interview",
+                    "content": "Press Record to capture an in-person interview in the browser, or upload the audio or video file from your device, Google Drive, Dropbox or OneDrive. Recordings of Zoom, Teams or phone calls work too."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "TranscriptX detects the language and writes out the conversation as punctuated paragraphs, each with a timestamp."
+                },
+                {
+                    "h3": "Check it against the audio",
+                    "content": "Play the recording beside the text, correct names and technical terms with Edit, and mark key moments in the Notes tab."
+                },
+                {
+                    "h3": "Copy or export",
+                    "content": "Copy the transcript, or download it as DOCX, PDF or TXT for analysis and archiving, or as SRT or VTT for subtitles."
+                }
+            ]
+        },
+        {
+            "h2": "Transcribe Interview Audio to Text Online",
+            "content": [
+                "There is nothing to install. Open this page in your browser on a computer or phone, add the recording, and the transcript appears on the same page.",
+                "Most interviews end up as an audio file from a phone or recorder, or a video file from Zoom, Teams or Meet. Both work: TranscriptX takes the speech from the file and turns it into text. If the interview is already online, for example a podcast episode or a video, paste the link instead of downloading it first.",
+                "You can transcribe interviews online free to try, without an account. If you transcribe a lot, see the <a href=\"/pricing/\">Pro plan</a>."
+            ]
+        },
+        {
+            "h2": "Qualitative Research Transcription",
+            "content": [
+                "In qualitative research, the transcript is your data. You read it line by line, code themes and quote participants in a thesis or paper, so it has to be complete and easy to trace back to the recording. That is what good research transcription delivers: every word in order, with a way back to the audio.",
+                "Upload one recording per participant and each becomes its own transcript in your history. Download them as DOCX to code in Word or bring into your analysis software, and keep the timestamps so every quote can be checked.",
+                "For qualitative transcription, decide early whether you need full verbatim (every pause and filler) or clean verbatim (readable sentences), and use the same style for the whole study. The step-by-step guide <a href=\"/blog/how-to-transcribe-an-interview/\">How to Transcribe an Interview for Qualitative Research</a> covers formatting, anonymising and file naming in detail."
+            ]
+        },
+        {
+            "h2": "Focus Group Transcription",
+            "intro": [
+                "Focus groups are harder than one-to-one interviews: more voices, and people often talk at once. A few habits make the transcript much easier to work with:"
+            ],
+            "items": [
+                {
+                    "h3": "One microphone in the middle",
+                    "content": "Put the recorder in the centre of the table, not at one end, so every voice reaches it at a similar level."
+                },
+                {
+                    "h3": "Names at the start",
+                    "content": "Ask each person to say their name or participant ID before the discussion begins. It helps you match voices to people later."
+                },
+                {
+                    "h3": "Speaker labels",
+                    "content": "On the Pro plan, TranscriptX labels speakers automatically. Check each label against your participant list during review."
+                },
+                {
+                    "h3": "Extra time for overlap",
+                    "content": "Plan a longer review than for a single interview, especially where several people spoke at once."
+                }
+            ]
+        },
+        {
+            "h2": "Interview Transcription Software or App?",
+            "content": [
+                "You don't need desktop software or a separate interview transcription app. TranscriptX runs in the browser, so the same tool works on a laptop at your desk and on your phone right after an interview.",
+                "On a phone, press Record to capture the conversation, or upload the voice memo you already made. Your transcripts stay in your history, so you can start on the phone and finish checking on a computer."
+            ]
+        },
+        {
+            "h2": "Who Uses Interview Transcription",
+            "intro": [
+                "Anyone who records a conversation and then needs to work with the words:"
+            ],
+            "items": [
+                {
+                    "h3": "Researchers and students",
+                    "content": "Transcribe research interviews and focus groups for a thesis, dissertation or paper, then code and quote them."
+                },
+                {
+                    "h3": "Journalists",
+                    "content": "Interview, transcribe and quote on the same day: find the line in the text, play that moment to confirm it, and paste it into the draft."
+                },
+                {
+                    "h3": "Hiring and HR",
+                    "content": "Keep a written record of candidate interviews to compare answers and share with the panel."
+                },
+                {
+                    "h3": "Podcasters and creators",
+                    "content": "Turn a recorded conversation into show notes, articles, quotes and subtitles."
+                }
+            ]
+        },
+        {
+            "h2": "AI Transcription, Typing It Yourself or a Human Service?",
+            "intro": [
+                "Each option fits a different need. Pick by what the transcript is for:"
+            ],
+            "items": [
+                {
+                    "h3": "AI transcription (TranscriptX)",
+                    "content": "Seconds to minutes, free to try. Close to word for word on clear audio, but review it before you quote. Best for research, articles, hiring notes and content."
+                },
+                {
+                    "h3": "Typing it yourself",
+                    "content": "Costs nothing but time: usually several hours per hour of audio. Practical only for very short clips."
+                },
+                {
+                    "h3": "A human transcription service",
+                    "content": "Paid per audio minute and slower, but reviewed by a person. Some services offer certified transcripts, which courts and some legal or medical work require."
+                }
+            ]
+        },
+        {
+            "h2": "Before You Quote: Review the Transcript",
+            "intro": [
+                "AI gets you a fast first draft. A few checks make it safe to quote:"
+            ],
+            "items": [
+                {
+                    "h3": "Names, places and figures",
+                    "content": "Check them against the recording; they are the easiest words for any tool to get wrong."
+                },
+                {
+                    "h3": "Unclear or overlapping speech",
+                    "content": "Listen again wherever people spoke over each other or the audio dropped."
+                },
+                {
+                    "h3": "Who said it",
+                    "content": "Confirm the speaker before you attribute a quote."
+                },
+                {
+                    "h3": "Consent and data",
+                    "content": "Get permission to record, follow your ethics or company rules, and delete transcripts you no longer need."
+                }
+            ]
+        },
+        {
+            "h2": "How to Get a Cleaner Interview Transcript",
+            "items": [
+                {
+                    "h3": "Record close to the speakers",
+                    "content": "A phone on the table between you beats a laptop across the room."
+                },
+                {
+                    "h3": "Avoid talking over each other",
+                    "content": "Overlapping speech is the hardest part to transcribe, for any tool or person."
+                },
+                {
+                    "h3": "Use a quiet room",
+                    "content": "Background music and café noise lower accuracy more than accents do."
+                },
+                {
+                    "h3": "Say names and terms clearly once",
+                    "content": "It makes them easier to spot and fix in the transcript."
+                }
+            ]
+        },
+        {
+            "h2": "Privacy: Your Interviews Stay Yours",
+            "content": [
+                "Interviews often hold personal or confidential information. Uploaded files are deleted automatically, and your recordings and transcripts are not used to train AI models.",
+                "You can delete a single transcript, or all your data, at any time from your account. See the <a href=\"/privacy-policy/\">Privacy Policy</a> for details."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I transcribe an interview for free?",
+                    "a": "Upload the recording to TranscriptX or record it in the browser. You can try it free without an account."
+                },
+                {
+                    "q": "Can it tell the interviewer and the participant apart?",
+                    "a": "Yes, on the Pro plan speakers are labelled automatically. On Free you get timestamped paragraphs without speaker names."
+                },
+                {
+                    "q": "How accurate is AI interview transcription?",
+                    "a": "Clear recordings come back close to word for word. Always check names, numbers and quotes against the audio before you publish or cite them."
+                },
+                {
+                    "q": "Can I export the transcript to Word?",
+                    "a": "Yes. Download it as DOCX, or as PDF or TXT."
+                },
+                {
+                    "q": "Can I transcribe a Zoom or phone interview?",
+                    "a": "Yes. Upload the recording file from Zoom, Teams, Meet or your phone. TranscriptX doesn't join calls; you upload the recording afterwards."
+                },
+                {
+                    "q": "Do I need to download an app?",
+                    "a": "No. TranscriptX works in the browser on your computer or phone, so there is nothing to install."
+                },
+                {
+                    "q": "Is it suitable for legal or court transcripts?",
+                    "a": "No. Courts usually require a certified human transcript. Use TranscriptX for drafts and for searching the recording."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Your Next Interview",
+        "content": [
+            "Upload the recording or press Record, and get text you can quote, code and cite, with a timestamp on every paragraph to check it against the audio.",
+            "New to research transcripts? Read <a href=\"/blog/how-to-transcribe-an-interview/\">how to transcribe an interview</a> step by step.",
+            "For other recordings, use [Audio to Text](/audio-to-text) or [Video to Text](/video-to-text); for your own voice notes, use [Voice to Text](/voice-to-text). Free to try, no account needed."
+        ]
+    }
+}
