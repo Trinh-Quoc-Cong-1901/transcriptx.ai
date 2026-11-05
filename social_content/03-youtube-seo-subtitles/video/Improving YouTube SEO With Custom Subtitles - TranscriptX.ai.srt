@@ -1,0 +1,194 @@
+1
+00:00:00,578 --> 00:00:02,761
+You spent an hour on your title and your
+thumbnail.
+
+2
+00:00:03,323 --> 00:00:06,181
+But there's one box almost every creator
+leaves empty.
+
+3
+00:00:06,840 --> 00:00:09,312
+And it's the one that tells YouTube what
+you actually said.
+
+4
+00:00:10,565 --> 00:00:11,565
+It's subtitles.
+
+5
+00:00:11,914 --> 00:00:16,375
+Not the auto-captions YouTube makes for
+you, but your own subtitle file, uploaded
+
+6
+00:00:16,375 --> 00:00:17,375
+with the video.
+
+7
+00:00:17,854 --> 00:00:21,066
+Here's why it matters, and how to add one
+in about 5 minutes.
+
+8
+00:00:22,334 --> 00:00:26,951
+YouTube's own help page says search looks
+at how well your title, tags, description,
+
+9
+00:00:26,951 --> 00:00:29,510
+and video content match what people search
+for.
+
+10
+00:00:30,858 --> 00:00:32,430
+Your title is a few words.
+
+11
+00:00:32,944 --> 00:00:34,758
+Your description, a few lines.
+
+12
+00:00:35,352 --> 00:00:39,091
+But a 10-minute video can hold around
+1,500 spoken words.
+
+13
+00:00:40,472 --> 00:00:44,388
+And YouTube describes a subtitle file as
+the text of what is said in the video.
+
+14
+00:00:44,966 --> 00:00:49,973
+Every word, every topic, every keyword you
+mention, in a form YouTube can read.
+
+15
+00:00:51,225 --> 00:00:53,520
+But YouTube already makes auto-captions,
+right?
+
+16
+00:00:54,114 --> 00:00:55,397
+It does, but they're a guess.
+
+17
+00:00:55,990 --> 00:00:59,436
+Names, brand words, and niche terms are
+where they slip most.
+
+18
+00:00:59,965 --> 00:01:01,408
+And those are often your keywords.
+
+19
+00:01:02,771 --> 00:01:03,771
+There's a second win.
+
+20
+00:01:04,132 --> 00:01:07,243
+Many people watch with the sound off or in
+their second language.
+
+21
+00:01:07,820 --> 00:01:11,363
+YouTube says captions help you share your
+videos with a larger audience.
+
+22
+00:01:11,908 --> 00:01:13,976
+And viewers who can follow along keep
+watching.
+
+23
+00:01:14,633 --> 00:01:16,781
+Watch time is one of the signals YouTube
+uses.
+
+24
+00:01:18,176 --> 00:01:22,699
+To be fair, subtitles won't rescue a weak
+video, and YouTube doesn't say how much
+
+25
+00:01:22,699 --> 00:01:23,699
+they count.
+
+26
+00:01:23,850 --> 00:01:26,479
+They're simply the cheapest SEO win most
+channels skip.
+
+27
+00:01:27,876 --> 00:01:28,876
+Here's the workflow.
+
+28
+00:01:29,305 --> 00:01:34,451
+Open TranscriptX, click Upload, and pick
+your video from your computer, Google
+
+29
+00:01:34,451 --> 00:01:36,322
+Drive, Dropbox, or OneDrive.
+
+30
+00:01:37,590 --> 00:01:42,343
+TranscriptX turns your speech into text
+with a timestamp on every paragraph.
+
+31
+00:01:43,596 --> 00:01:47,660
+Give it a quick read and fix any names
+with the Edit button so your keywords are
+
+32
+00:01:47,660 --> 00:01:48,660
+spelled right.
+
+33
+00:01:49,713 --> 00:01:51,736
+Then click Download and pick SRT.
+
+34
+00:01:53,499 --> 00:01:55,582
+Now open your video in YouTube Studio.
+
+35
+00:01:56,127 --> 00:01:57,681
+Your title and description are set.
+
+36
+00:01:58,290 --> 00:01:59,540
+Next, click Subtitles.
+
+37
+00:02:00,998 --> 00:02:05,820
+Add your language, choose Upload File,
+then With Timing, and select your SRT
+
+38
+00:02:05,820 --> 00:02:06,820
+file.
+
+39
+00:02:07,406 --> 00:02:10,114
+Your subtitles line up with the video,
+line by line.
+
+40
+00:02:10,770 --> 00:02:11,909
+Click Done and Publish.
+
+41
+00:02:13,286 --> 00:02:16,282
+Title, thumbnail, tags, and now subtitles.
+
+42
+00:02:16,795 --> 00:02:18,013
+Try it on your next upload.
+
+43
+00:02:18,477 --> 00:02:20,993
+Get your SRT free at transcripts.ai.
