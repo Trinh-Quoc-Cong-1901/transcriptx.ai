@@ -225,6 +225,7 @@ Trang Pricing khi chưa đăng nhập, có công tắc **Yearly −50% / Monthly
 - Timestamp **bật/tắt được**. Nút **Copy** chỉ chép nội dung (kèm timestamp). Nút **Download** nằm ngay cạnh Copy, bấm vào mới mở menu .txt .docx .pdf .srt .vtt. Đây là 2 thao tác riêng, không được trộn lẫn.
 - **Free, không cần đăng nhập** vẫn dùng được. Gói Free dùng khá thoải mái (không ghi con số cụ thể trong bài).
 - **Pro: 1,500 credits/ngày.**
+- **Model y khoa (user xác nhận 2026-11-06):** TranscriptX dùng model của một đối tác, đã train chuyên cho thuật ngữ y khoa và tên thuốc. Được viết: "speech model trained on medical terminology (drug names, doses, clinical language)", "accurate". Không nêu tên đối tác, không ghi "best / most accurate" hay % cụ thể. Cả gói Free và Pro đều dùng model này (user xác nhận 2026-11-06), không cần ghi "(Pro)".
 
 ## Quy tắc khi viết bài
 - Tính năng **Pro-only**: nhận diện người nói, Live mode / Speak live, lọc nhiễu, không giới hạn. Không viết như thể gói Free cũng có.

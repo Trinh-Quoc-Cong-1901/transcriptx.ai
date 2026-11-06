@@ -78,7 +78,7 @@ Loại: how-to   (mở bằng phần explainer "What is insurance transcription"
 ```
 Không dùng ảnh (user chốt 2026-11-06): bài viết text là chính.
 Các bước mô tả bằng chữ, ghi đúng tên nút và vị trí trên màn hình để người đọc làm theo không cần ảnh.
-Ảnh bìa: để trống hoặc dùng ảnh mặc định của CMS.
+Ảnh share (ảnh bìa / og:image, không chèn trong bài): images/insurance-transcription-share.png (2400×1260 PNG)
 ```
 
 ## 8. Ngôn ngữ
@@ -109,7 +109,7 @@ Dịch thêm: (chỉ dịch khi user duyệt bản EN)
   - Trang `/voicemail-to-text/` và `/interview-transcription/` đã tồn tại trên site (theo template mục 4) — kiểm tra lại link trước khi đăng.
 - **Link nội bộ:** `/audio-to-text/` (chính), `/interview-transcription/`, `/voicemail-to-text/`, `/blog/how-long-to-transcribe-1-hour-of-audio/`, `/blog/how-to-transcribe-audio-faster/`, `/pricing/`, `/privacy-policy/`. Khi bài `finance-transcription` lên sóng thì link chéo 2 bài.
 - **Đối thủ tham khảo (không link):** Notta có trang giải pháp cho ngành bảo hiểm; Rev có bài "best transcription services for insurance companies"; Sonix có 2 bài về phần mềm chép lời cho bảo hiểm (nhấn SOC 2). Chỉ lấy ý cấu trúc; bài mình không cạnh tranh ở mảng chứng nhận.
-- **Ảnh:** bài text-only, không có ảnh minh hoạ hay video. Nếu sau này cần ảnh bìa thì dùng hook "1-hour recorded statement / 4 HOURS / of typing?" (số từ trang Pricing).
+- **Ảnh:** bài text-only, không có ảnh minh hoạ hay video. Chỉ có 1 ảnh share `images/insurance-transcription-share.png` (2400×1260, PNG), dựng bằng `_source/_tools/build_cover_insurance_transcription.py`. Hook: chữ nhỏ "The claimant said" + chữ lớn **"$1,500"** + dòng cam "or $5,000?" (ví dụ số tiền nghe nhầm, lấy từ bảng "What to check" trong bài, không phải số liệu sản phẩm). Ảnh bên phải: màn hình transcript thật `_source/record/recording-transcript-result.png` ×1.3, phần chữ được thay bằng một đoạn recorded statement mẫu (bịa, không phải claim/người thật) có câu "The body shop estimate came to $1,500" để khớp chủ đề; timestamp và giao diện giữ nguyên. Alt: "The claimant said $1,500 or $5,000? Insurance transcription with TranscriptX".
 - **Trang tool riêng:** `/insurance-transcription/` (đã viết `page/insurance/insurance-transcription/en.json`, chưa lên web). Khi trang lên web: đổi link chính trong bài từ `/audio-to-text/` sang `/insurance-transcription/`.
 
 ---

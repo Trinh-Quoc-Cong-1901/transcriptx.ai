@@ -61,7 +61,9 @@ Loại: explainer + how-to   (phần các bước dùng khối steps → HowTo s
 ```
 Không dùng ảnh trong thân bài (user yêu cầu 2026-11-06: tối ưu bằng chữ).
 Thay ảnh bằng: 1 bảng soát số liệu, 1 bảng so sánh, 1 mẫu transcript (khối code), danh sách bước có tên nút in đậm.
-Ảnh bìa: tuỳ chọn. Nếu cần, dựng theo hook ở mục 10.
+Ảnh share (1 file PNG, dùng cho cả ảnh cover trên CMS và og:image, không chèn vào thân bài):
+  images/what-is-financial-transcription-share.png   2400×1260
+  Alt: Earnings call transcript: 15% or 50%? One wrong digit. TranscriptX transcript of a CFO and an analyst
 ```
 
 ## 8. Ngôn ngữ
@@ -91,7 +93,7 @@ Dịch thêm: (chỉ dịch khi user duyệt bản EN)
   - Câu quyền riêng tư (tự xoá file upload, không train AI, xoá transcript bất cứ lúc nào) lấy từ trang `/interview-transcription/`, chưa có trong `_index.md`.
   - Kiến thức ngành (replay trên trang Investor Relations, phần Q&A, guidance) là kiến thức chung, không phải giao diện sản phẩm.
 - **Link nội bộ:** `/finance-transcription/` (chính), `/youtube-transcript/`, `/interview-transcription/`, `/blog/how-to-transcribe-audio-faster/`, `/pricing/`, `/privacy-policy/`.
-- **Ảnh bìa (nếu làm):** kicker "1-hour earnings call" + chữ lớn **"4 HOURS"** + "of typing?" (số từ trang Pricing).
+- **Ảnh share:** kicker "Earnings call transcript" + chữ lớn **"15% or 50%?"** + dòng cam "One wrong digit." Số là ví dụ minh hoạ góc bài (soát số liệu), không phải claim sản phẩm. Ảnh: màn hình transcript thật (`_source/record/recording-transcript-result.png`), chữ trong transcript thay bằng đoạn earnings call giả định (CFO + analyst, công ty hư cấu) cho đúng chủ đề; timestamp và giao diện giữ nguyên. Script: `_source/_tools/build_cover_financial_transcription.py`.
 
 ---
 
