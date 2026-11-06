@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transkripsi Keuangan — Panggilan & Rapat ke Teks | TranscriptX",
+        "description": "Transkripsi keuangan online: ubah earnings call, webinar investor dan rapat klien jadi teks dengan timestamp. Cek setiap angka, ekspor ke Word.",
+        "schemaName": "TranscriptX Transkripsi Keuangan",
+        "schemaDescription": "Transkripsi keuangan dengan AI di browser: unggah rekaman panggilan, tempel link video atau rekam rapat, dapatkan transkrip yang bisa diedit dengan timestamp dan label pembicara (Pro), tambahkan catatan di sampingnya, lalu ekspor ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Keuangan: Dari Panggilan ke Teks yang Bisa Dicari",
+        "ogDescription": "Ubah earnings call dan rapat klien menjadi teks yang bisa dicari dan dikutip, dengan timestamp di setiap paragraf untuk mengecek setiap angka dengan audionya."
+    },
+    "hero": {
+        "h1": "Transkripsi Keuangan",
+        "subtitle": "Ubah earnings call, webinar investor dan rapat klien menjadi teks yang bisa dicari, dikutip dan diarsipkan. Unggah rekamannya, tempel link video atau rekam rapat langsung di browser, lalu TranscriptX menuliskannya dengan timestamp di setiap paragraf, sehingga setiap angka bisa dicek dengan audionya. Ekspor ke Word, PDF atau TXT. Gratis dicoba, tanpa perlu akun.",
+        "placeholder": "Unggah rekaman panggilan atau tempel link...",
+        "button": "Transkrip Panggilan"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip panggilan keuangan?",
+        "answer": "Unggah rekaman panggilan ke TranscriptX, tempel link-nya jika panggilan ada di YouTube, atau tekan Rekam saat rapat berlangsung. Dalam hitungan detik Anda mendapat transkrip yang bisa diedit, lengkap dengan timestamp. Cek setiap angka dan nama dengan audionya, lalu salin teksnya atau unduh sebagai DOCX, PDF atau TXT untuk catatan, laporan atau arsip Anda."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkripsi Keuangan?",
+            "content": [
+                "Transkripsi keuangan mengubah konten keuangan yang diucapkan menjadi teks tertulis: earnings call, sesi tanya jawab analis, investor day, tinjauan bersama klien, rapat anggaran dan direksi, hingga podcast pasar. Analis mencarinya, penasihat keuangan menyimpannya bersama catatan rapat, dan tim investor relations memublikasikan atau mengarsipkannya.",
+                "Mengetik satu jam audio secara manual butuh sekitar empat jam. TranscriptX mengubah rekaman menjadi teks dalam hitungan detik dan menyertakan timestamp di setiap paragraf, sehingga waktu Anda dipakai untuk mengecek angka dan memanfaatkan transkripnya, bukan untuk mengetik."
+            ]
+        },
+        {
+            "h2": "Sekilas tentang Transkripsi Keuangan",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Unggah rekaman panggilan, tempel link YouTube atau video lain, atau rekam rapat di browser"
+                },
+                {
+                    "label": "Sumber file",
+                    "value": "Perangkat Anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Cek setiap angka",
+                    "value": "Timestamp di setiap paragraf, dengan rekaman diputar di samping teks"
+                },
+                {
+                    "label": "Siapa bicara apa",
+                    "value": "Label pembicara untuk eksekutif, analis dan klien di paket Pro"
+                },
+                {
+                    "label": "Catatan sambil membaca",
+                    "value": "Tab Catatan di samping transkrip, dengan timestamp dan checklist"
+                },
+                {
+                    "label": "Untuk laporan dan arsip",
+                    "value": "Unduh sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk subtitle"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Gratis dicoba, tanpa perlu akun · Paket Pro untuk pemakaian intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Panggilan Keuangan",
+            "steps": [
+                {
+                    "h3": "Tambahkan rekamannya",
+                    "content": "Unggah file audio atau video dari perangkat Anda, Google Drive, Dropbox atau OneDrive, misalnya rekaman ulang earnings call atau rekaman Zoom atau Teams. Jika panggilan ada di YouTube, tempel link-nya. Untuk rapat tatap muka, tekan Rekam."
+                },
+                {
+                    "h3": "Dapatkan transkripnya",
+                    "content": "TranscriptX mendeteksi bahasanya dan menuliskan panggilan sebagai paragraf lengkap dengan tanda baca, masing-masing dengan timestamp."
+                },
+                {
+                    "h3": "Cek angka dengan audionya",
+                    "content": "Putar rekaman di samping teks, perbaiki angka, nama dan kode saham dengan Edit, lalu catat angka penting dan tindak lanjut di tab Catatan."
+                },
+                {
+                    "h3": "Salin atau ekspor",
+                    "content": "Salin transkrip ke catatan riset atau email, atau unduh sebagai DOCX, PDF atau TXT untuk laporan dan arsip."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Audio Keuangan Secara Online",
+            "content": [
+                "Tidak ada yang perlu diinstal. Buka halaman ini di browser komputer atau ponsel, tambahkan rekamannya, dan transkrip muncul di halaman yang sama.",
+                "Sebagian besar audio keuangan datang dalam bentuk file: rekaman ulang webcast dari halaman investor relations, rekaman rapat dari Zoom, Teams atau Meet, atau memo suara setelah panggilan dengan klien. File audio maupun video bisa dipakai. Jika panggilan atau update pasar sudah ada online sebagai video, tempel saja link-nya tanpa perlu mengunduhnya dulu.",
+                "Anda bisa mencoba transkripsi audio keuangan secara gratis, tanpa akun. Jika Anda membuat transkrip panggilan setiap minggu, lihat <a href=\"/pricing/\">paket Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditranskrip",
+            "intro": [
+                "Rekaman apa pun yang membahas uang, pasar atau kinerja:"
+            ],
+            "items": [
+                {
+                    "h3": "Earnings call",
+                    "content": "Rekaman earnings call dan rekaman ulang webcast: paparan manajemen dan sesi tanya jawab analis, siap dibandingkan baris demi baris dengan kuartal sebelumnya."
+                },
+                {
+                    "h3": "Investor day dan webinar",
+                    "content": "Presentasi strategi, update reksa dana dan sesi roadshow yang ingin Anda cari lagi nanti."
+                },
+                {
+                    "h3": "Rapat dengan klien",
+                    "content": "Tinjauan antara penasihat keuangan, perencana keuangan atau wealth manager dan kliennya, diubah menjadi catatan tertulis dan tindak lanjut."
+                },
+                {
+                    "h3": "Rapat direksi dan komite",
+                    "content": "Transkripsi rapat direksi untuk tinjauan anggaran, komite audit dan keuangan serta pembahasan transaksi, disimpan sebagai catatan yang mudah dibaca di samping notulen."
+                },
+                {
+                    "h3": "Panggilan pakar dan riset",
+                    "content": "Wawancara dengan pakar, pelanggan dan manajemen untuk riset saham atau riset pasar."
+                },
+                {
+                    "h3": "Wawancara audit dan akuntansi",
+                    "content": "Walkthrough, wawancara manajemen dan panggilan klien yang perlu didokumentasikan oleh auditor dan akuntan."
+                },
+                {
+                    "h3": "Podcast dan video keuangan",
+                    "content": "Komentar pasar dan wawancara, dimanfaatkan ulang sebagai kutipan, artikel dan newsletter."
+                }
+            ]
+        },
+        {
+            "h2": "Cek Angkanya Sebelum Mengutip",
+            "intro": [
+                "Dalam transkrip keuangan, satu digit yang salah bisa mengubah makna. Pengenalan suara menangani bahasa sehari-hari dengan baik; cek bagian yang terdengar mirip atau bergantung pada konteks:"
+            ],
+            "items": [
+                {
+                    "h3": "Angka yang terdengar mirip",
+                    "content": "\"Lima belas\" dan \"lima puluh\", \"tiga belas\" dan \"tiga puluh\": pertumbuhan 15% bukan 50%."
+                },
+                {
+                    "h3": "Satuan dan skala",
+                    "content": "\"Juta\" dan \"miliar\" hanyalah kata pendek dalam panggilan yang serba cepat. Cocokkan dengan siaran pers atau slide presentasi."
+                },
+                {
+                    "h3": "Persentase dan basis poin",
+                    "content": "Naik 40 basis poin tidak sama dengan naik 40%. Pertahankan satuan yang dipakai pembicara."
+                },
+                {
+                    "h3": "Rentang guidance dan periode",
+                    "content": "Rentang seperti \"1,20 hingga 1,30\" dan periode seperti Q3 FY26 mudah tertukar. Pastikan keduanya."
+                },
+                {
+                    "h3": "Nama, kode saham dan kata negasi",
+                    "content": "Nama perusahaan dan analis, kode saham, serta kata seperti \"tidak\" atau \"tidak lagi\" layak didengarkan dua kali."
+                }
+            ]
+        },
+        {
+            "h2": "Label Pembicara untuk Eksekutif dan Analis",
+            "content": [
+                "Earnings call dan rapat klien melibatkan banyak suara: CEO, CFO, investor relations, analis, penasihat keuangan dan klien. Di paket Pro, TranscriptX memberi label pembicara secara otomatis, sehingga Anda bisa melihat siapa yang menyampaikan guidance dan siapa yang bertanya.",
+                "Ganti setiap label dengan jabatan atau nama orangnya saat meninjau. Di paket Free, Anda mendapat paragraf dengan timestamp tanpa nama pembicara, yang cocok untuk satu presenter atau panggilan dua orang."
+            ]
+        },
+        {
+            "h2": "Transkripsi Keuangan untuk Webinar dan Video",
+            "content": [
+                "Webinar investor, video hasil kinerja dan update pasar menjangkau lebih banyak orang dengan subtitle. Unduh transkrip sebagai SRT atau VTT dan unggah ke platform video atau rekaman ulang webinar Anda.",
+                "Transkrip yang sama juga bisa menjadi versi teks dari video untuk halaman investor relations, newsletter atau artikel blog Anda."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI atau Jasa Transkripsi Keuangan?",
+            "intro": [
+                "Setiap pilihan cocok untuk kebutuhan yang berbeda. Pilih sesuai kegunaan transkripnya:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Hitungan detik hingga menit, gratis dicoba. Draf yang solid untuk audio yang jelas, yang Anda tinjau sebelum dikutip. Paling cocok untuk earnings call, riset, rapat klien dan rapat tim."
+                },
+                {
+                    "h3": "Mengetik sendiri",
+                    "content": "Tidak ada biaya selain waktu: sekitar empat jam untuk setiap jam audio. Hanya praktis untuk klip yang sangat pendek."
+                },
+                {
+                    "h3": "Jasa transkripsi keuangan oleh manusia",
+                    "content": "Dibayar per menit audio dan lebih lambat, tetapi ditinjau oleh manusia. Sebagian menawarkan transkrip terverifikasi atau tersertifikasi untuk sengketa hukum, pelaporan ke regulator atau catatan resmi."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Memakai Transkripsi Keuangan",
+            "intro": [
+                "Siapa saja yang bekerja dengan apa yang diucapkan dalam sebuah panggilan:"
+            ],
+            "items": [
+                {
+                    "h3": "Analis dan investor",
+                    "content": "Cari guidance, margin atau nama produk di earnings call, dan kutip manajemen dengan tepat."
+                },
+                {
+                    "h3": "Penasihat dan perencana keuangan",
+                    "content": "Ubah tinjauan klien menjadi catatan tertulis dan daftar tindakan, dengan rekaman yang tinggal sekali klik."
+                },
+                {
+                    "h3": "Akuntan dan auditor",
+                    "content": "Dokumentasikan panggilan klien, wawancara audit dan rapat komite, dan temukan momen persis saat sebuah angka atau keputusan muncul."
+                },
+                {
+                    "h3": "Tim investor relations dan keuangan",
+                    "content": "Siapkan transkrip panggilan, cek apa yang dikatakan dalam sesi tanya jawab dan simpan catatan rapat internal."
+                },
+                {
+                    "h3": "Jurnalis dan kreator",
+                    "content": "Kutip eksekutif dengan akurat dan ubah komentar pasar menjadi artikel, newsletter dan subtitle."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi untuk Panggilan Rahasia",
+            "content": [
+                "Panggilan keuangan sering berisi data klien atau informasi yang belum dipublikasikan. Cek kebijakan perusahaan Anda tentang alat yang boleh memprosesnya, dan minta persetujuan sebelum merekam rapat dengan klien.",
+                "File yang diunggah dihapus otomatis, dan rekaman serta transkrip Anda tidak dipakai untuk melatih model AI. Anda bisa menghapus satu transkrip, atau seluruh data Anda, kapan saja dari akun Anda. Lihat <a href=\"/privacy-policy/\">Kebijakan Privasi</a> untuk detailnya."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Bagaimana cara membuat transkrip earnings call?",
+                    "a": "Unduh rekaman ulangnya dari halaman investor relations perusahaan lalu unggah, atau tempel link-nya jika panggilan ada di YouTube. Setelah itu, cek angkanya dengan siaran pers sebelum Anda mengutipnya."
+                },
+                {
+                    "q": "Apakah transkripsi keuangan gratis?",
+                    "a": "Anda bisa mencoba TranscriptX gratis, tanpa akun. Label pembicara dan pengurangan derau tersedia di paket Pro."
+                },
+                {
+                    "q": "Seberapa akurat transkripsi AI untuk panggilan keuangan?",
+                    "a": "Rekaman yang jelas menghasilkan draf yang solid. Selalu cek angka, nama dan kode saham dengan audionya sebelum dipublikasikan atau dijadikan acuan."
+                },
+                {
+                    "q": "Berapa lama waktu untuk membuat transkrip earnings call?",
+                    "a": "Audio beberapa menit selesai dalam hitungan detik, dan panggilan penuh sedikit lebih lama. Sisihkan waktu tambahan untuk mengecek angkanya."
+                },
+                {
+                    "q": "Bisakah saya memperbaiki transkrip yang ada kesalahannya?",
+                    "a": "Bisa. Gunakan Edit untuk memperbaiki kata, angka atau nama apa pun, sambil memutar rekaman di samping teks."
+                },
+                {
+                    "q": "Bisakah saya membuat transkrip rapat klien di Zoom atau Teams?",
+                    "a": "Bisa. Unggah file rekamannya setelah rapat selesai. TranscriptX tidak ikut bergabung ke dalam panggilan."
+                },
+                {
+                    "q": "Bisakah dipakai untuk catatan regulasi atau hukum?",
+                    "a": "Gunakan untuk draf, catatan dan pencarian isi rekaman. Jika dibutuhkan transkrip terverifikasi atau tersertifikasi, gunakan jasa transkripsi manusia dan ikuti aturan perusahaan Anda."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Panggilan Keuangan Anda Berikutnya",
+        "content": [
+            "Unggah earnings call, rapat klien atau webinar, dan dapatkan teks yang bisa dicari dan dikutip, dengan timestamp di setiap paragraf untuk mengecek setiap angka dengan audionya.",
+            "Untuk wawancara dan panggilan riset, gunakan <a href=\"/interview-transcription/\">Transkrip Wawancara</a>; untuk rekaman lainnya, gunakan <a href=\"/audio-to-text/\">Audio to Text</a> atau <a href=\"/video-to-text/\">Video to Text</a>. Gratis dicoba, tanpa perlu akun."
+        ]
+    }
+}

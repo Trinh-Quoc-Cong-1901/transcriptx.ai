@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transcrição Financeira Online — Chamadas em Texto | TranscriptX",
+        "description": "Transcrição financeira online: transforme teleconferências de resultados, webinars e reuniões com clientes em texto com marcações de tempo. Exporte para Word.",
+        "schemaName": "TranscriptX — Transcrição Financeira",
+        "schemaDescription": "Transcrição financeira com IA no navegador: envie a gravação de uma chamada, cole o link de um vídeo ou grave uma reunião e receba uma transcrição editável com marcações de tempo e identificação de falantes (Pro), faça anotações ao lado e exporte em DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Transcrição Financeira: de Chamadas a Texto Pesquisável",
+        "ogDescription": "Transforme teleconferências de resultados e reuniões com clientes em texto que você pode pesquisar e citar, com uma marcação de tempo em cada parágrafo para conferir cada número com o áudio."
+    },
+    "hero": {
+        "h1": "Transcrição Financeira",
+        "subtitle": "Transforme teleconferências de resultados, webinars para investidores e reuniões com clientes em texto que você pode pesquisar, citar e arquivar. Envie a gravação, cole o link de um vídeo ou grave a reunião no navegador, e o TranscriptX escreve tudo com uma marcação de tempo em cada parágrafo, para você conferir cada número com o áudio. Exporte para Word, PDF ou TXT. Grátis para testar, sem precisar de conta.",
+        "placeholder": "Envie a gravação de uma chamada ou cole um link...",
+        "button": "Transcrever Chamada"
+    },
+    "quickAnswer": {
+        "question": "Como transcrever uma chamada financeira?",
+        "answer": "Envie a gravação da chamada para o TranscriptX, cole o link se a chamada estiver no YouTube ou toque em Gravar durante uma reunião. Em segundos você recebe uma transcrição editável com marcações de tempo. Confira cada número e nome com o áudio e depois copie o texto ou baixe em DOCX, PDF ou TXT para suas anotações, seu relatório ou seus registros."
+    },
+    "sections": [
+        {
+            "h2": "O Que É Transcrição Financeira?",
+            "content": [
+                "A transcrição financeira transforma conteúdo financeiro falado em texto escrito: teleconferências de resultados, sessões de perguntas e respostas com analistas, investor days, revisões com clientes, reuniões de orçamento e de conselho e podcasts sobre mercado. Analistas pesquisam nesse texto, assessores o guardam junto com as anotações das reuniões e as equipes de relações com investidores o publicam ou arquivam.",
+                "Digitar uma hora de áudio à mão leva cerca de quatro horas. O TranscriptX transforma a gravação em texto em segundos e mantém uma marcação de tempo em cada parágrafo, para você gastar seu tempo conferindo os números e usando a transcrição, em vez de digitá-la."
+            ]
+        },
+        {
+            "h2": "Transcrição Financeira em Resumo",
+            "specs": [
+                {
+                    "label": "Entrada",
+                    "value": "Envie a gravação de uma chamada, cole um link do YouTube ou de outro vídeo, ou grave uma reunião no navegador"
+                },
+                {
+                    "label": "De onde vêm os arquivos",
+                    "value": "Seu dispositivo, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Confira cada número",
+                    "value": "Marcação de tempo em cada parágrafo, com a gravação tocando ao lado do texto"
+                },
+                {
+                    "label": "Quem disse o quê",
+                    "value": "Identificação de falantes para executivos, analistas e clientes no plano Pro"
+                },
+                {
+                    "label": "Anotações durante a leitura",
+                    "value": "Aba Notas ao lado da transcrição, com marcações de tempo e listas de verificação"
+                },
+                {
+                    "label": "Para relatórios e registros",
+                    "value": "Baixe em DOCX, PDF ou TXT, ou em SRT e VTT para legendas"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, detectados automaticamente"
+                },
+                {
+                    "label": "Preço",
+                    "value": "Grátis para testar, sem precisar de conta · Plano Pro para uso intenso"
+                }
+            ]
+        },
+        {
+            "h2": "Como Transcrever uma Chamada Financeira",
+            "steps": [
+                {
+                    "h3": "Adicione a gravação",
+                    "content": "Envie o arquivo de áudio ou vídeo do seu dispositivo, Google Drive, Dropbox ou OneDrive, como o replay de uma teleconferência de resultados ou uma gravação do Zoom ou Teams. Se a chamada estiver no YouTube, cole o link. Para uma reunião presencial, toque em Gravar."
+                },
+                {
+                    "h3": "Receba a transcrição",
+                    "content": "O TranscriptX detecta o idioma e escreve a chamada em parágrafos pontuados, cada um com sua marcação de tempo."
+                },
+                {
+                    "h3": "Confira os números com o áudio",
+                    "content": "Ouça a gravação ao lado do texto, corrija números, nomes e tickers com Editar e anote os principais números e próximos passos na aba Notas."
+                },
+                {
+                    "h3": "Copie ou exporte",
+                    "content": "Copie a transcrição para uma nota de análise ou um e-mail, ou baixe em DOCX, PDF ou TXT para relatórios e registros."
+                }
+            ]
+        },
+        {
+            "h2": "Transcrição de Áudio Financeiro Online",
+            "content": [
+                "Não há nada para instalar. Abra esta página no navegador do computador ou do celular, adicione a gravação, e a transcrição aparece na mesma página.",
+                "A maior parte do áudio financeiro chega como arquivo: o replay de um webcast na página de relações com investidores, a gravação de uma reunião do Zoom, Teams ou Meet, ou uma nota de voz depois de uma ligação com um cliente. Arquivos de áudio e de vídeo funcionam. Se a chamada ou a atualização de mercado já estiver online como vídeo, cole o link em vez de baixá-lo antes.",
+                "Você pode testar a transcrição de áudio financeiro grátis, sem conta. Se você transcreve chamadas toda semana, veja o <a href=\"/pricing/\">plano Pro</a>."
+            ]
+        },
+        {
+            "h2": "O Que Você Pode Transcrever",
+            "intro": [
+                "Qualquer gravação em que se fale de dinheiro, mercados ou resultados:"
+            ],
+            "items": [
+                {
+                    "h3": "Teleconferências de resultados",
+                    "content": "Gravações de teleconferências de resultados e replays de webcasts: a apresentação da administração e as perguntas dos analistas, prontas para comparar linha a linha com o trimestre anterior."
+                },
+                {
+                    "h3": "Investor days e webinars",
+                    "content": "Apresentações de estratégia, atualizações de fundos e sessões de roadshow que você quer pesquisar depois."
+                },
+                {
+                    "h3": "Reuniões com clientes",
+                    "content": "Revisões entre assessores, planejadores financeiros ou gestores de patrimônio e seus clientes, transformadas em anotações escritas e próximos passos."
+                },
+                {
+                    "h3": "Reuniões de conselho e comitês",
+                    "content": "Transcrição de reuniões de conselho para revisões de orçamento, comitês de auditoria e de finanças e discussões de negócios, guardada como um registro legível ao lado da ata."
+                },
+                {
+                    "h3": "Chamadas com especialistas e de pesquisa",
+                    "content": "Entrevistas com especialistas, clientes e executivos para análise de ações ou pesquisa de mercado."
+                },
+                {
+                    "h3": "Entrevistas de auditoria e contabilidade",
+                    "content": "Walkthroughs, entrevistas com a administração e ligações com clientes que auditores e contadores precisam documentar."
+                },
+                {
+                    "h3": "Podcasts e vídeos sobre finanças",
+                    "content": "Comentários de mercado e entrevistas, reaproveitados como citações, artigos e newsletters."
+                }
+            ]
+        },
+        {
+            "h2": "Confira os Números Antes de Citar",
+            "intro": [
+                "Numa transcrição financeira, um dígito errado muda o sentido. O reconhecimento de fala lida bem com a linguagem do dia a dia; confira as partes que soam parecidas ou dependem do contexto:"
+            ],
+            "items": [
+                {
+                    "h3": "Números que soam parecidos",
+                    "content": "\"Sessenta\" e \"setenta\", \"seiscentos\" e \"setecentos\" se confundem numa chamada rápida: um crescimento de 15% não é de 50%."
+                },
+                {
+                    "h3": "Unidades e escala",
+                    "content": "\"Milhão\" e \"bilhão\" são palavras curtas numa chamada rápida. Confira com o comunicado de resultados ou os slides."
+                },
+                {
+                    "h3": "Percentuais e pontos-base",
+                    "content": "Alta de 40 pontos-base não é alta de 40%. Mantenha a unidade que o orador usou."
+                },
+                {
+                    "h3": "Faixas de guidance e períodos",
+                    "content": "Faixas como \"1,20 a 1,30\" e períodos como Q3 FY26 se confundem com facilidade. Confirme os dois."
+                },
+                {
+                    "h3": "Nomes, tickers e negações",
+                    "content": "Nomes de empresas e de analistas, tickers e palavras como \"não\" ou \"não mais\" merecem uma segunda escuta."
+                }
+            ]
+        },
+        {
+            "h2": "Identificação de Falantes para Executivos e Analistas",
+            "content": [
+                "Teleconferências de resultados e reuniões com clientes têm várias vozes: o CEO, o CFO, a equipe de relações com investidores, analistas, assessores e clientes. No plano Pro, o TranscriptX identifica os falantes automaticamente, para você ver quem deu o guidance e quem fez a pergunta.",
+                "Renomeie cada rótulo com o cargo ou o nome da pessoa durante a revisão. No plano Free, você recebe parágrafos com marcações de tempo, sem nomes de falantes, o que funciona bem para um único apresentador ou uma chamada entre duas pessoas."
+            ]
+        },
+        {
+            "h2": "Transcrição Financeira para Webinars e Vídeos",
+            "content": [
+                "Webinars para investidores, vídeos de resultados e atualizações de mercado alcançam mais pessoas com legendas. Baixe a transcrição em SRT ou VTT e envie para sua plataforma de vídeo ou para o replay do webinar.",
+                "A mesma transcrição serve como versão em texto do vídeo para sua página de relações com investidores, uma newsletter ou um post de blog."
+            ]
+        },
+        {
+            "h2": "Transcrição com IA ou Serviços de Transcrição Financeira?",
+            "intro": [
+                "Cada opção atende a uma necessidade diferente. Escolha pelo uso que a transcrição terá:"
+            ],
+            "items": [
+                {
+                    "h3": "Transcrição com IA (TranscriptX)",
+                    "content": "De segundos a minutos, grátis para testar. Um bom rascunho com áudio claro, que você revisa antes de citar. Ideal para teleconferências de resultados, pesquisa e reuniões com clientes e equipes."
+                },
+                {
+                    "h3": "Digitar você mesmo",
+                    "content": "Não custa nada além de tempo: cerca de quatro horas por hora de áudio. Prático só para trechos muito curtos."
+                },
+                {
+                    "h3": "Serviços humanos de transcrição financeira",
+                    "content": "Cobrados por minuto de áudio e mais lentos, mas revisados por uma pessoa. Alguns oferecem transcrições verificadas ou certificadas para disputas judiciais, documentos regulatórios ou registros formais."
+                }
+            ]
+        },
+        {
+            "h2": "Quem Usa Transcrição Financeira",
+            "intro": [
+                "Qualquer pessoa que trabalha com o que foi dito numa chamada:"
+            ],
+            "items": [
+                {
+                    "h3": "Analistas e investidores",
+                    "content": "Pesquise nas teleconferências de resultados por guidance, margens ou o nome de um produto e cite a administração com exatidão."
+                },
+                {
+                    "h3": "Assessores e planejadores financeiros",
+                    "content": "Transforme revisões com clientes em anotações escritas e tarefas, com a gravação a um clique de distância."
+                },
+                {
+                    "h3": "Contadores e auditores",
+                    "content": "Documente ligações com clientes, entrevistas de auditoria e reuniões de comitês e encontre o momento exato em que um número ou uma decisão apareceu."
+                },
+                {
+                    "h3": "Equipes de relações com investidores e de finanças",
+                    "content": "Prepare transcrições de chamadas, confira o que foi dito nas perguntas e respostas e mantenha um registro das reuniões internas."
+                },
+                {
+                    "h3": "Jornalistas e criadores de conteúdo",
+                    "content": "Cite executivos com precisão e transforme comentários de mercado em artigos, newsletters e legendas."
+                }
+            ]
+        },
+        {
+            "h2": "Privacidade para Chamadas Confidenciais",
+            "content": [
+                "Chamadas financeiras muitas vezes contêm dados de clientes ou informações não públicas. Verifique a política da sua empresa sobre quais ferramentas podem tratá-las e obtenha consentimento antes de gravar uma reunião com um cliente.",
+                "Os arquivos enviados são excluídos automaticamente, e suas gravações e transcrições não são usadas para treinar modelos de IA. Você pode excluir uma transcrição ou todos os seus dados a qualquer momento na sua conta. Veja a <a href=\"/privacy-policy/\">Política de Privacidade</a> para mais detalhes."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "Como transcrever uma teleconferência de resultados?",
+                    "a": "Baixe o replay na página de relações com investidores da empresa e envie o arquivo, ou cole o link se a chamada estiver no YouTube. Depois confira os números com o comunicado de resultados antes de citá-los."
+                },
+                {
+                    "q": "A transcrição financeira é gratuita?",
+                    "a": "Você pode testar o TranscriptX grátis, sem conta. A identificação de falantes e a redução de ruído fazem parte do plano Pro."
+                },
+                {
+                    "q": "Qual é a precisão da transcrição com IA em chamadas financeiras?",
+                    "a": "Gravações claras resultam num bom rascunho. Sempre confira números, nomes e tickers com o áudio antes de publicar ou confiar neles."
+                },
+                {
+                    "q": "Quanto tempo leva para transcrever uma teleconferência de resultados?",
+                    "a": "Alguns minutos de áudio ficam prontos em segundos, e uma chamada completa leva um pouco mais. Reserve um tempo extra para conferir os números."
+                },
+                {
+                    "q": "Posso corrigir uma transcrição com erros?",
+                    "a": "Sim. Use Editar para corrigir qualquer palavra, número ou nome, ouvindo a gravação ao lado do texto enquanto revisa."
+                },
+                {
+                    "q": "Posso transcrever uma reunião com cliente no Zoom ou Teams?",
+                    "a": "Sim. Envie o arquivo da gravação depois da reunião. O TranscriptX não entra nas chamadas sozinho."
+                },
+                {
+                    "q": "Posso usar para registros regulatórios ou jurídicos?",
+                    "a": "Use para rascunhos, anotações e para pesquisar na gravação. Quando for exigida uma transcrição verificada ou certificada, use um serviço de transcrição humana e siga as regras da sua empresa."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcreva Sua Próxima Chamada Financeira",
+        "content": [
+            "Envie a teleconferência de resultados, a reunião com cliente ou o webinar e receba um texto que você pode pesquisar e citar, com uma marcação de tempo em cada parágrafo para conferir cada número com o áudio.",
+            "Para entrevistas e chamadas de pesquisa, use <a href=\"/interview-transcription/\">Transcrição de Entrevistas</a>; para qualquer outra gravação, use <a href=\"/audio-to-text/\">Áudio para Texto</a> ou <a href=\"/video-to-text/\">Vídeo para Texto</a>. Grátis para testar, sem precisar de conta."
+        ]
+    }
+}

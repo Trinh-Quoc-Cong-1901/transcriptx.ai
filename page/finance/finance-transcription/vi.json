@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Gỡ băng tài chính — Cuộc gọi, cuộc họp thành văn bản | TranscriptX",
+        "description": "Gỡ băng tài chính online: chuyển cuộc gọi kết quả kinh doanh, webinar nhà đầu tư và buổi gặp khách hàng thành văn bản có dấu thời gian. Xuất ra Word.",
+        "schemaName": "Công cụ gỡ băng tài chính TranscriptX",
+        "schemaDescription": "Công cụ AI chép lời nội dung tài chính ngay trên trình duyệt: tải lên bản ghi cuộc gọi, dán link video hoặc ghi âm cuộc họp, nhận bản chép lời chỉnh sửa được có dấu thời gian và nhãn người nói (gói Pro), ghi chú ngay bên cạnh và xuất ra DOCX, PDF, TXT, SRT hoặc VTT.",
+        "ogTitle": "Gỡ băng tài chính: từ cuộc gọi thành văn bản tra cứu được",
+        "ogDescription": "Chuyển cuộc gọi kết quả kinh doanh và buổi gặp khách hàng thành văn bản để tìm kiếm và trích dẫn, kèm dấu thời gian ở mỗi đoạn để đối chiếu từng con số với bản ghi."
+    },
+    "hero": {
+        "h1": "Chuyển cuộc gọi tài chính thành văn bản",
+        "subtitle": "Biến cuộc gọi công bố kết quả kinh doanh, webinar nhà đầu tư và buổi gặp khách hàng thành văn bản để tìm kiếm, trích dẫn và lưu hồ sơ. Tải bản ghi lên, dán link video hoặc ghi âm cuộc họp ngay trên trình duyệt, TranscriptX sẽ chép lại kèm dấu thời gian ở mỗi đoạn, để bạn đối chiếu từng con số với bản ghi. Xuất ra Word, PDF hoặc TXT. Dùng thử miễn phí, không cần tài khoản.",
+        "placeholder": "Tải lên bản ghi cuộc gọi hoặc dán đường link...",
+        "button": "Chép lời cuộc gọi"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để gỡ băng một cuộc gọi tài chính?",
+        "answer": "Tải bản ghi cuộc gọi lên TranscriptX, dán link nếu cuộc gọi có trên YouTube, hoặc bấm Ghi âm trong cuộc họp. Trong vài giây bạn có bản chép lời chỉnh sửa được, kèm dấu thời gian. Đối chiếu từng con số và tên riêng với bản ghi, rồi sao chép văn bản hoặc tải về dạng DOCX, PDF hay TXT cho ghi chú, báo cáo hoặc hồ sơ của bạn."
+    },
+    "sections": [
+        {
+            "h2": "Gỡ băng tài chính là gì?",
+            "content": [
+                "Gỡ băng tài chính (finance transcription) là chuyển nội dung tài chính dạng lời nói thành văn bản: cuộc gọi công bố kết quả kinh doanh, phần hỏi đáp với chuyên viên phân tích, ngày hội nhà đầu tư, buổi rà soát với khách hàng, cuộc họp ngân sách và hội đồng quản trị, cùng các podcast thị trường. Chuyên viên phân tích dùng để tra cứu, cố vấn tài chính lưu cùng ghi chú cuộc họp, còn bộ phận quan hệ nhà đầu tư công bố hoặc lưu trữ.",
+                "Gõ lại một giờ ghi âm bằng tay mất khoảng bốn giờ. TranscriptX chuyển bản ghi thành văn bản trong vài giây và giữ dấu thời gian ở mỗi đoạn, để bạn dành thời gian kiểm tra số liệu và sử dụng bản chép lời thay vì ngồi gõ lại."
+            ]
+        },
+        {
+            "h2": "Gỡ băng tài chính – tổng quan nhanh",
+            "specs": [
+                {
+                    "label": "Đầu vào",
+                    "value": "Tải lên bản ghi cuộc gọi, dán link YouTube hoặc link video khác, hoặc ghi âm cuộc họp ngay trên trình duyệt"
+                },
+                {
+                    "label": "Nguồn file",
+                    "value": "Thiết bị của bạn, Google Drive, Dropbox hoặc OneDrive"
+                },
+                {
+                    "label": "Kiểm tra từng con số",
+                    "value": "Dấu thời gian ở mỗi đoạn, bản ghi phát ngay cạnh văn bản"
+                },
+                {
+                    "label": "Ai nói gì",
+                    "value": "Nhãn người nói cho lãnh đạo, chuyên viên phân tích và khách hàng trên gói Pro"
+                },
+                {
+                    "label": "Ghi chú khi đọc",
+                    "value": "Thẻ Ghi chú cạnh bản chép lời, có dấu thời gian và danh sách việc cần làm"
+                },
+                {
+                    "label": "Cho báo cáo và hồ sơ",
+                    "value": "Tải về dạng DOCX, PDF hoặc TXT, hoặc SRT và VTT để làm phụ đề"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Chi phí",
+                    "value": "Dùng thử miễn phí, không cần tài khoản · Gói Pro cho nhu cầu dùng nhiều"
+                }
+            ]
+        },
+        {
+            "h2": "Cách gỡ băng một cuộc gọi tài chính",
+            "steps": [
+                {
+                    "h3": "Thêm bản ghi",
+                    "content": "Tải file âm thanh hoặc video lên từ thiết bị, Google Drive, Dropbox hoặc OneDrive, ví dụ bản phát lại cuộc gọi kết quả kinh doanh hay bản ghi Zoom, Teams. Nếu cuộc gọi có trên YouTube, chỉ cần dán link. Với cuộc họp trực tiếp, bấm Ghi âm."
+                },
+                {
+                    "h3": "Nhận bản chép lời",
+                    "content": "TranscriptX nhận diện ngôn ngữ và chép lại cuộc gọi thành các đoạn có dấu câu, mỗi đoạn kèm dấu thời gian."
+                },
+                {
+                    "h3": "Đối chiếu số liệu với bản ghi",
+                    "content": "Phát bản ghi cạnh văn bản, sửa con số, tên riêng và mã cổ phiếu bằng nút Sửa, và ghi lại số liệu quan trọng cùng việc cần theo dõi trong thẻ Ghi chú."
+                },
+                {
+                    "h3": "Sao chép hoặc xuất file",
+                    "content": "Sao chép bản chép lời vào ghi chú nghiên cứu hay email, hoặc tải về dạng DOCX, PDF hay TXT cho báo cáo và lưu hồ sơ."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển ghi âm tài chính thành văn bản online",
+            "content": [
+                "Không cần cài đặt gì. Mở trang này trên trình duyệt máy tính hoặc điện thoại, thêm bản ghi, và bản chép lời hiện ra ngay trên cùng trang.",
+                "Phần lớn nội dung tài chính dạng âm thanh đến dưới dạng file: bản phát lại webcast từ trang quan hệ nhà đầu tư, bản ghi cuộc họp từ Zoom, Teams hay Meet, hoặc ghi âm giọng nói sau một cuộc gọi với khách hàng. Cả file âm thanh lẫn video đều dùng được. Nếu cuộc gọi hay bản tin thị trường đã có trên mạng dưới dạng video, chỉ cần dán link thay vì tải về trước.",
+                "Bạn có thể dùng thử miễn phí việc chuyển ghi âm tài chính thành văn bản, không cần tài khoản. Nếu tuần nào cũng cần chép lời cuộc gọi, hãy xem <a href=\"/pricing/\">gói Pro</a>."
+            ]
+        },
+        {
+            "h2": "Những gì bạn có thể chép lời",
+            "intro": [
+                "Bất kỳ bản ghi nào bàn về tiền, thị trường hay kết quả kinh doanh:"
+            ],
+            "items": [
+                {
+                    "h3": "Cuộc gọi công bố kết quả kinh doanh",
+                    "content": "Bản ghi cuộc gọi kết quả kinh doanh và bản phát lại webcast: phần phát biểu chuẩn bị sẵn và phần hỏi đáp với chuyên viên phân tích, sẵn sàng để so sánh từng dòng với quý trước."
+                },
+                {
+                    "h3": "Ngày hội nhà đầu tư và webinar",
+                    "content": "Bài trình bày chiến lược, cập nhật quỹ và các buổi roadshow bạn muốn tra cứu lại sau này."
+                },
+                {
+                    "h3": "Buổi gặp khách hàng",
+                    "content": "Buổi rà soát giữa cố vấn, chuyên viên hoạch định tài chính hay quản lý tài sản với khách hàng, chuyển thành ghi chú bằng chữ và việc cần theo dõi."
+                },
+                {
+                    "h3": "Cuộc họp hội đồng quản trị và ủy ban",
+                    "content": "Chép lời cuộc họp hội đồng quản trị cho buổi rà soát ngân sách, ủy ban kiểm toán, ủy ban tài chính và các buổi bàn về thương vụ, lưu thành hồ sơ dễ đọc bên cạnh biên bản họp."
+                },
+                {
+                    "h3": "Cuộc gọi chuyên gia và nghiên cứu",
+                    "content": "Phỏng vấn chuyên gia, khách hàng và ban lãnh đạo phục vụ nghiên cứu cổ phiếu hoặc nghiên cứu thị trường."
+                },
+                {
+                    "h3": "Phỏng vấn kiểm toán và kế toán",
+                    "content": "Các buổi tìm hiểu quy trình, phỏng vấn ban lãnh đạo và cuộc gọi với khách hàng mà kiểm toán viên và kế toán cần ghi nhận lại."
+                },
+                {
+                    "h3": "Podcast và video tài chính",
+                    "content": "Bình luận thị trường và phỏng vấn, tái sử dụng thành trích dẫn, bài viết và bản tin."
+                }
+            ]
+        },
+        {
+            "h2": "Kiểm tra số liệu trước khi trích dẫn",
+            "intro": [
+                "Trong bản chép lời tài chính, sai một chữ số là sai cả ý nghĩa. Công nghệ nhận dạng giọng nói xử lý tốt ngôn ngữ hằng ngày; hãy kiểm tra kỹ những chỗ nghe na ná nhau hoặc phụ thuộc vào ngữ cảnh:"
+            ],
+            "items": [
+                {
+                    "h3": "Những con số nghe na ná nhau",
+                    "content": "\"Mười lăm\" và \"năm mươi\", \"mười ba\" và \"ba mươi\": tăng trưởng 15% không phải là 50%."
+                },
+                {
+                    "h3": "Đơn vị và quy mô",
+                    "content": "\"Triệu\" và \"tỷ\" là những từ ngắn trong một cuộc gọi nói nhanh. Hãy đối chiếu với thông cáo báo chí hoặc slide."
+                },
+                {
+                    "h3": "Phần trăm và điểm cơ bản",
+                    "content": "Tăng 40 điểm cơ bản không phải là tăng 40%. Giữ đúng đơn vị mà người nói đã dùng."
+                },
+                {
+                    "h3": "Khoảng dự báo và kỳ báo cáo",
+                    "content": "Các khoảng như \"1,20 đến 1,30\" và kỳ như Q3 FY26 rất dễ bị nhầm. Hãy xác nhận cả hai."
+                },
+                {
+                    "h3": "Tên, mã cổ phiếu và câu phủ định",
+                    "content": "Tên công ty và tên chuyên viên phân tích, mã cổ phiếu, và những từ như \"không\" hay \"không còn\" đều đáng nghe lại lần nữa."
+                }
+            ]
+        },
+        {
+            "h2": "Nhãn người nói cho lãnh đạo và chuyên viên phân tích",
+            "content": [
+                "Cuộc gọi kết quả kinh doanh và buổi gặp khách hàng có nhiều giọng nói: CEO, CFO, bộ phận quan hệ nhà đầu tư, chuyên viên phân tích, cố vấn và khách hàng. Trên gói Pro, TranscriptX tự động gắn nhãn người nói, để bạn thấy ai đưa ra dự báo và ai đặt câu hỏi.",
+                "Đổi tên từng nhãn thành chức danh hoặc tên người nói khi rà soát. Ở gói miễn phí, bạn nhận các đoạn có dấu thời gian nhưng không có tên người nói, vẫn rất phù hợp khi chỉ có một người trình bày hoặc cuộc gọi hai người."
+            ]
+        },
+        {
+            "h2": "Chép lời webinar và video tài chính",
+            "content": [
+                "Webinar nhà đầu tư, video công bố kết quả và bản tin thị trường sẽ tiếp cận nhiều người hơn khi có phụ đề. Tải bản chép lời về dạng SRT hoặc VTT rồi tải lên nền tảng video hoặc bản phát lại webinar của bạn.",
+                "Cùng bản chép lời đó cũng dùng được làm phiên bản văn bản của video cho trang quan hệ nhà đầu tư, bản tin hoặc bài blog."
+            ]
+        },
+        {
+            "h2": "Dùng AI hay thuê dịch vụ gỡ băng tài chính?",
+            "intro": [
+                "Mỗi lựa chọn hợp với một nhu cầu khác nhau. Hãy chọn theo mục đích của bản chép lời:"
+            ],
+            "items": [
+                {
+                    "h3": "Chép lời bằng AI (TranscriptX)",
+                    "content": "Vài giây đến vài phút, dùng thử miễn phí. Bản nháp tốt với âm thanh rõ, bạn rà soát lại trước khi trích dẫn. Phù hợp nhất cho cuộc gọi kết quả kinh doanh, nghiên cứu, cuộc họp với khách hàng và nội bộ."
+                },
+                {
+                    "h3": "Tự gõ lại",
+                    "content": "Không tốn tiền, chỉ tốn thời gian: khoảng bốn giờ cho mỗi giờ ghi âm. Chỉ thực tế với những đoạn rất ngắn."
+                },
+                {
+                    "h3": "Dịch vụ gỡ băng tài chính do người làm",
+                    "content": "Tính phí theo phút âm thanh và chậm hơn, nhưng có người kiểm tra. Một số dịch vụ cung cấp bản chép lời đã xác minh hoặc có chứng nhận cho tranh chấp pháp lý, hồ sơ nộp cơ quan quản lý hoặc hồ sơ chính thức."
+                }
+            ]
+        },
+        {
+            "h2": "Ai cần gỡ băng tài chính",
+            "intro": [
+                "Bất kỳ ai cần làm việc với những gì đã được nói trong một cuộc gọi:"
+            ],
+            "items": [
+                {
+                    "h3": "Chuyên viên phân tích và nhà đầu tư",
+                    "content": "Tìm trong cuộc gọi kết quả kinh doanh các đoạn về dự báo, biên lợi nhuận hay tên một sản phẩm, và trích dẫn chính xác lời ban lãnh đạo."
+                },
+                {
+                    "h3": "Cố vấn và chuyên viên hoạch định tài chính",
+                    "content": "Biến buổi rà soát với khách hàng thành ghi chú bằng chữ và đầu việc cần làm, bản ghi luôn sẵn chỉ cách một cú bấm."
+                },
+                {
+                    "h3": "Kế toán và kiểm toán viên",
+                    "content": "Ghi nhận cuộc gọi với khách hàng, phỏng vấn kiểm toán và cuộc họp ủy ban, và tìm đúng thời điểm một con số hay quyết định được nhắc đến."
+                },
+                {
+                    "h3": "Bộ phận quan hệ nhà đầu tư và tài chính",
+                    "content": "Chuẩn bị bản chép lời cuộc gọi, kiểm tra những gì đã nói trong phần hỏi đáp và lưu hồ sơ các cuộc họp nội bộ."
+                },
+                {
+                    "h3": "Nhà báo và nhà sáng tạo nội dung",
+                    "content": "Trích dẫn chính xác lời lãnh đạo doanh nghiệp và biến bình luận thị trường thành bài viết, bản tin và phụ đề."
+                }
+            ]
+        },
+        {
+            "h2": "Quyền riêng tư cho các cuộc gọi bảo mật",
+            "content": [
+                "Cuộc gọi tài chính thường chứa thông tin khách hàng hoặc thông tin chưa công bố. Hãy kiểm tra quy định của công ty về những công cụ được phép xử lý chúng, và xin sự đồng ý trước khi ghi âm buổi gặp khách hàng.",
+                "File tải lên được tự động xóa, và bản ghi cũng như bản chép lời của bạn không được dùng để huấn luyện mô hình AI. Bạn có thể xóa từng bản chép lời, hoặc toàn bộ dữ liệu, bất cứ lúc nào từ tài khoản của mình. Xem <a href=\"/privacy-policy/\">Chính sách quyền riêng tư</a> để biết chi tiết."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Làm sao để gỡ băng cuộc gọi công bố kết quả kinh doanh?",
+                    "a": "Tải bản phát lại từ trang quan hệ nhà đầu tư của công ty rồi tải lên, hoặc dán link nếu cuộc gọi có trên YouTube. Sau đó đối chiếu số liệu với thông cáo báo chí trước khi trích dẫn."
+                },
+                {
+                    "q": "Gỡ băng tài chính có miễn phí không?",
+                    "a": "Bạn có thể dùng thử TranscriptX miễn phí, không cần tài khoản. Nhãn người nói và khử tiếng ồn có trên gói Pro."
+                },
+                {
+                    "q": "Chép lời cuộc gọi tài chính bằng AI chính xác đến đâu?",
+                    "a": "Bản ghi rõ ràng sẽ cho ra một bản nháp tốt. Luôn đối chiếu con số, tên riêng và mã cổ phiếu với bản ghi trước khi công bố hoặc dựa vào chúng."
+                },
+                {
+                    "q": "Gỡ băng một cuộc gọi kết quả kinh doanh mất bao lâu?",
+                    "a": "Vài phút âm thanh sẽ có kết quả trong vài giây, cả một cuộc gọi đầy đủ thì lâu hơn một chút. Hãy dành thêm thời gian để kiểm tra số liệu."
+                },
+                {
+                    "q": "Tôi có thể sửa bản chép lời bị sai không?",
+                    "a": "Có. Dùng nút Sửa để chỉnh bất kỳ từ, con số hay tên nào, vừa sửa vừa phát bản ghi cạnh văn bản."
+                },
+                {
+                    "q": "Có chép lời được buổi gặp khách hàng qua Zoom hay Teams không?",
+                    "a": "Có. Tải file ghi âm lên sau khi họp xong. TranscriptX không tự tham gia cuộc gọi."
+                },
+                {
+                    "q": "Có dùng được cho hồ sơ pháp lý hoặc hồ sơ theo yêu cầu quản lý không?",
+                    "a": "Hãy dùng cho bản nháp, ghi chú và tra cứu trong bản ghi. Khi cần bản chép lời đã xác minh hoặc có chứng nhận, hãy dùng dịch vụ gỡ băng do người làm và tuân thủ quy định của công ty."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Gỡ băng cuộc gọi tài chính tiếp theo của bạn",
+        "content": [
+            "Tải lên cuộc gọi kết quả kinh doanh, buổi gặp khách hàng hay webinar, và nhận văn bản để tìm kiếm và trích dẫn, với dấu thời gian ở mỗi đoạn để đối chiếu từng con số với bản ghi.",
+            "Với phỏng vấn và cuộc gọi nghiên cứu, hãy dùng <a href=\"/interview-transcription/\">Chuyển phỏng vấn thành văn bản</a>; với các bản ghi khác, hãy dùng <a href=\"/audio-to-text/\">Chuyển âm thanh thành văn bản</a> hoặc <a href=\"/video-to-text/\">Chuyển video thành văn bản</a>. Dùng thử miễn phí, không cần tài khoản."
+        ]
+    }
+}

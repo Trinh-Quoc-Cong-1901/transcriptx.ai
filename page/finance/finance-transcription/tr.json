@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Finansal Transkripsiyon — Görüşmeleri Yazıya Dökün | TranscriptX",
+        "description": "Online finansal transkripsiyon: bilanço toplantılarını, yatırımcı webinarlarını ve müşteri görüşmelerini zaman damgalı metne dökün. Rakamları kontrol edin.",
+        "schemaName": "TranscriptX Finansal Transkripsiyon",
+        "schemaDescription": "Tarayıcıda çalışan yapay zeka destekli finansal transkripsiyon: bir görüşme kaydı yükleyin, video bağlantısı yapıştırın ya da toplantıyı kaydedin; zaman damgalı ve konuşmacı etiketli (Pro) düzenlenebilir bir transkript alın, yanına not ekleyin ve DOCX, PDF, TXT, SRT ya da VTT olarak dışa aktarın.",
+        "ogTitle": "Finansal Transkripsiyon: Görüşmelerden Aranabilir Metne",
+        "ogDescription": "Bilanço toplantılarını ve müşteri görüşmelerini aranabilir, alıntılanabilir metne dönüştürün; her paragraftaki zaman damgasıyla her rakamı ses kaydıyla karşılaştırın."
+    },
+    "hero": {
+        "h1": "Finansal Transkripsiyon",
+        "subtitle": "Bilanço toplantılarını, yatırımcı webinarlarını ve müşteri görüşmelerini arayabileceğiniz, alıntılayabileceğiniz ve arşivleyebileceğiniz metne dönüştürün. Kaydı yükleyin, bir video bağlantısı yapıştırın ya da toplantıyı tarayıcınızda kaydedin; TranscriptX her paragrafa bir zaman damgası koyarak yazıya döker, böylece her rakamı ses kaydıyla karşılaştırabilirsiniz. Word, PDF veya TXT olarak dışa aktarın. Ücretsiz deneyin, hesap gerekmez.",
+        "placeholder": "Bir görüşme kaydı yükleyin ya da bağlantı yapıştırın...",
+        "button": "Görüşmeyi Yazıya Dök"
+    },
+    "quickAnswer": {
+        "question": "Finansal bir görüşme nasıl yazıya dökülür?",
+        "answer": "Görüşme kaydını TranscriptX'e yükleyin, görüşme YouTube'daysa bağlantısını yapıştırın ya da toplantı sırasında Kaydet'e basın. Saniyeler içinde zaman damgalı, düzenlenebilir bir transkript alırsınız. Her rakamı ve ismi ses kaydıyla karşılaştırın, ardından metni kopyalayın ya da notlarınız, raporunuz veya kayıtlarınız için DOCX, PDF ya da TXT olarak indirin."
+    },
+    "sections": [
+        {
+            "h2": "Finansal Transkripsiyon Nedir?",
+            "content": [
+                "Finansal transkripsiyon, sözlü finansal içeriği yazılı metne dönüştürmektir: bilanço toplantıları (earnings call), analist soru-cevap oturumları, yatırımcı günleri, müşteri değerlendirme görüşmeleri, bütçe ve yönetim kurulu toplantıları, piyasa podcast'leri. Analistler bu metinde arama yapar, danışmanlar toplantı notlarıyla birlikte saklar, yatırımcı ilişkileri ekipleri ise yayımlar ya da arşivler.",
+                "Bir saatlik kaydı elle yazıya dökmek yaklaşık dört saat sürer. TranscriptX kaydı saniyeler içinde metne çevirir ve her paragrafta bir zaman damgası tutar; böylece zamanınızı yazmaya değil, rakamları kontrol etmeye ve transkripti kullanmaya ayırırsınız."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Finansal Transkripsiyon",
+            "specs": [
+                {
+                    "label": "Giriş",
+                    "value": "Görüşme kaydı yükleyin, YouTube ya da başka bir video bağlantısı yapıştırın veya toplantıyı tarayıcıda kaydedin"
+                },
+                {
+                    "label": "Dosya kaynakları",
+                    "value": "Cihazınız, Google Drive, Dropbox veya OneDrive"
+                },
+                {
+                    "label": "Her rakamı kontrol edin",
+                    "value": "Her paragrafta zaman damgası, metnin yanında oynatılan kayıt"
+                },
+                {
+                    "label": "Kim ne dedi",
+                    "value": "Pro planda yöneticiler, analistler ve müşteriler için konuşmacı etiketleri"
+                },
+                {
+                    "label": "Okurken notlar",
+                    "value": "Transkriptin yanında, zaman damgalı ve kontrol listeli Notlar sekmesi"
+                },
+                {
+                    "label": "Raporlar ve kayıtlar için",
+                    "value": "DOCX, PDF veya TXT olarak, altyazı için SRT ve VTT olarak indirin"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik algılanır"
+                },
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz deneyin, hesap gerekmez · Yoğun kullanım için Pro plan"
+                }
+            ]
+        },
+        {
+            "h2": "Finansal Bir Görüşme Nasıl Yazıya Dökülür",
+            "steps": [
+                {
+                    "h3": "Kaydı ekleyin",
+                    "content": "Ses veya video dosyasını cihazınızdan, Google Drive, Dropbox veya OneDrive'dan yükleyin; örneğin bir bilanço toplantısının tekrar yayını ya da bir Zoom veya Teams kaydı. Görüşme YouTube'daysa bağlantıyı yapıştırın. Yüz yüze bir toplantı için Kaydet'e basın."
+                },
+                {
+                    "h3": "Transkripti alın",
+                    "content": "TranscriptX dili algılar ve görüşmeyi, her biri zaman damgalı, noktalaması yapılmış paragraflar halinde yazıya döker."
+                },
+                {
+                    "h3": "Rakamları ses kaydıyla karşılaştırın",
+                    "content": "Kaydı metnin yanında oynatın, rakamları, isimleri ve hisse kodlarını Düzenle ile düzeltin, önemli rakamları ve takip edilecek işleri Notlar sekmesine yazın."
+                },
+                {
+                    "h3": "Kopyalayın ya da dışa aktarın",
+                    "content": "Transkripti bir araştırma notuna ya da e-postaya kopyalayın veya raporlar ve kayıtlar için DOCX, PDF ya da TXT olarak indirin."
+                }
+            ]
+        },
+        {
+            "h2": "Finansal Ses Kaydını Online Yazıya Dökün",
+            "content": [
+                "Kurulacak hiçbir şey yok. Bu sayfayı bilgisayarınızda ya da telefonunuzda tarayıcıda açın, kaydı ekleyin; transkript aynı sayfada görünür.",
+                "Finansal ses kayıtlarının çoğu bir dosya olarak gelir: yatırımcı ilişkileri sayfasından bir webcast tekrarı, Zoom, Teams veya Meet'ten bir toplantı kaydı ya da bir müşteri görüşmesinin ardından alınmış sesli not. Hem ses hem video dosyaları olur. Görüşme ya da piyasa değerlendirmesi zaten internette video olarak varsa, önce indirmek yerine bağlantısını yapıştırın.",
+                "Finansal ses kayıtlarını hesap açmadan, ücretsiz deneyerek yazıya dökebilirsiniz. Her hafta görüşme yazıya döküyorsanız <a href=\"/pricing/\">Pro plana</a> göz atın."
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Dökebilirsiniz",
+            "intro": [
+                "Paranın, piyasaların ya da sonuçların konuşulduğu her kayıt:"
+            ],
+            "items": [
+                {
+                    "h3": "Bilanço toplantıları",
+                    "content": "Bilanço toplantısı kayıtları ve webcast tekrarları: hazırlanmış sunum ve analist soru-cevap bölümü, önceki çeyrekle satır satır karşılaştırmaya hazır."
+                },
+                {
+                    "h3": "Yatırımcı günleri ve webinarlar",
+                    "content": "Daha sonra içinde arama yapmak istediğiniz strateji sunumları, fon güncellemeleri ve roadshow oturumları."
+                },
+                {
+                    "h3": "Müşteri görüşmeleri",
+                    "content": "Danışmanlar, finansal planlamacılar veya varlık yöneticileri ile müşterileri arasındaki değerlendirme görüşmeleri, yazılı notlara ve takip edilecek işlere dönüşür."
+                },
+                {
+                    "h3": "Yönetim kurulu ve komite toplantıları",
+                    "content": "Bütçe değerlendirmeleri, denetim ve finans komiteleri ile anlaşma görüşmeleri için yönetim kurulu toplantısı transkripsiyonu; toplantı tutanağının yanında okunabilir bir kayıt olarak saklanır."
+                },
+                {
+                    "h3": "Uzman ve araştırma görüşmeleri",
+                    "content": "Hisse senedi veya piyasa araştırması için uzmanlar, müşteriler ve yönetimle yapılan görüşmeler."
+                },
+                {
+                    "h3": "Denetim ve muhasebe görüşmeleri",
+                    "content": "Denetçilerin ve muhasebecilerin belgelemesi gereken süreç incelemeleri, yönetim görüşmeleri ve müşteri aramaları."
+                },
+                {
+                    "h3": "Finans podcast'leri ve videoları",
+                    "content": "Piyasa yorumları ve röportajlar; alıntı, makale ve bülten olarak yeniden kullanılır."
+                }
+            ]
+        },
+        {
+            "h2": "Alıntılamadan Önce Rakamları Kontrol Edin",
+            "intro": [
+                "Finansal bir transkriptte tek bir yanlış rakam anlamı değiştirir. Konuşma tanıma günlük dili iyi işler; birbirine benzeyen ya da bağlama dayanan kısımları kontrol edin:"
+            ],
+            "items": [
+                {
+                    "h3": "Birbirine benzeyen sayılar",
+                    "content": "\"Altı\" ile \"altmış\", \"yedi\" ile \"yetmiş\": %6 büyüme %60 değildir."
+                },
+                {
+                    "h3": "Birimler ve ölçek",
+                    "content": "Hızlı bir görüşmede \"milyon\" ile \"milyar\" kolayca karışır. Bunları basın bülteni ya da sunum slaytlarıyla karşılaştırın."
+                },
+                {
+                    "h3": "Yüzdeler ve baz puanlar",
+                    "content": "40 baz puan artış, %40 artış değildir. Konuşmacının kullandığı birimi koruyun."
+                },
+                {
+                    "h3": "Beklenti aralıkları ve dönemler",
+                    "content": "\"1,20 ile 1,30 arası\" gibi aralıklar ve Q3 FY26 gibi dönemler kolayca karışır. İkisini de doğrulayın."
+                },
+                {
+                    "h3": "İsimler, hisse kodları ve olumsuzluklar",
+                    "content": "Şirket ve analist isimleri, hisse kodları ve \"değil\" ya da \"artık ... değil\" gibi ifadeler ikinci kez dinlenmeyi hak eder."
+                }
+            ]
+        },
+        {
+            "h2": "Yöneticiler ve Analistler İçin Konuşmacı Etiketleri",
+            "content": [
+                "Bilanço toplantılarında ve müşteri görüşmelerinde birden fazla ses vardır: CEO, CFO, yatırımcı ilişkileri, analistler, danışmanlar ve müşteriler. Pro planda TranscriptX konuşmacıları otomatik olarak etiketler; böylece beklentiyi kimin verdiğini ve soruyu kimin sorduğunu görürsünüz.",
+                "İnceleme sırasında her etiketi kişinin unvanı ya da adıyla değiştirin. Ücretsiz planda konuşmacı adı olmadan, zaman damgalı paragraflar alırsınız; bu, tek bir sunucu ya da iki kişilik bir görüşme için gayet yeterlidir."
+            ]
+        },
+        {
+            "h2": "Webinarlar ve Videolar İçin Finansal Transkripsiyon",
+            "content": [
+                "Yatırımcı webinarları, sonuç videoları ve piyasa değerlendirmeleri altyazıyla daha çok kişiye ulaşır. Transkripti SRT veya VTT olarak indirin ve video platformunuza ya da webinar tekrarınıza yükleyin.",
+                "Aynı transkript, yatırımcı ilişkileri sayfanız, bir bülten ya da blog yazısı için videonun metin sürümü olarak da kullanılabilir."
+            ]
+        },
+        {
+            "h2": "Yapay Zeka mı, Finansal Transkripsiyon Hizmeti mi?",
+            "intro": [
+                "Her seçenek farklı bir ihtiyaca uyar. Transkriptin ne için kullanılacağına göre seçin:"
+            ],
+            "items": [
+                {
+                    "h3": "Yapay zeka ile transkripsiyon (TranscriptX)",
+                    "content": "Saniyeler ile dakikalar arası, ücretsiz denenebilir. Net seslerde, alıntılamadan önce gözden geçirdiğiniz sağlam bir taslak. Bilanço toplantıları, araştırma, müşteri ve ekip toplantıları için en uygunu."
+                },
+                {
+                    "h3": "Kendiniz yazmak",
+                    "content": "Paraya değil zamana mal olur: her saatlik kayıt için yaklaşık dört saat. Yalnızca çok kısa kayıtlar için pratiktir."
+                },
+                {
+                    "h3": "İnsan eliyle finansal transkripsiyon hizmetleri",
+                    "content": "Ses dakikası başına ücretlidir ve daha yavaştır, ama bir kişi tarafından kontrol edilir. Bazıları hukuki uyuşmazlıklar, düzenleyici bildirimler veya resmi kayıtlar için doğrulanmış ya da onaylı transkript sunar."
+                }
+            ]
+        },
+        {
+            "h2": "Finansal Transkripsiyonu Kimler Kullanır",
+            "intro": [
+                "Bir görüşmede söylenenlerle çalışan herkes:"
+            ],
+            "items": [
+                {
+                    "h3": "Analistler ve yatırımcılar",
+                    "content": "Bilanço toplantılarında beklenti, marj ya da bir ürün adı arayın ve yönetimi birebir alıntılayın."
+                },
+                {
+                    "h3": "Finans danışmanları ve planlamacılar",
+                    "content": "Müşteri değerlendirme görüşmelerini yazılı notlara ve yapılacaklara dönüştürün; kayıt her zaman bir tık uzakta."
+                },
+                {
+                    "h3": "Muhasebeciler ve denetçiler",
+                    "content": "Müşteri görüşmelerini, denetim mülakatlarını ve komite toplantılarını belgeleyin; bir rakamın ya da kararın geçtiği anı tam olarak bulun."
+                },
+                {
+                    "h3": "Yatırımcı ilişkileri ve finans ekipleri",
+                    "content": "Görüşme transkriptlerini hazırlayın, soru-cevapta söylenenleri kontrol edin ve iç toplantıların kaydını tutun."
+                },
+                {
+                    "h3": "Gazeteciler ve içerik üreticileri",
+                    "content": "Yöneticileri doğru alıntılayın, piyasa yorumlarını makaleye, bültene ve altyazıya dönüştürün."
+                }
+            ]
+        },
+        {
+            "h2": "Gizli Görüşmeler İçin Gizlilik",
+            "content": [
+                "Finansal görüşmeler çoğu zaman müşteri bilgileri ya da kamuya açıklanmamış bilgiler içerir. Bunları hangi araçların işleyebileceği konusunda şirketinizin politikasını kontrol edin ve bir müşteri görüşmesini kaydetmeden önce onay alın.",
+                "Yüklenen dosyalar otomatik olarak silinir; kayıtlarınız ve transkriptleriniz yapay zeka modellerini eğitmek için kullanılmaz. Tek bir transkripti ya da tüm verilerinizi istediğiniz zaman hesabınızdan silebilirsiniz. Ayrıntılar için <a href=\"/privacy-policy/\">Gizlilik Politikası</a>'na bakın."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Bir bilanço toplantısı nasıl yazıya dökülür?",
+                    "a": "Tekrar kaydını şirketin yatırımcı ilişkileri sayfasından indirip yükleyin ya da toplantı YouTube'daysa bağlantısını yapıştırın. Ardından alıntılamadan önce rakamları basın bülteniyle karşılaştırın."
+                },
+                {
+                    "q": "Finansal transkripsiyon ücretsiz mi?",
+                    "a": "TranscriptX'i hesap açmadan ücretsiz deneyebilirsiniz. Konuşmacı etiketleri ve gürültü azaltma Pro planda yer alır."
+                },
+                {
+                    "q": "Finansal görüşmelerde yapay zeka transkripsiyonu ne kadar doğru?",
+                    "a": "Net kayıtlar sağlam bir taslak olarak gelir. Yayımlamadan ya da güvenmeden önce rakamları, isimleri ve hisse kodlarını her zaman ses kaydıyla karşılaştırın."
+                },
+                {
+                    "q": "Bir bilanço toplantısını yazıya dökmek ne kadar sürer?",
+                    "a": "Birkaç dakikalık ses saniyeler içinde gelir, tam bir toplantı biraz daha uzun sürer. Rakamları kontrol etmek için ek zaman ayırın."
+                },
+                {
+                    "q": "Hatalı bir transkripti düzeltebilir miyim?",
+                    "a": "Evet. Düzenle ile herhangi bir kelimeyi, rakamı ya da ismi düzeltin; bu sırada kaydı metnin yanında oynatabilirsiniz."
+                },
+                {
+                    "q": "Zoom veya Teams'teki bir müşteri toplantısını yazıya dökebilir miyim?",
+                    "a": "Evet. Toplantıdan sonra kayıt dosyasını yükleyin. TranscriptX görüşmelere kendisi katılmaz."
+                },
+                {
+                    "q": "Düzenleyici ya da hukuki kayıtlar için kullanabilir miyim?",
+                    "a": "Taslaklar, notlar ve kayıtta arama yapmak için kullanın. Doğrulanmış ya da onaylı bir transkript gerektiğinde insan eliyle çalışan bir transkripsiyon hizmeti kullanın ve şirketinizin kurallarına uyun."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bir Sonraki Finansal Görüşmenizi Yazıya Dökün",
+        "content": [
+            "Bilanço toplantısını, müşteri görüşmesini ya da webinarı yükleyin; her paragraftaki zaman damgasıyla her rakamı ses kaydıyla karşılaştırabileceğiniz, aranabilir ve alıntılanabilir bir metin alın.",
+            "Röportajlar ve araştırma görüşmeleri için <a href=\"/interview-transcription/\">Röportaj Deşifre</a> aracını, diğer tüm kayıtlar için <a href=\"/audio-to-text/\">Sesi Yazıya Çevirme</a> ya da <a href=\"/video-to-text/\">Videoyu Yazıya Çevirme</a> aracını kullanın. Ücretsiz deneyin, hesap gerekmez."
+        ]
+    }
+}

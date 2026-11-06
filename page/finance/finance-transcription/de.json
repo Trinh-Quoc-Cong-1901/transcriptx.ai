@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Finanztranskription – Calls & Meetings in Text | TranscriptX",
+        "description": "Finanztranskription online: Earnings Calls, Investoren-Webinare und Kundengespräche in Text mit Zeitstempeln umwandeln. Jede Zahl prüfen, nach Word exportieren.",
+        "schemaName": "TranscriptX Finanztranskription",
+        "schemaDescription": "KI-Finanztranskription im Browser: Gesprächsaufnahme hochladen, Videolink einfügen oder Meeting aufnehmen, ein bearbeitbares Transkript mit Zeitstempeln und Sprecherkennzeichnung (Pro) erhalten, Notizen daneben anlegen und als DOCX, PDF, TXT, SRT oder VTT exportieren.",
+        "ogTitle": "Finanztranskription: Calls als durchsuchbarer Text",
+        "ogDescription": "Mach aus Earnings Calls und Kundengesprächen Text, den du durchsuchen und zitieren kannst – mit einem Zeitstempel an jedem Absatz, um jede Zahl am Audio zu prüfen."
+    },
+    "hero": {
+        "h1": "Finanztranskription",
+        "subtitle": "Mach aus Earnings Calls, Investoren-Webinaren und Kundengesprächen Text, den du durchsuchen, zitieren und ablegen kannst. Lade die Aufnahme hoch, füge einen Videolink ein oder nimm das Meeting direkt im Browser auf, und TranscriptX schreibt es mit einem Zeitstempel an jedem Absatz aus, sodass du jede Zahl mit dem Audio abgleichen kannst. Export als Word, PDF oder TXT. Kostenlos testen, kein Konto nötig.",
+        "placeholder": "Gesprächsaufnahme hochladen oder Link einfügen...",
+        "button": "Call transkribieren"
+    },
+    "quickAnswer": {
+        "question": "Wie transkribiere ich ein Finanzgespräch?",
+        "answer": "Lade die Gesprächsaufnahme bei TranscriptX hoch, füge den Link ein, wenn der Call auf YouTube ist, oder tippe während eines Meetings auf Aufnehmen. Du erhältst in Sekunden ein bearbeitbares Transkript mit Zeitstempeln. Prüfe jede Zahl und jeden Namen am Audio, und kopiere dann den Text oder lade ihn als DOCX, PDF oder TXT für Notizen, Bericht oder Unterlagen herunter."
+    },
+    "sections": [
+        {
+            "h2": "Was ist Finanztranskription?",
+            "content": [
+                "Bei der Finanztranskription werden gesprochene Finanzinhalte in geschriebenen Text umgewandelt: Earnings Calls, Analysten-Q&A, Investorentage, Kundengespräche, Budget- und Vorstandssitzungen sowie Börsen-Podcasts. Analysten durchsuchen ihn, Berater legen ihn zu ihren Gesprächsnotizen, und Investor-Relations-Teams veröffentlichen oder archivieren ihn.",
+                "Eine Stunde Audio von Hand abzutippen dauert etwa vier Stunden. TranscriptX macht aus der Aufnahme in Sekunden Text und setzt an jeden Absatz einen Zeitstempel, sodass du deine Zeit mit dem Prüfen der Zahlen und der Arbeit am Transkript verbringst statt mit Tippen."
+            ]
+        },
+        {
+            "h2": "Finanztranskription auf einen Blick",
+            "specs": [
+                {
+                    "label": "Eingabe",
+                    "value": "Gesprächsaufnahme hochladen, YouTube- oder anderen Videolink einfügen oder Meeting im Browser aufnehmen"
+                },
+                {
+                    "label": "Woher die Dateien kommen",
+                    "value": "Dein Gerät, Google Drive, Dropbox oder OneDrive"
+                },
+                {
+                    "label": "Jede Zahl prüfen",
+                    "value": "Zeitstempel an jedem Absatz, die Aufnahme läuft neben dem Text"
+                },
+                {
+                    "label": "Wer hat was gesagt",
+                    "value": "Sprecherkennzeichnung für Vorstand, Analysten und Kunden im Pro-Plan"
+                },
+                {
+                    "label": "Notizen beim Lesen",
+                    "value": "Notizen-Tab neben dem Transkript, mit Zeitstempeln und Checklisten"
+                },
+                {
+                    "label": "Für Berichte und Unterlagen",
+                    "value": "Download als DOCX, PDF oder TXT, oder als SRT und VTT für Untertitel"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos testen, kein Konto nötig · Pro-Plan für intensive Nutzung"
+                }
+            ]
+        },
+        {
+            "h2": "So transkribierst du ein Finanzgespräch",
+            "steps": [
+                {
+                    "h3": "Aufnahme hinzufügen",
+                    "content": "Lade die Audio- oder Videodatei von deinem Gerät, Google Drive, Dropbox oder OneDrive hoch, zum Beispiel die Aufzeichnung eines Earnings Calls oder eine Zoom- oder Teams-Aufnahme. Ist der Call auf YouTube, füge den Link ein. Für ein Meeting vor Ort tippe auf Aufnehmen."
+                },
+                {
+                    "h3": "Transkript erhalten",
+                    "content": "TranscriptX erkennt die Sprache und schreibt das Gespräch in Absätzen mit Satzzeichen aus, jeder mit einem Zeitstempel."
+                },
+                {
+                    "h3": "Zahlen mit dem Audio abgleichen",
+                    "content": "Spiele die Aufnahme neben dem Text ab, korrigiere Zahlen, Namen und Ticker mit Bearbeiten und halte wichtige Kennzahlen und nächste Schritte im Notizen-Tab fest."
+                },
+                {
+                    "h3": "Kopieren oder exportieren",
+                    "content": "Kopiere das Transkript in eine Research-Notiz oder E-Mail, oder lade es als DOCX, PDF oder TXT für Berichte und Unterlagen herunter."
+                }
+            ]
+        },
+        {
+            "h2": "Finanz-Audio online transkribieren",
+            "content": [
+                "Es gibt nichts zu installieren. Öffne diese Seite im Browser am Computer oder Handy, füge die Aufnahme hinzu, und das Transkript erscheint auf derselben Seite.",
+                "Die meisten Finanzaufnahmen kommen als Datei: die Aufzeichnung eines Webcasts von einer Investor-Relations-Seite, eine Meeting-Aufnahme aus Zoom, Teams oder Meet oder eine Sprachnotiz nach einem Kundengespräch. Audio- und Videodateien funktionieren beide. Ist der Call oder das Markt-Update schon als Video online, füge einfach den Link ein, statt es erst herunterzuladen.",
+                "Du kannst die Transkription von Finanz-Audio kostenlos testen, ohne Konto. Wenn du jede Woche Calls transkribierst, sieh dir den <a href=\"/pricing/\">Pro-Plan</a> an."
+            ]
+        },
+        {
+            "h2": "Was du transkribieren kannst",
+            "intro": [
+                "Jede Aufnahme, in der es um Geld, Märkte oder Ergebnisse geht:"
+            ],
+            "items": [
+                {
+                    "h3": "Earnings Calls",
+                    "content": "Aufnahmen von Earnings Calls und Webcast-Aufzeichnungen: vorbereitete Statements und die Analysten-Q&A, bereit für den zeilenweisen Vergleich mit dem Vorquartal."
+                },
+                {
+                    "h3": "Investorentage und Webinare",
+                    "content": "Strategiepräsentationen, Fonds-Updates und Roadshow-Termine, die du später durchsuchen willst."
+                },
+                {
+                    "h3": "Kundengespräche",
+                    "content": "Gespräche zwischen Anlageberatern, Finanzplanern oder Vermögensverwaltern und ihren Kunden, umgewandelt in schriftliche Notizen und nächste Schritte."
+                },
+                {
+                    "h3": "Vorstands- und Ausschusssitzungen",
+                    "content": "Transkription von Vorstandssitzungen für Budgetbesprechungen, Prüfungs- und Finanzausschüsse und Deal-Gespräche, als lesbarer Nachweis neben dem Protokoll."
+                },
+                {
+                    "h3": "Experten- und Research-Calls",
+                    "content": "Gespräche mit Experten, Kunden und Management für Aktien- oder Marktresearch."
+                },
+                {
+                    "h3": "Prüfungs- und Buchhaltungsgespräche",
+                    "content": "Walkthroughs, Gespräche mit dem Management und Kundencalls, die Wirtschaftsprüfer und Buchhalter dokumentieren müssen."
+                },
+                {
+                    "h3": "Finanz-Podcasts und -Videos",
+                    "content": "Marktkommentare und Interviews, weiterverwendet als Zitate, Artikel und Newsletter."
+                }
+            ]
+        },
+        {
+            "h2": "Prüfe die Zahlen, bevor du zitierst",
+            "intro": [
+                "In einem Finanztranskript verändert eine falsche Ziffer die Aussage. Spracherkennung kommt mit Alltagssprache gut zurecht; prüfe die Stellen, die ähnlich klingen oder vom Kontext abhängen:"
+            ],
+            "items": [
+                {
+                    "h3": "Zahlen, die ähnlich klingen",
+                    "content": "„Fünfzehn“ und „fünfzig“, „dreizehn“ und „dreißig“: 15 % Wachstum sind nicht 50 %."
+                },
+                {
+                    "h3": "Einheiten und Größenordnung",
+                    "content": "„Millionen“ und „Milliarden“ gehen in einem schnellen Call leicht unter. Gleiche sie mit der Pressemitteilung oder den Folien ab."
+                },
+                {
+                    "h3": "Prozente und Basispunkte",
+                    "content": "Ein Plus von 40 Basispunkten ist kein Plus von 40 %. Behalte die Einheit bei, die der Sprecher verwendet hat."
+                },
+                {
+                    "h3": "Prognosespannen und Zeiträume",
+                    "content": "Spannen wie „1,20 bis 1,30“ und Zeiträume wie Q3 FY26 verschwimmen leicht. Bestätige beides."
+                },
+                {
+                    "h3": "Namen, Ticker und Verneinungen",
+                    "content": "Firmen- und Analystennamen, Ticker und Wörter wie „nicht“ oder „nicht mehr“ verdienen ein zweites Hinhören."
+                }
+            ]
+        },
+        {
+            "h2": "Sprecherkennzeichnung für Vorstand und Analysten",
+            "content": [
+                "In Earnings Calls und Kundengesprächen sprechen mehrere Stimmen: CEO, CFO, Investor Relations, Analysten, Berater und Kunden. Im Pro-Plan kennzeichnet TranscriptX die Sprecher automatisch, sodass du siehst, wer die Prognose abgegeben und wer die Frage gestellt hat.",
+                "Benenne jede Kennzeichnung bei der Durchsicht nach Rolle oder Namen der Person um. Im kostenlosen Plan erhältst du Absätze mit Zeitstempeln ohne Sprechernamen – das passt gut für eine einzelne vortragende Person oder ein Gespräch zu zweit."
+            ]
+        },
+        {
+            "h2": "Finanztranskription für Webinare und Videos",
+            "content": [
+                "Investoren-Webinare, Ergebnisvideos und Markt-Updates erreichen mit Untertiteln mehr Menschen. Lade das Transkript als SRT oder VTT herunter und lade es auf deiner Videoplattform oder bei der Webinar-Aufzeichnung hoch.",
+                "Dasselbe Transkript dient als Textversion des Videos für deine Investor-Relations-Seite, einen Newsletter oder einen Blogbeitrag."
+            ]
+        },
+        {
+            "h2": "KI-Transkription oder Transkriptionsdienst für Finanzen?",
+            "intro": [
+                "Jede Option passt zu einem anderen Bedarf. Entscheide danach, wofür das Transkript gedacht ist:"
+            ],
+            "items": [
+                {
+                    "h3": "KI-Transkription (TranscriptX)",
+                    "content": "Sekunden bis Minuten, kostenlos testbar. Ein solider Entwurf bei klarem Audio, den du vor dem Zitieren prüfst. Ideal für Earnings Calls, Research, Kunden- und Team-Meetings."
+                },
+                {
+                    "h3": "Selbst abtippen",
+                    "content": "Kostet nichts außer Zeit: etwa vier Stunden pro Stunde Audio. Nur für sehr kurze Clips praktikabel."
+                },
+                {
+                    "h3": "Menschliche Transkriptionsdienste für Finanzen",
+                    "content": "Abrechnung pro Audiominute und langsamer, aber von einem Menschen geprüft. Manche bieten verifizierte oder beglaubigte Transkripte für Rechtsstreitigkeiten, regulatorische Meldungen oder offizielle Unterlagen."
+                }
+            ]
+        },
+        {
+            "h2": "Wer Finanztranskription nutzt",
+            "intro": [
+                "Alle, die mit dem arbeiten, was in einem Call gesagt wurde:"
+            ],
+            "items": [
+                {
+                    "h3": "Analysten und Investoren",
+                    "content": "Earnings Calls nach Prognosen, Margen oder einem Produktnamen durchsuchen und das Management exakt zitieren."
+                },
+                {
+                    "h3": "Finanz- und Anlageberater",
+                    "content": "Kundengespräche in schriftliche Notizen und Aufgaben verwandeln, die Aufnahme nur einen Klick entfernt."
+                },
+                {
+                    "h3": "Buchhalter und Wirtschaftsprüfer",
+                    "content": "Kundencalls, Prüfungsgespräche und Ausschusssitzungen dokumentieren und genau die Stelle finden, an der eine Zahl oder Entscheidung fiel."
+                },
+                {
+                    "h3": "Investor-Relations- und Finanzteams",
+                    "content": "Transkripte von Calls vorbereiten, prüfen, was in der Q&A gesagt wurde, und interne Meetings festhalten."
+                },
+                {
+                    "h3": "Journalisten und Creator",
+                    "content": "Führungskräfte korrekt zitieren und Marktkommentare in Artikel, Newsletter und Untertitel verwandeln."
+                }
+            ]
+        },
+        {
+            "h2": "Datenschutz für vertrauliche Gespräche",
+            "content": [
+                "Finanzgespräche enthalten oft Kundendaten oder nicht öffentliche Informationen. Prüfe die Richtlinien deines Unternehmens, welche Tools damit arbeiten dürfen, und hol vor der Aufnahme eines Kundengesprächs die Zustimmung ein.",
+                "Hochgeladene Dateien werden automatisch gelöscht, und deine Aufnahmen und Transkripte werden nicht zum Training von KI-Modellen verwendet. Du kannst jederzeit ein einzelnes Transkript oder alle deine Daten über dein Konto löschen. Details findest du in der <a href=\"/privacy-policy/\">Datenschutzerklärung</a>."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Wie transkribiere ich einen Earnings Call?",
+                    "a": "Lade die Aufzeichnung von der Investor-Relations-Seite des Unternehmens herunter und lade sie hoch, oder füge den Link ein, wenn der Call auf YouTube ist. Prüfe die Zahlen dann an der Pressemitteilung, bevor du sie zitierst."
+                },
+                {
+                    "q": "Ist Finanztranskription kostenlos?",
+                    "a": "Du kannst TranscriptX kostenlos und ohne Konto testen. Sprecherkennzeichnung und Rauschunterdrückung gibt es im Pro-Plan."
+                },
+                {
+                    "q": "Wie genau ist KI-Transkription bei Finanzgesprächen?",
+                    "a": "Klare Aufnahmen kommen als solider Entwurf zurück. Prüfe Zahlen, Namen und Ticker immer am Audio, bevor du sie veröffentlichst oder dich darauf verlässt."
+                },
+                {
+                    "q": "Wie lange dauert die Transkription eines Earnings Calls?",
+                    "a": "Ein paar Minuten Audio sind in Sekunden fertig, ein ganzer Call dauert etwas länger. Plane zusätzliche Zeit ein, um die Zahlen zu prüfen."
+                },
+                {
+                    "q": "Kann ich ein Transkript mit Fehlern korrigieren?",
+                    "a": "Ja. Korrigiere mit Bearbeiten jedes Wort, jede Zahl und jeden Namen, während die Aufnahme neben dem Text läuft."
+                },
+                {
+                    "q": "Kann ich ein Kundengespräch in Zoom oder Teams transkribieren?",
+                    "a": "Ja. Lade die Aufnahmedatei danach hoch. TranscriptX nimmt nicht selbst an Anrufen teil."
+                },
+                {
+                    "q": "Kann ich es für regulatorische oder rechtliche Unterlagen verwenden?",
+                    "a": "Nutze es für Entwürfe, Notizen und zum Durchsuchen der Aufnahme. Wenn ein verifiziertes oder beglaubigtes Transkript nötig ist, beauftrage einen menschlichen Transkriptionsdienst und halte dich an die Regeln deines Unternehmens."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkribiere deinen nächsten Finanz-Call",
+        "content": [
+            "Lade den Earnings Call, das Kundengespräch oder das Webinar hoch und erhalte Text, den du durchsuchen und zitieren kannst – mit einem Zeitstempel an jedem Absatz, um jede Zahl am Audio zu prüfen.",
+            "Für Interviews und Research-Calls nutze <a href=\"/interview-transcription/\">Interview transkribieren</a>; für jede andere Aufnahme nutze <a href=\"/audio-to-text/\">Audio in Text</a> oder <a href=\"/video-to-text/\">Video in Text</a>. Kostenlos testen, kein Konto nötig."
+        ]
+    }
+}

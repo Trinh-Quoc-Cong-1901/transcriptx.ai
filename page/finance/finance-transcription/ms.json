@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transkripsi Kewangan — Panggilan & Mesyuarat ke Teks | TranscriptX",
+        "description": "Transkripsi kewangan dalam talian: tukar panggilan pendapatan, webinar pelabur dan mesyuarat klien kepada teks bercap masa. Semak setiap angka, eksport ke Word.",
+        "schemaName": "TranscriptX Transkripsi Kewangan",
+        "schemaDescription": "Transkripsi kewangan AI dalam pelayar: muat naik rakaman panggilan, tampal pautan video atau rakam mesyuarat, dan dapatkan transkrip boleh sunting dengan cap masa dan label penutur (Pro), tambah nota di sebelahnya dan eksport ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Kewangan: Panggilan ke Teks Boleh Cari",
+        "ogDescription": "Tukar panggilan pendapatan dan mesyuarat klien kepada teks yang boleh anda cari dan petik, dengan cap masa pada setiap perenggan untuk menyemak setiap angka dengan audio."
+    },
+    "hero": {
+        "h1": "Transkripsi Kewangan",
+        "subtitle": "Tukar panggilan pendapatan, webinar pelabur dan mesyuarat klien kepada teks yang boleh anda cari, petik dan failkan. Muat naik rakaman, tampal pautan video atau rakam mesyuarat dalam pelayar, dan TranscriptX menulisnya dengan cap masa pada setiap perenggan, supaya setiap angka boleh disemak dengan audio. Eksport ke Word, PDF atau TXT. Percuma untuk dicuba, tanpa akaun.",
+        "placeholder": "Muat naik rakaman panggilan atau tampal pautan...",
+        "button": "Transkrip Panggilan"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip panggilan kewangan?",
+        "answer": "Muat naik rakaman panggilan ke TranscriptX, tampal pautan jika panggilan itu ada di YouTube, atau tekan Rakam semasa mesyuarat. Anda mendapat transkrip boleh sunting dengan cap masa dalam beberapa saat. Semak setiap angka dan nama dengan audio, kemudian salin teks atau muat turun sebagai DOCX, PDF atau TXT untuk nota, laporan atau rekod anda."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Transkripsi Kewangan?",
+            "content": [
+                "Transkripsi kewangan menukar kandungan kewangan yang dituturkan kepada teks bertulis: panggilan pendapatan, sesi soal jawab penganalisis, hari pelabur, semakan klien, mesyuarat bajet dan lembaga pengarah, serta podcast pasaran. Penganalisis mencarinya, penasihat menyimpannya bersama nota mesyuarat, dan pasukan perhubungan pelabur menerbitkan atau mengarkibkannya.",
+                "Menaip satu jam audio secara manual mengambil masa kira-kira empat jam. TranscriptX menukar rakaman kepada teks dalam beberapa saat dan mengekalkan cap masa pada setiap perenggan, jadi masa anda digunakan untuk menyemak angka dan menggunakan transkrip, bukan menaipnya."
+            ]
+        },
+        {
+            "h2": "Transkripsi Kewangan Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Muat naik rakaman panggilan, tampal pautan YouTube atau video lain, atau rakam mesyuarat dalam pelayar"
+                },
+                {
+                    "label": "Sumber fail",
+                    "value": "Peranti anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Semak setiap angka",
+                    "value": "Cap masa pada setiap perenggan, dengan rakaman dimainkan di sebelah teks"
+                },
+                {
+                    "label": "Siapa cakap apa",
+                    "value": "Label penutur untuk eksekutif, penganalisis dan klien pada pelan Pro"
+                },
+                {
+                    "label": "Nota sambil membaca",
+                    "value": "Tab Nota di sebelah transkrip, dengan cap masa dan senarai semak"
+                },
+                {
+                    "label": "Untuk laporan dan rekod",
+                    "value": "Muat turun sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk sari kata"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Percuma untuk dicuba, tanpa akaun · Pelan Pro untuk penggunaan berat"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Panggilan Kewangan",
+            "steps": [
+                {
+                    "h3": "Tambah rakaman",
+                    "content": "Muat naik fail audio atau video daripada peranti anda, Google Drive, Dropbox atau OneDrive, seperti ulang tayang panggilan pendapatan atau rakaman Zoom atau Teams. Jika panggilan itu ada di YouTube, tampal pautannya. Untuk mesyuarat bersemuka, tekan Rakam."
+                },
+                {
+                    "h3": "Dapatkan transkrip",
+                    "content": "TranscriptX mengesan bahasa dan menulis panggilan sebagai perenggan bertanda baca, setiap satu dengan cap masa."
+                },
+                {
+                    "h3": "Semak angka dengan audio",
+                    "content": "Mainkan rakaman di sebelah teks, betulkan nombor, nama dan simbol saham dengan Sunting, dan catat angka penting serta tindakan susulan dalam tab Nota."
+                },
+                {
+                    "h3": "Salin atau eksport",
+                    "content": "Salin transkrip ke dalam nota penyelidikan atau e-mel, atau muat turun sebagai DOCX, PDF atau TXT untuk laporan dan rekod."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Audio Kewangan Dalam Talian",
+            "content": [
+                "Tiada apa yang perlu dipasang. Buka halaman ini dalam pelayar di komputer atau telefon, tambah rakaman, dan transkrip muncul di halaman yang sama.",
+                "Kebanyakan audio kewangan diterima sebagai fail: ulang tayang webcast daripada halaman perhubungan pelabur, rakaman mesyuarat daripada Zoom, Teams atau Meet, atau memo suara selepas panggilan klien. Fail audio dan video kedua-duanya boleh. Jika panggilan atau kemas kini pasaran sudah ada dalam talian sebagai video, tampal pautannya tanpa perlu memuat turunnya dahulu.",
+                "Anda boleh mencuba transkripsi audio kewangan secara percuma, tanpa akaun. Jika anda membuat transkrip panggilan setiap minggu, lihat <a href=\"/pricing/\">pelan Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkrip",
+            "intro": [
+                "Sebarang rakaman yang membincangkan wang, pasaran atau keputusan:"
+            ],
+            "items": [
+                {
+                    "h3": "Panggilan pendapatan",
+                    "content": "Rakaman panggilan pendapatan dan ulang tayang webcast: ucapan yang disediakan dan sesi soal jawab penganalisis, sedia untuk dibandingkan dengan suku lepas baris demi baris."
+                },
+                {
+                    "h3": "Hari pelabur dan webinar",
+                    "content": "Pembentangan strategi, kemas kini dana dan sesi roadshow yang ingin anda cari kemudian."
+                },
+                {
+                    "h3": "Mesyuarat klien",
+                    "content": "Semakan antara penasihat, perancang kewangan atau pengurus kekayaan dengan klien mereka, ditukar menjadi nota bertulis dan tindakan susulan."
+                },
+                {
+                    "h3": "Mesyuarat lembaga dan jawatankuasa",
+                    "content": "Transkripsi mesyuarat lembaga pengarah untuk semakan bajet, jawatankuasa audit dan kewangan serta perbincangan urus niaga, disimpan sebagai rekod mudah dibaca di sebelah minit mesyuarat."
+                },
+                {
+                    "h3": "Panggilan pakar dan penyelidikan",
+                    "content": "Temu bual dengan pakar, pelanggan dan pengurusan untuk penyelidikan ekuiti atau pasaran."
+                },
+                {
+                    "h3": "Temu bual audit dan perakaunan",
+                    "content": "Walkthrough, temu bual pengurusan dan panggilan klien yang perlu didokumenkan oleh juruaudit dan akauntan."
+                },
+                {
+                    "h3": "Podcast dan video kewangan",
+                    "content": "Ulasan pasaran dan temu bual, digunakan semula sebagai petikan, artikel dan surat berita."
+                }
+            ]
+        },
+        {
+            "h2": "Semak Angka Sebelum Anda Memetik",
+            "intro": [
+                "Dalam transkrip kewangan, satu digit yang salah mengubah maksud. Pengecaman pertuturan mengendalikan bahasa harian dengan baik; semak bahagian yang berbunyi serupa atau bergantung pada konteks:"
+            ],
+            "items": [
+                {
+                    "h3": "Nombor yang berbunyi serupa",
+                    "content": "\"Lima belas\" dan \"lima puluh\", \"tiga belas\" dan \"tiga puluh\": pertumbuhan 15% bukan 50%."
+                },
+                {
+                    "h3": "Unit dan skala",
+                    "content": "\"Juta\" dan \"bilion\" ialah perkataan pendek dalam panggilan yang laju. Semak dengan kenyataan media atau slaid."
+                },
+                {
+                    "h3": "Peratusan dan mata asas",
+                    "content": "Naik 40 mata asas bukan naik 40%. Kekalkan unit yang digunakan oleh penutur."
+                },
+                {
+                    "h3": "Julat unjuran dan tempoh",
+                    "content": "Julat seperti \"1.20 hingga 1.30\" dan tempoh seperti Q3 FY26 mudah tersalah dengar. Sahkan kedua-duanya."
+                },
+                {
+                    "h3": "Nama, simbol saham dan perkataan negatif",
+                    "content": "Nama syarikat dan penganalisis, simbol saham, serta perkataan seperti \"tidak\" atau \"tidak lagi\" wajar didengar sekali lagi."
+                }
+            ]
+        },
+        {
+            "h2": "Label Penutur untuk Eksekutif dan Penganalisis",
+            "content": [
+                "Panggilan pendapatan dan mesyuarat klien ada beberapa suara: CEO, CFO, perhubungan pelabur, penganalisis, penasihat dan klien. Pada pelan Pro, TranscriptX melabel penutur secara automatik, jadi anda dapat melihat siapa yang memberi unjuran dan siapa yang bertanya.",
+                "Tukar nama setiap label kepada peranan atau nama orang itu semasa semakan anda. Pada pelan Percuma, anda mendapat perenggan bercap masa tanpa nama penutur, yang sesuai untuk seorang pembentang atau panggilan dua orang."
+            ]
+        },
+        {
+            "h2": "Transkripsi Kewangan untuk Webinar dan Video",
+            "content": [
+                "Webinar pelabur, video keputusan dan kemas kini pasaran sampai kepada lebih ramai orang dengan sari kata. Muat turun transkrip sebagai SRT atau VTT dan muat naik ke platform video atau ulang tayang webinar anda.",
+                "Transkrip yang sama boleh dijadikan versi teks video untuk halaman perhubungan pelabur, surat berita atau catatan blog anda."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI atau Perkhidmatan Transkripsi Kewangan?",
+            "intro": [
+                "Setiap pilihan sesuai untuk keperluan berbeza. Pilih berdasarkan tujuan transkrip:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Beberapa saat hingga beberapa minit, percuma untuk dicuba. Draf yang kukuh untuk audio yang jelas, yang anda semak sebelum memetik. Terbaik untuk panggilan pendapatan, penyelidikan, mesyuarat klien dan pasukan."
+                },
+                {
+                    "h3": "Menaip sendiri",
+                    "content": "Tiada kos selain masa: kira-kira empat jam bagi setiap jam audio. Praktikal hanya untuk klip yang sangat pendek."
+                },
+                {
+                    "h3": "Perkhidmatan transkripsi kewangan oleh manusia",
+                    "content": "Dibayar mengikut minit audio dan lebih perlahan, tetapi disemak oleh manusia. Sesetengahnya menawarkan transkrip yang disahkan atau diperakui untuk pertikaian undang-undang, pemfailan kawal selia atau rekod rasmi."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Menggunakan Transkripsi Kewangan",
+            "intro": [
+                "Sesiapa yang bekerja dengan apa yang diperkatakan dalam panggilan:"
+            ],
+            "items": [
+                {
+                    "h3": "Penganalisis dan pelabur",
+                    "content": "Cari unjuran, margin atau nama produk dalam panggilan pendapatan, dan petik kata-kata pengurusan dengan tepat."
+                },
+                {
+                    "h3": "Penasihat dan perancang kewangan",
+                    "content": "Tukar semakan klien kepada nota bertulis dan item tindakan, dengan rakaman hanya satu klik jauhnya."
+                },
+                {
+                    "h3": "Akauntan dan juruaudit",
+                    "content": "Dokumenkan panggilan klien, temu bual audit dan mesyuarat jawatankuasa, dan cari detik tepat sesuatu angka atau keputusan disebut."
+                },
+                {
+                    "h3": "Pasukan perhubungan pelabur dan kewangan",
+                    "content": "Sediakan transkrip panggilan, semak apa yang dikatakan dalam sesi soal jawab dan simpan rekod mesyuarat dalaman."
+                },
+                {
+                    "h3": "Wartawan dan pencipta kandungan",
+                    "content": "Petik kata-kata eksekutif dengan tepat dan tukar ulasan pasaran kepada artikel, surat berita dan sari kata."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi untuk Panggilan Sulit",
+            "content": [
+                "Panggilan kewangan sering mengandungi butiran klien atau maklumat yang belum didedahkan kepada umum. Semak dasar firma anda tentang alat yang boleh mengendalikannya, dan dapatkan persetujuan sebelum merakam mesyuarat klien.",
+                "Fail yang dimuat naik dipadam secara automatik, dan rakaman serta transkrip anda tidak digunakan untuk melatih model AI. Anda boleh memadam satu transkrip, atau semua data anda, pada bila-bila masa daripada akaun anda. Lihat <a href=\"/privacy-policy/\">Dasar Privasi</a> untuk butirannya."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Bagaimana cara membuat transkrip panggilan pendapatan?",
+                    "a": "Muat turun ulang tayang daripada halaman perhubungan pelabur syarikat dan muat naiknya, atau tampal pautan jika panggilan itu ada di YouTube. Kemudian semak angka dengan kenyataan media sebelum anda memetiknya."
+                },
+                {
+                    "q": "Adakah transkripsi kewangan percuma?",
+                    "a": "Anda boleh mencuba TranscriptX secara percuma, tanpa akaun. Label penutur dan pengurangan hingar tersedia pada pelan Pro."
+                },
+                {
+                    "q": "Sejauh mana ketepatan transkripsi AI untuk panggilan kewangan?",
+                    "a": "Rakaman yang jelas menghasilkan draf yang kukuh. Sentiasa semak nombor, nama dan simbol saham dengan audio sebelum anda menerbitkan atau bergantung padanya."
+                },
+                {
+                    "q": "Berapa lama masa untuk membuat transkrip panggilan pendapatan?",
+                    "a": "Beberapa minit audio siap dalam beberapa saat, dan panggilan penuh mengambil masa sedikit lebih lama. Peruntukkan masa tambahan untuk menyemak angka."
+                },
+                {
+                    "q": "Bolehkah saya membetulkan transkrip yang ada kesilapan?",
+                    "a": "Ya. Gunakan Sunting untuk membetulkan sebarang perkataan, nombor atau nama, sambil memainkan rakaman di sebelah teks."
+                },
+                {
+                    "q": "Bolehkah saya membuat transkrip mesyuarat klien Zoom atau Teams?",
+                    "a": "Ya. Muat naik fail rakaman selepas mesyuarat. TranscriptX tidak menyertai panggilan dengan sendirinya."
+                },
+                {
+                    "q": "Bolehkah saya menggunakannya untuk rekod kawal selia atau undang-undang?",
+                    "a": "Gunakannya untuk draf, nota dan mencari dalam rakaman. Apabila transkrip yang disahkan atau diperakui diperlukan, gunakan perkhidmatan transkripsi manusia dan ikut peraturan firma anda."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Panggilan Kewangan Anda yang Seterusnya",
+        "content": [
+            "Muat naik panggilan pendapatan, mesyuarat klien atau webinar, dan dapatkan teks yang boleh anda cari dan petik, dengan cap masa pada setiap perenggan untuk menyemak setiap angka dengan audio.",
+            "Untuk temu bual dan panggilan penyelidikan, gunakan <a href=\"/interview-transcription/\">Transkripsi Temu Bual</a>; untuk rakaman lain, gunakan <a href=\"/audio-to-text/\">Audio ke Teks</a> atau <a href=\"/video-to-text/\">Video ke Teks</a>. Percuma untuk dicuba, tanpa akaun."
+        ]
+    }
+}

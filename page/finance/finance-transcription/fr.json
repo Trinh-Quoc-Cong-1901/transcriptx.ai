@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transcription financière en ligne : appels en texte | TranscriptX",
+        "description": "Transcription financière en ligne : convertissez conférences de résultats, webinaires investisseurs et rendez-vous clients en texte horodaté. Export Word.",
+        "schemaName": "TranscriptX Transcription financière",
+        "schemaDescription": "Transcription financière par IA dans le navigateur : importez l'enregistrement d'un appel, collez le lien d'une vidéo ou enregistrez une réunion, obtenez une transcription modifiable avec horodatages et identification des locuteurs (Pro), ajoutez des notes à côté et exportez en DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Transcription financière : vos appels en texte consultable",
+        "ogDescription": "Transformez conférences de résultats et rendez-vous clients en texte que vous pouvez rechercher et citer, avec un horodatage sur chaque paragraphe pour vérifier chaque chiffre avec l'audio."
+    },
+    "hero": {
+        "h1": "Transcription financière",
+        "subtitle": "Transformez conférences de résultats, webinaires investisseurs et rendez-vous clients en texte que vous pouvez rechercher, citer et archiver. Importez l'enregistrement, collez le lien d'une vidéo ou enregistrez la réunion dans votre navigateur, et TranscriptX la retranscrit avec un horodatage sur chaque paragraphe, pour vérifier chaque chiffre avec l'audio. Exportez en Word, PDF ou TXT. Essai gratuit, sans compte.",
+        "placeholder": "Importez l'enregistrement d'un appel ou collez un lien...",
+        "button": "Retranscrire l'appel"
+    },
+    "quickAnswer": {
+        "question": "Comment retranscrire un appel financier ?",
+        "answer": "Importez l'enregistrement de l'appel dans TranscriptX, collez le lien si l'appel est sur YouTube, ou appuyez sur Enregistrer pendant une réunion. Vous obtenez en quelques secondes une transcription modifiable avec horodatages. Vérifiez chaque chiffre et chaque nom avec l'audio, puis copiez le texte ou téléchargez-le en DOCX, PDF ou TXT pour vos notes, votre rapport ou vos archives."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la transcription financière ?",
+            "content": [
+                "La transcription financière transforme en texte écrit les contenus financiers parlés : conférences de résultats, sessions de questions-réponses avec les analystes, journées investisseurs, points clients, réunions budgétaires et conseils d'administration, et podcasts sur les marchés. Les analystes y font des recherches, les conseillers la conservent avec leurs notes de rendez-vous, et les équipes relations investisseurs la publient ou l'archivent.",
+                "Retaper une heure d'audio à la main prend environ quatre heures. TranscriptX convertit l'enregistrement en texte en quelques secondes et garde un horodatage sur chaque paragraphe : vous passez votre temps à vérifier les chiffres et à exploiter la transcription, pas à la taper."
+            ]
+        },
+        {
+            "h2": "La transcription financière en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Entrée",
+                    "value": "Importez l'enregistrement d'un appel, collez un lien YouTube ou d'une autre vidéo, ou enregistrez une réunion dans le navigateur"
+                },
+                {
+                    "label": "Provenance des fichiers",
+                    "value": "Votre appareil, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Vérifier chaque chiffre",
+                    "value": "Horodatage sur chaque paragraphe, avec l'enregistrement qui se lit à côté du texte"
+                },
+                {
+                    "label": "Qui a dit quoi",
+                    "value": "Identification des locuteurs (dirigeants, analystes, clients) avec le forfait Pro"
+                },
+                {
+                    "label": "Notes pendant la lecture",
+                    "value": "Onglet Notes à côté de la transcription, avec horodatages et listes de contrôle"
+                },
+                {
+                    "label": "Pour les rapports et les archives",
+                    "value": "Téléchargement en DOCX, PDF ou TXT, ou en SRT et VTT pour des sous-titres"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, détectées automatiquement"
+                },
+                {
+                    "label": "Prix",
+                    "value": "Essai gratuit, sans compte · Forfait Pro pour un usage intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Comment retranscrire un appel financier",
+            "steps": [
+                {
+                    "h3": "Ajoutez l'enregistrement",
+                    "content": "Importez le fichier audio ou vidéo depuis votre appareil, Google Drive, Dropbox ou OneDrive, par exemple le replay d'une conférence de résultats ou un enregistrement Zoom ou Teams. Si l'appel est sur YouTube, collez le lien. Pour une réunion en présentiel, appuyez sur Enregistrer."
+                },
+                {
+                    "h3": "Obtenez la transcription",
+                    "content": "TranscriptX détecte la langue et retranscrit l'appel en paragraphes ponctués, chacun avec un horodatage."
+                },
+                {
+                    "h3": "Vérifiez les chiffres avec l'audio",
+                    "content": "Écoutez l'enregistrement à côté du texte, corrigez les nombres, les noms et les tickers avec Modifier, et notez les chiffres clés et les actions à suivre dans l'onglet Notes."
+                },
+                {
+                    "h3": "Copiez ou exportez",
+                    "content": "Copiez la transcription dans une note de recherche ou un e-mail, ou téléchargez-la en DOCX, PDF ou TXT pour vos rapports et vos archives."
+                }
+            ]
+        },
+        {
+            "h2": "Transcription audio financière en ligne",
+            "content": [
+                "Rien à installer. Ouvrez cette page dans le navigateur de votre ordinateur ou de votre téléphone, ajoutez l'enregistrement, et la transcription s'affiche sur la même page.",
+                "La plupart des contenus audio financiers arrivent sous forme de fichier : le replay d'un webcast sur une page relations investisseurs, l'enregistrement d'une réunion Zoom, Teams ou Meet, ou un mémo vocal après un appel client. Les fichiers audio comme vidéo fonctionnent. Si l'appel ou le point marché est déjà en ligne en vidéo, collez le lien au lieu de le télécharger d'abord.",
+                "Vous pouvez essayer la transcription audio financière gratuitement, sans compte. Si vous retranscrivez des appels chaque semaine, découvrez le <a href=\"/pricing/\">forfait Pro</a>."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez retranscrire",
+            "intro": [
+                "Tout enregistrement où l'on parle d'argent, de marchés ou de résultats :"
+            ],
+            "items": [
+                {
+                    "h3": "Conférences de résultats",
+                    "content": "Enregistrements de conférences de résultats et replays de webcasts : la présentation de la direction et les questions-réponses avec les analystes, prêtes à être comparées ligne par ligne avec le trimestre précédent."
+                },
+                {
+                    "h3": "Journées investisseurs et webinaires",
+                    "content": "Présentations stratégiques, points sur les fonds et sessions de roadshow dans lesquels vous voudrez faire des recherches plus tard."
+                },
+                {
+                    "h3": "Rendez-vous clients",
+                    "content": "Points entre conseillers, planificateurs ou gestionnaires de patrimoine et leurs clients, transformés en notes écrites et en actions à suivre."
+                },
+                {
+                    "h3": "Conseils d'administration et comités",
+                    "content": "Transcription de conseils d'administration pour les revues budgétaires, les comités d'audit et financiers et les discussions sur des opérations, conservée comme trace lisible à côté du procès-verbal."
+                },
+                {
+                    "h3": "Appels d'experts et de recherche",
+                    "content": "Entretiens avec des experts, des clients et des dirigeants pour la recherche actions ou l'analyse de marché."
+                },
+                {
+                    "h3": "Entretiens d'audit et comptables",
+                    "content": "Revues de processus, entretiens avec la direction et appels clients que les auditeurs et les comptables doivent documenter."
+                },
+                {
+                    "h3": "Podcasts et vidéos financiers",
+                    "content": "Commentaires de marché et interviews, réutilisés en citations, articles et newsletters."
+                }
+            ]
+        },
+        {
+            "h2": "Vérifiez les chiffres avant de citer",
+            "intro": [
+                "Dans une transcription financière, un seul chiffre erroné change le sens. La reconnaissance vocale gère bien le langage courant ; vérifiez les passages qui se ressemblent à l'oreille ou dépendent du contexte :"
+            ],
+            "items": [
+                {
+                    "h3": "Des nombres qui se ressemblent",
+                    "content": "« Six » et « dix » se confondent facilement à l'oral : une croissance de 6 % n'est pas une croissance de 10 %."
+                },
+                {
+                    "h3": "Unités et ordres de grandeur",
+                    "content": "« Millions » et « milliards » passent vite lors d'un appel rapide. Vérifiez-les avec le communiqué de presse ou les slides."
+                },
+                {
+                    "h3": "Pourcentages et points de base",
+                    "content": "Une hausse de 40 points de base n'est pas une hausse de 40 %. Gardez l'unité employée par l'intervenant."
+                },
+                {
+                    "h3": "Fourchettes de prévisions et périodes",
+                    "content": "Des fourchettes comme « 1,20 à 1,30 » et des périodes comme Q3 FY26 se brouillent facilement. Confirmez les deux."
+                },
+                {
+                    "h3": "Noms, tickers et négations",
+                    "content": "Les noms d'entreprises et d'analystes, les tickers et des mots comme « pas » ou « ne… plus » méritent une seconde écoute."
+                }
+            ]
+        },
+        {
+            "h2": "Identification des locuteurs pour dirigeants et analystes",
+            "content": [
+                "Les conférences de résultats et les rendez-vous clients réunissent plusieurs voix : le CEO, le CFO, les relations investisseurs, les analystes, les conseillers et les clients. Avec le forfait Pro, TranscriptX identifie automatiquement les locuteurs : vous voyez qui a donné les prévisions et qui a posé la question.",
+                "Renommez chaque locuteur avec la fonction ou le nom de la personne pendant votre relecture. Avec le forfait gratuit, vous obtenez des paragraphes horodatés sans noms de locuteurs, ce qui convient bien à un seul présentateur ou à un appel à deux."
+            ]
+        },
+        {
+            "h2": "Transcription financière pour webinaires et vidéos",
+            "content": [
+                "Les webinaires investisseurs, les vidéos de résultats et les points marché touchent plus de monde avec des sous-titres. Téléchargez la transcription en SRT ou VTT et importez-la sur votre plateforme vidéo ou dans le replay du webinaire.",
+                "La même transcription sert de version texte de la vidéo pour votre page relations investisseurs, une newsletter ou un article de blog."
+            ]
+        },
+        {
+            "h2": "Transcription par IA ou services de transcription financière ?",
+            "intro": [
+                "Chaque option répond à un besoin différent. Choisissez selon l'usage de la transcription :"
+            ],
+            "items": [
+                {
+                    "h3": "Transcription par IA (TranscriptX)",
+                    "content": "De quelques secondes à quelques minutes, essai gratuit. Un bon premier jet sur un audio clair, à relire avant de citer. Idéal pour les conférences de résultats, la recherche, les rendez-vous clients et les réunions d'équipe."
+                },
+                {
+                    "h3": "La taper vous-même",
+                    "content": "Ne coûte que du temps : environ quatre heures par heure d'audio. Réaliste seulement pour des extraits très courts."
+                },
+                {
+                    "h3": "Services de transcription financière humaine",
+                    "content": "Facturés à la minute d'audio et plus lents, mais relus par une personne. Certains proposent des transcriptions vérifiées ou certifiées pour les litiges, les dépôts réglementaires ou les archives officielles."
+                }
+            ]
+        },
+        {
+            "h2": "Qui utilise la transcription financière",
+            "intro": [
+                "Tous ceux qui travaillent à partir de ce qui a été dit lors d'un appel :"
+            ],
+            "items": [
+                {
+                    "h3": "Analystes et investisseurs",
+                    "content": "Recherchez dans les conférences de résultats les prévisions, les marges ou le nom d'un produit, et citez la direction mot pour mot."
+                },
+                {
+                    "h3": "Conseillers financiers et planificateurs",
+                    "content": "Transformez les points clients en notes écrites et en actions à mener, avec l'enregistrement à portée de clic."
+                },
+                {
+                    "h3": "Comptables et auditeurs",
+                    "content": "Documentez les appels clients, les entretiens d'audit et les réunions de comité, et retrouvez le moment exact où un chiffre ou une décision a été évoqué."
+                },
+                {
+                    "h3": "Relations investisseurs et équipes finance",
+                    "content": "Préparez les transcriptions d'appels, vérifiez ce qui a été dit pendant les questions-réponses et gardez une trace des réunions internes."
+                },
+                {
+                    "h3": "Journalistes et créateurs",
+                    "content": "Citez les dirigeants avec exactitude et transformez les commentaires de marché en articles, newsletters et sous-titres."
+                }
+            ]
+        },
+        {
+            "h2": "Confidentialité des appels sensibles",
+            "content": [
+                "Les appels financiers contiennent souvent des données clients ou des informations non publiques. Vérifiez la politique de votre entreprise sur les outils autorisés à les traiter, et obtenez le consentement avant d'enregistrer un rendez-vous client.",
+                "Les fichiers importés sont supprimés automatiquement, et vos enregistrements et transcriptions ne servent pas à entraîner des modèles d'IA. Vous pouvez supprimer une transcription, ou toutes vos données, à tout moment depuis votre compte. Consultez la <a href=\"/privacy-policy/\">Politique de confidentialité</a> pour en savoir plus."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Comment retranscrire une conférence de résultats ?",
+                    "a": "Téléchargez le replay depuis la page relations investisseurs de l'entreprise et importez-le, ou collez le lien si l'appel est sur YouTube. Vérifiez ensuite les chiffres avec le communiqué de presse avant de les citer."
+                },
+                {
+                    "q": "La transcription financière est-elle gratuite ?",
+                    "a": "Vous pouvez essayer TranscriptX gratuitement, sans compte. L'identification des locuteurs et la réduction de bruit sont incluses dans le forfait Pro."
+                },
+                {
+                    "q": "Quelle est la précision de la transcription par IA pour les appels financiers ?",
+                    "a": "Un enregistrement clair donne un bon premier jet. Vérifiez toujours les nombres, les noms et les tickers avec l'audio avant de les publier ou de vous y fier."
+                },
+                {
+                    "q": "Combien de temps faut-il pour retranscrire une conférence de résultats ?",
+                    "a": "Quelques minutes d'audio sont prêtes en quelques secondes, et un appel complet prend un peu plus longtemps. Prévoyez du temps en plus pour vérifier les chiffres."
+                },
+                {
+                    "q": "Puis-je corriger une transcription qui contient des erreurs ?",
+                    "a": "Oui. Utilisez Modifier pour corriger n'importe quel mot, nombre ou nom, en écoutant l'enregistrement à côté du texte."
+                },
+                {
+                    "q": "Puis-je retranscrire un rendez-vous client sur Zoom ou Teams ?",
+                    "a": "Oui. Importez le fichier d'enregistrement après coup. TranscriptX ne rejoint pas les appels lui-même."
+                },
+                {
+                    "q": "Puis-je l'utiliser pour des archives réglementaires ou juridiques ?",
+                    "a": "Utilisez-la pour des brouillons, des notes et pour faire des recherches dans l'enregistrement. Lorsqu'une transcription vérifiée ou certifiée est exigée, faites appel à un service de transcription humaine et suivez les règles de votre entreprise."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Retranscrivez votre prochain appel financier",
+        "content": [
+            "Importez la conférence de résultats, le rendez-vous client ou le webinaire, et obtenez un texte que vous pouvez rechercher et citer, avec un horodatage sur chaque paragraphe pour vérifier chaque chiffre avec l'audio.",
+            "Pour les entretiens et les appels de recherche, utilisez <a href=\"/interview-transcription/\">Retranscription d'entretien</a> ; pour tout autre enregistrement, utilisez <a href=\"/audio-to-text/\">Transcription audio</a> ou <a href=\"/video-to-text/\">Transcription vidéo</a>. Essai gratuit, sans compte."
+        ]
+    }
+}

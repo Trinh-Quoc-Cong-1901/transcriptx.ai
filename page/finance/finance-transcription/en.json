@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Finance Transcription — Calls & Meetings to Text | TranscriptX",
+        "description": "Finance transcription online: turn earnings calls, investor webinars and client meetings into text with timestamps. Check every figure, export to Word.",
+        "schemaName": "TranscriptX Finance Transcription",
+        "schemaDescription": "AI finance transcription in the browser: upload a call recording, paste a video link or record a meeting, get an editable transcript with timestamps and speaker labels (Pro), add notes beside it and export to DOCX, PDF, TXT, SRT or VTT.",
+        "ogTitle": "Finance Transcription: Calls to Searchable Text",
+        "ogDescription": "Turn earnings calls and client meetings into text you can search and quote, with a timestamp on every paragraph to check each figure against the audio."
+    },
+    "hero": {
+        "h1": "Finance Transcription",
+        "subtitle": "Turn earnings calls, investor webinars and client meetings into text you can search, quote and file. Upload the recording, paste a video link or record the meeting in your browser, and TranscriptX writes it out with a timestamp on every paragraph, so each figure can be checked against the audio. Export to Word, PDF or TXT. Free to try, no account needed.",
+        "placeholder": "Upload a call recording or paste a link...",
+        "button": "Transcribe Call"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe a financial call?",
+        "answer": "Upload the call recording to TranscriptX, paste the link if the call is on YouTube, or press Record during a meeting. You get an editable transcript with timestamps in seconds. Check every figure and name against the audio, then copy the text or download it as DOCX, PDF or TXT for your notes, report or records."
+    },
+    "sections": [
+        {
+            "h2": "What Is Finance Transcription?",
+            "content": [
+                "Finance transcription turns spoken financial content into written text: earnings calls, analyst Q&A, investor days, client reviews, budget and board meetings, and market podcasts. Analysts search it, advisers keep it with their meeting notes, and investor relations teams publish or archive it.",
+                "Typing up one hour of audio by hand takes about four hours. TranscriptX turns the recording into text in seconds and keeps a timestamp on each paragraph, so you spend your time checking the numbers and using the transcript instead of typing it."
+            ]
+        },
+        {
+            "h2": "Finance Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Upload a call recording, paste a YouTube or other video link, or record a meeting in the browser"
+                },
+                {
+                    "label": "Where files come from",
+                    "value": "Your device, Google Drive, Dropbox or OneDrive"
+                },
+                {
+                    "label": "Check every figure",
+                    "value": "Timestamp on each paragraph, with the recording playing beside the text"
+                },
+                {
+                    "label": "Who said what",
+                    "value": "Speaker labels for executives, analysts and clients on the Pro plan"
+                },
+                {
+                    "label": "Notes while you read",
+                    "value": "Notes tab next to the transcript, with timestamps and checklists"
+                },
+                {
+                    "label": "For reports and records",
+                    "value": "Download as DOCX, PDF or TXT, or SRT and VTT for subtitles"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Price",
+                    "value": "Free to try, no account needed · Pro plan for heavy use"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe a Financial Call",
+            "steps": [
+                {
+                    "h3": "Add the recording",
+                    "content": "Upload the audio or video file from your device, Google Drive, Dropbox or OneDrive, such as an earnings call replay or a Zoom or Teams recording. If the call is on YouTube, paste the link. For a meeting in the room, press Record."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "TranscriptX detects the language and writes out the call as punctuated paragraphs, each with a timestamp."
+                },
+                {
+                    "h3": "Check the figures against the audio",
+                    "content": "Play the recording beside the text, correct numbers, names and tickers with Edit, and note key figures and follow-ups in the Notes tab."
+                },
+                {
+                    "h3": "Copy or export",
+                    "content": "Copy the transcript into a research note or email, or download it as DOCX, PDF or TXT for reports and records."
+                }
+            ]
+        },
+        {
+            "h2": "Financial Audio Transcription Online",
+            "content": [
+                "There is nothing to install. Open this page in your browser on a computer or phone, add the recording, and the transcript appears on the same page.",
+                "Most financial audio arrives as a file: a webcast replay from an investor relations page, a meeting recording from Zoom, Teams or Meet, or a voice memo after a client call. Both audio and video files work. If the call or market update is already online as a video, paste the link instead of downloading it first.",
+                "You can try financial audio transcription free, without an account. If you transcribe calls every week, see the <a href=\"/pricing/\">Pro plan</a>."
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe",
+            "intro": [
+                "Any recording where money, markets or results are discussed:"
+            ],
+            "items": [
+                {
+                    "h3": "Earnings calls",
+                    "content": "Earnings call recordings and webcast replays: prepared remarks and the analyst Q&A, ready to compare with last quarter line by line."
+                },
+                {
+                    "h3": "Investor days and webinars",
+                    "content": "Strategy presentations, fund updates and roadshow sessions you want to search later."
+                },
+                {
+                    "h3": "Client meetings",
+                    "content": "Reviews between advisers, planners or wealth managers and their clients, turned into written notes and follow-ups."
+                },
+                {
+                    "h3": "Board and committee meetings",
+                    "content": "Board meeting transcription for budget reviews, audit and finance committees and deal discussions, kept as a readable record next to the minutes."
+                },
+                {
+                    "h3": "Expert and research calls",
+                    "content": "Interviews with experts, customers and management for equity or market research."
+                },
+                {
+                    "h3": "Audit and accounting interviews",
+                    "content": "Walkthroughs, management interviews and client calls that auditors and accountants need to document."
+                },
+                {
+                    "h3": "Financial podcasts and videos",
+                    "content": "Market commentary and interviews, reused as quotes, articles and newsletters."
+                }
+            ]
+        },
+        {
+            "h2": "Check the Numbers Before You Quote",
+            "intro": [
+                "In a financial transcript, one wrong digit changes the meaning. Speech recognition handles everyday language well; check the parts that sound alike or depend on context:"
+            ],
+            "items": [
+                {
+                    "h3": "Numbers that sound alike",
+                    "content": "\"Fifteen\" and \"fifty\", \"thirteen\" and \"thirty\": 15% growth is not 50%."
+                },
+                {
+                    "h3": "Units and scale",
+                    "content": "\"Million\" and \"billion\" are short words on a fast call. Check them against the press release or slides."
+                },
+                {
+                    "h3": "Percentages and basis points",
+                    "content": "Up 40 basis points is not up 40%. Keep the unit the speaker used."
+                },
+                {
+                    "h3": "Guidance ranges and periods",
+                    "content": "Ranges like \"1.20 to 1.30\" and periods like Q3 FY26 are easy to blur. Confirm both."
+                },
+                {
+                    "h3": "Names, tickers and negatives",
+                    "content": "Company and analyst names, tickers, and words like \"not\" or \"no longer\" deserve a second listen."
+                }
+            ]
+        },
+        {
+            "h2": "Speaker Labels for Executives and Analysts",
+            "content": [
+                "Earnings calls and client meetings have several voices: the CEO, the CFO, investor relations, analysts, advisers and clients. On the Pro plan, TranscriptX labels speakers automatically, so you can see who gave the guidance and who asked the question.",
+                "Rename each label to the person's role or name during your review. On the Free plan, you get timestamped paragraphs without speaker names, which works well for a single presenter or a two-person call."
+            ]
+        },
+        {
+            "h2": "Financial Transcription for Webinars and Videos",
+            "content": [
+                "Investor webinars, results videos and market updates reach more people with subtitles. Download the transcript as SRT or VTT and upload it to your video platform or webinar replay.",
+                "The same transcript works as a text version of the video for your investor relations page, a newsletter or a blog post."
+            ]
+        },
+        {
+            "h2": "AI Transcription or Financial Transcription Services?",
+            "intro": [
+                "Each option fits a different need. Pick by what the transcript is for:"
+            ],
+            "items": [
+                {
+                    "h3": "AI transcription (TranscriptX)",
+                    "content": "Seconds to minutes, free to try. A solid draft on clear audio that you review before quoting. Best for earnings calls, research, client and team meetings."
+                },
+                {
+                    "h3": "Typing it yourself",
+                    "content": "Costs nothing but time: about four hours per hour of audio. Practical only for very short clips."
+                },
+                {
+                    "h3": "Human financial transcription services",
+                    "content": "Paid per audio minute and slower, but reviewed by a person. Some offer verified or certified transcripts for legal disputes, regulatory filings or formal records."
+                }
+            ]
+        },
+        {
+            "h2": "Who Uses Finance Transcription",
+            "intro": [
+                "Anyone who works with what was said on a call:"
+            ],
+            "items": [
+                {
+                    "h3": "Analysts and investors",
+                    "content": "Search earnings calls for guidance, margins or a product name, and quote management exactly."
+                },
+                {
+                    "h3": "Financial advisers and planners",
+                    "content": "Turn client reviews into written notes and action items, with the recording one click away."
+                },
+                {
+                    "h3": "Accountants and auditors",
+                    "content": "Document client calls, audit interviews and committee meetings, and find the exact moment a figure or decision came up."
+                },
+                {
+                    "h3": "Investor relations and finance teams",
+                    "content": "Prepare call transcripts, check what was said in Q&A and keep a record of internal meetings."
+                },
+                {
+                    "h3": "Journalists and creators",
+                    "content": "Quote executives accurately and turn market commentary into articles, newsletters and subtitles."
+                }
+            ]
+        },
+        {
+            "h2": "Privacy for Confidential Calls",
+            "content": [
+                "Financial calls often hold client details or non-public information. Check your firm's policy on which tools may handle them, and get consent before recording a client meeting.",
+                "Uploaded files are deleted automatically, and your recordings and transcripts are not used to train AI models. You can delete a single transcript, or all your data, at any time from your account. See the <a href=\"/privacy-policy/\">Privacy Policy</a> for details."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "How do I transcribe an earnings call?",
+                    "a": "Download the replay from the company's investor relations page and upload it, or paste the link if the call is on YouTube. Then check the figures against the press release before you quote them."
+                },
+                {
+                    "q": "Is finance transcription free?",
+                    "a": "You can try TranscriptX free, without an account. Speaker labels and noise reduction are on the Pro plan."
+                },
+                {
+                    "q": "How accurate is AI transcription for financial calls?",
+                    "a": "Clear recordings come back as a solid draft. Always check numbers, names and tickers against the audio before you publish or rely on them."
+                },
+                {
+                    "q": "How long does it take to transcribe an earnings call?",
+                    "a": "A few minutes of audio comes back in seconds, and a full call takes a little longer. Plan extra time to check the figures."
+                },
+                {
+                    "q": "Can I fix a transcript that has errors?",
+                    "a": "Yes. Use Edit to correct any word, number or name, playing the recording beside the text as you go."
+                },
+                {
+                    "q": "Can I transcribe a Zoom or Teams client meeting?",
+                    "a": "Yes. Upload the recording file afterwards. TranscriptX doesn't join calls itself."
+                },
+                {
+                    "q": "Can I use it for regulatory or legal records?",
+                    "a": "Use it for drafts, notes and searching the recording. When a verified or certified transcript is required, use a human transcription service and follow your firm's rules."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Your Next Financial Call",
+        "content": [
+            "Upload the earnings call, client meeting or webinar, and get text you can search and quote, with a timestamp on every paragraph to check each figure against the audio.",
+            "For interviews and research calls, use <a href=\"/interview-transcription/\">Interview Transcription</a>; for any other recording, use <a href=\"/audio-to-text/\">Audio to Text</a> or <a href=\"/video-to-text/\">Video to Text</a>. Free to try, no account needed."
+        ]
+    }
+}
