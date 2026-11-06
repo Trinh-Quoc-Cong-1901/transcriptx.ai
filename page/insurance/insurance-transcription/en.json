@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Insurance Transcription — Claims Calls to Text | TranscriptX",
+        "description": "Insurance transcription online: turn recorded statements, claims calls and adjuster interviews into text with timestamps. Check key facts, export to Word.",
+        "schemaName": "TranscriptX Insurance Transcription",
+        "schemaDescription": "AI insurance transcription in the browser: upload a recorded statement or claims call, or record an interview, get an editable transcript with timestamps and speaker labels (Pro), add claim notes beside it and export to DOCX, PDF, TXT, SRT or VTT.",
+        "ogTitle": "Insurance Transcription: Claims Calls to Text",
+        "ogDescription": "Turn recorded statements and claims calls into text for the claim file, with a timestamp on every paragraph to check dates, amounts and names against the audio."
+    },
+    "hero": {
+        "h1": "Insurance Transcription",
+        "subtitle": "Turn recorded statements, claims calls and adjuster interviews into text for the claim file. Upload the recording or record the interview in your browser, and TranscriptX writes it out with a timestamp on every paragraph, so each date, amount and name can be checked against the audio. Export to Word, PDF or TXT. Free to try, no account needed.",
+        "placeholder": "Upload a recorded statement or paste a link...",
+        "button": "Transcribe Recording"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe an insurance recorded statement?",
+        "answer": "Upload the recorded statement or claims call to TranscriptX, or press Record while you take the interview. You get an editable transcript with timestamps in seconds. Check every date, amount, name and policy number against the audio, then copy the text or download it as DOCX, PDF or TXT for the claim file."
+    },
+    "sections": [
+        {
+            "h2": "What Is Insurance Transcription?",
+            "content": [
+                "Insurance transcription turns spoken insurance content into written text: recorded statements, first notice of loss calls, witness interviews, customer voicemails, calls with doctors or appraisers, and claim review meetings. Adjusters, investigators, agents and lawyers read it, search it and quote it from the claim or policy file.",
+                "Typing up one hour of audio by hand takes about four hours. TranscriptX turns the recording into text in seconds and keeps a timestamp on each paragraph, so you spend your time checking the facts that decide the claim instead of typing."
+            ]
+        },
+        {
+            "h2": "Insurance Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Upload a call or interview recording, paste a video link, or record an interview in the browser"
+                },
+                {
+                    "label": "Where files come from",
+                    "value": "Your device, Google Drive, Dropbox or OneDrive"
+                },
+                {
+                    "label": "Check every fact",
+                    "value": "Timestamp on each paragraph, with the recording playing beside the text"
+                },
+                {
+                    "label": "Who said what",
+                    "value": "Speaker labels for the adjuster, the insured, claimants and witnesses on the Pro plan"
+                },
+                {
+                    "label": "Claim notes",
+                    "value": "Notes tab next to the transcript, with timestamps and checklists"
+                },
+                {
+                    "label": "For the claim file",
+                    "value": "Download as DOCX, PDF or TXT, or SRT and VTT for subtitles"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Price",
+                    "value": "Free to try, no account needed · Pro plan for heavy use"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe a Recorded Statement",
+            "steps": [
+                {
+                    "h3": "Add the recording",
+                    "content": "Upload the audio or video file from your device, Google Drive, Dropbox or OneDrive, such as a call exported from your phone system or a video call recording. Taking the statement in person? Press Record."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "TranscriptX detects the language and writes out the recording as punctuated paragraphs, each with a timestamp."
+                },
+                {
+                    "h3": "Check the key facts against the audio",
+                    "content": "Play the recording beside the text, correct dates, amounts, names and policy numbers with Edit, and note open questions in the Notes tab."
+                },
+                {
+                    "h3": "Copy or export",
+                    "content": "Copy the transcript into a claim note or email, or download it as DOCX, PDF or TXT for the claim file."
+                }
+            ]
+        },
+        {
+            "h2": "Insurance Claims Transcription Online",
+            "content": [
+                "There is nothing to install. Open this page in your browser on a computer or phone, add the recording, and the transcript appears on the same page.",
+                "Most claims audio arrives as a file: a recorded statement from your call recorder or claims platform, a voicemail from a customer, or a Zoom, Teams or Meet recording of an interview. Both audio and video files work. Use the original file rather than a re-recording, because a clear line gives a cleaner transcript.",
+                "You can try insurance claims transcription free, without an account. If you transcribe statements every day, see the <a href=\"/pricing/\">Pro plan</a>."
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe",
+            "intro": [
+                "Any recording that belongs in a claim or policy file:"
+            ],
+            "items": [
+                {
+                    "h3": "Recorded statements",
+                    "content": "Statements from the insured, claimants and witnesses, taken by phone or in person, in the person's own words."
+                },
+                {
+                    "h3": "First notice of loss calls",
+                    "content": "The call where the loss was reported: when it happened, where, and what the customer said first."
+                },
+                {
+                    "h3": "Customer voicemails",
+                    "content": "Reports, updates and complaints left by phone. For short messages, <a href=\"/voicemail-to-text/\">Voicemail to Text</a> is the quickest route."
+                },
+                {
+                    "h3": "Witness and SIU interviews",
+                    "content": "Interviews on disputed or suspicious claims, ready to compare one account with another line by line."
+                },
+                {
+                    "h3": "Medical, expert and appraiser calls",
+                    "content": "Calls with doctors, engineers, contractors and appraisers about injuries, damage and repair costs."
+                },
+                {
+                    "h3": "Underwriting and client calls",
+                    "content": "Applicant interviews and agent or broker calls about coverage, renewals and policy changes."
+                },
+                {
+                    "h3": "Claim reviews and training",
+                    "content": "Team meetings, file reviews and call reviews for quality and training."
+                }
+            ]
+        },
+        {
+            "h2": "Check the Facts That Decide the Claim",
+            "intro": [
+                "In a claim, one wrong detail changes the outcome. Speech recognition handles everyday speech well; check the parts that sound alike or change the meaning:"
+            ],
+            "items": [
+                {
+                    "h3": "Dates and times",
+                    "content": "\"Third\" and \"thirteenth\", \"five\" and \"nine\" are easy to mishear on a phone line. A loss on March 3 is not March 13."
+                },
+                {
+                    "h3": "Amounts",
+                    "content": "\"Fifteen\" and \"fifty\", \"hundred\" and \"thousand\": $1,500 is not $5,000. Check them against estimates and invoices in the file."
+                },
+                {
+                    "h3": "Policy numbers, claim numbers and plates",
+                    "content": "Long strings of letters and digits are often said quickly. One transposed digit points to the wrong record."
+                },
+                {
+                    "h3": "Names, places and injuries",
+                    "content": "Surnames, street names, medical terms and left versus right deserve a second listen."
+                },
+                {
+                    "h3": "Negatives",
+                    "content": "\"I wasn't on the phone\" and \"I was on the phone\" differ by one quiet word. Confirm every \"not\", \"never\" and \"didn't\"."
+                }
+            ]
+        },
+        {
+            "h2": "Speaker Labels for Adjusters, Claimants and Witnesses",
+            "content": [
+                "A recorded statement has at least two voices, and many claims calls have three or more: the adjuster, the insured, a claimant, a witness, an interpreter or a lawyer. On the Pro plan, TranscriptX labels speakers automatically, so the adjuster's questions stay apart from the answers.",
+                "Rename each label to \"Adjuster\", \"Claimant\" or the person's name during your review. On the Free plan, you get timestamped paragraphs without speaker names, which works well for a voicemail or a single speaker."
+            ]
+        },
+        {
+            "h2": "Legal Transcription for Insurance Cases",
+            "content": [
+                "When a claim is disputed, the transcript of an earlier statement can matter a lot. Defense counsel, paralegals and in-house lawyers use an AI transcript to review recorded statements before an examination under oath or a deposition, find the exact moment something was said, and compare witness accounts.",
+                "When the transcript itself will be evidence, such as an examination under oath, a deposition or a hearing, it is usually taken by a court reporter or a legal transcription service that can certify it. Use TranscriptX for drafts, preparation and search, and ask the attorney handling the case which kind of transcript is required."
+            ]
+        },
+        {
+            "h2": "AI Transcription or Insurance Transcription Services?",
+            "intro": [
+                "Each option fits a different need. Pick by what the transcript is for:"
+            ],
+            "items": [
+                {
+                    "h3": "AI transcription (TranscriptX)",
+                    "content": "Seconds to minutes, free to try. A solid draft on clear audio that you check before you rely on it. Best for recorded statements, claims calls, voicemails and internal reviews."
+                },
+                {
+                    "h3": "Typing it yourself",
+                    "content": "Costs nothing but time: about four hours per hour of audio. Practical only for very short calls."
+                },
+                {
+                    "h3": "Insurance transcription services and companies",
+                    "content": "Paid per audio minute and slower, but checked by a person. Some offer verified or certified transcripts for litigation, sworn records or very poor audio."
+                }
+            ]
+        },
+        {
+            "h2": "Who Uses Insurance Transcription",
+            "intro": [
+                "Anyone who works with what was said on a call or in an interview:"
+            ],
+            "items": [
+                {
+                    "h3": "Adjusters and claims handlers",
+                    "content": "Turn recorded statements into text for the claim file and quote the claimant exactly in a report."
+                },
+                {
+                    "h3": "Special investigation units",
+                    "content": "Compare statements from the insured, claimants and witnesses, and find where the accounts differ."
+                },
+                {
+                    "h3": "Agents and brokers",
+                    "content": "Keep a written record of client calls about coverage, claims and changes to a policy."
+                },
+                {
+                    "h3": "Insurance lawyers and paralegals",
+                    "content": "Review earlier statements quickly before an examination under oath, a deposition or a settlement talk."
+                },
+                {
+                    "h3": "Underwriters and team leads",
+                    "content": "Document applicant interviews and turn claim reviews and call reviews into notes."
+                }
+            ]
+        },
+        {
+            "h2": "Privacy for Claims Recordings",
+            "content": [
+                "Claims recordings often hold personal, financial or medical details. Check your company's policy on which tools may handle them, and confirm consent to record at the start of every statement, in line with the rules where you and the other person are.",
+                "Uploaded files are deleted automatically, and your recordings and transcripts are not used to train AI models. You can delete a single transcript, or all your data, at any time from your account. See the <a href=\"/privacy-policy/\">Privacy Policy</a> for details."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "What is an insurance recorded statement?",
+                    "a": "A recorded interview, usually by phone, in which an adjuster asks the insured, a claimant or a witness to describe what happened. The recording and its transcript go into the claim file."
+                },
+                {
+                    "q": "Is insurance transcription free?",
+                    "a": "You can try TranscriptX free, without an account. Speaker labels and noise reduction are on the Pro plan."
+                },
+                {
+                    "q": "How accurate is AI transcription for claims calls?",
+                    "a": "Clear recordings come back as a solid draft. Always check dates, amounts, names and policy numbers against the audio before a claim decision."
+                },
+                {
+                    "q": "How long does it take to transcribe a recorded statement?",
+                    "a": "A few minutes of audio comes back in seconds, and a long statement takes a little longer. Plan extra time to check the key facts."
+                },
+                {
+                    "q": "Can I fix a transcript that has errors?",
+                    "a": "Yes. Use Edit to correct any word, date, amount or name, playing the recording beside the text as you go."
+                },
+                {
+                    "q": "Can I transcribe a Zoom or Teams interview with a claimant?",
+                    "a": "Yes. Upload the recording file afterwards. TranscriptX doesn't join calls itself."
+                },
+                {
+                    "q": "Can I use it for an examination under oath or in court?",
+                    "a": "Use it for drafts, preparation and searching the recording. When a certified transcript is required, use a court reporter or legal transcription service and follow your company's rules."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Your Next Recorded Statement",
+        "content": [
+            "Upload the recorded statement, claims call or interview, and get text for the claim file, with a timestamp on every paragraph to check each date, amount and name against the audio.",
+            "For interviews outside claims work, use <a href=\"/interview-transcription/\">Interview Transcription</a>; for voicemails, use <a href=\"/voicemail-to-text/\">Voicemail to Text</a>; for any other recording, use <a href=\"/audio-to-text/\">Audio to Text</a>. Free to try, no account needed."
+        ]
+    }
+}

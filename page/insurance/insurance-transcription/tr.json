@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Sigorta Görüşmesi Deşifre — Hasar Kaydı Metne | TranscriptX",
+        "description": "Sigorta görüşmesi deşifre: kayıtlı ifadeleri, hasar çağrılarını ve eksper görüşmelerini zaman damgalı metne dökün. Bilgileri kontrol edin, Word'e aktarın.",
+        "schemaName": "TranscriptX Sigorta Görüşmesi Deşifre Aracı",
+        "schemaDescription": "Tarayıcıda çalışan yapay zeka destekli sigorta deşifre aracı: kayıtlı bir ifadeyi ya da hasar çağrısını yükleyin veya görüşmeyi kaydedin, zaman damgalı ve konuşmacı etiketli (Pro) düzenlenebilir bir transkript alın, yanına hasar notları ekleyin ve DOCX, PDF, TXT, SRT ya da VTT olarak dışa aktarın.",
+        "ogTitle": "Sigorta Görüşmesi Deşifre: Hasar Çağrılarından Metne",
+        "ogDescription": "Kayıtlı ifadeleri ve hasar çağrılarını hasar dosyası için metne dökün; her paragraftaki zaman damgasıyla tarih, tutar ve isimleri ses kaydıyla karşılaştırın."
+    },
+    "hero": {
+        "h1": "Sigorta Görüşmesi Deşifre",
+        "subtitle": "Kayıtlı ifadeleri, hasar çağrılarını ve eksper görüşmelerini hasar dosyası için metne dökün. Kaydı yükleyin ya da görüşmeyi tarayıcınızda kaydedin; TranscriptX her paragrafa bir zaman damgası koyarak yazıya döker, böylece her tarih, tutar ve ismi ses kaydıyla karşılaştırabilirsiniz. Word, PDF veya TXT olarak dışa aktarın. Ücretsiz deneyin, hesap gerekmez.",
+        "placeholder": "Kayıtlı bir ifade yükleyin ya da bağlantı yapıştırın...",
+        "button": "Kaydı Yazıya Dök"
+    },
+    "quickAnswer": {
+        "question": "Sigortada kayıtlı bir ifade nasıl yazıya dökülür?",
+        "answer": "Kayıtlı ifadeyi ya da hasar çağrısını TranscriptX'e yükleyin veya görüşme sırasında Kaydet'e basın. Saniyeler içinde zaman damgalı, düzenlenebilir bir transkript alırsınız. Her tarihi, tutarı, ismi ve poliçe numarasını ses kaydıyla karşılaştırın, ardından metni kopyalayın ya da hasar dosyası için DOCX, PDF veya TXT olarak indirin."
+    },
+    "sections": [
+        {
+            "h2": "Sigorta Görüşmesi Deşifre Nedir?",
+            "content": [
+                "Sigorta görüşmesi deşifre, sigortayla ilgili sözlü içeriği yazılı metne dönüştürmektir: kayıtlı ifadeler, ilk hasar ihbarı çağrıları, tanık görüşmeleri, müşteri sesli mesajları, doktor veya eksperlerle yapılan görüşmeler ve hasar değerlendirme toplantıları. Eksperler, araştırmacılar, acenteler ve avukatlar bu metni hasar ya da poliçe dosyasında okur, arar ve alıntılar.",
+                "Bir saatlik ses kaydını elle yazmak yaklaşık dört saat sürer. TranscriptX kaydı saniyeler içinde metne çevirir ve her paragrafta bir zaman damgası tutar; böylece zamanınızı yazmaya değil, hasarın sonucunu belirleyen bilgileri kontrol etmeye ayırırsınız."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Sigorta Görüşmesi Deşifre",
+            "specs": [
+                {
+                    "label": "Giriş",
+                    "value": "Bir çağrı veya görüşme kaydı yükleyin, video bağlantısı yapıştırın ya da görüşmeyi tarayıcıda kaydedin"
+                },
+                {
+                    "label": "Dosya kaynakları",
+                    "value": "Cihazınız, Google Drive, Dropbox veya OneDrive"
+                },
+                {
+                    "label": "Her bilgiyi kontrol edin",
+                    "value": "Her paragrafta zaman damgası, metnin yanında oynatılan kayıt"
+                },
+                {
+                    "label": "Kim ne dedi",
+                    "value": "Pro planda eksper, sigortalı, hak sahipleri ve tanıklar için konuşmacı etiketleri"
+                },
+                {
+                    "label": "Hasar notları",
+                    "value": "Transkriptin yanında, zaman damgalı ve kontrol listeli Notlar sekmesi"
+                },
+                {
+                    "label": "Hasar dosyası için",
+                    "value": "DOCX, PDF veya TXT, altyazı için SRT ve VTT olarak indirin"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik algılanır"
+                },
+                {
+                    "label": "Ücret",
+                    "value": "Ücretsiz deneyin, hesap gerekmez · Yoğun kullanım için Pro plan"
+                }
+            ]
+        },
+        {
+            "h2": "Kayıtlı Bir İfade Nasıl Yazıya Dökülür?",
+            "steps": [
+                {
+                    "h3": "Kaydı ekleyin",
+                    "content": "Ses veya video dosyasını cihazınızdan, Google Drive, Dropbox veya OneDrive'dan yükleyin; örneğin santral sisteminizden dışa aktarılan bir çağrı ya da görüntülü görüşme kaydı. İfadeyi yüz yüze mi alıyorsunuz? Kaydet'e basın."
+                },
+                {
+                    "h3": "Transkripti alın",
+                    "content": "TranscriptX dili algılar ve kaydı, her biri zaman damgalı, noktalaması yapılmış paragraflar halinde yazıya döker."
+                },
+                {
+                    "h3": "Kilit bilgileri ses kaydıyla karşılaştırın",
+                    "content": "Kaydı metnin yanında oynatın, tarihleri, tutarları, isimleri ve poliçe numaralarını Düzenle ile düzeltin, açık soruları Notlar sekmesine yazın."
+                },
+                {
+                    "h3": "Kopyalayın ya da dışa aktarın",
+                    "content": "Transkripti bir hasar notuna veya e-postaya kopyalayın ya da hasar dosyası için DOCX, PDF veya TXT olarak indirin."
+                }
+            ]
+        },
+        {
+            "h2": "Online Hasar Görüşmesi Deşifre",
+            "content": [
+                "Kurulacak bir şey yok. Bu sayfayı bilgisayarınızda ya da telefonunuzda tarayıcıda açın, kaydı ekleyin; transkript aynı sayfada görünür.",
+                "Hasar seslerinin çoğu dosya olarak gelir: çağrı kayıt sisteminizden ya da hasar platformunuzdan alınan kayıtlı bir ifade, bir müşterinin sesli mesajı veya bir görüşmenin Zoom, Teams ya da Meet kaydı. Hem ses hem video dosyaları çalışır. Yeniden kaydedilmiş bir kopya yerine orijinal dosyayı kullanın; temiz bir hat daha temiz bir transkript verir.",
+                "Hasar görüşmesi deşifreyi hesap açmadan ücretsiz deneyebilirsiniz. Her gün ifade yazıya döküyorsanız <a href=\"/pricing/\">Pro plana</a> göz atın."
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Dökebilirsiniz?",
+            "intro": [
+                "Hasar ya da poliçe dosyasına girmesi gereken her kayıt:"
+            ],
+            "items": [
+                {
+                    "h3": "Kayıtlı ifadeler",
+                    "content": "Sigortalının, hak sahiplerinin ve tanıkların telefonda ya da yüz yüze, kendi sözleriyle verdiği ifadeler."
+                },
+                {
+                    "h3": "İlk hasar ihbarı çağrıları",
+                    "content": "Hasarın bildirildiği çağrı: ne zaman, nerede olduğu ve müşterinin ilk olarak ne söylediği."
+                },
+                {
+                    "h3": "Müşteri sesli mesajları",
+                    "content": "Telefonla bırakılan bildirimler, güncellemeler ve şikayetler. Kısa mesajlar için en hızlı yol <a href=\"/voicemail-to-text/\">Sesli Mesajı Yazıya Çevirme</a> aracıdır."
+                },
+                {
+                    "h3": "Tanık ve suistimal birimi (SIU) görüşmeleri",
+                    "content": "İhtilaflı ya da şüpheli hasarlarla ilgili görüşmeler; bir anlatımı diğeriyle satır satır karşılaştırmaya hazır."
+                },
+                {
+                    "h3": "Doktor, bilirkişi ve eksper görüşmeleri",
+                    "content": "Yaralanmalar, hasar ve onarım maliyetleri hakkında doktorlar, mühendisler, ustalar ve eksperlerle yapılan görüşmeler."
+                },
+                {
+                    "h3": "Risk değerlendirme ve müşteri görüşmeleri",
+                    "content": "Başvuru sahibi görüşmeleri ve teminat, yenileme ve poliçe değişiklikleri hakkında acente veya broker görüşmeleri."
+                },
+                {
+                    "h3": "Hasar değerlendirmeleri ve eğitim",
+                    "content": "Kalite ve eğitim amaçlı ekip toplantıları, dosya incelemeleri ve çağrı değerlendirmeleri."
+                }
+            ]
+        },
+        {
+            "h2": "Hasarın Sonucunu Belirleyen Bilgileri Kontrol Edin",
+            "intro": [
+                "Bir hasar dosyasında tek bir yanlış ayrıntı sonucu değiştirir. Konuşma tanıma günlük konuşmada iyi çalışır; birbirine benzeyen ya da anlamı değiştiren kısımları kontrol edin:"
+            ],
+            "items": [
+                {
+                    "h3": "Tarihler ve saatler",
+                    "content": "Telefon hattında “üç” ile “on üç”, “yedi” ile “yedi buçuk” kolayca karışabilir. 3 Mart'taki bir hasar, 13 Mart'taki hasar değildir."
+                },
+                {
+                    "h3": "Tutarlar",
+                    "content": "“On beş” ile “elli”, “yüz” ile “bin”: 1.500 ile 5.000 aynı şey değildir. Tutarları dosyadaki ekspertiz raporları ve faturalarla karşılaştırın."
+                },
+                {
+                    "h3": "Poliçe numaraları, dosya numaraları ve plakalar",
+                    "content": "Uzun harf ve rakam dizileri genellikle hızlı söylenir. Yer değiştiren tek bir rakam yanlış kayda götürür."
+                },
+                {
+                    "h3": "İsimler, yerler ve yaralanmalar",
+                    "content": "Soyadları, sokak adları, tıbbi terimler ve sağ ile sol, ikinci kez dinlenmeyi hak eder."
+                },
+                {
+                    "h3": "Olumsuz ifadeler",
+                    "content": "“Telefonla konuşmuyordum” ile “Telefonla konuşuyordum” arasında yalnızca tek bir hece fark vardır. Her “değil”, “hiç” ve “-medim” ekini doğrulayın."
+                }
+            ]
+        },
+        {
+            "h2": "Eksperler, Hak Sahipleri ve Tanıklar İçin Konuşmacı Etiketleri",
+            "content": [
+                "Kayıtlı bir ifadede en az iki ses vardır, birçok hasar çağrısında ise üç veya daha fazla: eksper, sigortalı, hak sahibi, tanık, tercüman ya da avukat. Pro planda TranscriptX konuşmacıları otomatik olarak etiketler; böylece eksperin soruları cevaplardan ayrı kalır.",
+                "İnceleme sırasında her etiketi “Eksper”, “Hak sahibi” ya da kişinin adıyla yeniden adlandırın. Ücretsiz planda konuşmacı adı olmadan zaman damgalı paragraflar alırsınız; bu, bir sesli mesaj ya da tek konuşmacı için gayet iyi çalışır."
+            ]
+        },
+        {
+            "h2": "Sigorta Davaları İçin Hukuki Deşifre",
+            "content": [
+                "Bir hasar ihtilaflı hale geldiğinde, daha önceki bir ifadenin transkripti çok önemli olabilir. Davalı vekilleri, hukuk asistanları ve şirket avukatları, yeminli ifade (EUO) ya da tanık beyanı öncesinde kayıtlı ifadeleri incelemek, bir şeyin söylendiği anı tam olarak bulmak ve tanık anlatımlarını karşılaştırmak için yapay zeka transkriptini kullanır.",
+                "Transkriptin kendisi delil olacaksa, örneğin yeminli ifade, tanık beyanı ya da duruşma gibi durumlarda, genellikle zabıt kâtibi ya da onaylı transkript sunabilen bir hukuki deşifre hizmeti tarafından hazırlanır. TranscriptX'i taslak, hazırlık ve arama için kullanın; hangi tür transkriptin gerektiğini dosyayı yürüten avukata sorun."
+            ]
+        },
+        {
+            "h2": "Yapay Zeka Deşifre mi, Sigorta Deşifre Hizmeti mi?",
+            "intro": [
+                "Her seçenek farklı bir ihtiyaca uyar. Transkriptin ne için olduğuna göre seçin:"
+            ],
+            "items": [
+                {
+                    "h3": "Yapay zeka deşifre (TranscriptX)",
+                    "content": "Saniyeler ile dakikalar arası, ücretsiz denenebilir. Temiz seste, güvenmeden önce kontrol ettiğiniz sağlam bir taslak. Kayıtlı ifadeler, hasar çağrıları, sesli mesajlar ve iç değerlendirmeler için en uygunu."
+                },
+                {
+                    "h3": "Kendiniz yazmak",
+                    "content": "Zamandan başka bir maliyeti yok: bir saatlik ses için yaklaşık dört saat. Yalnızca çok kısa çağrılar için pratik."
+                },
+                {
+                    "h3": "Sigorta deşifre hizmetleri ve firmaları",
+                    "content": "Ses dakikası başına ücretli ve daha yavaş, ama bir insan tarafından kontrol edilir. Bazıları dava, yeminli kayıtlar ya da çok kötü ses için doğrulanmış veya onaylı transkript sunar."
+                }
+            ]
+        },
+        {
+            "h2": "Sigorta Görüşmesi Deşifreyi Kimler Kullanır?",
+            "intro": [
+                "Bir çağrıda ya da görüşmede söylenenlerle çalışan herkes:"
+            ],
+            "items": [
+                {
+                    "h3": "Eksperler ve hasar dosya sorumluları",
+                    "content": "Kayıtlı ifadeleri hasar dosyası için metne döker, rapora hak sahibinin sözlerini birebir alıntılar."
+                },
+                {
+                    "h3": "Suistimal araştırma birimleri",
+                    "content": "Sigortalının, hak sahiplerinin ve tanıkların ifadelerini karşılaştırır, anlatımların nerede ayrıştığını bulur."
+                },
+                {
+                    "h3": "Acenteler ve brokerlar",
+                    "content": "Teminat, hasar ve poliçe değişiklikleriyle ilgili müşteri görüşmelerinin yazılı kaydını tutar."
+                },
+                {
+                    "h3": "Sigorta avukatları ve hukuk asistanları",
+                    "content": "Yeminli ifade, tanık beyanı ya da uzlaşma görüşmesi öncesinde önceki ifadeleri hızla inceler."
+                },
+                {
+                    "h3": "Risk değerlendirme uzmanları ve ekip liderleri",
+                    "content": "Başvuru sahibi görüşmelerini belgeler, hasar ve çağrı değerlendirmelerini notlara dönüştürür."
+                }
+            ]
+        },
+        {
+            "h2": "Hasar Kayıtlarında Gizlilik",
+            "content": [
+                "Hasar kayıtları çoğu zaman kişisel, finansal veya tıbbi bilgiler içerir. Bu kayıtları hangi araçların işleyebileceği konusunda şirketinizin politikasını kontrol edin ve her ifadenin başında, sizin ve karşı tarafın bulunduğu yerdeki kurallara uygun şekilde kayıt iznini teyit edin.",
+                "Yüklenen dosyalar otomatik olarak silinir; kayıtlarınız ve transkriptleriniz yapay zeka modellerini eğitmek için kullanılmaz. Tek bir transkripti ya da tüm verilerinizi istediğiniz zaman hesabınızdan silebilirsiniz. Ayrıntılar için <a href=\"/privacy-policy/\">Gizlilik Politikası</a>'na bakın."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Sigortada kayıtlı ifade nedir?",
+                    "a": "Genellikle telefonla yapılan, eksperin sigortalıdan, hak sahibinden ya da bir tanıktan olanları anlatmasını istediği kayıtlı bir görüşmedir. Kayıt ve transkripti hasar dosyasına girer."
+                },
+                {
+                    "q": "Sigorta görüşmesi deşifre ücretsiz mi?",
+                    "a": "TranscriptX'i hesap açmadan ücretsiz deneyebilirsiniz. Konuşmacı etiketleri ve gürültü azaltma Pro plandadır."
+                },
+                {
+                    "q": "Hasar çağrılarında yapay zeka deşifre ne kadar doğru?",
+                    "a": "Temiz kayıtlar sağlam bir taslak olarak gelir. Hasar kararı vermeden önce tarihleri, tutarları, isimleri ve poliçe numaralarını her zaman ses kaydıyla karşılaştırın."
+                },
+                {
+                    "q": "Kayıtlı bir ifadeyi yazıya dökmek ne kadar sürer?",
+                    "a": "Birkaç dakikalık ses saniyeler içinde gelir, uzun bir ifade biraz daha uzun sürer. Kilit bilgileri kontrol etmek için ek süre ayırın."
+                },
+                {
+                    "q": "Hatalı bir transkripti düzeltebilir miyim?",
+                    "a": "Evet. Kaydı metnin yanında oynatarak Düzenle ile herhangi bir kelimeyi, tarihi, tutarı ya da ismi düzeltin."
+                },
+                {
+                    "q": "Hak sahibiyle yapılan bir Zoom veya Teams görüşmesini yazıya dökebilir miyim?",
+                    "a": "Evet. Görüşmeden sonra kayıt dosyasını yükleyin. TranscriptX görüşmelere kendisi katılmaz."
+                },
+                {
+                    "q": "Yeminli ifadede ya da mahkemede kullanabilir miyim?",
+                    "a": "Taslak, hazırlık ve kayıtta arama için kullanın. Onaylı bir transkript gerektiğinde zabıt kâtibine ya da hukuki deşifre hizmetine başvurun ve şirketinizin kurallarına uyun."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bir Sonraki Kayıtlı İfadenizi Yazıya Dökün",
+        "content": [
+            "Kayıtlı ifadeyi, hasar çağrısını ya da görüşmeyi yükleyin; her tarihi, tutarı ve ismi ses kaydıyla karşılaştırmak için her paragrafında zaman damgası olan, hasar dosyasına hazır bir metin alın.",
+            "Hasar dışındaki görüşmeler için <a href=\"/interview-transcription/\">Röportaj Deşifre</a>, sesli mesajlar için <a href=\"/voicemail-to-text/\">Sesli Mesajı Yazıya Çevirme</a>, diğer tüm kayıtlar için <a href=\"/audio-to-text/\">Ses Yazıya Çevirme</a> aracını kullanın. Ücretsiz deneyin, hesap gerekmez."
+        ]
+    }
+}

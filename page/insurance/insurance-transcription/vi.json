@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Chuyển ghi âm bảo hiểm thành văn bản online | TranscriptX",
+        "description": "Chuyển ghi âm bảo hiểm thành văn bản: bản tường trình, cuộc gọi bồi thường, phỏng vấn giám định kèm dấu thời gian. Kiểm tra dữ kiện, xuất ra Word.",
+        "schemaName": "Công cụ chuyển ghi âm bảo hiểm thành văn bản TranscriptX",
+        "schemaDescription": "Công cụ AI chuyển ghi âm bảo hiểm thành văn bản ngay trên trình duyệt: tải lên bản tường trình ghi âm hoặc cuộc gọi bồi thường, hoặc ghi âm buổi làm việc, nhận bản chép lời chỉnh sửa được có dấu thời gian và nhãn người nói (gói Pro), ghi chú hồ sơ ngay bên cạnh và xuất ra DOCX, PDF, TXT, SRT hoặc VTT.",
+        "ogTitle": "Chuyển ghi âm bảo hiểm thành văn bản: từ cuộc gọi bồi thường đến hồ sơ",
+        "ogDescription": "Chép lời bản tường trình và cuộc gọi bồi thường vào hồ sơ, kèm dấu thời gian ở mỗi đoạn để đối chiếu ngày tháng, số tiền và tên riêng với bản ghi."
+    },
+    "hero": {
+        "h1": "Chuyển ghi âm bảo hiểm thành văn bản",
+        "subtitle": "Chép lời bản tường trình ghi âm, cuộc gọi bồi thường và buổi làm việc với giám định viên thành văn bản cho hồ sơ bồi thường. Tải file ghi âm lên hoặc ghi âm buổi làm việc ngay trên trình duyệt, TranscriptX sẽ chép lại kèm dấu thời gian ở mỗi đoạn, để bạn đối chiếu từng ngày tháng, số tiền và tên riêng với bản ghi. Xuất ra Word, PDF hoặc TXT. Dùng thử miễn phí, không cần tài khoản.",
+        "placeholder": "Tải lên bản tường trình ghi âm hoặc dán đường link...",
+        "button": "Chuyển ghi âm thành văn bản"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để chép lời một bản tường trình ghi âm bảo hiểm?",
+        "answer": "Tải bản tường trình ghi âm hoặc cuộc gọi bồi thường lên TranscriptX, hoặc bấm Ghi âm khi đang lấy lời khai. Trong vài giây bạn có bản chép lời chỉnh sửa được, kèm dấu thời gian. Đối chiếu từng ngày tháng, số tiền, tên riêng và số hợp đồng với bản ghi, rồi sao chép văn bản hoặc tải về dạng DOCX, PDF hay TXT cho hồ sơ bồi thường."
+    },
+    "sections": [
+        {
+            "h2": "Chuyển ghi âm bảo hiểm thành văn bản là gì?",
+            "content": [
+                "Chuyển ghi âm bảo hiểm thành văn bản là chép lại nội dung nói trong nghiệp vụ bảo hiểm thành chữ: bản tường trình ghi âm, cuộc gọi thông báo tổn thất đầu tiên, phỏng vấn nhân chứng, tin nhắn thoại của khách hàng, cuộc gọi với bác sĩ hay giám định viên, và các cuộc họp xét duyệt hồ sơ. Chuyên viên bồi thường, điều tra viên, đại lý và luật sư đọc, tìm kiếm và trích dẫn văn bản này từ hồ sơ bồi thường hoặc hồ sơ hợp đồng.",
+                "Gõ tay một giờ ghi âm mất khoảng bốn giờ. TranscriptX chuyển bản ghi thành văn bản trong vài giây và giữ dấu thời gian ở mỗi đoạn, để bạn dành thời gian kiểm tra những dữ kiện quyết định kết quả bồi thường thay vì ngồi gõ."
+            ]
+        },
+        {
+            "h2": "Tổng quan công cụ chuyển ghi âm bảo hiểm",
+            "specs": [
+                {
+                    "label": "Đầu vào",
+                    "value": "Tải lên bản ghi cuộc gọi hoặc buổi làm việc, dán link video, hoặc ghi âm ngay trên trình duyệt"
+                },
+                {
+                    "label": "Nguồn file",
+                    "value": "Thiết bị của bạn, Google Drive, Dropbox hoặc OneDrive"
+                },
+                {
+                    "label": "Kiểm tra từng dữ kiện",
+                    "value": "Dấu thời gian ở mỗi đoạn, bản ghi phát ngay cạnh văn bản"
+                },
+                {
+                    "label": "Ai nói gì",
+                    "value": "Nhãn người nói cho chuyên viên bồi thường, người được bảo hiểm, người yêu cầu bồi thường và nhân chứng trên gói Pro"
+                },
+                {
+                    "label": "Ghi chú hồ sơ",
+                    "value": "Thẻ Ghi chú cạnh bản chép lời, có dấu thời gian và danh sách việc cần làm"
+                },
+                {
+                    "label": "Cho hồ sơ bồi thường",
+                    "value": "Tải về dạng DOCX, PDF hoặc TXT, hoặc SRT và VTT để làm phụ đề"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Chi phí",
+                    "value": "Dùng thử miễn phí, không cần tài khoản · Gói Pro cho nhu cầu dùng nhiều"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chép lời một bản tường trình ghi âm",
+            "steps": [
+                {
+                    "h3": "Thêm file ghi âm",
+                    "content": "Tải file âm thanh hoặc video lên từ thiết bị, Google Drive, Dropbox hoặc OneDrive, chẳng hạn cuộc gọi xuất từ tổng đài hoặc bản ghi cuộc gọi video. Lấy lời khai trực tiếp? Bấm Ghi âm."
+                },
+                {
+                    "h3": "Nhận bản chép lời",
+                    "content": "TranscriptX nhận diện ngôn ngữ và chép lại bản ghi thành các đoạn có dấu câu, mỗi đoạn kèm dấu thời gian."
+                },
+                {
+                    "h3": "Đối chiếu dữ kiện quan trọng với bản ghi",
+                    "content": "Phát bản ghi cạnh văn bản, sửa ngày tháng, số tiền, tên riêng và số hợp đồng bằng nút Sửa, và ghi lại các câu hỏi còn bỏ ngỏ trong thẻ Ghi chú."
+                },
+                {
+                    "h3": "Sao chép hoặc xuất file",
+                    "content": "Sao chép bản chép lời vào ghi chú hồ sơ hoặc email, hoặc tải về dạng DOCX, PDF hay TXT để lưu vào hồ sơ bồi thường."
+                }
+            ]
+        },
+        {
+            "h2": "Chép lời cuộc gọi bồi thường bảo hiểm online",
+            "content": [
+                "Không cần cài đặt gì. Mở trang này trên trình duyệt máy tính hoặc điện thoại, thêm file ghi âm, bản chép lời sẽ hiện ngay trên cùng trang.",
+                "Phần lớn ghi âm bồi thường đến dưới dạng file: bản tường trình từ hệ thống ghi âm cuộc gọi hoặc nền tảng quản lý bồi thường, tin nhắn thoại của khách hàng, hoặc bản ghi Zoom, Teams hay Meet của một buổi làm việc. Cả file âm thanh lẫn video đều dùng được. Hãy dùng file gốc thay vì thu âm lại, vì đường truyền rõ cho bản chép lời sạch hơn.",
+                "Bạn có thể dùng thử tính năng chép lời cuộc gọi bồi thường miễn phí, không cần tài khoản. Nếu ngày nào cũng chép lời bản tường trình, hãy xem <a href=\"/pricing/\">gói Pro</a>."
+            ]
+        },
+        {
+            "h2": "Bạn có thể chép lời những gì",
+            "intro": [
+                "Mọi bản ghi cần đưa vào hồ sơ bồi thường hoặc hồ sơ hợp đồng:"
+            ],
+            "items": [
+                {
+                    "h3": "Bản tường trình ghi âm",
+                    "content": "Lời tường trình của người được bảo hiểm, người yêu cầu bồi thường và nhân chứng, lấy qua điện thoại hoặc trực tiếp, đúng nguyên lời của họ."
+                },
+                {
+                    "h3": "Cuộc gọi thông báo tổn thất đầu tiên",
+                    "content": "Cuộc gọi báo tổn thất: xảy ra khi nào, ở đâu, và khách hàng đã nói gì đầu tiên."
+                },
+                {
+                    "h3": "Tin nhắn thoại của khách hàng",
+                    "content": "Thông báo, cập nhật và khiếu nại để lại qua điện thoại. Với tin nhắn ngắn, <a href=\"/voicemail-to-text/\">Chuyển tin nhắn thoại thành văn bản</a> là cách nhanh nhất."
+                },
+                {
+                    "h3": "Phỏng vấn nhân chứng và điều tra trục lợi (SIU)",
+                    "content": "Các buổi phỏng vấn về hồ sơ tranh chấp hoặc có dấu hiệu nghi vấn, sẵn sàng để so sánh từng dòng giữa các lời khai."
+                },
+                {
+                    "h3": "Cuộc gọi với bác sĩ, chuyên gia và giám định viên",
+                    "content": "Cuộc gọi với bác sĩ, kỹ sư, nhà thầu và giám định viên về thương tích, thiệt hại và chi phí sửa chữa."
+                },
+                {
+                    "h3": "Cuộc gọi thẩm định và chăm sóc khách hàng",
+                    "content": "Phỏng vấn người yêu cầu bảo hiểm và các cuộc gọi của đại lý hoặc môi giới về quyền lợi, tái tục và thay đổi hợp đồng."
+                },
+                {
+                    "h3": "Xét duyệt hồ sơ và đào tạo",
+                    "content": "Họp nhóm, rà soát hồ sơ và đánh giá cuộc gọi để kiểm soát chất lượng và đào tạo."
+                }
+            ]
+        },
+        {
+            "h2": "Kiểm tra những dữ kiện quyết định hồ sơ bồi thường",
+            "intro": [
+                "Trong hồ sơ bồi thường, chỉ một chi tiết sai cũng làm thay đổi kết quả. Nhận dạng giọng nói xử lý tốt lời nói thông thường; hãy kiểm tra những chỗ nghe giống nhau hoặc làm đổi nghĩa:"
+            ],
+            "items": [
+                {
+                    "h3": "Ngày tháng và giờ",
+                    "content": "“Mùng ba” và “mười ba”, “bảy giờ” và “bảy rưỡi” rất dễ nghe nhầm qua điện thoại. Tổn thất ngày 3/3 không phải ngày 13/3."
+                },
+                {
+                    "h3": "Số tiền",
+                    "content": "“Mười lăm” và “năm mươi”, “trăm” và “nghìn”: 1.500 không phải 5.000. Hãy đối chiếu với báo giá và hóa đơn trong hồ sơ."
+                },
+                {
+                    "h3": "Số hợp đồng, số hồ sơ và biển số xe",
+                    "content": "Những chuỗi chữ và số dài thường được đọc rất nhanh. Chỉ một chữ số bị đảo là đã trỏ sang hồ sơ khác."
+                },
+                {
+                    "h3": "Tên riêng, địa danh và thương tích",
+                    "content": "Họ tên, tên đường, thuật ngữ y khoa và bên trái hay bên phải đều đáng nghe lại lần nữa."
+                },
+                {
+                    "h3": "Câu phủ định",
+                    "content": "“Tôi không nghe điện thoại” và “Tôi nghe điện thoại” chỉ khác nhau một từ nói nhỏ. Hãy xác nhận mọi chữ “không”, “chưa” và “chẳng”."
+                }
+            ]
+        },
+        {
+            "h2": "Nhãn người nói cho chuyên viên bồi thường, người yêu cầu bồi thường và nhân chứng",
+            "content": [
+                "Một bản tường trình ghi âm có ít nhất hai giọng nói, và nhiều cuộc gọi bồi thường có từ ba người trở lên: chuyên viên bồi thường, người được bảo hiểm, người yêu cầu bồi thường, nhân chứng, phiên dịch viên hoặc luật sư. Trên gói Pro, TranscriptX tự động gắn nhãn người nói, để câu hỏi của chuyên viên tách biệt với câu trả lời.",
+                "Đổi tên từng nhãn thành “Chuyên viên”, “Người yêu cầu bồi thường” hoặc tên của người đó khi rà soát. Trên gói Miễn phí, bạn nhận các đoạn có dấu thời gian nhưng không có tên người nói, phù hợp với tin nhắn thoại hoặc bản ghi chỉ có một người nói."
+            ]
+        },
+        {
+            "h2": "Chép lời pháp lý cho vụ việc bảo hiểm",
+            "content": [
+                "Khi hồ sơ bồi thường bị tranh chấp, bản chép lời của một lời tường trình trước đó có thể rất quan trọng. Luật sư bên bị, trợ lý luật sư và luật sư nội bộ dùng bản chép lời AI để xem lại các bản tường trình trước buổi lấy lời khai có tuyên thệ, tìm đúng thời điểm một câu được nói ra, và so sánh lời khai của các nhân chứng.",
+                "Khi bản chép lời là chứng cứ, chẳng hạn trong buổi lấy lời khai có tuyên thệ hoặc phiên tòa, nó thường do thư ký tòa án hoặc một dịch vụ chép lời pháp lý có thể chứng thực thực hiện. Hãy dùng TranscriptX cho bản nháp, chuẩn bị và tìm kiếm, và hỏi luật sư phụ trách vụ việc xem cần loại bản chép lời nào."
+            ]
+        },
+        {
+            "h2": "Dùng AI hay thuê dịch vụ chép lời bảo hiểm?",
+            "intro": [
+                "Mỗi lựa chọn phù hợp với một nhu cầu khác nhau. Hãy chọn theo mục đích của bản chép lời:"
+            ],
+            "items": [
+                {
+                    "h3": "Chép lời bằng AI (TranscriptX)",
+                    "content": "Từ vài giây đến vài phút, dùng thử miễn phí. Bản nháp chắc chắn với âm thanh rõ, bạn kiểm tra lại trước khi dùng. Phù hợp nhất cho bản tường trình ghi âm, cuộc gọi bồi thường, tin nhắn thoại và rà soát nội bộ."
+                },
+                {
+                    "h3": "Tự gõ lại",
+                    "content": "Không tốn tiền, chỉ tốn thời gian: khoảng bốn giờ cho mỗi giờ ghi âm. Chỉ thực tế với những cuộc gọi rất ngắn."
+                },
+                {
+                    "h3": "Dịch vụ và công ty chép lời bảo hiểm",
+                    "content": "Tính phí theo phút ghi âm và chậm hơn, nhưng có người kiểm tra. Một số nơi cung cấp bản chép lời đã xác minh hoặc chứng thực cho tranh tụng, hồ sơ có tuyên thệ hoặc âm thanh rất kém."
+                }
+            ]
+        },
+        {
+            "h2": "Ai dùng công cụ chuyển ghi âm bảo hiểm thành văn bản",
+            "intro": [
+                "Bất kỳ ai làm việc với nội dung được nói trong một cuộc gọi hay buổi phỏng vấn:"
+            ],
+            "items": [
+                {
+                    "h3": "Chuyên viên giám định và xử lý bồi thường",
+                    "content": "Chuyển bản tường trình ghi âm thành văn bản cho hồ sơ bồi thường và trích dẫn chính xác lời người yêu cầu bồi thường trong báo cáo."
+                },
+                {
+                    "h3": "Bộ phận điều tra trục lợi bảo hiểm",
+                    "content": "So sánh lời khai của người được bảo hiểm, người yêu cầu bồi thường và nhân chứng, tìm ra chỗ các lời kể không khớp nhau."
+                },
+                {
+                    "h3": "Đại lý và môi giới bảo hiểm",
+                    "content": "Lưu lại bằng văn bản các cuộc gọi với khách hàng về quyền lợi bảo hiểm, bồi thường và thay đổi hợp đồng."
+                },
+                {
+                    "h3": "Luật sư và trợ lý luật sư mảng bảo hiểm",
+                    "content": "Xem nhanh các lời tường trình trước đó trước buổi lấy lời khai có tuyên thệ hoặc buổi thương lượng hòa giải."
+                },
+                {
+                    "h3": "Chuyên viên thẩm định và trưởng nhóm",
+                    "content": "Ghi lại các buổi phỏng vấn người yêu cầu bảo hiểm và biến các buổi xét duyệt hồ sơ, đánh giá cuộc gọi thành ghi chú."
+                }
+            ]
+        },
+        {
+            "h2": "Bảo mật cho ghi âm bồi thường",
+            "content": [
+                "Ghi âm bồi thường thường chứa thông tin cá nhân, tài chính hoặc y tế. Hãy kiểm tra quy định của công ty về những công cụ được phép xử lý chúng, và xác nhận sự đồng ý ghi âm ở đầu mỗi buổi tường trình, theo quy định tại nơi bạn và người kia đang ở.",
+                "File tải lên được xóa tự động, và bản ghi cũng như bản chép lời của bạn không được dùng để huấn luyện mô hình AI. Bạn có thể xóa một bản chép lời, hoặc toàn bộ dữ liệu, bất cứ lúc nào trong tài khoản. Xem <a href=\"/privacy-policy/\">Chính sách quyền riêng tư</a> để biết thêm chi tiết."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Bản tường trình ghi âm bảo hiểm là gì?",
+                    "a": "Là buổi phỏng vấn được ghi âm, thường qua điện thoại, trong đó chuyên viên bồi thường đề nghị người được bảo hiểm, người yêu cầu bồi thường hoặc nhân chứng kể lại sự việc. Bản ghi và bản chép lời được lưu vào hồ sơ bồi thường."
+                },
+                {
+                    "q": "Chuyển ghi âm bảo hiểm thành văn bản có miễn phí không?",
+                    "a": "Bạn có thể dùng thử TranscriptX miễn phí, không cần tài khoản. Nhãn người nói và lọc tiếng ồn có trên gói Pro."
+                },
+                {
+                    "q": "AI chép lời cuộc gọi bồi thường chính xác đến đâu?",
+                    "a": "Bản ghi rõ cho ra bản nháp chắc chắn. Luôn đối chiếu ngày tháng, số tiền, tên riêng và số hợp đồng với bản ghi trước khi ra quyết định bồi thường."
+                },
+                {
+                    "q": "Chép lời một bản tường trình ghi âm mất bao lâu?",
+                    "a": "Vài phút ghi âm có kết quả trong vài giây, bản tường trình dài thì lâu hơn một chút. Hãy dành thêm thời gian để kiểm tra các dữ kiện quan trọng."
+                },
+                {
+                    "q": "Tôi có sửa được bản chép lời bị sai không?",
+                    "a": "Có. Dùng nút Sửa để chỉnh bất kỳ từ, ngày tháng, số tiền hay tên riêng nào, vừa sửa vừa phát bản ghi bên cạnh."
+                },
+                {
+                    "q": "Tôi có chép lời được buổi làm việc qua Zoom hay Teams với người yêu cầu bồi thường không?",
+                    "a": "Có. Tải file ghi âm lên sau buổi làm việc. TranscriptX không tự tham gia cuộc gọi."
+                },
+                {
+                    "q": "Tôi có dùng được cho buổi lấy lời khai có tuyên thệ hoặc tại tòa không?",
+                    "a": "Hãy dùng cho bản nháp, chuẩn bị và tìm kiếm trong bản ghi. Khi cần bản chép lời có chứng thực, hãy dùng thư ký tòa án hoặc dịch vụ chép lời pháp lý và tuân theo quy định của công ty."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chép lời bản tường trình ghi âm tiếp theo của bạn",
+        "content": [
+            "Tải lên bản tường trình ghi âm, cuộc gọi bồi thường hoặc buổi phỏng vấn, và nhận văn bản cho hồ sơ bồi thường, với dấu thời gian ở mỗi đoạn để đối chiếu từng ngày tháng, số tiền và tên riêng với bản ghi.",
+            "Với các buổi phỏng vấn ngoài nghiệp vụ bồi thường, hãy dùng <a href=\"/interview-transcription/\">Chuyển phỏng vấn thành văn bản</a>; với tin nhắn thoại, hãy dùng <a href=\"/voicemail-to-text/\">Chuyển tin nhắn thoại thành văn bản</a>; với mọi bản ghi khác, hãy dùng <a href=\"/audio-to-text/\">Chuyển âm thanh thành văn bản</a>. Dùng thử miễn phí, không cần tài khoản."
+        ]
+    }
+}

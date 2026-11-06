@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transkrip Asuransi — Rekaman Klaim ke Teks | TranscriptX",
+        "description": "Transkrip asuransi online: ubah pernyataan terekam, telepon klaim dan wawancara penilai kerugian jadi teks dengan timestamp. Cek fakta, ekspor ke Word.",
+        "schemaName": "TranscriptX Transkrip Asuransi",
+        "schemaDescription": "Transkripsi asuransi dengan AI di browser: unggah pernyataan terekam atau rekaman telepon klaim, atau rekam wawancara, dapatkan transkrip yang bisa diedit dengan timestamp dan label pembicara (Pro), tambahkan catatan klaim di sampingnya, lalu ekspor ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkrip Asuransi: Rekaman Telepon Klaim ke Teks",
+        "ogDescription": "Ubah pernyataan terekam dan telepon klaim menjadi teks untuk berkas klaim, dengan timestamp di setiap paragraf untuk mengecek tanggal, nominal dan nama dengan audionya."
+    },
+    "hero": {
+        "h1": "Transkrip Asuransi",
+        "subtitle": "Ubah pernyataan terekam, telepon klaim dan wawancara penilai kerugian menjadi teks untuk berkas klaim. Unggah rekamannya atau rekam wawancara langsung di browser, lalu TranscriptX menuliskannya dengan timestamp di setiap paragraf, sehingga setiap tanggal, nominal dan nama bisa dicek dengan audionya. Ekspor ke Word, PDF atau TXT. Gratis dicoba, tanpa perlu akun.",
+        "placeholder": "Unggah pernyataan terekam atau tempel link...",
+        "button": "Transkrip Rekaman"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip pernyataan terekam asuransi?",
+        "answer": "Unggah pernyataan terekam atau rekaman telepon klaim ke TranscriptX, atau tekan Rekam saat Anda melakukan wawancara. Dalam hitungan detik Anda mendapat transkrip yang bisa diedit, lengkap dengan timestamp. Cek setiap tanggal, nominal, nama dan nomor polis dengan audionya, lalu salin teksnya atau unduh sebagai DOCX, PDF atau TXT untuk berkas klaim."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkrip Asuransi?",
+            "content": [
+                "Transkrip asuransi mengubah percakapan seputar asuransi menjadi teks tertulis: pernyataan terekam, telepon laporan klaim pertama, wawancara saksi, pesan suara nasabah, telepon dengan dokter atau penilai, dan rapat peninjauan klaim. Penilai kerugian (loss adjuster), investigator, agen dan pengacara membacanya, mencarinya dan mengutipnya dari berkas klaim atau polis.",
+                "Mengetik satu jam audio secara manual butuh sekitar empat jam. TranscriptX mengubah rekaman menjadi teks dalam hitungan detik dan menyertakan timestamp di setiap paragraf, sehingga waktu Anda dipakai untuk mengecek fakta yang menentukan klaim, bukan untuk mengetik."
+            ]
+        },
+        {
+            "h2": "Sekilas tentang Transkrip Asuransi",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Unggah rekaman telepon atau wawancara, tempel link video, atau rekam wawancara di browser"
+                },
+                {
+                    "label": "Sumber file",
+                    "value": "Perangkat Anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Cek setiap fakta",
+                    "value": "Timestamp di setiap paragraf, dengan rekaman diputar di samping teks"
+                },
+                {
+                    "label": "Siapa bicara apa",
+                    "value": "Label pembicara untuk penilai kerugian, tertanggung, pengaju klaim dan saksi di paket Pro"
+                },
+                {
+                    "label": "Catatan klaim",
+                    "value": "Tab Catatan di samping transkrip, dengan timestamp dan checklist"
+                },
+                {
+                    "label": "Untuk berkas klaim",
+                    "value": "Unduh sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk subtitle"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Gratis dicoba, tanpa perlu akun · Paket Pro untuk pemakaian intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Pernyataan Terekam",
+            "steps": [
+                {
+                    "h3": "Tambahkan rekamannya",
+                    "content": "Unggah file audio atau video dari perangkat Anda, Google Drive, Dropbox atau OneDrive, misalnya rekaman telepon yang diekspor dari sistem telepon atau rekaman panggilan video. Mengambil pernyataan secara tatap muka? Tekan Rekam."
+                },
+                {
+                    "h3": "Dapatkan transkripnya",
+                    "content": "TranscriptX mendeteksi bahasanya dan menuliskan rekaman sebagai paragraf lengkap dengan tanda baca, masing-masing dengan timestamp."
+                },
+                {
+                    "h3": "Cek fakta penting dengan audionya",
+                    "content": "Putar rekaman di samping teks, perbaiki tanggal, nominal, nama dan nomor polis dengan Edit, dan catat pertanyaan yang masih terbuka di tab Catatan."
+                },
+                {
+                    "h3": "Salin atau ekspor",
+                    "content": "Salin transkrip ke catatan klaim atau email, atau unduh sebagai DOCX, PDF atau TXT untuk berkas klaim."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Klaim Asuransi Online",
+            "content": [
+                "Tidak ada yang perlu diinstal. Buka halaman ini di browser komputer atau HP, tambahkan rekamannya, dan transkrip muncul di halaman yang sama.",
+                "Sebagian besar audio klaim datang dalam bentuk file: pernyataan terekam dari perekam telepon atau platform klaim, pesan suara dari nasabah, atau rekaman Zoom, Teams atau Meet dari sebuah wawancara. File audio maupun video bisa dipakai. Gunakan file aslinya, bukan rekaman ulang, karena suara yang jernih menghasilkan transkrip yang lebih bersih.",
+                "Anda bisa mencoba transkripsi klaim asuransi secara gratis, tanpa akun. Jika Anda membuat transkrip pernyataan setiap hari, lihat <a href=\"/pricing/\">paket Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditranskrip",
+            "intro": [
+                "Rekaman apa pun yang perlu masuk ke berkas klaim atau polis:"
+            ],
+            "items": [
+                {
+                    "h3": "Pernyataan terekam",
+                    "content": "Pernyataan dari tertanggung, pengaju klaim dan saksi, diambil lewat telepon atau tatap muka, dengan kata-kata mereka sendiri."
+                },
+                {
+                    "h3": "Telepon laporan klaim pertama",
+                    "content": "Telepon saat kerugian pertama kali dilaporkan: kapan terjadi, di mana, dan apa yang pertama kali dikatakan nasabah."
+                },
+                {
+                    "h3": "Pesan suara nasabah",
+                    "content": "Laporan, kabar terbaru dan keluhan yang ditinggalkan lewat telepon. Untuk pesan singkat, <a href=\"/voicemail-to-text/\">Voicemail to Text</a> adalah cara tercepat."
+                },
+                {
+                    "h3": "Wawancara saksi dan investigasi SIU",
+                    "content": "Wawancara untuk klaim yang disengketakan atau mencurigakan, siap dibandingkan antara satu keterangan dengan keterangan lain baris demi baris."
+                },
+                {
+                    "h3": "Telepon dengan dokter, ahli dan penilai",
+                    "content": "Telepon dengan dokter, insinyur, kontraktor dan penilai tentang cedera, kerusakan dan biaya perbaikan."
+                },
+                {
+                    "h3": "Telepon underwriting dan nasabah",
+                    "content": "Wawancara calon tertanggung dan telepon agen atau broker tentang pertanggungan, perpanjangan dan perubahan polis."
+                },
+                {
+                    "h3": "Peninjauan klaim dan pelatihan",
+                    "content": "Rapat tim, peninjauan berkas dan evaluasi telepon untuk kontrol kualitas dan pelatihan."
+                }
+            ]
+        },
+        {
+            "h2": "Cek Fakta yang Menentukan Klaim",
+            "intro": [
+                "Dalam klaim, satu detail yang salah bisa mengubah hasilnya. Pengenalan suara menangani percakapan sehari-hari dengan baik; cek bagian yang terdengar mirip atau mengubah makna:"
+            ],
+            "items": [
+                {
+                    "h3": "Tanggal dan waktu",
+                    "content": "\"Tiga\" dan \"tiga belas\", \"tujuh\" dan \"tujuh belas\" mudah salah dengar di telepon. Kerugian pada 3 Maret tidak sama dengan 13 Maret."
+                },
+                {
+                    "h3": "Nominal",
+                    "content": "\"Lima belas\" dan \"lima puluh\", \"ratus\" dan \"ribu\": 1.500 tidak sama dengan 5.000. Cocokkan dengan estimasi dan faktur di berkas."
+                },
+                {
+                    "h3": "Nomor polis, nomor klaim dan pelat kendaraan",
+                    "content": "Rangkaian huruf dan angka yang panjang sering diucapkan dengan cepat. Satu angka yang tertukar mengarah ke data yang salah."
+                },
+                {
+                    "h3": "Nama, tempat dan cedera",
+                    "content": "Nama keluarga, nama jalan, istilah medis serta kiri atau kanan layak didengarkan dua kali."
+                },
+                {
+                    "h3": "Kalimat negatif",
+                    "content": "\"Saya tidak sedang menelepon\" dan \"Saya sedang menelepon\" hanya berbeda satu kata yang diucapkan pelan. Pastikan setiap \"tidak\", \"belum\" dan \"tidak pernah\"."
+                }
+            ]
+        },
+        {
+            "h2": "Label Pembicara untuk Penilai Kerugian, Pengaju Klaim dan Saksi",
+            "content": [
+                "Pernyataan terekam punya setidaknya dua suara, dan banyak telepon klaim punya tiga atau lebih: penilai kerugian, tertanggung, pengaju klaim, saksi, penerjemah atau pengacara. Di paket Pro, TranscriptX memberi label pembicara secara otomatis, sehingga pertanyaan penilai kerugian terpisah dari jawabannya.",
+                "Ganti nama setiap label menjadi \"Penilai\", \"Pengaju Klaim\" atau nama orangnya saat meninjau. Di paket Free, Anda mendapat paragraf dengan timestamp tanpa nama pembicara, yang cocok untuk pesan suara atau satu pembicara."
+            ]
+        },
+        {
+            "h2": "Transkripsi Hukum untuk Kasus Asuransi",
+            "content": [
+                "Saat klaim disengketakan, transkrip pernyataan sebelumnya bisa sangat penting. Kuasa hukum, paralegal dan pengacara internal memakai transkrip AI untuk meninjau pernyataan terekam sebelum pemeriksaan di bawah sumpah (examination under oath) atau deposisi, menemukan momen persis saat sesuatu diucapkan, dan membandingkan keterangan saksi.",
+                "Jika transkrip itu sendiri akan menjadi alat bukti, misalnya pada pemeriksaan di bawah sumpah, deposisi atau sidang, biasanya transkrip dibuat oleh stenografer pengadilan (court reporter) atau layanan transkripsi hukum yang bisa mensertifikasinya. Gunakan TranscriptX untuk draf, persiapan dan pencarian, dan tanyakan kepada pengacara yang menangani kasus jenis transkrip apa yang diperlukan."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI atau Jasa Transkrip Asuransi?",
+            "intro": [
+                "Setiap pilihan cocok untuk kebutuhan yang berbeda. Pilih berdasarkan tujuan transkripnya:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Hitungan detik hingga menit, gratis dicoba. Draf yang solid untuk audio yang jernih, yang Anda cek sebelum diandalkan. Paling cocok untuk pernyataan terekam, telepon klaim, pesan suara dan peninjauan internal."
+                },
+                {
+                    "h3": "Mengetik sendiri",
+                    "content": "Tidak keluar biaya selain waktu: sekitar empat jam untuk setiap jam audio. Praktis hanya untuk telepon yang sangat singkat."
+                },
+                {
+                    "h3": "Jasa dan perusahaan transkrip asuransi",
+                    "content": "Dibayar per menit audio dan lebih lambat, tetapi dicek oleh manusia. Sebagian menawarkan transkrip terverifikasi atau tersertifikasi untuk litigasi, catatan di bawah sumpah atau audio yang sangat buruk."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Memakai Transkrip Asuransi",
+            "intro": [
+                "Siapa saja yang bekerja dengan apa yang diucapkan dalam telepon atau wawancara:"
+            ],
+            "items": [
+                {
+                    "h3": "Penilai kerugian dan petugas klaim",
+                    "content": "Mengubah pernyataan terekam menjadi teks untuk berkas klaim dan mengutip pengaju klaim secara persis dalam laporan."
+                },
+                {
+                    "h3": "Unit investigasi khusus (SIU)",
+                    "content": "Membandingkan pernyataan dari tertanggung, pengaju klaim dan saksi, lalu menemukan di mana keterangan mereka berbeda."
+                },
+                {
+                    "h3": "Agen dan broker",
+                    "content": "Menyimpan catatan tertulis dari telepon nasabah tentang pertanggungan, klaim dan perubahan polis."
+                },
+                {
+                    "h3": "Pengacara asuransi dan paralegal",
+                    "content": "Meninjau pernyataan sebelumnya dengan cepat sebelum pemeriksaan di bawah sumpah, deposisi atau negosiasi penyelesaian."
+                },
+                {
+                    "h3": "Underwriter dan ketua tim",
+                    "content": "Mendokumentasikan wawancara calon tertanggung dan mengubah peninjauan klaim serta evaluasi telepon menjadi catatan."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi untuk Rekaman Klaim",
+            "content": [
+                "Rekaman klaim sering berisi data pribadi, keuangan atau medis. Periksa kebijakan perusahaan Anda tentang alat apa saja yang boleh memprosesnya, dan konfirmasi persetujuan perekaman di awal setiap pernyataan, sesuai aturan yang berlaku di tempat Anda dan lawan bicara.",
+                "File yang diunggah dihapus otomatis, dan rekaman serta transkrip Anda tidak dipakai untuk melatih model AI. Anda bisa menghapus satu transkrip, atau seluruh data Anda, kapan saja dari akun Anda. Lihat <a href=\"/privacy-policy/\">Kebijakan Privasi</a> untuk detailnya."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Apa itu pernyataan terekam dalam asuransi?",
+                    "a": "Wawancara yang direkam, biasanya lewat telepon, di mana penilai kerugian meminta tertanggung, pengaju klaim atau saksi menceritakan kejadiannya. Rekaman dan transkripnya masuk ke berkas klaim."
+                },
+                {
+                    "q": "Apakah transkrip asuransi gratis?",
+                    "a": "Anda bisa mencoba TranscriptX gratis, tanpa akun. Label pembicara dan pengurangan noise ada di paket Pro."
+                },
+                {
+                    "q": "Seberapa akurat transkripsi AI untuk telepon klaim?",
+                    "a": "Rekaman yang jernih menghasilkan draf yang solid. Selalu cek tanggal, nominal, nama dan nomor polis dengan audionya sebelum mengambil keputusan klaim."
+                },
+                {
+                    "q": "Berapa lama membuat transkrip pernyataan terekam?",
+                    "a": "Audio beberapa menit selesai dalam hitungan detik, dan pernyataan yang panjang butuh sedikit lebih lama. Sisihkan waktu tambahan untuk mengecek fakta penting."
+                },
+                {
+                    "q": "Bisakah saya memperbaiki transkrip yang ada kesalahannya?",
+                    "a": "Bisa. Gunakan Edit untuk memperbaiki kata, tanggal, nominal atau nama apa pun, sambil memutar rekaman di samping teks."
+                },
+                {
+                    "q": "Bisakah saya mentranskrip wawancara Zoom atau Teams dengan pengaju klaim?",
+                    "a": "Bisa. Unggah file rekamannya setelah selesai. TranscriptX tidak ikut bergabung ke dalam panggilan."
+                },
+                {
+                    "q": "Bisakah dipakai untuk pemeriksaan di bawah sumpah atau di pengadilan?",
+                    "a": "Gunakan untuk draf, persiapan dan pencarian dalam rekaman. Jika diperlukan transkrip tersertifikasi, gunakan stenografer pengadilan atau layanan transkripsi hukum dan ikuti aturan perusahaan Anda."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Pernyataan Terekam Anda Berikutnya",
+        "content": [
+            "Unggah pernyataan terekam, telepon klaim atau wawancara, dan dapatkan teks untuk berkas klaim, dengan timestamp di setiap paragraf untuk mengecek setiap tanggal, nominal dan nama dengan audionya.",
+            "Untuk wawancara di luar urusan klaim, gunakan <a href=\"/interview-transcription/\">Transkrip Wawancara</a>; untuk pesan suara, gunakan <a href=\"/voicemail-to-text/\">Voicemail to Text</a>; untuk rekaman lainnya, gunakan <a href=\"/audio-to-text/\">Audio to Text</a>. Gratis dicoba, tanpa perlu akun."
+        ]
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transcription pour l'assurance en ligne | TranscriptX",
+        "description": "Transcription pour l'assurance en ligne : déclarations enregistrées et appels de sinistre en texte horodaté. Vérifiez les faits clés, exportez en Word.",
+        "schemaName": "TranscriptX — Transcription pour l'assurance",
+        "schemaDescription": "Transcription pour l'assurance par IA dans le navigateur : importez une déclaration enregistrée ou un appel de sinistre, ou enregistrez un entretien, obtenez une transcription modifiable avec horodatages et identification des locuteurs (Pro), ajoutez vos notes de dossier à côté et exportez en DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Transcription pour l'assurance : appels de sinistre en texte",
+        "ogDescription": "Transformez déclarations enregistrées et appels de sinistre en texte pour le dossier, avec un horodatage sur chaque paragraphe pour vérifier dates, montants et noms avec l'audio."
+    },
+    "hero": {
+        "h1": "Transcription pour l'assurance",
+        "subtitle": "Transformez les déclarations enregistrées, les appels de sinistre et les entretiens menés par l'expert ou le gestionnaire en texte pour le dossier sinistre. Importez l'enregistrement ou enregistrez l'entretien dans votre navigateur, et TranscriptX le retranscrit avec un horodatage sur chaque paragraphe, pour vérifier chaque date, montant et nom avec l'audio. Exportez en Word, PDF ou TXT. Essai gratuit, sans compte.",
+        "placeholder": "Importez une déclaration enregistrée ou collez un lien...",
+        "button": "Retranscrire l'enregistrement"
+    },
+    "quickAnswer": {
+        "question": "Comment retranscrire une déclaration enregistrée d'assurance ?",
+        "answer": "Importez la déclaration enregistrée ou l'appel de sinistre dans TranscriptX, ou appuyez sur Enregistrer pendant l'entretien. Vous obtenez en quelques secondes une transcription modifiable avec horodatages. Vérifiez chaque date, montant, nom et numéro de police avec l'audio, puis copiez le texte ou téléchargez-le en DOCX, PDF ou TXT pour le dossier sinistre."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce que la transcription pour l'assurance ?",
+            "content": [
+                "La transcription pour l'assurance transforme en texte écrit tout ce qui se dit autour d'un contrat ou d'un sinistre : déclarations enregistrées, appels de déclaration de sinistre, auditions de témoins, messages vocaux de clients, appels avec des médecins ou des experts, et réunions de revue de dossiers. Gestionnaires, enquêteurs, agents et avocats la lisent, y font des recherches et la citent depuis le dossier sinistre ou le dossier client.",
+                "Saisir à la main une heure d'audio prend environ quatre heures. TranscriptX transforme l'enregistrement en texte en quelques secondes et garde un horodatage sur chaque paragraphe : vous passez votre temps à vérifier les faits qui décident du sinistre, pas à taper."
+            ]
+        },
+        {
+            "h2": "La transcription pour l'assurance en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Entrée",
+                    "value": "Importez l'enregistrement d'un appel ou d'un entretien, collez le lien d'une vidéo ou enregistrez un entretien dans le navigateur"
+                },
+                {
+                    "label": "Provenance des fichiers",
+                    "value": "Votre appareil, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Vérifier chaque fait",
+                    "value": "Horodatage sur chaque paragraphe, avec l'enregistrement qui se lit à côté du texte"
+                },
+                {
+                    "label": "Qui a dit quoi",
+                    "value": "Identification des locuteurs (gestionnaire, assuré, tiers réclamants, témoins) avec le forfait Pro"
+                },
+                {
+                    "label": "Notes de dossier",
+                    "value": "Onglet Notes à côté de la transcription, avec horodatages et listes de contrôle"
+                },
+                {
+                    "label": "Pour le dossier sinistre",
+                    "value": "Téléchargement en DOCX, PDF ou TXT, ou en SRT et VTT pour des sous-titres"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, détectées automatiquement"
+                },
+                {
+                    "label": "Prix",
+                    "value": "Essai gratuit, sans compte · Forfait Pro pour un usage intensif"
+                }
+            ]
+        },
+        {
+            "h2": "Comment retranscrire une déclaration enregistrée",
+            "steps": [
+                {
+                    "h3": "Ajoutez l'enregistrement",
+                    "content": "Importez le fichier audio ou vidéo depuis votre appareil, Google Drive, Dropbox ou OneDrive, par exemple un appel exporté de votre standard téléphonique ou l'enregistrement d'une visioconférence. Vous recueillez la déclaration en personne ? Appuyez sur Enregistrer."
+                },
+                {
+                    "h3": "Obtenez la transcription",
+                    "content": "TranscriptX détecte la langue et retranscrit l'enregistrement en paragraphes ponctués, chacun avec un horodatage."
+                },
+                {
+                    "h3": "Vérifiez les faits clés avec l'audio",
+                    "content": "Écoutez l'enregistrement à côté du texte, corrigez dates, montants, noms et numéros de police avec Modifier, et notez les questions en suspens dans l'onglet Notes."
+                },
+                {
+                    "h3": "Copiez ou exportez",
+                    "content": "Copiez la transcription dans une note de dossier ou un e-mail, ou téléchargez-la en DOCX, PDF ou TXT pour le dossier sinistre."
+                }
+            ]
+        },
+        {
+            "h2": "Transcription des appels de sinistre en ligne",
+            "content": [
+                "Rien à installer. Ouvrez cette page dans le navigateur de votre ordinateur ou de votre téléphone, ajoutez l'enregistrement, et la transcription s'affiche sur la même page.",
+                "La plupart des enregistrements de sinistre arrivent sous forme de fichier : une déclaration enregistrée par votre enregistreur d'appels ou votre outil de gestion des sinistres, un message vocal d'un client, ou l'enregistrement Zoom, Teams ou Meet d'un entretien. Les fichiers audio comme vidéo fonctionnent. Utilisez le fichier d'origine plutôt qu'un réenregistrement : une ligne nette donne une transcription plus propre.",
+                "Vous pouvez essayer gratuitement la transcription des appels de sinistre, sans compte. Si vous retranscrivez des déclarations tous les jours, découvrez le <a href=\"/pricing/\">forfait Pro</a>."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez retranscrire",
+            "intro": [
+                "Tout enregistrement qui a sa place dans un dossier sinistre ou un dossier client :"
+            ],
+            "items": [
+                {
+                    "h3": "Déclarations enregistrées",
+                    "content": "Déclarations de l'assuré, des tiers réclamants et des témoins, recueillies par téléphone ou en personne, avec leurs propres mots."
+                },
+                {
+                    "h3": "Appels de déclaration de sinistre",
+                    "content": "L'appel où le sinistre a été déclaré : quand il s'est produit, où, et ce que le client a dit en premier."
+                },
+                {
+                    "h3": "Messages vocaux de clients",
+                    "content": "Déclarations, nouvelles informations et réclamations laissées par téléphone. Pour les messages courts, <a href=\"/voicemail-to-text/\">Messagerie vocale en texte</a> est la solution la plus rapide."
+                },
+                {
+                    "h3": "Auditions de témoins et enquêtes anti-fraude",
+                    "content": "Entretiens sur des sinistres contestés ou suspects, prêts à comparer un récit avec un autre ligne par ligne."
+                },
+                {
+                    "h3": "Appels avec médecins, experts et évaluateurs",
+                    "content": "Appels avec des médecins, ingénieurs, artisans et experts au sujet des blessures, des dommages et des coûts de réparation."
+                },
+                {
+                    "h3": "Souscription et appels clients",
+                    "content": "Entretiens avec les candidats à l'assurance et appels d'agents ou de courtiers sur les garanties, les renouvellements et les modifications de contrat."
+                },
+                {
+                    "h3": "Revues de dossiers et formation",
+                    "content": "Réunions d'équipe, revues de dossiers et écoutes d'appels pour la qualité et la formation."
+                }
+            ]
+        },
+        {
+            "h2": "Vérifiez les faits qui décident du sinistre",
+            "intro": [
+                "Dans un sinistre, un seul détail erroné change l'issue. La reconnaissance vocale gère bien le langage courant ; vérifiez les passages qui se ressemblent à l'oreille ou qui changent le sens :"
+            ],
+            "items": [
+                {
+                    "h3": "Dates et heures",
+                    "content": "« Deux » et « douze », « six » et « dix » se confondent facilement au téléphone. Un sinistre du 2 mars n'est pas un sinistre du 12 mars."
+                },
+                {
+                    "h3": "Montants",
+                    "content": "« Cent » et « mille », « quinze cents » et « cinq mille » : 1 500 € ne font pas 5 000 €. Comparez-les aux devis et factures du dossier."
+                },
+                {
+                    "h3": "Numéros de police, de sinistre et immatriculations",
+                    "content": "Les longues suites de lettres et de chiffres sont souvent dites vite. Un seul chiffre inversé renvoie au mauvais dossier."
+                },
+                {
+                    "h3": "Noms, lieux et blessures",
+                    "content": "Les noms de famille, les noms de rue, les termes médicaux et gauche ou droite méritent une seconde écoute."
+                },
+                {
+                    "h3": "Négations",
+                    "content": "« Je n'étais pas au téléphone » et « J'étais au téléphone » ne diffèrent que d'un petit mot prononcé à peine. Confirmez chaque « pas », « jamais » et « aucun »."
+                }
+            ]
+        },
+        {
+            "h2": "Identification des locuteurs : gestionnaires, réclamants et témoins",
+            "content": [
+                "Une déclaration enregistrée compte au moins deux voix, et beaucoup d'appels de sinistre en comptent trois ou plus : le gestionnaire ou l'expert, l'assuré, un tiers réclamant, un témoin, un interprète ou un avocat. Avec le forfait Pro, TranscriptX identifie automatiquement les locuteurs, si bien que les questions du gestionnaire restent séparées des réponses.",
+                "Renommez chaque étiquette en « Gestionnaire », « Réclamant » ou avec le nom de la personne pendant votre relecture. En version gratuite, vous obtenez des paragraphes horodatés sans nom de locuteur, ce qui convient bien à un message vocal ou à un seul intervenant."
+            ]
+        },
+        {
+            "h2": "Transcription juridique pour les dossiers d'assurance",
+            "content": [
+                "Quand un sinistre est contesté, la transcription d'une déclaration antérieure peut peser lourd. Avocats de la défense, juristes et avocats internes utilisent une transcription par IA pour relire les déclarations enregistrées avant une audition sous serment (examination under oath) ou une déposition, retrouver le moment exact où quelque chose a été dit et comparer les témoignages.",
+                "Quand la transcription elle-même servira de preuve, comme pour une audition sous serment, une déposition ou une audience, elle est généralement établie par un sténographe judiciaire (court reporter) ou un service de transcription juridique capable de la certifier. Utilisez TranscriptX pour les brouillons, la préparation et la recherche, et demandez à l'avocat en charge du dossier quel type de transcription est exigé."
+            ]
+        },
+        {
+            "h2": "Transcription par IA ou services de transcription pour l'assurance ?",
+            "intro": [
+                "Chaque option répond à un besoin différent. Choisissez selon l'usage de la transcription :"
+            ],
+            "items": [
+                {
+                    "h3": "Transcription par IA (TranscriptX)",
+                    "content": "De quelques secondes à quelques minutes, avec un essai gratuit. Un brouillon solide sur un audio clair, à vérifier avant de vous y fier. Idéal pour les déclarations enregistrées, les appels de sinistre, les messages vocaux et les revues internes."
+                },
+                {
+                    "h3": "Saisir soi-même",
+                    "content": "Ne coûte que du temps : environ quatre heures par heure d'audio. Réaliste uniquement pour des appels très courts."
+                },
+                {
+                    "h3": "Services et sociétés de transcription pour l'assurance",
+                    "content": "Facturés à la minute d'audio et plus lents, mais relus par une personne. Certains proposent des transcriptions vérifiées ou certifiées pour les contentieux, les actes sous serment ou un audio de très mauvaise qualité."
+                }
+            ]
+        },
+        {
+            "h2": "Qui utilise la transcription pour l'assurance",
+            "intro": [
+                "Toute personne qui travaille à partir de ce qui a été dit lors d'un appel ou d'un entretien :"
+            ],
+            "items": [
+                {
+                    "h3": "Gestionnaires de sinistres et experts",
+                    "content": "Transforment les déclarations enregistrées en texte pour le dossier sinistre et citent le réclamant mot pour mot dans un rapport."
+                },
+                {
+                    "h3": "Cellules anti-fraude (SIU)",
+                    "content": "Comparent les déclarations de l'assuré, des tiers réclamants et des témoins, et repèrent où les récits divergent."
+                },
+                {
+                    "h3": "Agents et courtiers",
+                    "content": "Gardent une trace écrite des appels clients sur les garanties, les sinistres et les modifications de contrat."
+                },
+                {
+                    "h3": "Avocats et juristes en droit des assurances",
+                    "content": "Relisent rapidement les déclarations antérieures avant une audition sous serment, une déposition ou une négociation transactionnelle."
+                },
+                {
+                    "h3": "Souscripteurs et responsables d'équipe",
+                    "content": "Documentent les entretiens avec les candidats et transforment les revues de dossiers et écoutes d'appels en notes."
+                }
+            ]
+        },
+        {
+            "h2": "Confidentialité des enregistrements de sinistre",
+            "content": [
+                "Les enregistrements de sinistre contiennent souvent des données personnelles, financières ou médicales. Vérifiez la politique de votre entreprise sur les outils autorisés à les traiter, et confirmez le consentement à l'enregistrement au début de chaque déclaration, conformément aux règles en vigueur là où vous et votre interlocuteur vous trouvez.",
+                "Les fichiers importés sont supprimés automatiquement, et vos enregistrements et transcriptions ne servent pas à entraîner des modèles d'IA. Vous pouvez supprimer une transcription, ou toutes vos données, à tout moment depuis votre compte. Consultez la <a href=\"/privacy-policy/\">Politique de confidentialité</a> pour en savoir plus."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Qu'est-ce qu'une déclaration enregistrée en assurance ?",
+                    "a": "Un entretien enregistré, généralement par téléphone, au cours duquel le gestionnaire demande à l'assuré, à un tiers réclamant ou à un témoin de décrire ce qui s'est passé. L'enregistrement et sa transcription sont versés au dossier sinistre."
+                },
+                {
+                    "q": "La transcription pour l'assurance est-elle gratuite ?",
+                    "a": "Vous pouvez essayer TranscriptX gratuitement, sans compte. L'identification des locuteurs et la réduction du bruit font partie du forfait Pro."
+                },
+                {
+                    "q": "Quelle est la précision de la transcription par IA pour les appels de sinistre ?",
+                    "a": "Un enregistrement clair donne un brouillon solide. Vérifiez toujours les dates, montants, noms et numéros de police avec l'audio avant une décision sur le sinistre."
+                },
+                {
+                    "q": "Combien de temps faut-il pour retranscrire une déclaration enregistrée ?",
+                    "a": "Quelques minutes d'audio sont prêtes en quelques secondes, et une longue déclaration prend un peu plus de temps. Prévoyez du temps en plus pour vérifier les faits clés."
+                },
+                {
+                    "q": "Puis-je corriger une transcription qui contient des erreurs ?",
+                    "a": "Oui. Utilisez Modifier pour corriger n'importe quel mot, date, montant ou nom, en écoutant l'enregistrement à côté du texte."
+                },
+                {
+                    "q": "Puis-je retranscrire un entretien Zoom ou Teams avec un réclamant ?",
+                    "a": "Oui. Importez le fichier d'enregistrement ensuite. TranscriptX ne rejoint pas les appels lui-même."
+                },
+                {
+                    "q": "Puis-je l'utiliser pour une audition sous serment ou au tribunal ?",
+                    "a": "Utilisez-la pour les brouillons, la préparation et la recherche dans l'enregistrement. Quand une transcription certifiée est exigée, faites appel à un sténographe judiciaire ou à un service de transcription juridique, et suivez les règles de votre entreprise."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Retranscrivez votre prochaine déclaration enregistrée",
+        "content": [
+            "Importez la déclaration enregistrée, l'appel de sinistre ou l'entretien, et obtenez un texte pour le dossier sinistre, avec un horodatage sur chaque paragraphe pour vérifier chaque date, montant et nom avec l'audio.",
+            "Pour les entretiens hors gestion de sinistres, utilisez <a href=\"/interview-transcription/\">Retranscription d'entretien</a> ; pour les messages vocaux, <a href=\"/voicemail-to-text/\">Messagerie vocale en texte</a> ; pour tout autre enregistrement, <a href=\"/audio-to-text/\">Transcription audio</a>. Essai gratuit, sans compte."
+        ]
+    }
+}

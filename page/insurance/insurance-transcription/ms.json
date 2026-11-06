@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transkripsi Insurans: Panggilan Tuntutan | TranscriptX",
+        "description": "Transkripsi insurans dalam talian: tukar kenyataan rakaman, panggilan tuntutan dan temu bual pelaras kepada teks bercap masa. Semak fakta, eksport ke Word.",
+        "schemaName": "Transkripsi Insurans TranscriptX",
+        "schemaDescription": "Transkripsi insurans AI dalam pelayar: muat naik kenyataan rakaman atau panggilan tuntutan, atau rakam temu bual, dapatkan transkrip boleh disunting dengan cap masa dan label penutur (Pro), tambah nota tuntutan di sebelahnya dan eksport ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Insurans: Panggilan Tuntutan ke Teks",
+        "ogDescription": "Tukar kenyataan rakaman dan panggilan tuntutan kepada teks untuk fail tuntutan, dengan cap masa pada setiap perenggan untuk menyemak tarikh, amaun dan nama dengan audio."
+    },
+    "hero": {
+        "h1": "Transkripsi Insurans",
+        "subtitle": "Tukar kenyataan rakaman, panggilan tuntutan dan temu bual pelaras kepada teks untuk fail tuntutan. Muat naik rakaman atau rakam temu bual dalam pelayar, dan TranscriptX menulisnya dengan cap masa pada setiap perenggan, supaya setiap tarikh, amaun dan nama boleh disemak dengan audio. Eksport ke Word, PDF atau TXT. Percuma untuk dicuba, tanpa akaun.",
+        "placeholder": "Muat naik kenyataan rakaman atau tampal pautan...",
+        "button": "Transkrip Rakaman"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip kenyataan rakaman insurans?",
+        "answer": "Muat naik kenyataan rakaman atau panggilan tuntutan ke TranscriptX, atau tekan Rakam semasa anda menjalankan temu bual. Anda mendapat transkrip boleh disunting dengan cap masa dalam beberapa saat. Semak setiap tarikh, amaun, nama dan nombor polisi dengan audio, kemudian salin teks atau muat turun sebagai DOCX, PDF atau TXT untuk fail tuntutan."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Transkripsi Insurans?",
+            "content": [
+                "Transkripsi insurans menukar kandungan insurans yang dituturkan kepada teks bertulis: kenyataan rakaman, panggilan notis awal kerugian, temu bual saksi, mel suara pelanggan, panggilan dengan doktor atau penilai, dan mesyuarat semakan tuntutan. Pelaras, penyiasat, ejen dan peguam membaca, mencari dan memetiknya daripada fail tuntutan atau polisi.",
+                "Menaip satu jam audio secara manual mengambil masa kira-kira empat jam. TranscriptX menukar rakaman kepada teks dalam beberapa saat dan mengekalkan cap masa pada setiap perenggan, jadi masa anda digunakan untuk menyemak fakta yang menentukan tuntutan, bukan untuk menaip."
+            ]
+        },
+        {
+            "h2": "Transkripsi Insurans Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Input",
+                    "value": "Muat naik rakaman panggilan atau temu bual, tampal pautan video, atau rakam temu bual dalam pelayar"
+                },
+                {
+                    "label": "Sumber fail",
+                    "value": "Peranti anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Semak setiap fakta",
+                    "value": "Cap masa pada setiap perenggan, dengan rakaman dimainkan di sebelah teks"
+                },
+                {
+                    "label": "Siapa cakap apa",
+                    "value": "Label penutur untuk pelaras, pihak diinsuranskan, pihak menuntut dan saksi pada pelan Pro"
+                },
+                {
+                    "label": "Nota tuntutan",
+                    "value": "Tab Nota di sebelah transkrip, dengan cap masa dan senarai semak"
+                },
+                {
+                    "label": "Untuk fail tuntutan",
+                    "value": "Muat turun sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk sari kata"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Percuma untuk dicuba, tanpa akaun · Pelan Pro untuk penggunaan berat"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Kenyataan Rakaman",
+            "steps": [
+                {
+                    "h3": "Tambah rakaman",
+                    "content": "Muat naik fail audio atau video daripada peranti anda, Google Drive, Dropbox atau OneDrive, contohnya panggilan yang dieksport daripada sistem telefon anda atau rakaman panggilan video. Mengambil kenyataan secara bersemuka? Tekan Rakam."
+                },
+                {
+                    "h3": "Dapatkan transkrip",
+                    "content": "TranscriptX mengesan bahasa dan menulis rakaman sebagai perenggan bertanda baca, setiap satu dengan cap masa."
+                },
+                {
+                    "h3": "Semak fakta utama dengan audio",
+                    "content": "Mainkan rakaman di sebelah teks, betulkan tarikh, amaun, nama dan nombor polisi dengan Sunting, dan catat soalan yang belum terjawab dalam tab Nota."
+                },
+                {
+                    "h3": "Salin atau eksport",
+                    "content": "Salin transkrip ke dalam nota tuntutan atau e-mel, atau muat turun sebagai DOCX, PDF atau TXT untuk fail tuntutan."
+                }
+            ]
+        },
+        {
+            "h2": "Transkripsi Tuntutan Insurans dalam Talian",
+            "content": [
+                "Tiada apa-apa untuk dipasang. Buka halaman ini dalam pelayar pada komputer atau telefon, tambah rakaman, dan transkrip akan muncul di halaman yang sama.",
+                "Kebanyakan audio tuntutan tiba sebagai fail: kenyataan rakaman daripada perakam panggilan atau platform tuntutan anda, mel suara daripada pelanggan, atau rakaman Zoom, Teams atau Meet bagi sesuatu temu bual. Fail audio dan video kedua-duanya boleh. Gunakan fail asal, bukan rakaman semula, kerana talian yang jelas menghasilkan transkrip yang lebih bersih.",
+                "Anda boleh mencuba transkripsi tuntutan insurans secara percuma, tanpa akaun. Jika anda membuat transkrip kenyataan setiap hari, lihat <a href=\"/pricing/\">pelan Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkrip",
+            "intro": [
+                "Sebarang rakaman yang perlu disimpan dalam fail tuntutan atau polisi:"
+            ],
+            "items": [
+                {
+                    "h3": "Kenyataan rakaman",
+                    "content": "Kenyataan daripada pihak diinsuranskan, pihak menuntut dan saksi, diambil melalui telefon atau secara bersemuka, dalam kata-kata mereka sendiri."
+                },
+                {
+                    "h3": "Panggilan notis awal kerugian",
+                    "content": "Panggilan semasa kerugian dilaporkan: bila ia berlaku, di mana, dan apa yang pertama kali dikatakan oleh pelanggan."
+                },
+                {
+                    "h3": "Mel suara pelanggan",
+                    "content": "Laporan, maklumat terkini dan aduan yang ditinggalkan melalui telefon. Untuk mesej pendek, <a href=\"/voicemail-to-text/\">Mel Suara ke Teks</a> ialah cara paling cepat."
+                },
+                {
+                    "h3": "Temu bual saksi dan SIU",
+                    "content": "Temu bual bagi tuntutan yang dipertikaikan atau mencurigakan, sedia untuk dibandingkan antara satu keterangan dengan yang lain baris demi baris."
+                },
+                {
+                    "h3": "Panggilan dengan doktor, pakar dan penilai",
+                    "content": "Panggilan dengan doktor, jurutera, kontraktor dan penilai tentang kecederaan, kerosakan dan kos pembaikan."
+                },
+                {
+                    "h3": "Panggilan underwriting dan pelanggan",
+                    "content": "Temu bual pemohon serta panggilan ejen atau broker tentang perlindungan, pembaharuan dan perubahan polisi."
+                },
+                {
+                    "h3": "Semakan tuntutan dan latihan",
+                    "content": "Mesyuarat pasukan, semakan fail dan semakan panggilan untuk kualiti dan latihan."
+                }
+            ]
+        },
+        {
+            "h2": "Semak Fakta yang Menentukan Tuntutan",
+            "intro": [
+                "Dalam tuntutan, satu butiran yang salah boleh mengubah keputusan. Pengecaman pertuturan mengendalikan percakapan harian dengan baik; semak bahagian yang berbunyi serupa atau yang mengubah maksud:"
+            ],
+            "items": [
+                {
+                    "h3": "Tarikh dan masa",
+                    "content": "\"Tiga\" dan \"tiga belas\", \"lima\" dan \"sembilan\" mudah tersalah dengar dalam talian telefon. Kerugian pada 3 Mac bukan 13 Mac."
+                },
+                {
+                    "h3": "Amaun",
+                    "content": "\"Lima belas\" dan \"lima puluh\", \"ratus\" dan \"ribu\": RM1,500 bukan RM5,000. Semak dengan anggaran dan invois dalam fail."
+                },
+                {
+                    "h3": "Nombor polisi, nombor tuntutan dan nombor plat",
+                    "content": "Rentetan huruf dan digit yang panjang sering disebut dengan cepat. Satu digit yang tertukar menunjuk kepada rekod yang salah."
+                },
+                {
+                    "h3": "Nama, tempat dan kecederaan",
+                    "content": "Nama keluarga, nama jalan, istilah perubatan serta kiri atau kanan wajar didengar sekali lagi."
+                },
+                {
+                    "h3": "Ayat negatif",
+                    "content": "\"Saya tidak sedang bercakap di telefon\" dan \"Saya sedang bercakap di telefon\" berbeza dengan satu perkataan yang perlahan. Sahkan setiap \"tidak\", \"tak pernah\" dan \"bukan\"."
+                }
+            ]
+        },
+        {
+            "h2": "Label Penutur untuk Pelaras, Pihak Menuntut dan Saksi",
+            "content": [
+                "Kenyataan rakaman mempunyai sekurang-kurangnya dua suara, dan banyak panggilan tuntutan mempunyai tiga atau lebih: pelaras, pihak diinsuranskan, pihak menuntut, saksi, jurubahasa atau peguam. Pada pelan Pro, TranscriptX melabel penutur secara automatik, jadi soalan pelaras kekal berasingan daripada jawapan.",
+                "Namakan semula setiap label kepada \"Pelaras\", \"Pihak Menuntut\" atau nama orang itu semasa semakan. Pada pelan Percuma, anda mendapat perenggan bercap masa tanpa nama penutur, yang sesuai untuk mel suara atau seorang penutur."
+            ]
+        },
+        {
+            "h2": "Transkripsi Undang-undang untuk Kes Insurans",
+            "content": [
+                "Apabila tuntutan dipertikaikan, transkrip kenyataan terdahulu boleh menjadi sangat penting. Peguam pembelaan, paralegal dan peguam dalaman menggunakan transkrip AI untuk menyemak kenyataan rakaman sebelum pemeriksaan di bawah sumpah (examination under oath) atau deposisi, mencari detik tepat sesuatu dikatakan, dan membandingkan keterangan saksi.",
+                "Apabila transkrip itu sendiri akan menjadi bukti, seperti pemeriksaan di bawah sumpah, deposisi atau perbicaraan, ia biasanya diambil oleh jurutrengkas mahkamah atau perkhidmatan transkripsi undang-undang yang boleh mengesahkannya. Gunakan TranscriptX untuk draf, persediaan dan carian, dan tanya peguam yang mengendalikan kes tentang jenis transkrip yang diperlukan."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI atau Perkhidmatan Transkripsi Insurans?",
+            "intro": [
+                "Setiap pilihan sesuai untuk keperluan yang berbeza. Pilih berdasarkan tujuan transkrip:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi AI (TranscriptX)",
+                    "content": "Beberapa saat hingga beberapa minit, percuma untuk dicuba. Draf yang kukuh untuk audio yang jelas, yang anda semak sebelum bergantung padanya. Paling sesuai untuk kenyataan rakaman, panggilan tuntutan, mel suara dan semakan dalaman."
+                },
+                {
+                    "h3": "Menaip sendiri",
+                    "content": "Tiada kos selain masa: kira-kira empat jam bagi setiap jam audio. Praktikal hanya untuk panggilan yang sangat pendek."
+                },
+                {
+                    "h3": "Perkhidmatan dan syarikat transkripsi insurans",
+                    "content": "Dibayar mengikut minit audio dan lebih perlahan, tetapi disemak oleh manusia. Sesetengahnya menawarkan transkrip yang disahkan atau diperakui untuk litigasi, rekod bersumpah atau audio yang sangat lemah."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Menggunakan Transkripsi Insurans",
+            "intro": [
+                "Sesiapa yang bekerja dengan apa yang dikatakan dalam panggilan atau temu bual:"
+            ],
+            "items": [
+                {
+                    "h3": "Pelaras dan pegawai tuntutan",
+                    "content": "Tukar kenyataan rakaman kepada teks untuk fail tuntutan dan petik kata-kata pihak menuntut dengan tepat dalam laporan."
+                },
+                {
+                    "h3": "Unit siasatan khas (SIU)",
+                    "content": "Bandingkan kenyataan daripada pihak diinsuranskan, pihak menuntut dan saksi, dan cari di mana keterangan mereka berbeza."
+                },
+                {
+                    "h3": "Ejen dan broker",
+                    "content": "Simpan rekod bertulis panggilan pelanggan tentang perlindungan, tuntutan dan perubahan polisi."
+                },
+                {
+                    "h3": "Peguam insurans dan paralegal",
+                    "content": "Semak kenyataan terdahulu dengan cepat sebelum pemeriksaan di bawah sumpah, deposisi atau rundingan penyelesaian."
+                },
+                {
+                    "h3": "Penaja jamin dan ketua pasukan",
+                    "content": "Dokumentasikan temu bual pemohon dan tukar semakan tuntutan serta semakan panggilan kepada nota."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi untuk Rakaman Tuntutan",
+            "content": [
+                "Rakaman tuntutan sering mengandungi butiran peribadi, kewangan atau perubatan. Semak dasar syarikat anda tentang alat yang boleh mengendalikannya, dan sahkan persetujuan untuk merakam pada permulaan setiap kenyataan, selaras dengan peraturan di tempat anda dan pihak yang satu lagi berada.",
+                "Fail yang dimuat naik dipadam secara automatik, dan rakaman serta transkrip anda tidak digunakan untuk melatih model AI. Anda boleh memadam satu transkrip, atau semua data anda, pada bila-bila masa daripada akaun anda. Lihat <a href=\"/privacy-policy/\">Dasar Privasi</a> untuk butirannya."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Apakah kenyataan rakaman insurans?",
+                    "a": "Temu bual yang dirakam, biasanya melalui telefon, di mana pelaras meminta pihak diinsuranskan, pihak menuntut atau saksi menerangkan apa yang berlaku. Rakaman dan transkripnya dimasukkan ke dalam fail tuntutan."
+                },
+                {
+                    "q": "Adakah transkripsi insurans percuma?",
+                    "a": "Anda boleh mencuba TranscriptX secara percuma, tanpa akaun. Label penutur dan pengurangan hingar tersedia pada pelan Pro."
+                },
+                {
+                    "q": "Sejauh mana ketepatan transkripsi AI untuk panggilan tuntutan?",
+                    "a": "Rakaman yang jelas menghasilkan draf yang kukuh. Sentiasa semak tarikh, amaun, nama dan nombor polisi dengan audio sebelum membuat keputusan tuntutan."
+                },
+                {
+                    "q": "Berapa lama masa untuk membuat transkrip kenyataan rakaman?",
+                    "a": "Audio beberapa minit siap dalam beberapa saat, dan kenyataan yang panjang mengambil masa sedikit lebih lama. Peruntukkan masa tambahan untuk menyemak fakta utama."
+                },
+                {
+                    "q": "Bolehkah saya membetulkan transkrip yang ada kesilapan?",
+                    "a": "Ya. Gunakan Sunting untuk membetulkan sebarang perkataan, tarikh, amaun atau nama, sambil memainkan rakaman di sebelah teks."
+                },
+                {
+                    "q": "Bolehkah saya membuat transkrip temu bual Zoom atau Teams dengan pihak menuntut?",
+                    "a": "Ya. Muat naik fail rakaman selepas itu. TranscriptX tidak menyertai panggilan dengan sendirinya."
+                },
+                {
+                    "q": "Bolehkah saya menggunakannya untuk pemeriksaan di bawah sumpah atau di mahkamah?",
+                    "a": "Gunakannya untuk draf, persediaan dan mencari dalam rakaman. Apabila transkrip yang diperakui diperlukan, gunakan jurutrengkas mahkamah atau perkhidmatan transkripsi undang-undang dan ikut peraturan syarikat anda."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Kenyataan Rakaman Anda yang Seterusnya",
+        "content": [
+            "Muat naik kenyataan rakaman, panggilan tuntutan atau temu bual, dan dapatkan teks untuk fail tuntutan, dengan cap masa pada setiap perenggan untuk menyemak setiap tarikh, amaun dan nama dengan audio.",
+            "Untuk temu bual di luar kerja tuntutan, gunakan <a href=\"/interview-transcription/\">Transkripsi Temu Bual</a>; untuk mel suara, gunakan <a href=\"/voicemail-to-text/\">Mel Suara ke Teks</a>; untuk rakaman lain, gunakan <a href=\"/audio-to-text/\">Audio ke Teks</a>. Percuma untuk dicuba, tanpa akaun."
+        ]
+    }
+}

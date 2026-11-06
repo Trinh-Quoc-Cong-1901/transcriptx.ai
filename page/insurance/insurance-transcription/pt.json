@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transcrição para Seguros: Sinistros em Texto | TranscriptX",
+        "description": "Transcrição para seguros online: transforme declarações gravadas, ligações de sinistro e entrevistas em texto com marcação de tempo. Exporte para Word.",
+        "schemaName": "TranscriptX — Transcrição para Seguros",
+        "schemaDescription": "Transcrição para seguros com IA no navegador: envie uma declaração gravada ou ligação de sinistro, ou grave uma entrevista, e receba uma transcrição editável com marcações de tempo e identificação de falantes (Pro), faça anotações do sinistro ao lado e exporte em DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Transcrição para Seguros: Ligações de Sinistro em Texto",
+        "ogDescription": "Transforme declarações gravadas e ligações de sinistro em texto para o processo, com marcação de tempo em cada parágrafo para conferir datas, valores e nomes com o áudio."
+    },
+    "hero": {
+        "h1": "Transcrição para Seguros",
+        "subtitle": "Transforme declarações gravadas, ligações de sinistro e entrevistas de regulação em texto para o processo do sinistro. Envie a gravação ou grave a entrevista no navegador, e o TranscriptX escreve tudo com uma marcação de tempo em cada parágrafo, para você conferir cada data, valor e nome com o áudio. Exporte para Word, PDF ou TXT. Grátis para testar, sem precisar de conta.",
+        "placeholder": "Envie uma declaração gravada ou cole um link...",
+        "button": "Transcrever Gravação"
+    },
+    "quickAnswer": {
+        "question": "Como transcrever uma declaração gravada de seguro?",
+        "answer": "Envie a declaração gravada ou a ligação de sinistro para o TranscriptX, ou toque em Gravar durante a entrevista. Em segundos você recebe uma transcrição editável com marcações de tempo. Confira cada data, valor, nome e número de apólice com o áudio e depois copie o texto ou baixe em DOCX, PDF ou TXT para o processo do sinistro."
+    },
+    "sections": [
+        {
+            "h2": "O Que É Transcrição para Seguros?",
+            "content": [
+                "Transcrição para seguros é transformar em texto escrito o que foi dito em atendimentos de seguro: declarações gravadas, ligações de aviso de sinistro, entrevistas com testemunhas, mensagens de voz de clientes, ligações com médicos ou peritos e reuniões de análise de sinistros. Reguladores, investigadores, corretores e advogados leem, pesquisam e citam esse texto a partir do processo do sinistro ou da apólice.",
+                "Digitar uma hora de áudio à mão leva cerca de quatro horas. O TranscriptX transforma a gravação em texto em segundos e mantém uma marcação de tempo em cada parágrafo, para você gastar seu tempo conferindo os fatos que decidem o sinistro, não digitando."
+            ]
+        },
+        {
+            "h2": "Transcrição para Seguros em Resumo",
+            "specs": [
+                {
+                    "label": "Entrada",
+                    "value": "Envie a gravação de uma ligação ou entrevista, cole o link de um vídeo ou grave uma entrevista no navegador"
+                },
+                {
+                    "label": "De onde vêm os arquivos",
+                    "value": "Seu dispositivo, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Confira cada fato",
+                    "value": "Marcação de tempo em cada parágrafo, com a gravação tocando ao lado do texto"
+                },
+                {
+                    "label": "Quem disse o quê",
+                    "value": "Identificação de falantes para o regulador, o segurado, reclamantes e testemunhas no plano Pro"
+                },
+                {
+                    "label": "Anotações do sinistro",
+                    "value": "Aba Notas ao lado da transcrição, com marcações de tempo e listas de verificação"
+                },
+                {
+                    "label": "Para o processo do sinistro",
+                    "value": "Baixe em DOCX, PDF ou TXT, ou em SRT e VTT para legendas"
+                },
+                {
+                    "label": "Idiomas",
+                    "value": "Mais de 100, detectados automaticamente"
+                },
+                {
+                    "label": "Preço",
+                    "value": "Grátis para testar, sem precisar de conta · Plano Pro para uso intenso"
+                }
+            ]
+        },
+        {
+            "h2": "Como Transcrever uma Declaração Gravada",
+            "steps": [
+                {
+                    "h3": "Adicione a gravação",
+                    "content": "Envie o arquivo de áudio ou vídeo do seu dispositivo, Google Drive, Dropbox ou OneDrive, como uma ligação exportada do seu sistema de telefonia ou a gravação de uma videochamada. Vai colher a declaração pessoalmente? Toque em Gravar."
+                },
+                {
+                    "h3": "Receba a transcrição",
+                    "content": "O TranscriptX detecta o idioma e escreve a gravação em parágrafos pontuados, cada um com sua marcação de tempo."
+                },
+                {
+                    "h3": "Confira os fatos-chave com o áudio",
+                    "content": "Ouça a gravação ao lado do texto, corrija datas, valores, nomes e números de apólice com Editar e anote as dúvidas pendentes na aba Notas."
+                },
+                {
+                    "h3": "Copie ou exporte",
+                    "content": "Copie a transcrição para uma nota do sinistro ou um e-mail, ou baixe em DOCX, PDF ou TXT para o processo do sinistro."
+                }
+            ]
+        },
+        {
+            "h2": "Transcrição de Sinistros Online",
+            "content": [
+                "Não há nada para instalar. Abra esta página no navegador do computador ou do celular, adicione a gravação e a transcrição aparece na mesma página.",
+                "A maior parte do áudio de sinistros chega como arquivo: uma declaração gravada do seu gravador de chamadas ou da plataforma de sinistros, uma mensagem de voz de um cliente ou uma gravação de entrevista no Zoom, Teams ou Meet. Arquivos de áudio e de vídeo funcionam. Use o arquivo original em vez de uma regravação, porque uma linha limpa gera uma transcrição mais limpa.",
+                "Você pode testar a transcrição de sinistros grátis, sem conta. Se transcreve declarações todos os dias, veja o <a href=\"/pricing/\">plano Pro</a>."
+            ]
+        },
+        {
+            "h2": "O Que Você Pode Transcrever",
+            "intro": [
+                "Qualquer gravação que faça parte de um processo de sinistro ou de apólice:"
+            ],
+            "items": [
+                {
+                    "h3": "Declarações gravadas",
+                    "content": "Declarações do segurado, de reclamantes e de testemunhas, colhidas por telefone ou pessoalmente, com as palavras da própria pessoa."
+                },
+                {
+                    "h3": "Ligações de aviso de sinistro",
+                    "content": "A ligação em que o sinistro foi comunicado: quando aconteceu, onde e o que o cliente disse primeiro."
+                },
+                {
+                    "h3": "Mensagens de voz de clientes",
+                    "content": "Comunicações, atualizações e reclamações deixadas por telefone. Para mensagens curtas, <a href=\"/voicemail-to-text/\">Mensagem de Voz para Texto</a> é o caminho mais rápido."
+                },
+                {
+                    "h3": "Entrevistas com testemunhas e de investigação de fraudes",
+                    "content": "Entrevistas sobre sinistros contestados ou suspeitos, prontas para comparar um relato com outro linha por linha."
+                },
+                {
+                    "h3": "Ligações com médicos, especialistas e peritos",
+                    "content": "Ligações com médicos, engenheiros, prestadores de serviço e peritos sobre lesões, danos e custos de reparo."
+                },
+                {
+                    "h3": "Ligações de subscrição e com clientes",
+                    "content": "Entrevistas com proponentes e ligações de corretores sobre coberturas, renovações e alterações na apólice."
+                },
+                {
+                    "h3": "Análises de sinistros e treinamento",
+                    "content": "Reuniões de equipe, análises de processos e revisões de ligações para qualidade e treinamento."
+                }
+            ]
+        },
+        {
+            "h2": "Confira os Fatos que Decidem o Sinistro",
+            "intro": [
+                "Num sinistro, um detalhe errado muda o resultado. O reconhecimento de fala lida bem com a fala do dia a dia; confira as partes que soam parecidas ou mudam o sentido:"
+            ],
+            "items": [
+                {
+                    "h3": "Datas e horários",
+                    "content": "“Três” e “treze”, “seis” e “dezesseis” são fáceis de confundir numa ligação. Um sinistro em 3 de março não é 13 de março."
+                },
+                {
+                    "h3": "Valores",
+                    "content": "“Quinze” e “cinquenta”, “cem” e “mil”: R$ 1.500 não é R$ 5.000. Confira com orçamentos e notas fiscais do processo."
+                },
+                {
+                    "h3": "Números de apólice, de sinistro e placas",
+                    "content": "Sequências longas de letras e números costumam ser ditas rápido. Um dígito trocado aponta para o registro errado."
+                },
+                {
+                    "h3": "Nomes, lugares e lesões",
+                    "content": "Sobrenomes, nomes de ruas, termos médicos e esquerdo ou direito merecem uma segunda escuta."
+                },
+                {
+                    "h3": "Negativas",
+                    "content": "“Eu não estava no celular” e “Eu estava no celular” diferem por uma palavra curta. Confirme cada “não”, “nunca” e “nem”."
+                }
+            ]
+        },
+        {
+            "h2": "Identificação de Falantes para Reguladores, Reclamantes e Testemunhas",
+            "content": [
+                "Uma declaração gravada tem pelo menos duas vozes, e muitas ligações de sinistro têm três ou mais: o regulador, o segurado, um reclamante, uma testemunha, um intérprete ou um advogado. No plano Pro, o TranscriptX identifica os falantes automaticamente, então as perguntas do regulador ficam separadas das respostas.",
+                "Renomeie cada identificação para “Regulador”, “Reclamante” ou o nome da pessoa durante a revisão. No plano Free você recebe parágrafos com marcação de tempo, sem nomes de falantes, o que funciona bem para uma mensagem de voz ou um único falante."
+            ]
+        },
+        {
+            "h2": "Transcrição Jurídica para Casos de Seguro",
+            "content": [
+                "Quando um sinistro é contestado, a transcrição de uma declaração anterior pode pesar muito. Advogados da defesa, assistentes jurídicos e advogados internos usam uma transcrição com IA para revisar declarações gravadas antes de um depoimento sob juramento (examination under oath) ou de uma oitiva, encontrar o momento exato em que algo foi dito e comparar relatos de testemunhas.",
+                "Quando a própria transcrição vai servir de prova, como num depoimento sob juramento, numa oitiva ou numa audiência, ela normalmente é feita por um estenotipista judicial ou por um serviço de transcrição jurídica que possa certificá-la. Use o TranscriptX para rascunhos, preparação e busca, e pergunte ao advogado responsável pelo caso qual tipo de transcrição é exigido."
+            ]
+        },
+        {
+            "h2": "Transcrição com IA ou Serviços de Transcrição para Seguros?",
+            "intro": [
+                "Cada opção atende a uma necessidade. Escolha pelo uso que a transcrição terá:"
+            ],
+            "items": [
+                {
+                    "h3": "Transcrição com IA (TranscriptX)",
+                    "content": "De segundos a minutos, grátis para testar. Um rascunho sólido em áudio claro, que você confere antes de confiar nele. Ideal para declarações gravadas, ligações de sinistro, mensagens de voz e análises internas."
+                },
+                {
+                    "h3": "Digitar você mesmo",
+                    "content": "Não custa nada além de tempo: cerca de quatro horas por hora de áudio. Só é prático para ligações bem curtas."
+                },
+                {
+                    "h3": "Serviços e empresas de transcrição para seguros",
+                    "content": "Cobrados por minuto de áudio e mais lentos, mas revisados por uma pessoa. Alguns oferecem transcrições verificadas ou certificadas para litígios, registros sob juramento ou áudio muito ruim."
+                }
+            ]
+        },
+        {
+            "h2": "Quem Usa Transcrição para Seguros",
+            "intro": [
+                "Qualquer pessoa que trabalha com o que foi dito numa ligação ou numa entrevista:"
+            ],
+            "items": [
+                {
+                    "h3": "Reguladores e analistas de sinistros",
+                    "content": "Transforme declarações gravadas em texto para o processo do sinistro e cite o reclamante com exatidão num relatório."
+                },
+                {
+                    "h3": "Unidades de investigação de fraudes (SIU)",
+                    "content": "Compare declarações do segurado, de reclamantes e de testemunhas e encontre onde os relatos divergem."
+                },
+                {
+                    "h3": "Corretores e agentes",
+                    "content": "Mantenha um registro escrito das ligações com clientes sobre coberturas, sinistros e alterações na apólice."
+                },
+                {
+                    "h3": "Advogados e assistentes jurídicos da área de seguros",
+                    "content": "Revise rapidamente declarações anteriores antes de um depoimento sob juramento, de uma oitiva ou de uma negociação de acordo."
+                },
+                {
+                    "h3": "Subscritores e líderes de equipe",
+                    "content": "Documente entrevistas com proponentes e transforme análises de sinistros e revisões de ligações em anotações."
+                }
+            ]
+        },
+        {
+            "h2": "Privacidade para Gravações de Sinistros",
+            "content": [
+                "Gravações de sinistros costumam conter dados pessoais, financeiros ou médicos. Verifique a política da sua empresa sobre quais ferramentas podem tratá-los e confirme o consentimento para gravar no início de cada declaração, de acordo com as regras do lugar onde você e a outra pessoa estão.",
+                "Os arquivos enviados são apagados automaticamente, e suas gravações e transcrições não são usadas para treinar modelos de IA. Você pode apagar uma transcrição ou todos os seus dados a qualquer momento na sua conta. Veja a <a href=\"/privacy-policy/\">Política de Privacidade</a> para mais detalhes."
+            ]
+        },
+        {
+            "h2": "Perguntas Frequentes",
+            "items": [
+                {
+                    "q": "O que é uma declaração gravada de seguro?",
+                    "a": "Uma entrevista gravada, geralmente por telefone, em que o regulador pede ao segurado, a um reclamante ou a uma testemunha que descreva o que aconteceu. A gravação e sua transcrição vão para o processo do sinistro."
+                },
+                {
+                    "q": "A transcrição para seguros é grátis?",
+                    "a": "Você pode testar o TranscriptX grátis, sem conta. Identificação de falantes e redução de ruído estão no plano Pro."
+                },
+                {
+                    "q": "Qual é a precisão da transcrição com IA para ligações de sinistro?",
+                    "a": "Gravações claras saem como um rascunho sólido. Sempre confira datas, valores, nomes e números de apólice com o áudio antes de uma decisão sobre o sinistro."
+                },
+                {
+                    "q": "Quanto tempo leva para transcrever uma declaração gravada?",
+                    "a": "Alguns minutos de áudio ficam prontos em segundos, e uma declaração longa leva um pouco mais. Reserve um tempo extra para conferir os fatos-chave."
+                },
+                {
+                    "q": "Posso corrigir uma transcrição com erros?",
+                    "a": "Sim. Use Editar para corrigir qualquer palavra, data, valor ou nome, ouvindo a gravação ao lado do texto enquanto revisa."
+                },
+                {
+                    "q": "Posso transcrever uma entrevista com um reclamante feita pelo Zoom ou Teams?",
+                    "a": "Sim. Envie o arquivo da gravação depois. O TranscriptX não entra nas chamadas."
+                },
+                {
+                    "q": "Posso usar num depoimento sob juramento ou no tribunal?",
+                    "a": "Use para rascunhos, preparação e busca na gravação. Quando for exigida uma transcrição certificada, recorra a um estenotipista judicial ou a um serviço de transcrição jurídica e siga as regras da sua empresa."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcreva Sua Próxima Declaração Gravada",
+        "content": [
+            "Envie a declaração gravada, a ligação de sinistro ou a entrevista e receba o texto para o processo do sinistro, com uma marcação de tempo em cada parágrafo para conferir cada data, valor e nome com o áudio.",
+            "Para entrevistas fora da área de sinistros, use <a href=\"/interview-transcription/\">Transcrição de Entrevistas</a>; para mensagens de voz, use <a href=\"/voicemail-to-text/\">Mensagem de Voz para Texto</a>; para qualquer outra gravação, use <a href=\"/audio-to-text/\">Áudio para Texto</a>. Grátis para testar, sem precisar de conta."
+        ]
+    }
+}

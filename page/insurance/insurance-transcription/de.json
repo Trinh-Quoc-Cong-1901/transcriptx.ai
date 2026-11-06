@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Transkription für Versicherungen online | TranscriptX",
+        "description": "Transkription für Versicherungen online: Schadenmeldungen, Telefonate und Befragungen zu Text mit Zeitstempeln. Fakten prüfen, nach Word exportieren.",
+        "schemaName": "TranscriptX Transkription für Versicherungen",
+        "schemaDescription": "KI-Transkription für Versicherungen im Browser: aufgezeichnete Aussage oder Schadenanruf hochladen oder Befragung aufnehmen, bearbeitbares Transkript mit Zeitstempeln und Sprecherkennzeichnung (Pro) erhalten, Notizen zum Schadenfall daneben anlegen und als DOCX, PDF, TXT, SRT oder VTT exportieren.",
+        "ogTitle": "Transkription für Versicherungen: Schadenanrufe in Text",
+        "ogDescription": "Mach aus aufgezeichneten Aussagen und Schadenanrufen Text für die Schadenakte – mit Zeitstempel an jedem Absatz, um Daten, Beträge und Namen am Audio zu prüfen."
+    },
+    "hero": {
+        "h1": "Transkription für Versicherungen",
+        "subtitle": "Mach aus aufgezeichneten Aussagen, Schadenanrufen und Befragungen durch Schadenregulierer Text für die Schadenakte. Lade die Aufnahme hoch oder nimm die Befragung direkt im Browser auf, und TranscriptX schreibt sie mit einem Zeitstempel an jedem Absatz aus, sodass du jedes Datum, jeden Betrag und jeden Namen mit dem Audio abgleichen kannst. Export als Word, PDF oder TXT. Kostenlos testen, kein Konto nötig.",
+        "placeholder": "Aufgezeichnete Aussage hochladen oder Link einfügen...",
+        "button": "Aufnahme transkribieren"
+    },
+    "quickAnswer": {
+        "question": "Wie transkribiere ich eine aufgezeichnete Aussage für die Versicherung?",
+        "answer": "Lade die aufgezeichnete Aussage oder den Schadenanruf bei TranscriptX hoch oder tippe während der Befragung auf Aufnehmen. Du erhältst in Sekunden ein bearbeitbares Transkript mit Zeitstempeln. Prüfe jedes Datum, jeden Betrag, jeden Namen und jede Policennummer am Audio, und kopiere dann den Text oder lade ihn als DOCX, PDF oder TXT für die Schadenakte herunter."
+    },
+    "sections": [
+        {
+            "h2": "Was ist Transkription für Versicherungen?",
+            "content": [
+                "Transkription für Versicherungen macht aus gesprochenen Inhalten rund um Versicherungen geschriebenen Text: aufgezeichnete Aussagen, Erstmeldungen von Schäden, Zeugenbefragungen, Sprachnachrichten von Kunden, Telefonate mit Ärzten oder Gutachtern und Besprechungen zur Schadenprüfung. Schadenregulierer, Ermittler, Vermittler und Anwälte lesen, durchsuchen und zitieren ihn aus der Schaden- oder Vertragsakte.",
+                "Eine Stunde Audio von Hand abzutippen dauert etwa vier Stunden. TranscriptX macht aus der Aufnahme in Sekunden Text und setzt an jeden Absatz einen Zeitstempel, sodass du deine Zeit mit der Prüfung der Fakten verbringst, die über den Schaden entscheiden, statt mit Tippen."
+            ]
+        },
+        {
+            "h2": "Transkription für Versicherungen auf einen Blick",
+            "specs": [
+                {
+                    "label": "Eingabe",
+                    "value": "Aufnahme eines Anrufs oder einer Befragung hochladen, Videolink einfügen oder Befragung im Browser aufnehmen"
+                },
+                {
+                    "label": "Woher die Dateien kommen",
+                    "value": "Dein Gerät, Google Drive, Dropbox oder OneDrive"
+                },
+                {
+                    "label": "Jede Tatsache prüfen",
+                    "value": "Zeitstempel an jedem Absatz, die Aufnahme läuft neben dem Text"
+                },
+                {
+                    "label": "Wer hat was gesagt",
+                    "value": "Sprecherkennzeichnung für Schadenregulierer, Versicherungsnehmer, Anspruchsteller und Zeugen im Pro-Plan"
+                },
+                {
+                    "label": "Notizen zum Schadenfall",
+                    "value": "Notizen-Tab neben dem Transkript, mit Zeitstempeln und Checklisten"
+                },
+                {
+                    "label": "Für die Schadenakte",
+                    "value": "Download als DOCX, PDF oder TXT, oder als SRT und VTT für Untertitel"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Preis",
+                    "value": "Kostenlos testen, kein Konto nötig · Pro-Plan für intensive Nutzung"
+                }
+            ]
+        },
+        {
+            "h2": "So transkribierst du eine aufgezeichnete Aussage",
+            "steps": [
+                {
+                    "h3": "Aufnahme hinzufügen",
+                    "content": "Lade die Audio- oder Videodatei von deinem Gerät, Google Drive, Dropbox oder OneDrive hoch, zum Beispiel einen aus der Telefonanlage exportierten Anruf oder die Aufzeichnung eines Videocalls. Nimmst du die Aussage persönlich auf? Tippe auf Aufnehmen."
+                },
+                {
+                    "h3": "Transkript erhalten",
+                    "content": "TranscriptX erkennt die Sprache und schreibt die Aufnahme in Absätzen mit Satzzeichen aus, jeder mit einem Zeitstempel."
+                },
+                {
+                    "h3": "Wichtige Fakten am Audio prüfen",
+                    "content": "Spiele die Aufnahme neben dem Text ab, korrigiere Daten, Beträge, Namen und Policennummern mit Bearbeiten und halte offene Fragen im Notizen-Tab fest."
+                },
+                {
+                    "h3": "Kopieren oder exportieren",
+                    "content": "Kopiere das Transkript in eine Schadennotiz oder E-Mail, oder lade es als DOCX, PDF oder TXT für die Schadenakte herunter."
+                }
+            ]
+        },
+        {
+            "h2": "Schadengespräche online transkribieren",
+            "content": [
+                "Du musst nichts installieren. Öffne diese Seite im Browser auf Computer oder Handy, füge die Aufnahme hinzu, und das Transkript erscheint auf derselben Seite.",
+                "Die meisten Schadenaufnahmen liegen als Datei vor: eine aufgezeichnete Aussage aus deinem Gesprächsrecorder oder Schadensystem, eine Sprachnachricht eines Kunden oder eine Zoom-, Teams- oder Meet-Aufzeichnung einer Befragung. Audio- und Videodateien funktionieren beide. Nutze die Originaldatei statt einer erneuten Aufnahme, denn eine klare Leitung ergibt ein saubereres Transkript.",
+                "Du kannst die Transkription von Schadengesprächen kostenlos und ohne Konto testen. Wenn du täglich Aussagen transkribierst, sieh dir den <a href=\"/pricing/\">Pro-Plan</a> an."
+            ]
+        },
+        {
+            "h2": "Was du transkribieren kannst",
+            "intro": [
+                "Jede Aufnahme, die in eine Schaden- oder Vertragsakte gehört:"
+            ],
+            "items": [
+                {
+                    "h3": "Aufgezeichnete Aussagen",
+                    "content": "Aussagen von Versicherungsnehmern, Anspruchstellern und Zeugen, telefonisch oder persönlich aufgenommen, in ihren eigenen Worten."
+                },
+                {
+                    "h3": "Erstmeldungen von Schäden",
+                    "content": "Der Anruf, in dem der Schaden gemeldet wurde: wann er passiert ist, wo, und was der Kunde zuerst gesagt hat."
+                },
+                {
+                    "h3": "Sprachnachrichten von Kunden",
+                    "content": "Meldungen, Updates und Beschwerden per Telefon. Für kurze Nachrichten ist <a href=\"/voicemail-to-text/\">Mailbox in Text</a> der schnellste Weg."
+                },
+                {
+                    "h3": "Zeugenbefragungen und SIU-Interviews",
+                    "content": "Befragungen bei strittigen oder auffälligen Schäden, bereit, um eine Darstellung Zeile für Zeile mit einer anderen zu vergleichen."
+                },
+                {
+                    "h3": "Gespräche mit Ärzten, Sachverständigen und Gutachtern",
+                    "content": "Telefonate mit Ärzten, Ingenieuren, Handwerkern und Gutachtern über Verletzungen, Schäden und Reparaturkosten."
+                },
+                {
+                    "h3": "Underwriting- und Kundengespräche",
+                    "content": "Gespräche mit Antragstellern sowie Telefonate von Vermittlern oder Maklern zu Deckung, Verlängerungen und Vertragsänderungen."
+                },
+                {
+                    "h3": "Schadenbesprechungen und Schulungen",
+                    "content": "Teammeetings, Aktenprüfungen und Gesprächsauswertungen für Qualitätssicherung und Schulung."
+                }
+            ]
+        },
+        {
+            "h2": "Prüfe die Fakten, die über den Schaden entscheiden",
+            "intro": [
+                "Bei einem Schadenfall ändert ein einziges falsches Detail das Ergebnis. Spracherkennung kommt mit Alltagssprache gut zurecht; prüfe die Stellen, die ähnlich klingen oder die Bedeutung verändern:"
+            ],
+            "items": [
+                {
+                    "h3": "Daten und Uhrzeiten",
+                    "content": "„Dritten“ und „dreizehnten“, „zwei“ und „drei“ verhört man sich am Telefon leicht. Ein Schaden am 3. März ist kein Schaden am 13. März."
+                },
+                {
+                    "h3": "Beträge",
+                    "content": "„Fünfzehn“ und „fünfzig“, „hundert“ und „tausend“: 1.500 € sind nicht 5.000 €. Gleiche sie mit Kostenvoranschlägen und Rechnungen in der Akte ab."
+                },
+                {
+                    "h3": "Policennummern, Schadennummern und Kennzeichen",
+                    "content": "Lange Buchstaben- und Zahlenfolgen werden oft schnell gesprochen. Eine vertauschte Ziffer führt zum falschen Datensatz."
+                },
+                {
+                    "h3": "Namen, Orte und Verletzungen",
+                    "content": "Nachnamen, Straßennamen, medizinische Begriffe und links oder rechts verdienen ein zweites Hinhören."
+                },
+                {
+                    "h3": "Verneinungen",
+                    "content": "„Ich war nicht am Telefon“ und „Ich war am Telefon“ unterscheiden sich um ein leises Wort. Bestätige jedes „nicht“, „nie“ und „kein“."
+                }
+            ]
+        },
+        {
+            "h2": "Sprecherkennzeichnung für Schadenregulierer, Anspruchsteller und Zeugen",
+            "content": [
+                "Eine aufgezeichnete Aussage hat mindestens zwei Stimmen, und viele Schadenanrufe haben drei oder mehr: den Schadenregulierer, den Versicherungsnehmer, einen Anspruchsteller, einen Zeugen, einen Dolmetscher oder einen Anwalt. Im Pro-Plan kennzeichnet TranscriptX die Sprecher automatisch, sodass die Fragen des Schadenregulierers von den Antworten getrennt bleiben.",
+                "Benenne jede Kennzeichnung bei deiner Prüfung in „Schadenregulierer“, „Anspruchsteller“ oder den Namen der Person um. Im kostenlosen Plan erhältst du Absätze mit Zeitstempeln ohne Sprechernamen, was für eine Sprachnachricht oder einen einzelnen Sprecher gut funktioniert."
+            ]
+        },
+        {
+            "h2": "Juristische Transkription für Versicherungsfälle",
+            "content": [
+                "Wenn ein Schaden strittig ist, kann das Transkript einer früheren Aussage viel Gewicht haben. Prozessanwälte, Rechtsanwaltsfachangestellte und Syndikusanwälte nutzen ein KI-Transkript, um aufgezeichnete Aussagen vor einer Befragung unter Eid (Examination under Oath) oder einer Zeugenvernehmung (Deposition) durchzugehen, die genaue Stelle zu finden, an der etwas gesagt wurde, und Zeugenaussagen zu vergleichen.",
+                "Wenn das Transkript selbst Beweismittel wird, etwa bei einer Befragung unter Eid, einer Zeugenvernehmung oder einer Anhörung, wird es meist von einem Gerichtsstenografen (Court Reporter) oder einem juristischen Transkriptionsdienst erstellt, der es beglaubigen kann. Nutze TranscriptX für Entwürfe, Vorbereitung und Suche, und frage den zuständigen Anwalt, welche Art von Transkript erforderlich ist."
+            ]
+        },
+        {
+            "h2": "KI-Transkription oder Transkriptionsdienst für Versicherungen?",
+            "intro": [
+                "Jede Option passt zu einem anderen Bedarf. Entscheide danach, wofür das Transkript gedacht ist:"
+            ],
+            "items": [
+                {
+                    "h3": "KI-Transkription (TranscriptX)",
+                    "content": "Sekunden bis Minuten, kostenlos testbar. Ein solider Entwurf bei klarem Audio, den du prüfst, bevor du dich darauf verlässt. Am besten für aufgezeichnete Aussagen, Schadenanrufe, Sprachnachrichten und interne Prüfungen."
+                },
+                {
+                    "h3": "Selbst abtippen",
+                    "content": "Kostet nichts außer Zeit: etwa vier Stunden pro Stunde Audio. Nur bei sehr kurzen Anrufen praktikabel."
+                },
+                {
+                    "h3": "Transkriptionsdienste und -firmen für Versicherungen",
+                    "content": "Bezahlt pro Audiominute und langsamer, aber von einem Menschen geprüft. Manche bieten geprüfte oder beglaubigte Transkripte für Rechtsstreitigkeiten, eidliche Protokolle oder sehr schlechtes Audio an."
+                }
+            ]
+        },
+        {
+            "h2": "Wer Transkription für Versicherungen nutzt",
+            "intro": [
+                "Alle, die mit dem arbeiten, was in einem Anruf oder einer Befragung gesagt wurde:"
+            ],
+            "items": [
+                {
+                    "h3": "Schadenregulierer und Schadensachbearbeiter",
+                    "content": "Machen aus aufgezeichneten Aussagen Text für die Schadenakte und zitieren den Anspruchsteller im Bericht wörtlich."
+                },
+                {
+                    "h3": "Spezialermittlungseinheiten (SIU)",
+                    "content": "Vergleichen Aussagen von Versicherungsnehmern, Anspruchstellern und Zeugen und finden, wo die Darstellungen abweichen."
+                },
+                {
+                    "h3": "Vermittler und Makler",
+                    "content": "Halten Kundengespräche zu Deckung, Schäden und Vertragsänderungen schriftlich fest."
+                },
+                {
+                    "h3": "Versicherungsanwälte und Rechtsanwaltsfachangestellte",
+                    "content": "Gehen frühere Aussagen schnell durch, vor einer Befragung unter Eid, einer Zeugenvernehmung oder einem Vergleichsgespräch."
+                },
+                {
+                    "h3": "Underwriter und Teamleiter",
+                    "content": "Dokumentieren Gespräche mit Antragstellern und machen aus Schadenbesprechungen und Gesprächsauswertungen Notizen."
+                }
+            ]
+        },
+        {
+            "h2": "Datenschutz bei Schadenaufnahmen",
+            "content": [
+                "Schadenaufnahmen enthalten oft persönliche, finanzielle oder medizinische Angaben. Prüfe die Richtlinie deines Unternehmens, welche Tools sie verarbeiten dürfen, und hole zu Beginn jeder Aussage die Einwilligung zur Aufzeichnung ein, gemäß den Regeln, die für dich und die andere Person gelten.",
+                "Hochgeladene Dateien werden automatisch gelöscht, und deine Aufnahmen und Transkripte werden nicht zum Training von KI-Modellen verwendet. Du kannst jederzeit in deinem Konto ein einzelnes Transkript oder alle deine Daten löschen. Details findest du in der <a href=\"/privacy-policy/\">Datenschutzerklärung</a>."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Was ist eine aufgezeichnete Aussage bei einer Versicherung?",
+                    "a": "Eine aufgezeichnete Befragung, meist per Telefon, in der ein Schadenregulierer den Versicherungsnehmer, einen Anspruchsteller oder einen Zeugen bittet zu schildern, was passiert ist. Die Aufnahme und ihr Transkript kommen in die Schadenakte."
+                },
+                {
+                    "q": "Ist die Transkription für Versicherungen kostenlos?",
+                    "a": "Du kannst TranscriptX kostenlos und ohne Konto testen. Sprecherkennzeichnung und Rauschunterdrückung gibt es im Pro-Plan."
+                },
+                {
+                    "q": "Wie genau ist KI-Transkription bei Schadenanrufen?",
+                    "a": "Klare Aufnahmen kommen als solider Entwurf zurück. Prüfe Daten, Beträge, Namen und Policennummern vor einer Schadenentscheidung immer am Audio."
+                },
+                {
+                    "q": "Wie lange dauert es, eine aufgezeichnete Aussage zu transkribieren?",
+                    "a": "Ein paar Minuten Audio kommen in Sekunden zurück, eine lange Aussage dauert etwas länger. Plane zusätzliche Zeit ein, um die wichtigen Fakten zu prüfen."
+                },
+                {
+                    "q": "Kann ich ein Transkript mit Fehlern korrigieren?",
+                    "a": "Ja. Korrigiere mit Bearbeiten jedes Wort, Datum, jeden Betrag oder Namen und spiele dabei die Aufnahme neben dem Text ab."
+                },
+                {
+                    "q": "Kann ich eine Zoom- oder Teams-Befragung mit einem Anspruchsteller transkribieren?",
+                    "a": "Ja. Lade die Aufnahmedatei danach hoch. TranscriptX nimmt selbst nicht an Anrufen teil."
+                },
+                {
+                    "q": "Kann ich es für eine Befragung unter Eid oder vor Gericht nutzen?",
+                    "a": "Nutze es für Entwürfe, Vorbereitung und die Suche in der Aufnahme. Wenn ein beglaubigtes Transkript erforderlich ist, beauftrage einen Gerichtsstenografen oder juristischen Transkriptionsdienst und halte dich an die Regeln deines Unternehmens."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkribiere deine nächste aufgezeichnete Aussage",
+        "content": [
+            "Lade die aufgezeichnete Aussage, den Schadenanruf oder die Befragung hoch und erhalte Text für die Schadenakte – mit einem Zeitstempel an jedem Absatz, um jedes Datum, jeden Betrag und jeden Namen am Audio zu prüfen.",
+            "Für Interviews außerhalb der Schadenbearbeitung nutze <a href=\"/interview-transcription/\">Interview transkribieren</a>; für Sprachnachrichten nutze <a href=\"/voicemail-to-text/\">Mailbox in Text</a>; für jede andere Aufnahme nutze <a href=\"/audio-to-text/\">Audio in Text</a>. Kostenlos testen, kein Konto nötig."
+        ]
+    }
+}
