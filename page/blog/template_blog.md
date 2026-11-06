@@ -175,3 +175,7 @@ Khi nhận brief, Claude sẽ:
 5. Cài đặt: topic, tag, tác giả, ảnh bìa, schema.
 6. Lưu nháp và gửi link editor để bạn duyệt.
 7. Chỉ xuất bản, hẹn giờ hoặc dịch khi bạn yêu cầu rõ.
+8. Mục lục tự động
+Cột phải, lấy từ H2 và H3. Trên điện thoại nằm đầu bài, hoặc ở chỗ khối Mục lục là tự động bật nhé, 
+và người duyệt cùng tên luôn là  
+9. NGƯỜI DUYỆT LÀ TranscriptX Team luôn. 

@@ -342,12 +342,22 @@ Nguồn: `_source/competitors/doi-thu-tong-hop-trang.xlsx`, sheet **Blog kéo tr
 
 **Đang viết:** `how-to-transcribe-podcast` (KD18-01), commit 2026-11-04.
 
-### Cụm Interview: bài thứ 2 (user lưu 2026-11-04)
-- **Keyword:** how to properly transcribe an interview · **volume: chưa tra**
-- **Slug đề xuất:** `how-to-properly-transcribe-an-interview`
-- **Dẫn traffic về:** `/interview-transcription/`, link chéo với bài `how-to-transcribe-an-interview`
-- **Góc viết (tách khỏi bài 1 để không ăn keyword của nhau):** bài 1 viết cho nghiên cứu định tính (mã hoá, ẩn danh, focus group). Bài 2 viết chung cho mọi người (nhà báo, tuyển dụng, podcast, sinh viên): các quy tắc chép đúng (verbatim hay clean, ghi tên người nói, timestamp, đánh dấu chỗ nghe không rõ, ghi chú [crosstalk] [laughs]), một **mẫu transcript** (header + đoạn mẫu), lỗi hay gặp và checklist soát trước khi trích dẫn.
-- **Từ khoá phụ để tra cùng:** how to transcribe an interview properly, interview transcription format, interview transcript example, interview transcript template, how to format an interview transcript, interview transcription rules, how to write an interview transcript
-- **Trước khi viết:** tra volume cả cụm; nếu "interview transcript example / template" cao hơn thì đặt H1 theo cụm đó.
+### Cụm Interview: bản đồ từ khoá (volume user gửi 2026-11-04)
+
+Nguyên tắc: **mỗi intent chỉ 1 trang**, để các trang không tranh keyword của nhau. Có 4 intent khác nhau:
+
+| Intent (người tìm muốn gì) | Trang nhận | Keyword · volume |
+|---|---|---|
+| **Dùng tool ngay** | `/interview-transcription/` (tool page, đã commit) | interview transcription, interview transcribe, qualitative research transcription… (xem `page/interview/interview-transcription/intent/1_kw.md`) |
+| **Cách làm: chép lời một buổi phỏng vấn thế nào** | Bài 1 `how-to-transcribe-an-interview` (đang viết) | how to properly transcribe an interview · **1K–10K** (KD 0) · how to transcribe an interview · 100–1K (+900%) · how do you transcribe an interview · 100–1K (+900%) · how to transcribe interviews for qualitative research / how to transcribe qualitative interviews / … in qualitative research · 100–1K · how to transcribe an interview for dissertation, how to transcribe interviews for dissertation · 100–1K · how to type up / type a transcript of an interview · 100–1K. Đuôi dài 10–100: quickly, for free, recorded interview, interview recordings, audio interview, research interviews, zoom interview, phone interview, focus group interviews, how long does it take to transcribe an interview |
+| **Bản transcript trông thế nào: mẫu, định dạng, ví dụ** | **Bài 2 (đề xuất)** `interview-transcript-example` | interview transcription format · **1K–10K** · interview transcript example · **1K–10K** · interview transcript template · **1K–10K** · example of a transcript interview, example of interview transcript format, example of transcribing an interview, examples of transcripts from interviews, format for interview transcript, sample of transcript of interview, transcript of an interview example · **1K–10K** · transcribing an interview in apa format · **1K–10K** (KD 0) · how to format an interview transcript · 100–1K · how to write (up) an interview transcript · 100–1K · interview transcript sample · 100–1K (+900%) · interview transcript example qualitative / dissertation · 100–1K · oral history transcription example · 100–1K |
+| **Kiến thức: kiểu chép và ký hiệu** | Bài 3 (để sau) `verbatim-vs-clean-verbatim` | verbatim interview transcript, clean verbatim transcription, clean verbatim, clean verbatim style (+900%), interview verbatim · 100–1K · transcription symbols, transcription notation, symbols for transcription, transcription conventions symbols · 100–1K. Bài 2 chỉ nhắc ngắn và link sang bài 3 |
+
+**Không làm (sai intent / không phải sản phẩm):** transcribe phonetic symbols (10K–100K), IPA transcription (british ipa, english to ipa, ipa keyboard…), phonetic symbols…: đây là phiên âm ngôn ngữ học. music transcription (1K–10K), music transcription free: chép nhạc ra nốt.
+
+**Gợi ý thứ tự:**
+1. Bài 1: thêm *how to properly transcribe an interview* (1K–10K) và *how to transcribe an interview* (+900%) làm từ khoá phụ, gồm 1 H2 hoặc FAQ và câu trong trả lời nhanh. Cân nhắc đổi H1 cho rộng hơn (chờ user quyết).
+2. Bài 2: viết ngay. SERP "interview transcript template/example" hiện toàn trang template rác + vài blog vendor (GoTranscript), nên một bài có **mẫu thật + file template .docx tải về** có cửa lên top.
+3. Bài 3: verbatim vs clean verbatim + ký hiệu chép lời (đã có trong mục 9).
 
 **Tool page (từ sheet "Tool page (đã sửa)"):** chỉ **Subtitle generator** (upload video → SRT/VTT) là thật sự chưa có, 7/8 đối thủ có. MP3/WAV/M4A, MP4, voice memo, WhatsApp, xuất Word: đã có trang phủ, chỉ cần thêm H2/FAQ vào `/audio-to-text/`, `/video-to-text/`, `/voice-to-text/`, `/voicemail-to-text/`.
