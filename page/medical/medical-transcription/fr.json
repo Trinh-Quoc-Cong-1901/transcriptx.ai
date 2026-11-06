@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Logiciel de transcription médicale précis — Médicaments, doses | TranscriptX",
+        "description": "Logiciel de transcription médicale avec un modèle vocal entraîné aux médicaments, doses et termes cliniques. Dictées et audios en texte modifiable.",
+        "schemaName": "TranscriptX — Transcription médicale",
+        "schemaDescription": "Transcription médicale par IA avec un modèle vocal entraîné au vocabulaire médical : importez un enregistrement, collez le lien d'une vidéo, dictez avec Enregistrer ou Parler en direct (Pro), obtenez une transcription modifiable avec horodatages et identification des locuteurs (Pro), prenez des notes à côté et exportez en DOCX, PDF, TXT, SRT ou VTT.",
+        "ogTitle": "Transcription médicale entraînée aux noms de médicaments et aux doses",
+        "ogDescription": "Transformez dictées médicales, cours et entretiens en texte précis grâce à un modèle vocal entraîné au vocabulaire médical, avec un horodatage par paragraphe."
+    },
+    "hero": {
+        "h1": "Logiciel de transcription médicale par IA",
+        "subtitle": "Transformez vos notes dictées, cours de médecine, entretiens de recherche et communications de congrès en texte à modifier et à archiver. Importez l'enregistrement, collez le lien d'une vidéo ou dictez dans votre navigateur : TranscriptX le retranscrit avec un modèle vocal entraîné au vocabulaire médical, pour que les noms de médicaments, les doses et les termes cliniques soient justes. Chaque paragraphe garde son horodatage, ce qui permet de vérifier n'importe quelle ligne avec l'audio. Exportez en Word, PDF ou TXT. Identification des locuteurs et réduction du bruit avec le forfait Pro.",
+        "placeholder": "Importez un enregistrement ou collez un lien...",
+        "button": "Retranscrire l'enregistrement"
+    },
+    "quickAnswer": {
+        "question": "Comment retranscrire un enregistrement médical ?",
+        "answer": "Importez l'enregistrement dans TranscriptX, collez le lien s'il s'agit d'un cours en vidéo, ou appuyez sur Enregistrer et dictez. Vous obtenez en quelques secondes une transcription modifiable et horodatée. Vérifiez les noms de médicaments, les doses et les termes avec l'audio, puis copiez le texte ou téléchargez-le en DOCX, PDF ou TXT pour vos notes ou le dossier."
+    },
+    "sections": [
+        {
+            "h2": "Qu'est-ce qu'un logiciel de transcription médicale ?",
+            "content": [
+                "La transcription médicale transforme un contenu de santé parlé en texte écrit : comptes rendus de consultation dictés, courriers et rapports, entretiens avec des patients et des experts pour la recherche, cours, staffs et communications de congrès. Le texte peut ensuite être modifié, recherché et intégré à un dossier patient ou à un article.",
+                "Retranscrire une heure d'audio à la main prend environ quatre heures. TranscriptX convertit l'enregistrement en texte en quelques secondes avec un modèle vocal entraîné à la terminologie médicale, y compris les noms de médicaments, les doses et le langage clinique, et garde un horodatage sur chaque paragraphe : vous passez votre temps à relire plutôt qu'à taper."
+            ]
+        },
+        {
+            "h2": "La transcription médicale en un coup d'œil",
+            "specs": [
+                {
+                    "label": "Vocabulaire médical",
+                    "value": "Modèle vocal entraîné à la terminologie médicale : noms de médicaments, doses et langage clinique"
+                },
+                {
+                    "label": "Entrée",
+                    "value": "Importez un enregistrement, collez un lien YouTube ou d'une autre vidéo, ou dictez dans le navigateur"
+                },
+                {
+                    "label": "Provenance des fichiers",
+                    "value": "Votre appareil, Google Drive, Dropbox ou OneDrive"
+                },
+                {
+                    "label": "Dictée",
+                    "value": "Enregistrez une note dans le navigateur · Parler en direct affiche les mots pendant que vous parlez (Pro)"
+                },
+                {
+                    "label": "Vérifier chaque terme",
+                    "value": "Horodatage sur chaque paragraphe, avec l'enregistrement qui se lit à côté du texte"
+                },
+                {
+                    "label": "Qui a dit quoi",
+                    "value": "Identification des locuteurs (médecins, patients, enquêteurs) avec le forfait Pro"
+                },
+                {
+                    "label": "Notes pendant la lecture",
+                    "value": "Onglet Notes à côté de la transcription, avec horodatages et listes de contrôle"
+                },
+                {
+                    "label": "Export",
+                    "value": "Téléchargement en DOCX, PDF ou TXT, ou en SRT et VTT pour des sous-titres"
+                },
+                {
+                    "label": "Langues",
+                    "value": "Plus de 100, détectées automatiquement"
+                },
+                {
+                    "label": "Prix",
+                    "value": "Forfait Pro pour un usage clinique quotidien · essai gratuit, sans compte"
+                }
+            ]
+        },
+        {
+            "h2": "Comment retranscrire un enregistrement médical",
+            "steps": [
+                {
+                    "h3": "Ajoutez l'enregistrement",
+                    "content": "Importez le fichier audio ou vidéo depuis votre appareil, Google Drive, Dropbox ou OneDrive : une dictée, un entretien ou l'enregistrement d'un cours. S'il s'agit d'une vidéo en ligne, collez le lien. Pour dicter une note maintenant, appuyez sur Enregistrer."
+                },
+                {
+                    "h3": "Obtenez la transcription",
+                    "content": "TranscriptX détecte la langue et retranscrit l'enregistrement en paragraphes ponctués, chacun avec un horodatage."
+                },
+                {
+                    "h3": "Vérifiez termes et doses avec l'audio",
+                    "content": "Écoutez l'enregistrement à côté du texte, corrigez les noms de médicaments, les doses et les termes avec Modifier, et notez les suites à donner dans l'onglet Notes."
+                },
+                {
+                    "h3": "Copiez ou exportez",
+                    "content": "Copiez le texte dans votre compte rendu, votre courrier ou votre fichier de recherche, ou téléchargez-le en DOCX, PDF ou TXT."
+                }
+            ]
+        },
+        {
+            "h2": "Reconnaissance vocale médicale et dictée dans votre navigateur",
+            "content": [
+                "Rien à installer. Ouvrez cette page sur un ordinateur ou un téléphone, appuyez sur Enregistrer et dictez votre note, puis arrêtez et obtenez le texte sur la même page. Gardez la page ouverte pendant l'enregistrement.",
+                "Avec le forfait Pro, Parler en direct affiche les mots pendant que vous parlez, idéal pour les dictées courtes que vous voulez voir immédiatement. Pour les sessions plus longues, enregistrez d'abord, puis retranscrivez le fichier.",
+                "Vous pouvez essayer la transcription médicale par IA gratuitement, sans compte. Si vous dictez ou retranscrivez tous les jours, découvrez le <a href=\"/pricing/\">forfait Pro</a>."
+            ]
+        },
+        {
+            "h2": "Ce que vous pouvez retranscrire",
+            "intro": [
+                "Tout enregistrement où l'on parle de santé et de médecine :"
+            ],
+            "items": [
+                {
+                    "h3": "Notes et courriers dictés",
+                    "content": "Comptes rendus de consultation, lettres d'adressage, comptes rendus d'hospitalisation et comptes rendus opératoires dictés après le rendez-vous, transformés en texte à modifier et à coller."
+                },
+                {
+                    "h3": "Dictées de radiologie et d'anatomopathologie",
+                    "content": "Transcription en radiologie des comptes rendus dictés, sous forme de premier jet, prêt pour que le radiologue vérifie les mesures, la latéralité et les résultats."
+                },
+                {
+                    "h3": "Entretiens de recherche et focus groups",
+                    "content": "Entretiens qualitatifs avec des patients, des aidants et des soignants, retranscrits pour le codage et les citations."
+                },
+                {
+                    "h3": "Cours, staffs et DPC",
+                    "content": "Cours de faculté de médecine, présentations de cas et sessions de formation dans lesquels vous voulez chercher et réviser."
+                },
+                {
+                    "h3": "Congrès et webinaires",
+                    "content": "Communications et tables rondes, réutilisées en notes, articles ou sous-titres."
+                },
+                {
+                    "h3": "Podcasts et vidéos santé",
+                    "content": "Vidéos d'éducation thérapeutique et podcasts médicaux, transformés en notes d'épisode, articles et sous-titres."
+                }
+            ]
+        },
+        {
+            "h2": "À vérifier avant d'utiliser une transcription médicale",
+            "intro": [
+                "Dans une transcription médicale, un seul mot erroné peut changer la prise en charge. La reconnaissance vocale gère bien le langage courant ; réécoutez ces points :"
+            ],
+            "items": [
+                {
+                    "h3": "Médicaments aux noms proches",
+                    "content": "Des paires comme Celebrex et Celexa, ou hydroxyzine et hydralazine, se confondent facilement à l'oreille. Confirmez chaque nom de médicament."
+                },
+                {
+                    "h3": "Doses, unités et fréquence",
+                    "content": "15 et 50, mg et µg, « deux fois par jour » et « deux fois par semaine » : vérifiez chacun avec l'audio."
+                },
+                {
+                    "h3": "Gauche et droite",
+                    "content": "Le côté et la localisation comptent pour les résultats, les actes et l'imagerie. Assurez-vous que « gauche » et « droite » sont corrects."
+                },
+                {
+                    "h3": "Négations",
+                    "content": "« Pas de douleur thoracique » et « douleur thoracique » ne diffèrent que d'un mot court. Soyez attentif à « pas de », « nie » et « absence de »."
+                },
+                {
+                    "h3": "Abréviations, valeurs et noms",
+                    "content": "Sigles, résultats biologiques, constantes et noms de patients ou de soignants méritent une dernière vérification avant que le texte ne parte où que ce soit."
+                }
+            ]
+        },
+        {
+            "h2": "Identification des locuteurs pour soignants et patients",
+            "content": [
+                "Les entretiens et les consultations réunissent plusieurs voix. Avec le forfait Pro, TranscriptX identifie automatiquement les locuteurs, pour voir qui a posé la question et qui a répondu.",
+                "Renommez chaque étiquette selon le rôle, par exemple Médecin, Patient ou Enquêteur, pendant la relecture. En version gratuite, vous obtenez des paragraphes horodatés sans nom de locuteur, ce qui convient bien à une dictée à une seule voix."
+            ]
+        },
+        {
+            "h2": "Transcription par IA, service de transcription médicale ou scribe médical ?",
+            "intro": [
+                "Chaque option répond à un besoin différent. Choisissez selon l'usage du texte :"
+            ],
+            "items": [
+                {
+                    "h3": "Transcription médicale par IA (TranscriptX)",
+                    "content": "De quelques secondes à quelques minutes, avec un modèle vocal entraîné au vocabulaire médical. Un texte précis sur un audio clair, que vous relisez avant qu'il n'entre dans un dossier. Idéal pour les dictées, les entretiens de recherche, les cours et les communications."
+                },
+                {
+                    "h3": "La taper vous-même",
+                    "content": "Ne coûte rien, sauf du temps : environ quatre heures par heure d'audio. Réaliste seulement pour des notes très courtes."
+                },
+                {
+                    "h3": "Services de transcription médicale",
+                    "content": "Des transcripteurs formés, souvent facturés à la ligne ou à la minute, avec des délais de livraison et des accords encadrant le traitement des données patients."
+                },
+                {
+                    "h3": "Scribes médicaux",
+                    "content": "Une personne, ou un scribe IA ambiant connecté au dossier patient, rédige la note clinique pendant la consultation. La transcription médicale part d'un enregistrement ; le scribe travaille dans la salle."
+                }
+            ]
+        },
+        {
+            "h2": "Qui utilise un logiciel de transcription médicale",
+            "intro": [
+                "Toute personne qui travaille à partir de ce qui a été dit dans un enregistrement :"
+            ],
+            "items": [
+                {
+                    "h3": "Médecins et infirmiers",
+                    "content": "Dictez vos notes et courriers après une consultation et obtenez un texte à modifier, au lieu de taper en fin de journée."
+                },
+                {
+                    "h3": "Chercheurs en santé",
+                    "content": "Retranscrivez entretiens et focus groups, et allez directement au moment exact où une citation a été prononcée."
+                },
+                {
+                    "h3": "Étudiants en médecine",
+                    "content": "Transformez cours et discussions de cas en notes consultables pour réviser."
+                },
+                {
+                    "h3": "Transcripteurs et secrétaires médicaux",
+                    "content": "Partez d'un premier jet IA et consacrez votre temps à corriger et mettre en forme plutôt qu'à taper chaque mot."
+                },
+                {
+                    "h3": "Formateurs et créateurs en santé",
+                    "content": "Transformez communications, podcasts et vidéos pour patients en articles, fiches et sous-titres."
+                }
+            ]
+        },
+        {
+            "h2": "Confidentialité et données des patients",
+            "content": [
+                "Dans de nombreux pays, les enregistrements qui permettent d'identifier un patient sont des données de santé protégées. TranscriptX ne revendique pas la conformité HIPAA. Si votre organisation exige un service conforme HIPAA avec un Business Associate Agreement (BAA) signé, utilisez un service qui le propose, ou supprimez les identifiants du patient avant l'import.",
+                "Recueillez le consentement avant d'enregistrer une consultation et respectez la politique de votre établissement. Les fichiers importés sont supprimés automatiquement, et vos enregistrements et transcriptions ne servent pas à entraîner des modèles d'IA. Vous pouvez supprimer une transcription, ou toutes vos données, à tout moment depuis votre compte. Consultez la <a href=\"/privacy-policy/\">Politique de confidentialité</a> pour en savoir plus."
+            ]
+        },
+        {
+            "h2": "Questions fréquentes",
+            "items": [
+                {
+                    "q": "Existe-t-il une application de transcription médicale gratuite ?",
+                    "a": "Vous pouvez essayer TranscriptX gratuitement dans le navigateur, sur ordinateur ou téléphone, sans compte. L'identification des locuteurs et Parler en direct sont inclus dans le forfait Pro."
+                },
+                {
+                    "q": "L'IA est-elle précise avec la terminologie médicale ?",
+                    "a": "TranscriptX utilise un modèle vocal entraîné à la terminologie médicale : il reconnaît les noms de médicaments, les doses et les termes cliniques que la reconnaissance vocale généraliste écorche souvent. Comme pour toute transcription, vérifiez les doses et les noms rares avec l'audio avant de les reporter dans un dossier patient."
+                },
+                {
+                    "q": "TranscriptX est-il conforme HIPAA ?",
+                    "a": "Non. TranscriptX ne revendique pas la conformité HIPAA. Pour les enregistrements contenant des identifiants de patients, suivez les règles de votre organisation ou supprimez les identifiants avant l'import."
+                },
+                {
+                    "q": "Puis-je dicter mes notes au lieu d'importer un fichier ?",
+                    "a": "Oui. Appuyez sur Enregistrer sur cette page et dictez. Avec Pro, Parler en direct affiche les mots pendant que vous parlez."
+                },
+                {
+                    "q": "Peut-il rédiger une note SOAP à ma place ?",
+                    "a": "Non. TranscriptX vous fournit la transcription. Vous pouvez rédiger votre note SOAP dans l'onglet Notes à côté, avec des horodatages qui renvoient à l'enregistrement."
+                },
+                {
+                    "q": "Se connecte-t-il à mon dossier patient informatisé ?",
+                    "a": "Non. Copiez le texte corrigé dans votre dossier patient, ou téléchargez-le en DOCX, PDF ou TXT."
+                },
+                {
+                    "q": "Peut-il retranscrire des dictées de radiologie ?",
+                    "a": "Oui, sous forme de premier jet. Le radiologue doit vérifier chaque mesure, chaque latéralité et chaque résultat avant de signer le compte rendu."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Retranscrivez votre prochain enregistrement médical",
+        "content": [
+            "Importez une dictée, un entretien ou un cours, ou appuyez sur Enregistrer, et obtenez un texte modifiable, avec un horodatage sur chaque paragraphe pour vérifier chaque terme avec l'audio.",
+            "Pour les entretiens de recherche, voir aussi <a href=\"/interview-transcription/\">Retranscription d'entretien</a> ; pour tout autre enregistrement, utilisez <a href=\"/audio-to-text/\">Audio en texte</a> ou <a href=\"/video-to-text/\">Vidéo en texte</a>. Essai gratuit, sans compte."
+        ]
+    }
+}

@@ -130,8 +130,31 @@ def make_cover(slug, out_dir, *, badge, line1, line2, sub, chips, shot, crop, hi
 INK = (24, 22, 20)
 
 
+def retext_shot(shot, crop, paragraphs, *, line_tops, pitch=38, size=22, x=15, max_w=950, bg=None):
+    """Return the cropped screenshot with its transcript text replaced by on-topic text.
+    Keeps the real UI (timestamps, card, spacing); only the paragraph text is repainted in the app's font.
+    paragraphs: list of strings; line_tops: y (crop px) of the first text line of each paragraph."""
+    s = Image.open(f'{SRC}/{shot}').convert('RGB').crop(crop)
+    bg = bg or s.getpixel((5, 5))
+    d = ImageDraw.Draw(s)
+    f = ImageFont.truetype('/System/Library/Fonts/SFNS.ttf', size)
+    for text, top in zip(paragraphs, line_tops):
+        lines, cur = [], ''
+        for w in text.split():
+            nxt = (cur + ' ' + w).strip()
+            if d.textlength(nxt, font=f) > max_w and cur:
+                lines.append(cur); cur = w
+            else:
+                cur = nxt
+        lines.append(cur)
+        d.rectangle((0, top - 6, s.width, top + pitch * 3 - 8), fill=bg)   # wipe the original 3 lines
+        for i, ln in enumerate(lines[:3]):
+            d.text((x, top + i * pitch - 3), ln, font=f, fill=(38, 38, 36))
+    return s
+
+
 def make_hook_cover(slug, out_dir, *, big, strike=False, small, kicker=None, shot, crop, scale=1.25,
-                    highlight=None, check_dir=None, card_x=1380):
+                    highlight=None, check_dir=None, card_x=1380, png_only=False, shot_img=None):
     """big: the giant line (e.g. '4 HOURS'); strike: orange strikethrough on it;
     small: second line under it (e.g. 'of typing?'); kicker: tiny line above (context);
     shot/crop: one real TranscriptX screenshot crop, shown at `scale` (<=1.3 of retina);
@@ -142,7 +165,7 @@ def make_hook_cover(slug, out_dir, *, big, strike=False, small, kicker=None, sho
     img.alpha_composite(glow.filter(ImageFilter.GaussianBlur(220)))
 
     # focal visual: screenshot card bleeding off the right edge
-    s = Image.open(f'{SRC}/{shot}').convert('RGB').crop(crop)
+    s = shot_img if shot_img is not None else Image.open(f'{SRC}/{shot}').convert('RGB').crop(crop)
     s = s.resize((round(s.width * scale), round(s.height * scale)), Image.LANCZOS).convert('RGBA')
     m = Image.new('L', s.size, 0)
     ImageDraw.Draw(m).rounded_rectangle((0, 0, s.width + 60, s.height - 1), 36, fill=255)
@@ -195,6 +218,13 @@ def make_hook_cover(slug, out_dir, *, big, strike=False, small, kicker=None, sho
 
     os.makedirs(out_dir, exist_ok=True)
     rgb = img.convert('RGB')
+    if png_only:   # one share image only (user request 2026-11-06): lossless PNG at 2400x1260
+        share = f'{out_dir}/{slug}-share.png'
+        rgb.save(share, 'PNG', optimize=True)
+        if check_dir:
+            rgb.crop((wx, wy, min(W, wx + 1000), wy + min(600, s.height))).save(f'{check_dir}/{slug}_cover_100pct.png')
+            rgb.resize((480, 252), Image.LANCZOS).save(f'{check_dir}/{slug}_cover_small.png')
+        return (share,)
     cover = f'{out_dir}/{slug}-cover.webp'
     rgb.save(cover, 'WEBP', quality=95, method=6)
     og = f'{out_dir}/{slug}-og-1200x630.jpg'

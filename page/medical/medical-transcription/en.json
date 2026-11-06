@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Accurate Medical Transcription Software — Drugs & Doses | TranscriptX",
+        "description": "Medical transcription software with a speech model trained on drug names, doses and clinical terms. Dictations and recordings to editable text in seconds.",
+        "schemaName": "TranscriptX Medical Transcription",
+        "schemaDescription": "AI medical transcription with a speech model trained on medical vocabulary: upload a recording, paste a video link, dictate with Record or Speak live (Pro), get an editable transcript with timestamps and speaker labels (Pro), add notes beside it and export to DOCX, PDF, TXT, SRT or VTT.",
+        "ogTitle": "Medical Transcription Trained on Drug Names and Doses",
+        "ogDescription": "Turn medical dictations, lectures and interviews into accurate text with a speech model trained on medical vocabulary, plus a timestamp on every paragraph."
+    },
+    "hero": {
+        "h1": "AI Medical Transcription Software",
+        "subtitle": "Turn dictated notes, medical lectures, research interviews and conference talks into text you can edit and file. Upload the recording, paste a video link or dictate in your browser, and TranscriptX writes it out with a speech model trained on medical vocabulary, so drug names, doses and clinical terms come out right. Every paragraph keeps its timestamp, so any line can be checked against the audio. Export to Word, PDF or TXT. Speaker labels and noise reduction on the Pro plan.",
+        "placeholder": "Upload a recording or paste a link...",
+        "button": "Transcribe Recording"
+    },
+    "quickAnswer": {
+        "question": "How do I transcribe a medical recording?",
+        "answer": "Upload the recording to TranscriptX, paste the link if it's a video lecture, or press Record and dictate. You get an editable transcript with timestamps in seconds. Check drug names, doses and terms against the audio, then copy the text or download it as DOCX, PDF or TXT for your notes or records."
+    },
+    "sections": [
+        {
+            "h2": "What Is Medical Transcription?",
+            "content": [
+                "Medical transcription turns spoken healthcare content into written text: dictated visit notes, letters and reports, patient and expert interviews for research, lectures, grand rounds and conference talks. The text can then be edited, searched and added to a record or a paper.",
+                "Typing up one hour of audio by hand takes about four hours. TranscriptX turns the recording into text in seconds with a speech model trained on medical terminology, including drug names, doses and clinical language, and keeps a timestamp on each paragraph, so you spend your time reviewing instead of typing."
+            ]
+        },
+        {
+            "h2": "Medical Transcription at a Glance",
+            "specs": [
+                {
+                    "label": "Medical vocabulary",
+                    "value": "Speech model trained on medical terminology: drug names, doses and clinical language"
+                },
+                {
+                    "label": "Input",
+                    "value": "Upload a recording, paste a YouTube or other video link, or dictate in the browser"
+                },
+                {
+                    "label": "Where files come from",
+                    "value": "Your device, Google Drive, Dropbox or OneDrive"
+                },
+                {
+                    "label": "Dictation",
+                    "value": "Record a note in the browser · Speak live shows the words as you talk (Pro)"
+                },
+                {
+                    "label": "Check every term",
+                    "value": "Timestamp on each paragraph, with the recording playing beside the text"
+                },
+                {
+                    "label": "Who said what",
+                    "value": "Speaker labels for clinicians, patients and interviewers on the Pro plan"
+                },
+                {
+                    "label": "Notes while you read",
+                    "value": "Notes tab next to the transcript, with timestamps and checklists"
+                },
+                {
+                    "label": "Export",
+                    "value": "Download as DOCX, PDF or TXT, or SRT and VTT for subtitles"
+                },
+                {
+                    "label": "Languages",
+                    "value": "100+, detected automatically"
+                },
+                {
+                    "label": "Price",
+                    "value": "Pro plan for daily clinical use · free to try, no account needed"
+                }
+            ]
+        },
+        {
+            "h2": "How to Transcribe a Medical Recording",
+            "steps": [
+                {
+                    "h3": "Add the recording",
+                    "content": "Upload the audio or video file from your device, Google Drive, Dropbox or OneDrive, such as a dictation, an interview or a lecture recording. If it's a video online, paste the link. To dictate a note now, press Record."
+                },
+                {
+                    "h3": "Get the transcript",
+                    "content": "TranscriptX detects the language and writes out the recording as punctuated paragraphs, each with a timestamp."
+                },
+                {
+                    "h3": "Check terms and doses against the audio",
+                    "content": "Play the recording beside the text, correct drug names, doses and terms with Edit, and keep follow-ups in the Notes tab."
+                },
+                {
+                    "h3": "Copy or export",
+                    "content": "Copy the text into your note, letter or research file, or download it as DOCX, PDF or TXT."
+                }
+            ]
+        },
+        {
+            "h2": "Medical Speech to Text and Dictation in Your Browser",
+            "content": [
+                "There is nothing to install. Open this page on a computer or phone, press Record and dictate your note, then stop and get the text on the same page. Keep the page open while you record.",
+                "On the Pro plan, Speak live shows the words as you talk, which suits short dictations you want to see straight away. For longer sessions, record first and transcribe the file afterwards.",
+                "You can try AI medical transcription free, without an account. If you dictate or transcribe every day, see the <a href=\"/pricing/\">Pro plan</a>."
+            ]
+        },
+        {
+            "h2": "What You Can Transcribe",
+            "intro": [
+                "Any recording where health and medicine are discussed:"
+            ],
+            "items": [
+                {
+                    "h3": "Dictated notes and letters",
+                    "content": "Visit notes, referral letters, discharge summaries and operative notes dictated after the appointment, turned into text you can edit and paste."
+                },
+                {
+                    "h3": "Radiology and pathology dictations",
+                    "content": "Radiology transcription of report dictations as a first draft, ready for the radiologist to check measurements, sides and findings."
+                },
+                {
+                    "h3": "Research interviews and focus groups",
+                    "content": "Qualitative interviews with patients, carers and clinicians, transcribed for coding and quoting."
+                },
+                {
+                    "h3": "Lectures, grand rounds and CME",
+                    "content": "Medical school lectures, case presentations and training sessions you want to search and revise from."
+                },
+                {
+                    "h3": "Conferences and webinars",
+                    "content": "Talks and panel discussions, reused as notes, articles or subtitles."
+                },
+                {
+                    "h3": "Health podcasts and videos",
+                    "content": "Patient education videos and medical podcasts, turned into show notes, articles and captions."
+                }
+            ]
+        },
+        {
+            "h2": "Check These Before You Use a Medical Transcript",
+            "intro": [
+                "In a medical transcript, one wrong word can change care. Speech recognition handles everyday language well; give these a second listen:"
+            ],
+            "items": [
+                {
+                    "h3": "Drug names that sound alike",
+                    "content": "Pairs like Celebrex and Celexa, or hydroxyzine and hydralazine, are easy to mishear. Confirm every medication name."
+                },
+                {
+                    "h3": "Doses, units and frequency",
+                    "content": "15 and 50, mg and mcg, \"twice daily\" and \"twice weekly\": check each against the audio."
+                },
+                {
+                    "h3": "Left and right",
+                    "content": "Side and site matter for findings, procedures and imaging. Make sure \"left\" and \"right\" are correct."
+                },
+                {
+                    "h3": "Negatives",
+                    "content": "\"No chest pain\" and \"chest pain\" differ by one short word. Listen for \"no\", \"denies\" and \"not\"."
+                },
+                {
+                    "h3": "Abbreviations, values and names",
+                    "content": "Acronyms, lab values, vital signs and patient or clinician names deserve a final check before the text goes anywhere."
+                }
+            ]
+        },
+        {
+            "h2": "Speaker Labels for Clinicians and Patients",
+            "content": [
+                "Interviews and consultations have several voices. On the Pro plan, TranscriptX labels speakers automatically, so you can see who asked and who answered.",
+                "Rename each label to a role, such as Clinician, Patient or Interviewer, during your review. On the Free plan, you get timestamped paragraphs without speaker names, which works well for a single dictation."
+            ]
+        },
+        {
+            "h2": "AI Transcription, Medical Transcription Services or a Medical Scribe?",
+            "intro": [
+                "Each option fits a different need. Pick by what the text is for:"
+            ],
+            "items": [
+                {
+                    "h3": "AI medical transcription (TranscriptX)",
+                    "content": "Seconds to minutes, with a speech model trained on medical vocabulary. Accurate text on clear audio that you review before it goes into a record. Best for dictations, research interviews, lectures and talks."
+                },
+                {
+                    "h3": "Typing it yourself",
+                    "content": "Costs nothing but time: about four hours per hour of audio. Practical only for very short notes."
+                },
+                {
+                    "h3": "Medical transcription services",
+                    "content": "Trained transcriptionists, often billed per line or per minute, with turnaround times and agreements for handling patient data."
+                },
+                {
+                    "h3": "Medical scribes",
+                    "content": "A person, or an ambient AI scribe connected to the health record, writes the clinical note during the visit. Medical transcription works from a recording; a scribe works in the room."
+                }
+            ]
+        },
+        {
+            "h2": "Who Uses Medical Transcription Software",
+            "intro": [
+                "Anyone who works with what was said in a recording:"
+            ],
+            "items": [
+                {
+                    "h3": "Doctors and nurses",
+                    "content": "Dictate notes and letters after a visit and get text to edit, instead of typing at the end of the day."
+                },
+                {
+                    "h3": "Medical researchers",
+                    "content": "Transcribe interviews and focus groups, and jump to the exact moment a quote was said."
+                },
+                {
+                    "h3": "Medical students",
+                    "content": "Turn lectures and case discussions into searchable notes for revision."
+                },
+                {
+                    "h3": "Medical transcriptionists and editors",
+                    "content": "Start from an AI draft and spend your time correcting and formatting instead of typing every word."
+                },
+                {
+                    "h3": "Health educators and creators",
+                    "content": "Turn talks, podcasts and patient videos into articles, handouts and subtitles."
+                }
+            ]
+        },
+        {
+            "h2": "Privacy and Patient Information",
+            "content": [
+                "Recordings that identify patients are protected health information in many countries. TranscriptX does not claim HIPAA compliance. If your organization requires a HIPAA-compliant service with a signed Business Associate Agreement, use one that provides it, or remove patient identifiers before you upload.",
+                "Get consent before recording a consultation, and follow your organization's policy. Uploaded files are deleted automatically, and your recordings and transcripts are not used to train AI models. You can delete a single transcript, or all your data, at any time from your account. See the <a href=\"/privacy-policy/\">Privacy Policy</a> for details."
+            ]
+        },
+        {
+            "h2": "Frequently Asked Questions",
+            "items": [
+                {
+                    "q": "Is there a free medical transcription app?",
+                    "a": "You can try TranscriptX free in the browser on a computer or phone, without an account. Speaker labels and Speak live are on the Pro plan."
+                },
+                {
+                    "q": "How accurate is AI with medical terminology?",
+                    "a": "TranscriptX uses a speech model trained on medical terminology, so it recognizes drug names, doses and clinical terms that general speech-to-text often gets wrong. As with any transcript, check doses and rare names against the audio before they go into a patient record."
+                },
+                {
+                    "q": "Is TranscriptX HIPAA compliant?",
+                    "a": "No. TranscriptX does not claim HIPAA compliance. For recordings with patient identifiers, follow your organization's rules or remove identifiers before uploading."
+                },
+                {
+                    "q": "Can I dictate notes instead of uploading a file?",
+                    "a": "Yes. Press Record on this page and dictate. On Pro, Speak live shows the words as you talk."
+                },
+                {
+                    "q": "Can it write a SOAP note for me?",
+                    "a": "No. TranscriptX gives you the transcript. You can write your SOAP note in the Notes tab beside it, with timestamps linking back to the recording."
+                },
+                {
+                    "q": "Does it connect to my EHR?",
+                    "a": "No. Copy the edited text into your health record, or download it as DOCX, PDF or TXT."
+                },
+                {
+                    "q": "Can it transcribe radiology dictations?",
+                    "a": "Yes, as a first draft. The radiologist should check every measurement, side and finding before the report is signed."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transcribe Your Next Medical Recording",
+        "content": [
+            "Upload a dictation, interview or lecture, or press Record, and get text you can edit, with a timestamp on every paragraph to check each term against the audio.",
+            "For research interviews, also see <a href=\"/interview-transcription/\">Interview Transcription</a>; for any other recording, use <a href=\"/audio-to-text/\">Audio to Text</a> or <a href=\"/video-to-text/\">Video to Text</a>. Free to try, no account needed."
+        ]
+    }
+}

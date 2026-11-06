@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Doğru Tıbbi Transkripsiyon Programı — İlaç ve Dozlar | TranscriptX",
+        "description": "İlaç adları, dozlar ve klinik terimlerle eğitilmiş konuşma modeline sahip tıbbi transkripsiyon programı. Dikteler saniyeler içinde düzenlenebilir metin.",
+        "schemaName": "TranscriptX Tıbbi Transkripsiyon",
+        "schemaDescription": "Tıbbi terminolojiyle eğitilmiş konuşma modeliyle yapay zeka destekli tıbbi transkripsiyon: bir kaydı yükleyin, video bağlantısı yapıştırın, Kaydet ya da Canlı Konuş (Pro) ile dikte edin; zaman damgalı ve konuşmacı etiketli (Pro) düzenlenebilir bir transkript alın, yanına not ekleyin ve DOCX, PDF, TXT, SRT ya da VTT olarak dışa aktarın.",
+        "ogTitle": "İlaç Adları ve Dozlarla Eğitilmiş Tıbbi Transkripsiyon",
+        "ogDescription": "Tıbbi dikteleri, dersleri ve görüşmeleri tıp terminolojisiyle eğitilmiş bir konuşma modeliyle doğru metne dönüştürün; her paragrafta zaman damgası bulunur."
+    },
+    "hero": {
+        "h1": "Yapay Zeka Destekli Tıbbi Transkripsiyon Programı",
+        "subtitle": "Dikte edilmiş notları, tıp derslerini, araştırma görüşmelerini ve kongre konuşmalarını düzenleyip dosyalayabileceğiniz metne dönüştürün. Kaydı yükleyin, bir video bağlantısı yapıştırın ya da tarayıcınızda dikte edin; TranscriptX, tıbbi terminolojiyle eğitilmiş bir konuşma modeliyle yazıya döker, böylece ilaç adları, dozlar ve klinik terimler doğru çıkar. Her paragraf zaman damgasını korur, böylece her satırı ses kaydıyla karşılaştırabilirsiniz. Word, PDF veya TXT olarak dışa aktarın. Konuşmacı etiketleri ve gürültü azaltma Pro planda.",
+        "placeholder": "Bir kayıt yükleyin ya da bağlantı yapıştırın...",
+        "button": "Kaydı Yazıya Dök"
+    },
+    "quickAnswer": {
+        "question": "Tıbbi bir ses kaydı nasıl yazıya dökülür?",
+        "answer": "Kaydı TranscriptX'e yükleyin, video bir dersse bağlantısını yapıştırın ya da Kaydet'e basıp dikte edin. Saniyeler içinde zaman damgalı, düzenlenebilir bir transkript alırsınız. İlaç adlarını, dozları ve terimleri ses kaydıyla karşılaştırın, ardından metni kopyalayın ya da notlarınız veya kayıtlarınız için DOCX, PDF ya da TXT olarak indirin."
+    },
+    "sections": [
+        {
+            "h2": "Tıbbi Transkripsiyon Nedir? Tıbbi Transkripsiyon Programı Ne İşe Yarar?",
+            "content": [
+                "Tıbbi transkripsiyon, sağlıkla ilgili sözlü içeriği yazılı metne dönüştürür: dikte edilen muayene notları, mektuplar ve raporlar, araştırma için hasta ve uzman görüşmeleri, dersler, vaka toplantıları ve kongre konuşmaları. Metin daha sonra düzenlenebilir, içinde arama yapılabilir ve bir kayda ya da makaleye eklenebilir.",
+                "Bir saatlik ses kaydını elle yazmak yaklaşık dört saat sürer. TranscriptX, ilaç adları, dozlar ve klinik dil dahil tıbbi terminolojiyle eğitilmiş bir konuşma modeliyle kaydı saniyeler içinde metne dönüştürür ve her paragrafta zaman damgasını korur; böylece zamanınızı yazmaya değil kontrol etmeye ayırırsınız."
+            ]
+        },
+        {
+            "h2": "Bir Bakışta Tıbbi Transkripsiyon",
+            "specs": [
+                {
+                    "label": "Tıbbi terminoloji",
+                    "value": "Tıbbi terminolojiyle eğitilmiş konuşma modeli: ilaç adları, dozlar ve klinik dil"
+                },
+                {
+                    "label": "Giriş",
+                    "value": "Bir kayıt yükleyin, YouTube ya da başka bir video bağlantısı yapıştırın veya tarayıcıda dikte edin"
+                },
+                {
+                    "label": "Dosya kaynakları",
+                    "value": "Cihazınız, Google Drive, Dropbox veya OneDrive"
+                },
+                {
+                    "label": "Dikte",
+                    "value": "Tarayıcıda not kaydedin · Canlı Konuş, siz konuşurken kelimeleri gösterir (Pro)"
+                },
+                {
+                    "label": "Her terimi kontrol edin",
+                    "value": "Her paragrafta zaman damgası, kayıt metnin yanında oynatılır"
+                },
+                {
+                    "label": "Kim ne dedi",
+                    "value": "Pro planda hekim, hasta ve görüşmeci için konuşmacı etiketleri"
+                },
+                {
+                    "label": "Okurken notlar",
+                    "value": "Transkriptin yanında, zaman damgalı ve kontrol listeli Notlar sekmesi"
+                },
+                {
+                    "label": "Dışa aktarma",
+                    "value": "DOCX, PDF veya TXT ya da altyazı için SRT ve VTT olarak indirin"
+                },
+                {
+                    "label": "Diller",
+                    "value": "100+, otomatik algılanır"
+                },
+                {
+                    "label": "Fiyat",
+                    "value": "Günlük klinik kullanım için Pro plan · ücretsiz deneyin, hesap gerekmez"
+                }
+            ]
+        },
+        {
+            "h2": "Tıbbi Bir Kayıt Nasıl Yazıya Dökülür",
+            "steps": [
+                {
+                    "h3": "Kaydı ekleyin",
+                    "content": "Dikte, görüşme ya da ders kaydı gibi ses veya video dosyasını cihazınızdan, Google Drive, Dropbox veya OneDrive'dan yükleyin. Video internetteyse bağlantısını yapıştırın. Hemen bir not dikte etmek için Kaydet'e basın."
+                },
+                {
+                    "h3": "Transkripti alın",
+                    "content": "TranscriptX dili algılar ve kaydı, her biri zaman damgalı, noktalaması yapılmış paragraflar halinde yazıya döker."
+                },
+                {
+                    "h3": "Terimleri ve dozları ses kaydıyla karşılaştırın",
+                    "content": "Kaydı metnin yanında oynatın, ilaç adlarını, dozları ve terimleri Düzenle ile düzeltin, takip edilecekleri Notlar sekmesinde tutun."
+                },
+                {
+                    "h3": "Kopyalayın ya da dışa aktarın",
+                    "content": "Metni notunuza, mektubunuza ya da araştırma dosyanıza kopyalayın veya DOCX, PDF ya da TXT olarak indirin."
+                }
+            ]
+        },
+        {
+            "h2": "Tarayıcınızda Tıbbi Sesi Yazıya Çevirme ve Dikte",
+            "content": [
+                "Hiçbir şey kurmanız gerekmez. Bu sayfayı bilgisayarda ya da telefonda açın, Kaydet'e basıp notunuzu dikte edin, ardından durdurun ve metni aynı sayfada alın. Kayıt sırasında sayfayı açık tutun.",
+                "Pro planda Canlı Konuş, siz konuşurken kelimeleri ekranda gösterir; hemen görmek istediğiniz kısa dikteler için idealdir. Daha uzun oturumlarda önce kaydedin, ardından dosyayı yazıya dökün.",
+                "Yapay zeka destekli tıbbi transkripsiyonu hesap açmadan ücretsiz deneyebilirsiniz. Her gün dikte ya da transkripsiyon yapıyorsanız <a href=\"/pricing/\">Pro plana</a> göz atın."
+            ]
+        },
+        {
+            "h2": "Neleri Yazıya Dökebilirsiniz",
+            "intro": [
+                "Sağlık ve tıbbın konuşulduğu her türlü kayıt:"
+            ],
+            "items": [
+                {
+                    "h3": "Dikte edilen notlar ve mektuplar",
+                    "content": "Muayeneden sonra dikte edilen vizit notları, sevk yazıları, epikrizler ve ameliyat notları; düzenleyip yapıştırabileceğiniz metne dönüşür."
+                },
+                {
+                    "h3": "Radyoloji ve patoloji dikteleri",
+                    "content": "Rapor diktelerinin radyoloji transkripsiyonu ilk taslak olarak hazırlanır; ölçümleri, tarafları ve bulguları radyolog kontrol eder."
+                },
+                {
+                    "h3": "Araştırma görüşmeleri ve odak grupları",
+                    "content": "Hastalar, hasta yakınları ve klinisyenlerle yapılan nitel görüşmeler; kodlama ve alıntı için yazıya dökülür."
+                },
+                {
+                    "h3": "Dersler, vaka toplantıları ve sürekli tıp eğitimi",
+                    "content": "İçinde arama yapmak ve tekrar etmek istediğiniz tıp fakültesi dersleri, vaka sunumları ve eğitim oturumları."
+                },
+                {
+                    "h3": "Kongreler ve webinarlar",
+                    "content": "Konuşmalar ve panel tartışmaları; not, makale ya da altyazı olarak yeniden kullanılır."
+                },
+                {
+                    "h3": "Sağlık podcast'leri ve videoları",
+                    "content": "Hasta eğitim videoları ve tıp podcast'leri; bölüm notlarına, makalelere ve altyazılara dönüşür."
+                }
+            ]
+        },
+        {
+            "h2": "Tıbbi Bir Transkripti Kullanmadan Önce Bunları Kontrol Edin",
+            "intro": [
+                "Tıbbi bir transkriptte tek bir yanlış kelime tedaviyi değiştirebilir. Konuşma tanıma gündelik dili iyi işler; şunları bir kez daha dinleyin:"
+            ],
+            "items": [
+                {
+                    "h3": "Birbirine benzeyen ilaç adları",
+                    "content": "Celebrex ve Celexa ya da hidroksizin (hydroxyzine) ve hidralazin (hydralazine) gibi çiftler kolayca yanlış duyulur. Her ilaç adını doğrulayın."
+                },
+                {
+                    "h3": "Dozlar, birimler ve sıklık",
+                    "content": "15 ile 50, mg ile mcg, \"günde iki kez\" ile \"haftada iki kez\": her birini ses kaydıyla karşılaştırın."
+                },
+                {
+                    "h3": "Sağ ve sol",
+                    "content": "Bulgularda, işlemlerde ve görüntülemede taraf ve lokalizasyon önemlidir. \"Sağ\" ve \"sol\"un doğru olduğundan emin olun."
+                },
+                {
+                    "h3": "Olumsuzlar",
+                    "content": "\"Göğüs ağrısı yok\" ile \"göğüs ağrısı\" arasında tek kısa kelime fark vardır. \"Yok\", \"tarif etmiyor\" ve \"değil\" gibi ifadelere kulak verin."
+                },
+                {
+                    "h3": "Kısaltmalar, değerler ve isimler",
+                    "content": "Kısaltmalar, laboratuvar değerleri, vital bulgular ve hasta ya da hekim adları, metin herhangi bir yere gitmeden önce son bir kontrolü hak eder."
+                }
+            ]
+        },
+        {
+            "h2": "Hekim ve Hasta İçin Konuşmacı Etiketleri",
+            "content": [
+                "Görüşmelerde ve muayenelerde birden fazla ses vardır. Pro planda TranscriptX konuşmacıları otomatik olarak etiketler; böylece kimin sorduğunu ve kimin yanıtladığını görebilirsiniz.",
+                "İnceleme sırasında her etiketi Hekim, Hasta ya da Görüşmeci gibi bir rolle yeniden adlandırın. Ücretsiz planda konuşmacı adı olmadan zaman damgalı paragraflar alırsınız; tek kişilik bir dikte için bu yeterlidir."
+            ]
+        },
+        {
+            "h2": "Yapay Zeka Transkripsiyonu mu, Tıbbi Transkripsiyon Hizmeti mi, Tıbbi Sekreter mi?",
+            "intro": [
+                "Her seçenek farklı bir ihtiyaca uyar. Metnin ne için kullanılacağına göre seçin:"
+            ],
+            "items": [
+                {
+                    "h3": "Yapay zeka destekli tıbbi transkripsiyon (TranscriptX)",
+                    "content": "Saniyelerden dakikalara, tıbbi terminolojiyle eğitilmiş bir konuşma modeliyle. Net seste doğru metin; bir kayda girmeden önce siz gözden geçirirsiniz. Dikteler, araştırma görüşmeleri, dersler ve konuşmalar için en uygunu."
+                },
+                {
+                    "h3": "Kendiniz yazmak",
+                    "content": "Zamandan başka bir maliyeti yoktur: bir saatlik ses için yaklaşık dört saat. Yalnızca çok kısa notlar için pratiktir."
+                },
+                {
+                    "h3": "Tıbbi transkripsiyon hizmetleri",
+                    "content": "Eğitimli transkripsiyon uzmanları; genellikle satır ya da dakika başına ücretlendirilir, teslim süreleri ve hasta verilerinin işlenmesine dair sözleşmeler bulunur."
+                },
+                {
+                    "h3": "Tıbbi sekreterler (medical scribe)",
+                    "content": "Bir kişi ya da elektronik sağlık kaydına bağlı bir ortam (ambient) yapay zeka asistanı, klinik notu muayene sırasında yazar. Tıbbi transkripsiyon bir kayıttan çalışır; tıbbi sekreter ise odanın içinde çalışır."
+                }
+            ]
+        },
+        {
+            "h2": "Tıbbi Transkripsiyon Programını Kimler Kullanır",
+            "intro": [
+                "Bir kayıtta söylenenlerle çalışan herkes:"
+            ],
+            "items": [
+                {
+                    "h3": "Hekimler ve hemşireler",
+                    "content": "Muayeneden sonra notları ve mektupları dikte edin, gün sonunda yazmak yerine düzenlenecek metni alın."
+                },
+                {
+                    "h3": "Tıp araştırmacıları",
+                    "content": "Görüşmeleri ve odak gruplarını yazıya dökün, bir alıntının söylendiği ana doğrudan gidin."
+                },
+                {
+                    "h3": "Tıp öğrencileri",
+                    "content": "Dersleri ve vaka tartışmalarını tekrar için aranabilir notlara dönüştürün."
+                },
+                {
+                    "h3": "Tıbbi transkripsiyon uzmanları ve editörler",
+                    "content": "Yapay zeka taslağından başlayın, her kelimeyi yazmak yerine zamanınızı düzeltmeye ve biçimlendirmeye ayırın."
+                },
+                {
+                    "h3": "Sağlık eğitimcileri ve içerik üreticileri",
+                    "content": "Konuşmaları, podcast'leri ve hasta videolarını makalelere, bilgilendirme broşürlerine ve altyazılara dönüştürün."
+                }
+            ]
+        },
+        {
+            "h2": "Gizlilik ve Hasta Bilgileri",
+            "content": [
+                "Hastaları tanımlayan kayıtlar birçok ülkede korunan sağlık bilgisi sayılır. TranscriptX, HIPAA uyumluluğu iddia etmez. Kurumunuz imzalı bir İş Ortağı Sözleşmesi (Business Associate Agreement) içeren HIPAA uyumlu bir hizmet gerektiriyorsa bunu sağlayan bir hizmet kullanın ya da yüklemeden önce hasta tanımlayıcılarını kaldırın.",
+                "Bir muayeneyi kaydetmeden önce onam alın ve kurumunuzun politikasına uyun. Yüklenen dosyalar otomatik olarak silinir; kayıtlarınız ve transkriptleriniz yapay zeka modellerini eğitmek için kullanılmaz. Tek bir transkripti ya da tüm verilerinizi istediğiniz zaman hesabınızdan silebilirsiniz. Ayrıntılar için <a href=\"/privacy-policy/\">Gizlilik Politikası</a>'na bakın."
+            ]
+        },
+        {
+            "h2": "Sıkça Sorulan Sorular",
+            "items": [
+                {
+                    "q": "Ücretsiz bir tıbbi transkripsiyon uygulaması var mı?",
+                    "a": "TranscriptX'i bilgisayarda ya da telefonda tarayıcıdan, hesap açmadan ücretsiz deneyebilirsiniz. Konuşmacı etiketleri ve Canlı Konuş Pro planda."
+                },
+                {
+                    "q": "Yapay zeka tıbbi terminolojide ne kadar doğru?",
+                    "a": "TranscriptX, tıbbi terminolojiyle eğitilmiş bir konuşma modeli kullanır; bu sayede genel konuşma tanıma araçlarının sık yanlış yazdığı ilaç adlarını, dozları ve klinik terimleri tanır. Her transkriptte olduğu gibi, dozları ve nadir adları hasta kaydına girmeden önce ses kaydıyla karşılaştırın."
+                },
+                {
+                    "q": "TranscriptX HIPAA uyumlu mu?",
+                    "a": "Hayır. TranscriptX, HIPAA uyumluluğu iddia etmez. Hasta tanımlayıcıları içeren kayıtlarda kurumunuzun kurallarına uyun ya da yüklemeden önce tanımlayıcıları kaldırın."
+                },
+                {
+                    "q": "Dosya yüklemek yerine not dikte edebilir miyim?",
+                    "a": "Evet. Bu sayfada Kaydet'e basın ve dikte edin. Pro planda Canlı Konuş, siz konuşurken kelimeleri gösterir."
+                },
+                {
+                    "q": "Benim için SOAP notu yazabilir mi?",
+                    "a": "Hayır. TranscriptX size transkripti verir. SOAP notunuzu yanındaki Notlar sekmesinde, kayda bağlanan zaman damgalarıyla yazabilirsiniz."
+                },
+                {
+                    "q": "Elektronik sağlık kaydı (EHR) sistemime bağlanır mı?",
+                    "a": "Hayır. Düzenlenmiş metni sağlık kaydınıza kopyalayın ya da DOCX, PDF veya TXT olarak indirin."
+                },
+                {
+                    "q": "Radyoloji diktelerini yazıya dökebilir mi?",
+                    "a": "Evet, ilk taslak olarak. Rapor imzalanmadan önce radyolog her ölçümü, tarafı ve bulguyu kontrol etmelidir."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Bir Sonraki Tıbbi Kaydınızı Yazıya Dökün",
+        "content": [
+            "Bir dikte, görüşme ya da ders yükleyin veya Kaydet'e basın; her terimi ses kaydıyla karşılaştırmanız için her paragrafında zaman damgası bulunan, düzenlenebilir bir metin alın.",
+            "Araştırma görüşmeleri için <a href=\"/interview-transcription/\">Röportaj Deşifre</a> aracına da göz atın; diğer kayıtlar için <a href=\"/audio-to-text/\">Ses Yazıya Çevirme</a> ya da <a href=\"/video-to-text/\">Videoyu Yazıya Çevirme</a> aracını kullanın. Ücretsiz deneyin, hesap gerekmez."
+        ]
+    }
+}

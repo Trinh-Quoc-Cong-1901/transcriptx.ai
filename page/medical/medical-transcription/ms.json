@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Perisian Transkripsi Perubatan Tepat — Ubat & Dos | TranscriptX",
+        "description": "Perisian transkripsi perubatan dengan model pertuturan dilatih pada nama ubat, dos dan istilah klinikal. Diktasi dan rakaman jadi teks boleh disunting.",
+        "schemaName": "Transkripsi Perubatan TranscriptX",
+        "schemaDescription": "Transkripsi perubatan AI dengan model pertuturan yang dilatih pada perbendaharaan kata perubatan: muat naik rakaman, tampal pautan video, buat diktasi dengan Rakam atau Cakap Langsung (Pro), dapatkan transkrip boleh disunting dengan cap masa dan label penutur (Pro), tambah nota di sebelahnya dan eksport ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Perubatan Dilatih pada Nama Ubat dan Dos",
+        "ogDescription": "Tukar diktasi perubatan, kuliah dan temu bual kepada teks yang tepat dengan model pertuturan dilatih pada istilah perubatan, serta cap masa pada setiap perenggan."
+    },
+    "hero": {
+        "h1": "Perisian Transkripsi Perubatan AI",
+        "subtitle": "Tukar nota yang didiktasi, kuliah perubatan, temu bual penyelidikan dan pembentangan persidangan kepada teks yang boleh anda sunting dan failkan. Muat naik rakaman, tampal pautan video atau buat diktasi dalam pelayar, dan TranscriptX menulisnya dengan model pertuturan yang dilatih pada perbendaharaan kata perubatan, supaya nama ubat, dos dan istilah klinikal ditulis dengan betul. Setiap perenggan mengekalkan cap masanya, jadi mana-mana baris boleh disemak dengan audio. Eksport ke Word, PDF atau TXT. Label penutur dan pengurangan hingar pada pelan Pro.",
+        "placeholder": "Muat naik rakaman atau tampal pautan...",
+        "button": "Transkrip Rakaman"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip rakaman perubatan?",
+        "answer": "Muat naik rakaman ke TranscriptX, tampal pautan jika ia kuliah video, atau tekan Rakam dan buat diktasi. Anda mendapat transkrip boleh disunting dengan cap masa dalam beberapa saat. Semak nama ubat, dos dan istilah dengan audio, kemudian salin teks atau muat turun sebagai DOCX, PDF atau TXT untuk nota atau rekod anda."
+    },
+    "sections": [
+        {
+            "h2": "Apakah Perisian Transkripsi Perubatan?",
+            "content": [
+                "Transkripsi perubatan menukar kandungan penjagaan kesihatan yang dituturkan kepada teks bertulis: nota lawatan, surat dan laporan yang didiktasi, temu bual pesakit dan pakar untuk penyelidikan, kuliah, grand rounds dan pembentangan persidangan. Teks itu kemudian boleh disunting, dicari dan dimasukkan ke dalam rekod atau kertas kajian.",
+                "Menaip satu jam audio secara manual mengambil masa kira-kira empat jam. TranscriptX menukar rakaman kepada teks dalam beberapa saat dengan model pertuturan yang dilatih pada istilah perubatan, termasuk nama ubat, dos dan bahasa klinikal, serta mengekalkan cap masa pada setiap perenggan, jadi masa anda digunakan untuk menyemak, bukan menaip."
+            ]
+        },
+        {
+            "h2": "Transkripsi Perubatan Sepintas Lalu",
+            "specs": [
+                {
+                    "label": "Istilah perubatan",
+                    "value": "Model pertuturan dilatih pada istilah perubatan: nama ubat, dos dan bahasa klinikal"
+                },
+                {
+                    "label": "Input",
+                    "value": "Muat naik rakaman, tampal pautan YouTube atau video lain, atau buat diktasi dalam pelayar"
+                },
+                {
+                    "label": "Sumber fail",
+                    "value": "Peranti anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Diktasi",
+                    "value": "Rakam nota dalam pelayar · Cakap Langsung memaparkan perkataan semasa anda bercakap (Pro)"
+                },
+                {
+                    "label": "Semak setiap istilah",
+                    "value": "Cap masa pada setiap perenggan, dengan rakaman dimainkan di sebelah teks"
+                },
+                {
+                    "label": "Siapa cakap apa",
+                    "value": "Label penutur untuk klinisian, pesakit dan penemu bual pada pelan Pro"
+                },
+                {
+                    "label": "Nota sambil membaca",
+                    "value": "Tab Nota di sebelah transkrip, dengan cap masa dan senarai semak"
+                },
+                {
+                    "label": "Eksport",
+                    "value": "Muat turun sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk sari kata"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, dikesan secara automatik"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Pelan Pro untuk kegunaan klinikal harian · percuma untuk dicuba, tanpa akaun"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Rakaman Perubatan",
+            "steps": [
+                {
+                    "h3": "Tambah rakaman",
+                    "content": "Muat naik fail audio atau video daripada peranti anda, Google Drive, Dropbox atau OneDrive, contohnya diktasi, temu bual atau rakaman kuliah. Jika ia video dalam talian, tampal pautannya. Untuk mendiktasi nota sekarang, tekan Rakam."
+                },
+                {
+                    "h3": "Dapatkan transkrip",
+                    "content": "TranscriptX mengesan bahasa dan menulis rakaman sebagai perenggan bertanda baca, setiap satu dengan cap masa."
+                },
+                {
+                    "h3": "Semak istilah dan dos dengan audio",
+                    "content": "Mainkan rakaman di sebelah teks, betulkan nama ubat, dos dan istilah dengan Sunting, dan simpan tindakan susulan dalam tab Nota."
+                },
+                {
+                    "h3": "Salin atau eksport",
+                    "content": "Salin teks ke dalam nota, surat atau fail penyelidikan anda, atau muat turun sebagai DOCX, PDF atau TXT."
+                }
+            ]
+        },
+        {
+            "h2": "Pertuturan ke Teks dan Diktasi Perubatan dalam Pelayar",
+            "content": [
+                "Tiada apa-apa untuk dipasang. Buka halaman ini pada komputer atau telefon, tekan Rakam dan diktasikan nota anda, kemudian hentikan dan dapatkan teks di halaman yang sama. Biarkan halaman terbuka semasa merakam.",
+                "Pada pelan Pro, Cakap Langsung memaparkan perkataan semasa anda bercakap, sesuai untuk diktasi pendek yang anda mahu lihat serta-merta. Untuk sesi yang lebih panjang, rakam dahulu dan transkrip fail itu kemudian.",
+                "Anda boleh mencuba transkripsi perubatan AI secara percuma, tanpa akaun. Jika anda membuat diktasi atau transkrip setiap hari, lihat <a href=\"/pricing/\">pelan Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa yang Boleh Anda Transkrip",
+            "intro": [
+                "Sebarang rakaman yang membincangkan kesihatan dan perubatan:"
+            ],
+            "items": [
+                {
+                    "h3": "Nota dan surat yang didiktasi",
+                    "content": "Nota lawatan, surat rujukan, ringkasan discaj dan nota pembedahan yang didiktasi selepas temu janji, ditukar kepada teks yang boleh anda sunting dan tampal."
+                },
+                {
+                    "h3": "Diktasi radiologi dan patologi",
+                    "content": "Transkripsi radiologi bagi diktasi laporan sebagai draf pertama, sedia untuk pakar radiologi menyemak ukuran, sisi dan penemuan."
+                },
+                {
+                    "h3": "Temu bual penyelidikan dan kumpulan fokus",
+                    "content": "Temu bual kualitatif dengan pesakit, penjaga dan klinisian, ditranskrip untuk pengekodan dan petikan."
+                },
+                {
+                    "h3": "Kuliah, grand rounds dan CME",
+                    "content": "Kuliah sekolah perubatan, pembentangan kes dan sesi latihan yang anda mahu cari dan ulang kaji."
+                },
+                {
+                    "h3": "Persidangan dan webinar",
+                    "content": "Ceramah dan perbincangan panel, digunakan semula sebagai nota, artikel atau sari kata."
+                },
+                {
+                    "h3": "Podcast dan video kesihatan",
+                    "content": "Video pendidikan pesakit dan podcast perubatan, ditukar kepada nota rancangan, artikel dan kapsyen."
+                }
+            ]
+        },
+        {
+            "h2": "Semak Perkara Ini Sebelum Menggunakan Transkrip Perubatan",
+            "intro": [
+                "Dalam transkrip perubatan, satu perkataan yang salah boleh mengubah rawatan. Pengecaman pertuturan mengendalikan bahasa harian dengan baik; dengar sekali lagi perkara berikut:"
+            ],
+            "items": [
+                {
+                    "h3": "Nama ubat yang berbunyi serupa",
+                    "content": "Pasangan seperti Celebrex dan Celexa, atau hydroxyzine dan hydralazine, mudah tersalah dengar. Sahkan setiap nama ubat."
+                },
+                {
+                    "h3": "Dos, unit dan kekerapan",
+                    "content": "15 dan 50, mg dan mcg, \"dua kali sehari\" dan \"dua kali seminggu\": semak setiap satu dengan audio."
+                },
+                {
+                    "h3": "Kiri dan kanan",
+                    "content": "Sisi dan tapak penting untuk penemuan, prosedur dan pengimejan. Pastikan \"kiri\" dan \"kanan\" betul."
+                },
+                {
+                    "h3": "Bentuk negatif",
+                    "content": "\"Tiada sakit dada\" dan \"sakit dada\" berbeza dengan satu perkataan pendek. Dengar baik-baik \"tiada\", \"menafikan\" dan \"tidak\"."
+                },
+                {
+                    "h3": "Singkatan, nilai dan nama",
+                    "content": "Akronim, nilai makmal, tanda vital dan nama pesakit atau klinisian perlu disemak buat kali terakhir sebelum teks dihantar ke mana-mana."
+                }
+            ]
+        },
+        {
+            "h2": "Label Penutur untuk Klinisian dan Pesakit",
+            "content": [
+                "Temu bual dan konsultasi mempunyai beberapa suara. Pada pelan Pro, TranscriptX melabel penutur secara automatik, jadi anda boleh melihat siapa yang bertanya dan siapa yang menjawab.",
+                "Namakan semula setiap label mengikut peranan, seperti Klinisian, Pesakit atau Penemu Bual, semasa anda menyemak. Pada pelan Percuma, anda mendapat perenggan bercap masa tanpa nama penutur, yang sesuai untuk satu diktasi."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI, Perkhidmatan Transkripsi Perubatan atau Jurutulis Perubatan?",
+            "intro": [
+                "Setiap pilihan sesuai untuk keperluan berbeza. Pilih berdasarkan kegunaan teks itu:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi perubatan AI (TranscriptX)",
+                    "content": "Beberapa saat hingga beberapa minit, dengan model pertuturan yang dilatih pada perbendaharaan kata perubatan. Teks yang tepat pada audio yang jelas, yang anda semak sebelum dimasukkan ke dalam rekod. Paling sesuai untuk diktasi, temu bual penyelidikan, kuliah dan ceramah."
+                },
+                {
+                    "h3": "Menaip sendiri",
+                    "content": "Tiada kos selain masa: kira-kira empat jam bagi setiap jam audio. Praktikal hanya untuk nota yang sangat pendek."
+                },
+                {
+                    "h3": "Perkhidmatan transkripsi perubatan",
+                    "content": "Jurutranskripsi terlatih, selalunya dicaj mengikut baris atau minit, dengan tempoh siap dan perjanjian untuk mengendalikan data pesakit."
+                },
+                {
+                    "h3": "Jurutulis perubatan (medical scribe)",
+                    "content": "Seorang individu, atau jurutulis AI ambien yang disambungkan ke rekod kesihatan, menulis nota klinikal semasa lawatan. Transkripsi perubatan bermula daripada rakaman; jurutulis bekerja di dalam bilik rawatan."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Menggunakan Perisian Transkripsi Perubatan",
+            "intro": [
+                "Sesiapa yang bekerja dengan apa yang dikatakan dalam rakaman:"
+            ],
+            "items": [
+                {
+                    "h3": "Doktor dan jururawat",
+                    "content": "Diktasikan nota dan surat selepas lawatan dan dapatkan teks untuk disunting, bukannya menaip pada penghujung hari."
+                },
+                {
+                    "h3": "Penyelidik perubatan",
+                    "content": "Transkrip temu bual dan kumpulan fokus, dan lompat ke detik tepat sesuatu petikan diucapkan."
+                },
+                {
+                    "h3": "Pelajar perubatan",
+                    "content": "Tukar kuliah dan perbincangan kes kepada nota yang boleh dicari untuk ulang kaji."
+                },
+                {
+                    "h3": "Jurutranskripsi dan penyunting perubatan",
+                    "content": "Mulakan daripada draf AI dan gunakan masa anda untuk membetulkan dan memformat, bukannya menaip setiap perkataan."
+                },
+                {
+                    "h3": "Pendidik dan pencipta kandungan kesihatan",
+                    "content": "Tukar ceramah, podcast dan video pesakit kepada artikel, risalah dan sari kata."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi dan Maklumat Pesakit",
+            "content": [
+                "Rakaman yang mengenal pasti pesakit ialah maklumat kesihatan yang dilindungi di banyak negara. TranscriptX tidak mendakwa mematuhi HIPAA. Jika organisasi anda memerlukan perkhidmatan yang mematuhi HIPAA dengan Business Associate Agreement (BAA) yang ditandatangani, gunakan perkhidmatan yang menyediakannya, atau buang pengecam pesakit sebelum anda memuat naik.",
+                "Dapatkan persetujuan sebelum merakam konsultasi, dan ikut dasar organisasi anda. Fail yang dimuat naik dipadam secara automatik, dan rakaman serta transkrip anda tidak digunakan untuk melatih model AI. Anda boleh memadam satu transkrip, atau semua data anda, pada bila-bila masa daripada akaun anda. Lihat <a href=\"/privacy-policy/\">Dasar Privasi</a> untuk butiran."
+            ]
+        },
+        {
+            "h2": "Soalan Lazim",
+            "items": [
+                {
+                    "q": "Adakah terdapat aplikasi transkripsi perubatan percuma?",
+                    "a": "Anda boleh mencuba TranscriptX secara percuma dalam pelayar pada komputer atau telefon, tanpa akaun. Label penutur dan Cakap Langsung tersedia pada pelan Pro."
+                },
+                {
+                    "q": "Sejauh manakah ketepatan AI dengan istilah perubatan?",
+                    "a": "TranscriptX menggunakan model pertuturan yang dilatih pada istilah perubatan, jadi ia mengenali nama ubat, dos dan istilah klinikal yang sering disalah tulis oleh pertuturan ke teks biasa. Seperti mana-mana transkrip, semak dos dan nama yang jarang ditemui dengan audio sebelum dimasukkan ke dalam rekod pesakit."
+                },
+                {
+                    "q": "Adakah TranscriptX mematuhi HIPAA?",
+                    "a": "Tidak. TranscriptX tidak mendakwa mematuhi HIPAA. Untuk rakaman yang mengandungi pengecam pesakit, ikut peraturan organisasi anda atau buang pengecam sebelum memuat naik."
+                },
+                {
+                    "q": "Bolehkah saya mendiktasi nota dan bukannya memuat naik fail?",
+                    "a": "Ya. Tekan Rakam pada halaman ini dan buat diktasi. Pada Pro, Cakap Langsung memaparkan perkataan semasa anda bercakap."
+                },
+                {
+                    "q": "Bolehkah ia menulis nota SOAP untuk saya?",
+                    "a": "Tidak. TranscriptX memberi anda transkrip. Anda boleh menulis nota SOAP dalam tab Nota di sebelahnya, dengan cap masa yang dipautkan semula ke rakaman."
+                },
+                {
+                    "q": "Adakah ia bersambung dengan EHR saya?",
+                    "a": "Tidak. Salin teks yang telah disunting ke dalam rekod kesihatan anda, atau muat turun sebagai DOCX, PDF atau TXT."
+                },
+                {
+                    "q": "Bolehkah ia mentranskrip diktasi radiologi?",
+                    "a": "Ya, sebagai draf pertama. Pakar radiologi perlu menyemak setiap ukuran, sisi dan penemuan sebelum laporan ditandatangani."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Rakaman Perubatan Anda yang Seterusnya",
+        "content": [
+            "Muat naik diktasi, temu bual atau kuliah, atau tekan Rakam, dan dapatkan teks yang boleh anda sunting, dengan cap masa pada setiap perenggan untuk menyemak setiap istilah dengan audio.",
+            "Untuk temu bual penyelidikan, lihat juga <a href=\"/interview-transcription/\">Transkripsi Temu Bual</a>; untuk rakaman lain, gunakan <a href=\"/audio-to-text/\">Audio ke Teks</a> atau <a href=\"/video-to-text/\">Video ke Teks</a>. Percuma untuk dicuba, tanpa akaun."
+        ]
+    }
+}

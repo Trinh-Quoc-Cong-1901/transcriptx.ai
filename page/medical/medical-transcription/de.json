@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Präzise medizinische Spracherkennung — Medikamente & Dosen | TranscriptX",
+        "description": "Medizinische Spracherkennung mit einem Sprachmodell, trainiert auf Medikamentennamen, Dosen und Fachbegriffe. Diktate in Sekunden als bearbeitbarer Text.",
+        "schemaName": "TranscriptX Medizinische Transkription",
+        "schemaDescription": "KI-gestützte medizinische Transkription mit einem auf medizinisches Vokabular trainierten Sprachmodell: Aufnahme hochladen, Videolink einfügen oder mit Aufnehmen bzw. Live sprechen (Pro) diktieren, ein bearbeitbares Transkript mit Zeitstempeln und Sprecherkennzeichnung (Pro) erhalten, Notizen daneben anlegen und als DOCX, PDF, TXT, SRT oder VTT exportieren.",
+        "ogTitle": "Medizinische Transkription, trainiert auf Medikamente und Dosen",
+        "ogDescription": "Mach aus ärztlichen Diktaten, Vorlesungen und Interviews präzisen Text – mit einem auf medizinisches Vokabular trainierten Sprachmodell und einem Zeitstempel an jedem Absatz."
+    },
+    "hero": {
+        "h1": "Medizinische Spracherkennung und Transkription mit KI",
+        "subtitle": "Mach aus diktierten Befunden, medizinischen Vorlesungen, Forschungsinterviews und Kongressvorträgen Text, den du bearbeiten und ablegen kannst. Lade die Aufnahme hoch, füge einen Videolink ein oder diktiere direkt im Browser – TranscriptX schreibt alles mit einem auf medizinisches Vokabular trainierten Sprachmodell aus, damit Medikamentennamen, Dosierungen und Fachbegriffe korrekt ankommen. Jeder Absatz behält seinen Zeitstempel, sodass du jede Zeile am Audio prüfen kannst. Export als Word, PDF oder TXT. Sprecherkennzeichnung und Rauschunterdrückung im Pro-Plan.",
+        "placeholder": "Aufnahme hochladen oder Link einfügen...",
+        "button": "Aufnahme transkribieren"
+    },
+    "quickAnswer": {
+        "question": "Wie transkribiere ich eine medizinische Aufnahme?",
+        "answer": "Lade die Aufnahme bei TranscriptX hoch, füge den Link ein, wenn es sich um eine Videovorlesung handelt, oder tippe auf Aufnehmen und diktiere. Du erhältst in Sekunden ein bearbeitbares Transkript mit Zeitstempeln. Prüfe Medikamentennamen, Dosen und Fachbegriffe am Audio, dann kopiere den Text oder lade ihn als DOCX, PDF oder TXT für Notizen oder Dokumentation herunter."
+    },
+    "sections": [
+        {
+            "h2": "Was ist medizinische Spracherkennung und Transkription?",
+            "content": [
+                "Medizinische Transkription macht aus gesprochenen Inhalten im Gesundheitswesen geschriebenen Text: diktierte Befunde, Arztbriefe und Berichte, Patienten- und Experteninterviews für die Forschung, Vorlesungen, Fallkonferenzen und Kongressvorträge. Der Text lässt sich anschließend bearbeiten, durchsuchen und in eine Akte oder eine Publikation übernehmen.",
+                "Eine Stunde Audio von Hand abzutippen dauert rund vier Stunden. TranscriptX macht aus der Aufnahme in Sekunden Text – mit einem Sprachmodell, das auf medizinische Terminologie trainiert ist, einschließlich Medikamentennamen, Dosierungen und klinischer Fachsprache – und setzt an jeden Absatz einen Zeitstempel. So verbringst du deine Zeit mit dem Prüfen statt mit dem Tippen."
+            ]
+        },
+        {
+            "h2": "Medizinische Transkription auf einen Blick",
+            "specs": [
+                {
+                    "label": "Medizinisches Vokabular",
+                    "value": "Sprachmodell trainiert auf medizinische Terminologie: Medikamentennamen, Dosierungen und klinische Fachsprache"
+                },
+                {
+                    "label": "Eingabe",
+                    "value": "Aufnahme hochladen, YouTube- oder anderen Videolink einfügen oder im Browser diktieren"
+                },
+                {
+                    "label": "Woher die Dateien kommen",
+                    "value": "Dein Gerät, Google Drive, Dropbox oder OneDrive"
+                },
+                {
+                    "label": "Diktat",
+                    "value": "Diktat im Browser aufnehmen · Live sprechen zeigt die Wörter, während du sprichst (Pro)"
+                },
+                {
+                    "label": "Jeden Begriff prüfen",
+                    "value": "Zeitstempel an jedem Absatz, die Aufnahme läuft neben dem Text"
+                },
+                {
+                    "label": "Wer hat was gesagt",
+                    "value": "Sprecherkennzeichnung für Ärztinnen und Ärzte, Patienten und Interviewende im Pro-Plan"
+                },
+                {
+                    "label": "Notizen beim Lesen",
+                    "value": "Notizen-Tab neben dem Transkript, mit Zeitstempeln und Checklisten"
+                },
+                {
+                    "label": "Export",
+                    "value": "Download als DOCX, PDF oder TXT, oder als SRT und VTT für Untertitel"
+                },
+                {
+                    "label": "Sprachen",
+                    "value": "100+, automatisch erkannt"
+                },
+                {
+                    "label": "Preis",
+                    "value": "Pro-Plan für den klinischen Alltag · kostenlos testen, kein Konto nötig"
+                }
+            ]
+        },
+        {
+            "h2": "So transkribierst du eine medizinische Aufnahme",
+            "steps": [
+                {
+                    "h3": "Aufnahme hinzufügen",
+                    "content": "Lade die Audio- oder Videodatei von deinem Gerät, Google Drive, Dropbox oder OneDrive hoch, etwa ein Diktat, ein Interview oder eine Vorlesungsaufzeichnung. Ist das Video online, füge den Link ein. Um jetzt einen Befund zu diktieren, tippe auf Aufnehmen."
+                },
+                {
+                    "h3": "Transkript erhalten",
+                    "content": "TranscriptX erkennt die Sprache und schreibt die Aufnahme in Absätzen mit Satzzeichen aus, jeder mit Zeitstempel."
+                },
+                {
+                    "h3": "Begriffe und Dosen am Audio prüfen",
+                    "content": "Spiele die Aufnahme neben dem Text ab, korrigiere Medikamentennamen, Dosen und Fachbegriffe mit Bearbeiten und halte offene Punkte im Notizen-Tab fest."
+                },
+                {
+                    "h3": "Kopieren oder exportieren",
+                    "content": "Kopiere den Text in deinen Befund, Arztbrief oder deine Forschungsdatei, oder lade ihn als DOCX, PDF oder TXT herunter."
+                }
+            ]
+        },
+        {
+            "h2": "Medizinische Spracherkennung und Diktat im Browser",
+            "content": [
+                "Es muss nichts installiert werden. Öffne diese Seite am Computer oder Handy, tippe auf Aufnehmen und diktiere deinen Befund, dann stoppe die Aufnahme und erhalte den Text auf derselben Seite. Lass die Seite während der Aufnahme geöffnet.",
+                "Im Pro-Plan zeigt Live sprechen die Wörter, während du sprichst – ideal für kurze Diktate, die du sofort sehen willst. Für längere Sitzungen nimm zuerst auf und transkribiere die Datei danach.",
+                "Du kannst die KI-gestützte medizinische Transkription kostenlos und ohne Konto testen. Wenn du täglich diktierst oder transkribierst, sieh dir den <a href=\"/pricing/\">Pro-Plan</a> an."
+            ]
+        },
+        {
+            "h2": "Was du transkribieren kannst",
+            "intro": [
+                "Jede Aufnahme, in der es um Gesundheit und Medizin geht:"
+            ],
+            "items": [
+                {
+                    "h3": "Diktierte Befunde und Arztbriefe",
+                    "content": "Verlaufsnotizen, Überweisungsschreiben, Entlassbriefe und OP-Berichte, nach dem Termin diktiert und als Text zum Bearbeiten und Einfügen ausgegeben."
+                },
+                {
+                    "h3": "Radiologie- und Pathologiediktate",
+                    "content": "Transkription radiologischer Befunddiktate als erster Entwurf, bereit für die Radiologin oder den Radiologen, um Maße, Seitenangaben und Befunde zu prüfen."
+                },
+                {
+                    "h3": "Forschungsinterviews und Fokusgruppen",
+                    "content": "Qualitative Interviews mit Patienten, Angehörigen und Behandelnden, transkribiert zum Codieren und Zitieren."
+                },
+                {
+                    "h3": "Vorlesungen, Fallkonferenzen und CME",
+                    "content": "Vorlesungen im Medizinstudium, Fallvorstellungen und Fortbildungen, die du durchsuchen und zum Lernen nutzen willst."
+                },
+                {
+                    "h3": "Kongresse und Webinare",
+                    "content": "Vorträge und Podiumsdiskussionen, weiterverwendet als Notizen, Artikel oder Untertitel."
+                },
+                {
+                    "h3": "Gesundheitspodcasts und -videos",
+                    "content": "Videos zur Patientenaufklärung und medizinische Podcasts, umgewandelt in Shownotes, Artikel und Untertitel."
+                }
+            ]
+        },
+        {
+            "h2": "Prüfe das, bevor du ein medizinisches Transkript verwendest",
+            "intro": [
+                "In einem medizinischen Transkript kann ein falsches Wort die Behandlung verändern. Spracherkennung meistert Alltagssprache gut – bei diesen Punkten lohnt sich ein zweites Hinhören:"
+            ],
+            "items": [
+                {
+                    "h3": "Ähnlich klingende Medikamentennamen",
+                    "content": "Paare wie Celebrex und Celexa oder Hydroxyzin und Hydralazin werden leicht verwechselt. Bestätige jeden Medikamentennamen."
+                },
+                {
+                    "h3": "Dosen, Einheiten und Einnahmehäufigkeit",
+                    "content": "15 und 50, mg und mcg (µg), „zweimal täglich“ und „zweimal wöchentlich“: Prüfe jede Angabe am Audio."
+                },
+                {
+                    "h3": "Links und rechts",
+                    "content": "Seite und Lokalisation sind bei Befunden, Eingriffen und Bildgebung entscheidend. Stelle sicher, dass „links“ und „rechts“ stimmen."
+                },
+                {
+                    "h3": "Verneinungen",
+                    "content": "„Keine Thoraxschmerzen“ und „Thoraxschmerzen“ unterscheiden sich durch ein kurzes Wort. Achte auf „kein“, „verneint“ und „nicht“."
+                },
+                {
+                    "h3": "Abkürzungen, Werte und Namen",
+                    "content": "Akronyme, Laborwerte, Vitalparameter sowie Namen von Patienten und Behandelnden verdienen eine letzte Kontrolle, bevor der Text weitergegeben wird."
+                }
+            ]
+        },
+        {
+            "h2": "Sprecherkennzeichnung für Behandelnde und Patienten",
+            "content": [
+                "Interviews und Gespräche haben mehrere Stimmen. Im Pro-Plan kennzeichnet TranscriptX die Sprecher automatisch, sodass du siehst, wer gefragt und wer geantwortet hat.",
+                "Benenne jede Kennzeichnung bei der Durchsicht nach Rolle um, etwa Ärztin, Patient oder Interviewer. Im kostenlosen Plan erhältst du Absätze mit Zeitstempeln ohne Sprechernamen – für ein einzelnes Diktat völlig ausreichend."
+            ]
+        },
+        {
+            "h2": "KI-Transkription, medizinischer Schreibdienst oder Medical Scribe?",
+            "intro": [
+                "Jede Option passt zu einem anderen Bedarf. Entscheide danach, wofür der Text gedacht ist:"
+            ],
+            "items": [
+                {
+                    "h3": "KI-gestützte medizinische Transkription (TranscriptX)",
+                    "content": "Sekunden bis Minuten, mit einem auf medizinisches Vokabular trainierten Sprachmodell. Präziser Text bei klarem Audio, den du prüfst, bevor er in eine Akte geht. Am besten geeignet für Diktate, Forschungsinterviews, Vorlesungen und Vorträge."
+                },
+                {
+                    "h3": "Selbst abtippen",
+                    "content": "Kostet nichts außer Zeit: etwa vier Stunden pro Stunde Audio. Nur für sehr kurze Notizen praktikabel."
+                },
+                {
+                    "h3": "Medizinische Schreibdienste",
+                    "content": "Geschulte medizinische Schreibkräfte, oft pro Zeile oder pro Minute abgerechnet, mit festen Bearbeitungszeiten und Vereinbarungen zum Umgang mit Patientendaten."
+                },
+                {
+                    "h3": "Medical Scribes",
+                    "content": "Eine Person oder ein ambienter KI-Scribe mit Anbindung an die Patientenakte schreibt die klinische Notiz während des Termins. Medizinische Transkription arbeitet mit einer Aufnahme; ein Scribe arbeitet im Raum."
+                }
+            ]
+        },
+        {
+            "h2": "Wer medizinische Spracherkennung nutzt",
+            "intro": [
+                "Alle, die mit dem arbeiten, was in einer Aufnahme gesagt wurde:"
+            ],
+            "items": [
+                {
+                    "h3": "Ärztinnen, Ärzte und Pflegekräfte",
+                    "content": "Befunde und Briefe nach dem Termin diktieren und Text zum Bearbeiten erhalten, statt am Ende des Tages zu tippen."
+                },
+                {
+                    "h3": "Medizinische Forschende",
+                    "content": "Interviews und Fokusgruppen transkribieren und direkt zu dem Moment springen, in dem ein Zitat gefallen ist."
+                },
+                {
+                    "h3": "Medizinstudierende",
+                    "content": "Vorlesungen und Fallbesprechungen in durchsuchbare Lernnotizen verwandeln."
+                },
+                {
+                    "h3": "Medizinische Schreibkräfte und Lektorate",
+                    "content": "Mit einem KI-Entwurf starten und die Zeit für Korrektur und Formatierung nutzen, statt jedes Wort zu tippen."
+                },
+                {
+                    "h3": "Gesundheitsbildung und Content-Creator",
+                    "content": "Vorträge, Podcasts und Patientenvideos in Artikel, Merkblätter und Untertitel verwandeln."
+                }
+            ]
+        },
+        {
+            "h2": "Datenschutz und Patientendaten",
+            "content": [
+                "Aufnahmen, die Patienten identifizierbar machen, gelten in vielen Ländern als geschützte Gesundheitsdaten. TranscriptX beansprucht keine HIPAA-Konformität. Wenn deine Einrichtung einen HIPAA-konformen Dienst mit unterzeichnetem Business Associate Agreement (BAA) verlangt, nutze einen Anbieter, der das bietet, oder entferne patientenbezogene Identifikatoren vor dem Hochladen.",
+                "Hol vor der Aufnahme eines Gesprächs die Einwilligung ein und halte dich an die Vorgaben deiner Einrichtung. Hochgeladene Dateien werden automatisch gelöscht, und deine Aufnahmen und Transkripte werden nicht zum Training von KI-Modellen verwendet. Du kannst ein einzelnes Transkript oder alle deine Daten jederzeit in deinem Konto löschen. Details findest du in der <a href=\"/privacy-policy/\">Datenschutzerklärung</a>."
+            ]
+        },
+        {
+            "h2": "Häufig gestellte Fragen",
+            "items": [
+                {
+                    "q": "Gibt es eine kostenlose App für medizinische Transkription?",
+                    "a": "Du kannst TranscriptX kostenlos im Browser am Computer oder Handy testen, ohne Konto. Sprecherkennzeichnung und Live sprechen gibt es im Pro-Plan."
+                },
+                {
+                    "q": "Wie genau erkennt KI medizinische Fachbegriffe?",
+                    "a": "TranscriptX nutzt ein auf medizinische Terminologie trainiertes Sprachmodell und erkennt daher Medikamentennamen, Dosen und klinische Begriffe, an denen allgemeine Spracherkennung oft scheitert. Wie bei jedem Transkript gilt: Prüfe Dosen und seltene Namen am Audio, bevor sie in eine Patientenakte gehen."
+                },
+                {
+                    "q": "Ist TranscriptX HIPAA-konform?",
+                    "a": "Nein. TranscriptX beansprucht keine HIPAA-Konformität. Bei Aufnahmen mit patientenbezogenen Identifikatoren halte dich an die Regeln deiner Einrichtung oder entferne die Identifikatoren vor dem Hochladen."
+                },
+                {
+                    "q": "Kann ich diktieren, statt eine Datei hochzuladen?",
+                    "a": "Ja. Tippe auf dieser Seite auf Aufnehmen und diktiere. Im Pro-Plan zeigt Live sprechen die Wörter, während du sprichst."
+                },
+                {
+                    "q": "Kann es eine SOAP-Notiz für mich schreiben?",
+                    "a": "Nein. TranscriptX liefert dir das Transkript. Deine SOAP-Notiz kannst du im Notizen-Tab daneben schreiben, mit Zeitstempeln, die zurück zur Aufnahme führen."
+                },
+                {
+                    "q": "Lässt es sich mit meinem Praxis- oder Kliniksystem verbinden?",
+                    "a": "Nein. Kopiere den bearbeiteten Text in deine Patientenakte oder lade ihn als DOCX, PDF oder TXT herunter."
+                },
+                {
+                    "q": "Kann es Radiologiediktate transkribieren?",
+                    "a": "Ja, als ersten Entwurf. Die Radiologin oder der Radiologe sollte jedes Maß, jede Seitenangabe und jeden Befund prüfen, bevor der Befund unterschrieben wird."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkribiere deine nächste medizinische Aufnahme",
+        "content": [
+            "Lade ein Diktat, Interview oder eine Vorlesung hoch oder tippe auf Aufnehmen und erhalte bearbeitbaren Text – mit einem Zeitstempel an jedem Absatz, um jeden Begriff am Audio zu prüfen.",
+            "Für Forschungsinterviews siehe auch <a href=\"/interview-transcription/\">Interview transkribieren</a>; für jede andere Aufnahme nutze <a href=\"/audio-to-text/\">Audio in Text</a> oder <a href=\"/video-to-text/\">Video in Text</a>. Kostenlos testen, kein Konto nötig."
+        ]
+    }
+}

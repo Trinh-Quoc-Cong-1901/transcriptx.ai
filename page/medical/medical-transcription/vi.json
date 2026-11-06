@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Phần mềm chép lời y khoa chính xác — Tên thuốc & liều | TranscriptX",
+        "description": "Phần mềm chép lời y khoa với mô hình giọng nói huấn luyện trên tên thuốc, liều dùng và thuật ngữ lâm sàng. Bản đọc chính tả thành văn bản trong vài giây.",
+        "schemaName": "TranscriptX chép lời y khoa",
+        "schemaDescription": "Công cụ AI chép lời y khoa với mô hình giọng nói được huấn luyện trên thuật ngữ y khoa: tải file ghi âm lên, dán link video, đọc chính tả bằng Ghi âm hoặc Nói trực tiếp (gói Pro), nhận bản chép lời chỉnh sửa được có dấu thời gian và nhãn người nói (gói Pro), ghi chú ngay bên cạnh và xuất ra DOCX, PDF, TXT, SRT hoặc VTT.",
+        "ogTitle": "Chép lời y khoa được huấn luyện trên tên thuốc và liều dùng",
+        "ogDescription": "Chuyển bản đọc y khoa, bài giảng và phỏng vấn thành văn bản chính xác nhờ mô hình giọng nói được huấn luyện trên thuật ngữ y khoa, kèm dấu thời gian ở mỗi đoạn."
+    },
+    "hero": {
+        "h1": "Phần mềm AI chép lời y khoa",
+        "subtitle": "Biến ghi chú đọc chính tả, bài giảng y khoa, phỏng vấn nghiên cứu và báo cáo hội nghị thành văn bản để chỉnh sửa và lưu hồ sơ. Tải file ghi âm lên, dán link video hoặc đọc chính tả ngay trên trình duyệt, TranscriptX sẽ chép lại bằng mô hình giọng nói được huấn luyện trên thuật ngữ y khoa, để tên thuốc, liều dùng và thuật ngữ lâm sàng ra đúng. Mỗi đoạn đều giữ dấu thời gian, để bạn đối chiếu bất kỳ dòng nào với bản ghi. Xuất ra Word, PDF hoặc TXT. Nhãn người nói và giảm tiếng ồn có trên gói Pro.",
+        "placeholder": "Tải lên file ghi âm hoặc dán đường link...",
+        "button": "Chép lời bản ghi"
+    },
+    "quickAnswer": {
+        "question": "Làm sao để chép lời một bản ghi âm y khoa?",
+        "answer": "Tải file ghi âm lên TranscriptX, dán link nếu đó là video bài giảng, hoặc bấm Ghi âm và đọc chính tả. Trong vài giây bạn có bản chép lời chỉnh sửa được, kèm dấu thời gian. Đối chiếu tên thuốc, liều dùng và thuật ngữ với bản ghi, rồi sao chép văn bản hoặc tải về dạng DOCX, PDF hay TXT cho ghi chú hoặc hồ sơ của bạn."
+    },
+    "sections": [
+        {
+            "h2": "Chép lời y khoa là gì và phần mềm chép lời y khoa giúp gì?",
+            "content": [
+                "Chép lời y khoa (medical transcription) là chuyển nội dung y tế được nói thành văn bản: ghi chú khám bệnh, thư và báo cáo được đọc chính tả, phỏng vấn bệnh nhân và chuyên gia cho nghiên cứu, bài giảng, buổi giao ban chuyên môn và báo cáo hội nghị. Văn bản sau đó có thể chỉnh sửa, tìm kiếm và đưa vào hồ sơ hay bài báo.",
+                "Gõ tay một giờ ghi âm mất khoảng bốn giờ. TranscriptX chuyển giọng nói thành văn bản y khoa trong vài giây bằng mô hình giọng nói được huấn luyện trên thuật ngữ y khoa, bao gồm tên thuốc, liều dùng và ngôn ngữ lâm sàng, và giữ dấu thời gian ở mỗi đoạn, để bạn dành thời gian kiểm tra thay vì ngồi gõ."
+            ]
+        },
+        {
+            "h2": "Tổng quan về chép lời y khoa",
+            "specs": [
+                {
+                    "label": "Thuật ngữ y khoa",
+                    "value": "Mô hình giọng nói được huấn luyện trên thuật ngữ y khoa: tên thuốc, liều dùng và ngôn ngữ lâm sàng"
+                },
+                {
+                    "label": "Đầu vào",
+                    "value": "Tải file ghi âm lên, dán link YouTube hay video khác, hoặc đọc chính tả ngay trên trình duyệt"
+                },
+                {
+                    "label": "Nguồn file",
+                    "value": "Thiết bị của bạn, Google Drive, Dropbox hoặc OneDrive"
+                },
+                {
+                    "label": "Đọc chính tả",
+                    "value": "Ghi âm ghi chú ngay trên trình duyệt · Nói trực tiếp hiện chữ ngay khi bạn nói (gói Pro)"
+                },
+                {
+                    "label": "Kiểm tra từng thuật ngữ",
+                    "value": "Dấu thời gian ở mỗi đoạn, bản ghi phát ngay cạnh văn bản"
+                },
+                {
+                    "label": "Ai nói gì",
+                    "value": "Nhãn người nói cho bác sĩ, bệnh nhân và người phỏng vấn trên gói Pro"
+                },
+                {
+                    "label": "Ghi chú khi đọc",
+                    "value": "Thẻ Ghi chú cạnh bản chép lời, có dấu thời gian và danh sách việc cần làm"
+                },
+                {
+                    "label": "Xuất file",
+                    "value": "Tải về dạng DOCX, PDF hoặc TXT, hoặc SRT và VTT để làm phụ đề"
+                },
+                {
+                    "label": "Ngôn ngữ",
+                    "value": "Hơn 100, tự động nhận diện"
+                },
+                {
+                    "label": "Giá",
+                    "value": "Gói Pro cho công việc lâm sàng hằng ngày · dùng thử miễn phí, không cần tài khoản"
+                }
+            ]
+        },
+        {
+            "h2": "Cách chép lời một bản ghi âm y khoa",
+            "steps": [
+                {
+                    "h3": "Thêm bản ghi",
+                    "content": "Tải file âm thanh hoặc video lên từ thiết bị, Google Drive, Dropbox hoặc OneDrive, ví dụ một bản đọc chính tả, một buổi phỏng vấn hay một bài giảng. Nếu là video trên mạng, chỉ cần dán link. Muốn đọc ghi chú ngay, bấm Ghi âm."
+                },
+                {
+                    "h3": "Nhận bản chép lời",
+                    "content": "TranscriptX nhận diện ngôn ngữ và chép bản ghi thành các đoạn có dấu câu, mỗi đoạn kèm dấu thời gian."
+                },
+                {
+                    "h3": "Đối chiếu thuật ngữ và liều dùng với bản ghi",
+                    "content": "Phát bản ghi cạnh văn bản, sửa tên thuốc, liều dùng và thuật ngữ bằng nút Sửa, và ghi lại việc cần theo dõi trong thẻ Ghi chú."
+                },
+                {
+                    "h3": "Sao chép hoặc xuất file",
+                    "content": "Sao chép văn bản vào ghi chú, thư hoặc hồ sơ nghiên cứu, hoặc tải về dạng DOCX, PDF hay TXT."
+                }
+            ]
+        },
+        {
+            "h2": "Chuyển giọng nói y khoa thành văn bản và đọc chính tả ngay trên trình duyệt",
+            "content": [
+                "Không cần cài đặt gì. Mở trang này trên máy tính hoặc điện thoại, bấm Ghi âm và đọc ghi chú, rồi dừng lại và nhận văn bản ngay trên cùng trang. Giữ trang mở trong lúc ghi âm.",
+                "Trên gói Pro, Nói trực tiếp hiện chữ ngay khi bạn nói, phù hợp với các bản đọc ngắn muốn xem ngay. Với phiên dài hơn, hãy ghi âm trước rồi chép lời file sau.",
+                "Bạn có thể dùng thử AI chép lời y khoa miễn phí, không cần tài khoản. Nếu bạn đọc chính tả hoặc chép lời hằng ngày, hãy xem <a href=\"/pricing/\">gói Pro</a>."
+            ]
+        },
+        {
+            "h2": "Bạn có thể chép lời những gì",
+            "intro": [
+                "Bất kỳ bản ghi nào có nội dung về sức khỏe và y khoa:"
+            ],
+            "items": [
+                {
+                    "h3": "Ghi chú và thư được đọc chính tả",
+                    "content": "Ghi chú khám bệnh, thư chuyển viện, tóm tắt ra viện và biên bản phẫu thuật được đọc sau buổi khám, thành văn bản để chỉnh sửa và dán vào hồ sơ."
+                },
+                {
+                    "h3": "Bản đọc chẩn đoán hình ảnh và giải phẫu bệnh",
+                    "content": "Chép lời bản đọc kết quả chẩn đoán hình ảnh thành bản nháp đầu tiên, để bác sĩ chẩn đoán hình ảnh kiểm tra số đo, bên trái/phải và các phát hiện."
+                },
+                {
+                    "h3": "Phỏng vấn nghiên cứu và thảo luận nhóm",
+                    "content": "Phỏng vấn định tính với bệnh nhân, người chăm sóc và nhân viên y tế, được chép lời để mã hóa và trích dẫn."
+                },
+                {
+                    "h3": "Bài giảng, giao ban chuyên môn và đào tạo y khoa liên tục",
+                    "content": "Bài giảng trường y, trình bày ca bệnh và buổi đào tạo mà bạn muốn tìm kiếm và ôn lại."
+                },
+                {
+                    "h3": "Hội nghị và hội thảo trực tuyến",
+                    "content": "Bài báo cáo và phiên thảo luận, dùng lại làm ghi chú, bài viết hoặc phụ đề."
+                },
+                {
+                    "h3": "Podcast và video sức khỏe",
+                    "content": "Video giáo dục bệnh nhân và podcast y khoa, chuyển thành ghi chú tập, bài viết và phụ đề."
+                }
+            ]
+        },
+        {
+            "h2": "Kiểm tra những điểm này trước khi dùng bản chép lời y khoa",
+            "intro": [
+                "Trong bản chép lời y khoa, chỉ một từ sai cũng có thể thay đổi việc điều trị. Nhận dạng giọng nói xử lý tốt ngôn ngữ thông thường; hãy nghe lại kỹ những điểm sau:"
+            ],
+            "items": [
+                {
+                    "h3": "Tên thuốc nghe giống nhau",
+                    "content": "Những cặp như Celebrex và Celexa, hay hydroxyzine và hydralazine, rất dễ nghe nhầm. Hãy xác nhận từng tên thuốc."
+                },
+                {
+                    "h3": "Liều, đơn vị và tần suất",
+                    "content": "15 và 50, mg và mcg, \"hai lần mỗi ngày\" và \"hai lần mỗi tuần\": đối chiếu từng chỗ với bản ghi."
+                },
+                {
+                    "h3": "Trái và phải",
+                    "content": "Bên và vị trí rất quan trọng với các phát hiện, thủ thuật và chẩn đoán hình ảnh. Hãy chắc chắn \"trái\" và \"phải\" chính xác."
+                },
+                {
+                    "h3": "Câu phủ định",
+                    "content": "\"Không đau ngực\" và \"đau ngực\" chỉ khác nhau một từ ngắn. Hãy nghe kỹ các từ \"không\", \"phủ nhận\" và \"chưa\"."
+                },
+                {
+                    "h3": "Chữ viết tắt, chỉ số và tên riêng",
+                    "content": "Từ viết tắt, chỉ số xét nghiệm, dấu hiệu sinh tồn và tên bệnh nhân hay bác sĩ cần được kiểm tra lần cuối trước khi văn bản được gửi đi đâu."
+                }
+            ]
+        },
+        {
+            "h2": "Nhãn người nói cho bác sĩ và bệnh nhân",
+            "content": [
+                "Phỏng vấn và buổi khám có nhiều giọng nói. Trên gói Pro, TranscriptX tự động gắn nhãn người nói, để bạn thấy ai hỏi và ai trả lời.",
+                "Trong lúc rà soát, đổi tên từng nhãn thành vai trò, như Bác sĩ, Bệnh nhân hay Người phỏng vấn. Ở gói miễn phí, bạn nhận được các đoạn có dấu thời gian nhưng không có tên người nói, vẫn rất phù hợp với bản đọc chính tả của một người."
+            ]
+        },
+        {
+            "h2": "Chép lời bằng AI, dịch vụ chép lời y khoa hay thư ký y khoa (medical scribe)?",
+            "intro": [
+                "Mỗi lựa chọn phù hợp với một nhu cầu khác nhau. Hãy chọn theo mục đích của văn bản:"
+            ],
+            "items": [
+                {
+                    "h3": "AI chép lời y khoa (TranscriptX)",
+                    "content": "Từ vài giây đến vài phút, với mô hình giọng nói được huấn luyện trên thuật ngữ y khoa. Văn bản chính xác với âm thanh rõ, được bạn rà soát trước khi đưa vào hồ sơ. Phù hợp nhất cho bản đọc chính tả, phỏng vấn nghiên cứu, bài giảng và báo cáo."
+                },
+                {
+                    "h3": "Tự gõ",
+                    "content": "Không tốn tiền, chỉ tốn thời gian: khoảng bốn giờ cho mỗi giờ ghi âm. Chỉ thực tế với những ghi chú rất ngắn."
+                },
+                {
+                    "h3": "Dịch vụ chép lời y khoa",
+                    "content": "Nhân viên chép lời được đào tạo, thường tính phí theo dòng hoặc theo phút, có thời gian trả kết quả và thỏa thuận về xử lý dữ liệu bệnh nhân."
+                },
+                {
+                    "h3": "Thư ký y khoa",
+                    "content": "Một người, hoặc trợ lý AI ghi chép tự động (ambient AI scribe) kết nối với hồ sơ bệnh án, viết ghi chú lâm sàng ngay trong buổi khám. Chép lời y khoa làm việc từ bản ghi; thư ký y khoa làm việc ngay trong phòng khám."
+                }
+            ]
+        },
+        {
+            "h2": "Ai dùng phần mềm chép lời y khoa",
+            "intro": [
+                "Bất kỳ ai làm việc với những gì được nói trong bản ghi:"
+            ],
+            "items": [
+                {
+                    "h3": "Bác sĩ và điều dưỡng",
+                    "content": "Đọc ghi chú và thư sau buổi khám rồi nhận văn bản để chỉnh sửa, thay vì ngồi gõ vào cuối ngày."
+                },
+                {
+                    "h3": "Nhà nghiên cứu y khoa",
+                    "content": "Chép lời phỏng vấn và thảo luận nhóm, rồi nhảy đến đúng thời điểm một câu trích dẫn được nói ra."
+                },
+                {
+                    "h3": "Sinh viên y khoa",
+                    "content": "Biến bài giảng và thảo luận ca bệnh thành ghi chú tìm kiếm được để ôn tập."
+                },
+                {
+                    "h3": "Nhân viên chép lời và biên tập y khoa",
+                    "content": "Bắt đầu từ bản nháp AI và dành thời gian sửa lỗi, định dạng thay vì gõ từng chữ."
+                },
+                {
+                    "h3": "Người làm giáo dục sức khỏe và nhà sáng tạo nội dung",
+                    "content": "Biến bài nói, podcast và video cho bệnh nhân thành bài viết, tài liệu phát tay và phụ đề."
+                }
+            ]
+        },
+        {
+            "h2": "Quyền riêng tư và thông tin bệnh nhân",
+            "content": [
+                "Ở nhiều quốc gia, bản ghi có thể nhận diện bệnh nhân được xem là thông tin sức khỏe được bảo vệ. TranscriptX không tuyên bố tuân thủ HIPAA. Nếu tổ chức của bạn yêu cầu dịch vụ tuân thủ HIPAA có ký Thỏa thuận Đối tác Kinh doanh (Business Associate Agreement), hãy dùng dịch vụ đáp ứng điều đó, hoặc xóa thông tin định danh bệnh nhân trước khi tải lên.",
+                "Hãy xin sự đồng ý trước khi ghi âm buổi khám và tuân theo quy định của tổ chức bạn. File tải lên được tự động xóa, và bản ghi cũng như bản chép lời của bạn không được dùng để huấn luyện mô hình AI. Bạn có thể xóa một bản chép lời hoặc toàn bộ dữ liệu bất cứ lúc nào trong tài khoản. Xem <a href=\"/privacy-policy/\">Chính sách quyền riêng tư</a> để biết chi tiết."
+            ]
+        },
+        {
+            "h2": "Câu hỏi thường gặp",
+            "items": [
+                {
+                    "q": "Có ứng dụng chép lời y khoa miễn phí không?",
+                    "a": "Bạn có thể dùng thử TranscriptX miễn phí trên trình duyệt máy tính hoặc điện thoại, không cần tài khoản. Nhãn người nói và Nói trực tiếp có trên gói Pro."
+                },
+                {
+                    "q": "AI chép thuật ngữ y khoa chính xác đến mức nào?",
+                    "a": "TranscriptX dùng mô hình giọng nói được huấn luyện trên thuật ngữ y khoa, nên nhận ra tên thuốc, liều dùng và thuật ngữ lâm sàng mà các công cụ chuyển giọng nói thành văn bản thông thường hay chép sai. Như với mọi bản chép lời, hãy đối chiếu liều và tên hiếm gặp với bản ghi trước khi đưa vào hồ sơ bệnh nhân."
+                },
+                {
+                    "q": "TranscriptX có tuân thủ HIPAA không?",
+                    "a": "Không. TranscriptX không tuyên bố tuân thủ HIPAA. Với bản ghi có thông tin định danh bệnh nhân, hãy tuân theo quy định của tổ chức bạn hoặc xóa thông tin định danh trước khi tải lên."
+                },
+                {
+                    "q": "Tôi có thể đọc chính tả ghi chú thay vì tải file lên không?",
+                    "a": "Có. Bấm Ghi âm trên trang này và đọc. Trên gói Pro, Nói trực tiếp hiện chữ ngay khi bạn nói."
+                },
+                {
+                    "q": "Công cụ có viết ghi chú SOAP giúp tôi không?",
+                    "a": "Không. TranscriptX cung cấp bản chép lời. Bạn có thể viết ghi chú SOAP trong thẻ Ghi chú ngay bên cạnh, với dấu thời gian liên kết về bản ghi."
+                },
+                {
+                    "q": "Công cụ có kết nối với hệ thống bệnh án điện tử (EHR) không?",
+                    "a": "Không. Hãy sao chép văn bản đã chỉnh sửa vào hồ sơ bệnh án, hoặc tải về dạng DOCX, PDF hay TXT."
+                },
+                {
+                    "q": "Có chép lời được bản đọc chẩn đoán hình ảnh không?",
+                    "a": "Có, dưới dạng bản nháp đầu tiên. Bác sĩ chẩn đoán hình ảnh cần kiểm tra mọi số đo, bên trái/phải và phát hiện trước khi ký báo cáo."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Chép lời bản ghi y khoa tiếp theo của bạn",
+        "content": [
+            "Tải lên một bản đọc chính tả, buổi phỏng vấn hay bài giảng, hoặc bấm Ghi âm, và nhận văn bản chỉnh sửa được, có dấu thời gian ở mỗi đoạn để đối chiếu từng thuật ngữ với bản ghi.",
+            "Với phỏng vấn nghiên cứu, xem thêm <a href=\"/interview-transcription/\">Chuyển phỏng vấn thành văn bản</a>; với các bản ghi khác, dùng <a href=\"/audio-to-text/\">Chuyển âm thanh thành văn bản</a> hoặc <a href=\"/video-to-text/\">Chuyển video thành văn bản</a>. Dùng thử miễn phí, không cần tài khoản."
+        ]
+    }
+}

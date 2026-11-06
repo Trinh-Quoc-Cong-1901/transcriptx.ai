@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Software Transkripsi Medis Akurat — Nama Obat & Dosis | TranscriptX",
+        "description": "Software transkripsi medis dengan model suara yang dilatih pada nama obat, dosis dan istilah klinis. Ubah dikte dan rekaman jadi teks yang bisa diedit.",
+        "schemaName": "TranscriptX Transkripsi Medis",
+        "schemaDescription": "Transkripsi medis dengan AI dan model suara yang dilatih pada kosakata medis: unggah rekaman, tempel link video, dikte dengan Rekam atau Bicara Langsung (Pro), dapatkan transkrip yang bisa diedit dengan timestamp dan label pembicara (Pro), tambahkan catatan di sampingnya, lalu ekspor ke DOCX, PDF, TXT, SRT atau VTT.",
+        "ogTitle": "Transkripsi Medis yang Dilatih pada Nama Obat dan Dosis",
+        "ogDescription": "Ubah dikte medis, kuliah dan wawancara menjadi teks yang akurat dengan model suara yang dilatih pada kosakata medis, plus timestamp di setiap paragraf."
+    },
+    "hero": {
+        "h1": "Software Transkripsi Medis dengan AI",
+        "subtitle": "Ubah catatan yang didiktekan, kuliah kedokteran, wawancara penelitian dan presentasi konferensi menjadi teks yang bisa diedit dan diarsipkan. Unggah rekaman, tempel link video atau dikte langsung di browser, lalu TranscriptX menuliskannya dengan model suara yang dilatih pada kosakata medis, sehingga nama obat, dosis dan istilah klinis tertulis dengan benar. Setiap paragraf menyimpan timestamp-nya, jadi setiap baris bisa dicek dengan audionya. Ekspor ke Word, PDF atau TXT. Label pembicara dan pengurangan noise tersedia di paket Pro.",
+        "placeholder": "Unggah rekaman atau tempel link...",
+        "button": "Transkrip Rekaman"
+    },
+    "quickAnswer": {
+        "question": "Bagaimana cara membuat transkrip rekaman medis?",
+        "answer": "Unggah rekaman ke TranscriptX, tempel link-nya jika berupa video kuliah, atau tekan Rekam dan mulai mendikte. Dalam hitungan detik Anda mendapat transkrip yang bisa diedit dengan timestamp. Cek nama obat, dosis dan istilah dengan audionya, lalu salin teksnya atau unduh sebagai DOCX, PDF atau TXT untuk catatan atau rekam medis Anda."
+    },
+    "sections": [
+        {
+            "h2": "Apa Itu Transkripsi Medis dan Peran Software Transkripsi Medis?",
+            "content": [
+                "Transkripsi medis mengubah konten kesehatan yang diucapkan menjadi teks tertulis: catatan kunjungan, surat dan laporan yang didiktekan, wawancara pasien dan pakar untuk penelitian, kuliah, grand round dan presentasi konferensi. Teks tersebut kemudian bisa diedit, dicari dan dimasukkan ke rekam medis atau makalah.",
+                "Mengetik satu jam audio secara manual memakan waktu sekitar empat jam. TranscriptX mengubah rekaman menjadi teks dalam hitungan detik dengan model suara yang dilatih pada terminologi medis, termasuk nama obat, dosis dan bahasa klinis, serta menyimpan timestamp di setiap paragraf, sehingga waktu Anda dipakai untuk meninjau, bukan mengetik."
+            ]
+        },
+        {
+            "h2": "Ringkasan Transkripsi Medis",
+            "specs": [
+                {
+                    "label": "Kosakata medis",
+                    "value": "Model suara yang dilatih pada terminologi medis: nama obat, dosis dan bahasa klinis"
+                },
+                {
+                    "label": "Input",
+                    "value": "Unggah rekaman, tempel link YouTube atau video lain, atau dikte di browser"
+                },
+                {
+                    "label": "Sumber file",
+                    "value": "Perangkat Anda, Google Drive, Dropbox atau OneDrive"
+                },
+                {
+                    "label": "Dikte",
+                    "value": "Rekam catatan di browser · Bicara Langsung menampilkan kata-kata saat Anda berbicara (Pro)"
+                },
+                {
+                    "label": "Cek setiap istilah",
+                    "value": "Timestamp di setiap paragraf, dengan rekaman diputar di samping teks"
+                },
+                {
+                    "label": "Siapa bicara apa",
+                    "value": "Label pembicara untuk tenaga medis, pasien dan pewawancara di paket Pro"
+                },
+                {
+                    "label": "Catatan sambil membaca",
+                    "value": "Tab Catatan di samping transkrip, dengan timestamp dan checklist"
+                },
+                {
+                    "label": "Ekspor",
+                    "value": "Unduh sebagai DOCX, PDF atau TXT, atau SRT dan VTT untuk subtitle"
+                },
+                {
+                    "label": "Bahasa",
+                    "value": "100+, terdeteksi otomatis"
+                },
+                {
+                    "label": "Harga",
+                    "value": "Paket Pro untuk penggunaan klinis sehari-hari · gratis dicoba, tanpa perlu akun"
+                }
+            ]
+        },
+        {
+            "h2": "Cara Membuat Transkrip Rekaman Medis",
+            "steps": [
+                {
+                    "h3": "Tambahkan rekaman",
+                    "content": "Unggah file audio atau video dari perangkat, Google Drive, Dropbox atau OneDrive, misalnya dikte, wawancara atau rekaman kuliah. Jika videonya ada di internet, tempel link-nya. Untuk mendikte catatan sekarang, tekan Rekam."
+                },
+                {
+                    "h3": "Dapatkan transkripnya",
+                    "content": "TranscriptX mendeteksi bahasanya dan menuliskan rekaman sebagai paragraf berpungtuasi, masing-masing dengan timestamp."
+                },
+                {
+                    "h3": "Cek istilah dan dosis dengan audionya",
+                    "content": "Putar rekaman di samping teks, perbaiki nama obat, dosis dan istilah dengan Edit, dan simpan tindak lanjut di tab Catatan."
+                },
+                {
+                    "h3": "Salin atau ekspor",
+                    "content": "Salin teks ke catatan, surat atau file penelitian Anda, atau unduh sebagai DOCX, PDF atau TXT."
+                }
+            ]
+        },
+        {
+            "h2": "Speech to Text Medis dan Dikte Langsung di Browser",
+            "content": [
+                "Tidak ada yang perlu diinstal. Buka halaman ini di komputer atau ponsel, tekan Rekam dan diktekan catatan Anda, lalu hentikan dan dapatkan teksnya di halaman yang sama. Biarkan halaman tetap terbuka selama merekam.",
+                "Di paket Pro, Bicara Langsung menampilkan kata-kata saat Anda berbicara, cocok untuk dikte singkat yang ingin langsung Anda lihat. Untuk sesi yang lebih panjang, rekam dulu lalu transkrip file-nya setelahnya.",
+                "Anda bisa mencoba transkripsi medis dengan AI secara gratis, tanpa akun. Jika Anda mendikte atau membuat transkrip setiap hari, lihat <a href=\"/pricing/\">paket Pro</a>."
+            ]
+        },
+        {
+            "h2": "Apa Saja yang Bisa Ditranskrip",
+            "intro": [
+                "Rekaman apa pun yang membahas kesehatan dan kedokteran:"
+            ],
+            "items": [
+                {
+                    "h3": "Catatan dan surat yang didiktekan",
+                    "content": "Catatan kunjungan, surat rujukan, resume medis pulang dan laporan operasi yang didiktekan setelah praktik, diubah menjadi teks yang bisa diedit dan ditempel."
+                },
+                {
+                    "h3": "Dikte radiologi dan patologi",
+                    "content": "Transkripsi radiologi dari dikte laporan sebagai draf awal, siap dicek radiolog untuk ukuran, sisi dan temuan."
+                },
+                {
+                    "h3": "Wawancara penelitian dan focus group",
+                    "content": "Wawancara kualitatif dengan pasien, pendamping pasien dan tenaga medis, ditranskrip untuk koding dan kutipan."
+                },
+                {
+                    "h3": "Kuliah, grand round dan P2KB",
+                    "content": "Kuliah fakultas kedokteran, presentasi kasus dan sesi pelatihan yang ingin Anda cari dan pelajari ulang."
+                },
+                {
+                    "h3": "Konferensi dan webinar",
+                    "content": "Presentasi dan diskusi panel, dimanfaatkan ulang sebagai catatan, artikel atau subtitle."
+                },
+                {
+                    "h3": "Podcast dan video kesehatan",
+                    "content": "Video edukasi pasien dan podcast medis, diubah menjadi show notes, artikel dan caption."
+                }
+            ]
+        },
+        {
+            "h2": "Cek Hal Ini Sebelum Memakai Transkrip Medis",
+            "intro": [
+                "Dalam transkrip medis, satu kata yang salah bisa mengubah penanganan pasien. Pengenalan suara menangani bahasa sehari-hari dengan baik; dengarkan ulang bagian berikut:"
+            ],
+            "items": [
+                {
+                    "h3": "Nama obat yang terdengar mirip",
+                    "content": "Pasangan seperti Celebrex dan Celexa, atau hydroxyzine dan hydralazine, mudah salah dengar. Pastikan setiap nama obat sudah benar."
+                },
+                {
+                    "h3": "Dosis, satuan dan frekuensi",
+                    "content": "15 dan 50, mg dan mcg, \"dua kali sehari\" dan \"dua kali seminggu\": cek masing-masing dengan audionya."
+                },
+                {
+                    "h3": "Kiri dan kanan",
+                    "content": "Sisi dan lokasi sangat penting untuk temuan, tindakan dan pencitraan. Pastikan \"kiri\" dan \"kanan\" sudah benar."
+                },
+                {
+                    "h3": "Kalimat negatif",
+                    "content": "\"Tidak ada nyeri dada\" dan \"nyeri dada\" hanya berbeda satu-dua kata pendek. Perhatikan kata \"tidak\", \"menyangkal\" dan \"bukan\"."
+                },
+                {
+                    "h3": "Singkatan, nilai dan nama",
+                    "content": "Akronim, nilai laboratorium, tanda vital serta nama pasien atau tenaga medis perlu dicek terakhir kali sebelum teks dipakai di mana pun."
+                }
+            ]
+        },
+        {
+            "h2": "Label Pembicara untuk Tenaga Medis dan Pasien",
+            "content": [
+                "Wawancara dan konsultasi melibatkan beberapa suara. Di paket Pro, TranscriptX memberi label pembicara secara otomatis, sehingga Anda bisa melihat siapa yang bertanya dan siapa yang menjawab.",
+                "Ganti nama setiap label menjadi peran, misalnya Dokter, Pasien atau Pewawancara, saat Anda meninjau. Di paket Free, Anda mendapat paragraf dengan timestamp tanpa nama pembicara, yang sudah cukup untuk satu dikte."
+            ]
+        },
+        {
+            "h2": "Transkripsi AI, Jasa Transkripsi Medis atau Medical Scribe?",
+            "intro": [
+                "Setiap pilihan cocok untuk kebutuhan yang berbeda. Pilih berdasarkan tujuan teksnya:"
+            ],
+            "items": [
+                {
+                    "h3": "Transkripsi medis dengan AI (TranscriptX)",
+                    "content": "Hitungan detik hingga menit, dengan model suara yang dilatih pada kosakata medis. Teks akurat dari audio yang jelas, yang Anda tinjau sebelum masuk ke rekam medis. Paling cocok untuk dikte, wawancara penelitian, kuliah dan presentasi."
+                },
+                {
+                    "h3": "Mengetik sendiri",
+                    "content": "Tidak ada biaya selain waktu: sekitar empat jam untuk setiap jam audio. Praktis hanya untuk catatan yang sangat singkat."
+                },
+                {
+                    "h3": "Jasa transkripsi medis",
+                    "content": "Transkripsionis terlatih, biasanya ditagih per baris atau per menit, dengan waktu pengerjaan dan perjanjian penanganan data pasien."
+                },
+                {
+                    "h3": "Medical scribe",
+                    "content": "Seseorang, atau ambient AI scribe yang terhubung ke rekam medis, menulis catatan klinis selama kunjungan. Transkripsi medis bekerja dari rekaman; scribe bekerja di ruang praktik."
+                }
+            ]
+        },
+        {
+            "h2": "Siapa yang Memakai Software Transkripsi Medis",
+            "intro": [
+                "Siapa pun yang bekerja dengan apa yang diucapkan dalam sebuah rekaman:"
+            ],
+            "items": [
+                {
+                    "h3": "Dokter dan perawat",
+                    "content": "Diktekan catatan dan surat setelah kunjungan dan dapatkan teks untuk diedit, alih-alih mengetik di akhir hari."
+                },
+                {
+                    "h3": "Peneliti medis",
+                    "content": "Transkrip wawancara dan focus group, lalu lompat ke momen tepat sebuah kutipan diucapkan."
+                },
+                {
+                    "h3": "Mahasiswa kedokteran",
+                    "content": "Ubah kuliah dan diskusi kasus menjadi catatan yang bisa dicari untuk belajar ulang."
+                },
+                {
+                    "h3": "Transkripsionis dan editor medis",
+                    "content": "Mulai dari draf AI dan gunakan waktu Anda untuk mengoreksi dan memformat, bukan mengetik setiap kata."
+                },
+                {
+                    "h3": "Edukator dan kreator kesehatan",
+                    "content": "Ubah presentasi, podcast dan video pasien menjadi artikel, leaflet dan subtitle."
+                }
+            ]
+        },
+        {
+            "h2": "Privasi dan Informasi Pasien",
+            "content": [
+                "Di banyak negara, rekaman yang mengidentifikasi pasien termasuk informasi kesehatan yang dilindungi. TranscriptX tidak mengklaim kepatuhan HIPAA. Jika organisasi Anda mewajibkan layanan yang patuh HIPAA dengan Business Associate Agreement (BAA) yang ditandatangani, gunakan layanan yang menyediakannya, atau hapus identitas pasien sebelum mengunggah.",
+                "Mintalah persetujuan sebelum merekam konsultasi, dan ikuti kebijakan organisasi Anda. File yang diunggah dihapus secara otomatis, dan rekaman serta transkrip Anda tidak dipakai untuk melatih model AI. Anda bisa menghapus satu transkrip, atau seluruh data Anda, kapan saja dari akun Anda. Lihat <a href=\"/privacy-policy/\">Kebijakan Privasi</a> untuk detailnya."
+            ]
+        },
+        {
+            "h2": "Pertanyaan yang Sering Diajukan",
+            "items": [
+                {
+                    "q": "Apakah ada aplikasi transkripsi medis gratis?",
+                    "a": "Anda bisa mencoba TranscriptX gratis di browser komputer atau ponsel, tanpa akun. Label pembicara dan Bicara Langsung tersedia di paket Pro."
+                },
+                {
+                    "q": "Seberapa akurat AI untuk terminologi medis?",
+                    "a": "TranscriptX memakai model suara yang dilatih pada terminologi medis, sehingga mengenali nama obat, dosis dan istilah klinis yang sering salah ditulis oleh speech-to-text umum. Seperti transkrip mana pun, cek dosis dan nama yang jarang dengan audionya sebelum masuk ke rekam medis pasien."
+                },
+                {
+                    "q": "Apakah TranscriptX patuh HIPAA?",
+                    "a": "Tidak. TranscriptX tidak mengklaim kepatuhan HIPAA. Untuk rekaman yang memuat identitas pasien, ikuti aturan organisasi Anda atau hapus identitasnya sebelum mengunggah."
+                },
+                {
+                    "q": "Bisakah saya mendikte catatan alih-alih mengunggah file?",
+                    "a": "Bisa. Tekan Rekam di halaman ini dan mulai mendikte. Di paket Pro, Bicara Langsung menampilkan kata-kata saat Anda berbicara."
+                },
+                {
+                    "q": "Bisakah TranscriptX menuliskan catatan SOAP untuk saya?",
+                    "a": "Tidak. TranscriptX memberi Anda transkripnya. Anda bisa menulis catatan SOAP di tab Catatan di sampingnya, dengan timestamp yang tertaut ke rekaman."
+                },
+                {
+                    "q": "Apakah terhubung ke rekam medis elektronik (RME) saya?",
+                    "a": "Tidak. Salin teks yang sudah diedit ke rekam medis Anda, atau unduh sebagai DOCX, PDF atau TXT."
+                },
+                {
+                    "q": "Bisakah mentranskrip dikte radiologi?",
+                    "a": "Bisa, sebagai draf awal. Radiolog perlu mengecek setiap ukuran, sisi dan temuan sebelum laporan ditandatangani."
+                }
+            ]
+        }
+    ],
+    "conclusion": {
+        "h2": "Transkrip Rekaman Medis Anda Berikutnya",
+        "content": [
+            "Unggah dikte, wawancara atau kuliah, atau tekan Rekam, dan dapatkan teks yang bisa diedit, dengan timestamp di setiap paragraf untuk mengecek setiap istilah dengan audionya.",
+            "Untuk wawancara penelitian, lihat juga <a href=\"/interview-transcription/\">Transkrip Wawancara</a>; untuk rekaman lainnya, gunakan <a href=\"/audio-to-text/\">Audio ke Teks</a> atau <a href=\"/video-to-text/\">Video ke Teks</a>. Gratis dicoba, tanpa perlu akun."
+        ]
+    }
+}
